@@ -90,6 +90,7 @@ def main():
 
     formatted_text = formatted_text.replace(" n° ", " número ")
     formatted_text = formatted_text.replace(" nº ", " número ")
+    formatted_text = formatted_text.replace(" n. ", " número ")
 
 
     # Números romanos
