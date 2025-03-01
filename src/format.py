@@ -88,6 +88,9 @@ def main():
     formatted_text = formatted_text.replace("8° ", "8º ")
     formatted_text = formatted_text.replace("9° ", "9º ")
 
+    formatted_text = formatted_text.replace(" n° ", " número ")
+    formatted_text = formatted_text.replace(" nº ", " número ")
+
 
     # Números romanos
     for i in range(1, 150):
