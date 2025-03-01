@@ -77,6 +77,17 @@ def main():
     formatted_text = formatted_text.replace("8o ", "8º ")
     formatted_text = formatted_text.replace("9o ", "9º ")
 
+    # Às vezes os números perdem o "º" na cópia a viram a graus "°"
+    formatted_text = formatted_text.replace("1° ", "1º ")
+    formatted_text = formatted_text.replace("2° ", "2º ")
+    formatted_text = formatted_text.replace("3° ", "3º ")
+    formatted_text = formatted_text.replace("4° ", "4º ") 
+    formatted_text = formatted_text.replace("5° ", "5º ")
+    formatted_text = formatted_text.replace("6° ", "6º ")
+    formatted_text = formatted_text.replace("7° ", "7º ")
+    formatted_text = formatted_text.replace("8° ", "8º ")
+    formatted_text = formatted_text.replace("9° ", "9º ")
+
 
     # Números romanos
     for i in range(1, 150):
@@ -85,10 +96,12 @@ def main():
         formatted_text = formatted_text.replace(f"\n{int_to_roman(i)} - ", f"\nInciso {i} - ")
         formatted_text = formatted_text.replace(f"\n{int_to_roman(i)}-", f"\nInciso {i} -")
 
-        # Substituir em refeências aos incisos
+        # Substituir em referências aos incisos
         formatted_text = formatted_text.replace(f" {int_to_roman(i)} ", f" {i} ")
+        formatted_text = formatted_text.replace(f" {int_to_roman(i)}\n", f" {i}\n")
         formatted_text = formatted_text.replace(f" {int_to_roman(i)},", f" {i},")
         formatted_text = formatted_text.replace(f" {int_to_roman(i)}.", f" {i}.")
+        formatted_text = formatted_text.replace(f" {int_to_roman(i)}-", f" {i} -")
 
     # Parágrafo
     formatted_text = formatted_text.replace("§ ", "Parágrafo ")
