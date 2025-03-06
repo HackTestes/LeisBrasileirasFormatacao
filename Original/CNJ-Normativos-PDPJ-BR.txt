@@ -1,0 +1,1218 @@
+Resolução Nº 522 de 18/09/2023
+
+Institui o Modelo de Requisitos para Sistemas Informatizados de Gestão de Processos e Documentos do Poder Judiciário e disciplina a obrigatoriedade da sua utilização no desenvolvimento e na manutenção de sistemas informatizados para as atividades judiciárias e administrativas no âmbito do Poder Judiciário.  
+
+A PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA (CNJ), no uso de suas atribuições legais e regimentais,  
+
+CONSIDERANDO competir ao CNJ, como órgão de controle da atuação administrativa e financeira dos tribunais, coordenar o planejamento e a gestão estratégica do Poder Judiciário;
+
+CONSIDERANDO o disposto nos arts. 5º, incisos X, XIV, XXXIII, LXXIX, 23, incisos III a V, 37, § 3º, inciso II, 216, §§ 1º e 2º, da Constituição Federal, nas Leis n. 8.159/1991 (Lei de Arquivos), n. 11.419/2006 (Lei do processo judicial eletrônico), n. 12.527/2011 (Lei de Acesso à Informação – LAI), n. 12.682/2012 (Lei da Digitalização), n. 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD) e n. 14.036/2020 (Lei da Assinatura Eletrônica);
+
+CONSIDERANDO o Programa Nacional de Gestão Documental e Memória do Poder Judiciário (Proname), instituído pela Resolução CNJ n. 324/2020;
+
+CONSIDERANDO a necessidade de uniformizar critérios mínimos a serem cumpridos pelos sistemas de gestão de processos e documentos (digitais, não digitais ou híbridos) utilizados pelos órgãos do Poder Judiciário, nas áreas meio e fim, nas atividades de captura, recebimento, indexação, produção, classificação, tramitação, armazenamento, guarda, arquivamento, avaliação, seleção e preservação;
+
+CONSIDERANDO a necessidade de os sistemas informatizados utilizados atenderem a requisitos de desempenho, disponibilidade, manutenção, evolução, interoperabilidade, usabilidade e segurança, com garantia de confiabilidade, autenticidade e acesso pelo tempo necessário;
+
+CONSIDERANDO a virtualização e a transformação digital dos serviços judiciários por meio do Programa Justiça 4.0;
+
+CONSIDERANDO a importância estratégica dos sistemas processuais utilizados pelo Poder Judiciário e a necessidade de integração dos tribunais do país por meio da Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br), instituída pela Resolução CNJ n. 335/2020;
+
+CONSIDERANDO a Estratégia Nacional de Tecnologia da Informação e Comunicação do Poder Judiciário (ENTIC-JUD) e a Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ), instituídas pelas Resoluções CNJ n. 370/2021 e n. 396/2021, respectivamente;
+
+CONSIDERANDO a necessidade de atualizar o Modelo de Requisitos para Sistemas Informatizados de Gestão de Documentos e Processos do Poder Judiciário (MoReq-Jus), instituído pela Resolução CNJ n. 91/2009; 
+
+RESOLVE: 
+
+Art. 1º Aprovar o Modelo de Requisitos para Sistemas Informatizados de Gestão de Processos e Documentos do Poder Judiciário (MoReq-Jus).
+
+Art. 2º Os sistemas informatizados de gestão de processos e documentos utilizados em atividades judiciais e administrativas dos órgãos integrantes do Poder Judiciário, ainda que segmentados em aplicações, módulos e microsserviços, deverão aderir aos requisitos do MoReq-Jus, com o objetivo de assegurar a confidencialidade, a integridade, a disponibilidade, a autenticidade, o não repúdio, a conformidade e a preservação de processos e documentos do Poder Judiciário.
+
+Art. 3° No desenvolvimento e na atualização de sistemas informatizados de gestão de processos e documentos utilizados pelos órgãos do Poder Judiciário, deverão ser identificados:
+
+I – os requisitos funcionais, dados e metadados que serão tratados por serviços interligados ao sistema principal; e
+
+II – as referências ao requisito funcional implementado e aos requisitos não funcionais que devem ser observados por ocasião da especificação de novas funcionalidades ou de melhorias daquelas existentes.
+
+§ 1° Na especificação e no desenvolvimento de funcionalidade em que se constate conflito entre requisitos, deverão ser aplicados os requisitos não funcionais relacionados à segurança em detrimento de outros.
+
+§ 2° O ingresso dos sistemas, módulos, microsserviços e aplicações na PDBJ-Br deverá observar os requisitos do MoReq-Jus com eles relacionados, observados os prazos do artigo 6°.
+
+Art. 4° À Comissão Permanente de Gestão Documental e de Memória do Poder Judiciário, com o apoio da Comissão Permanente de Tecnologia da Informação e Inovação, caberá o acompanhamento do cumprimento desta Resolução e a coordenação do Programa de avaliação do grau de aderência dos sistemas ao MoReq-Jus e de atualização permanente (Programa MoReq-Aval).
+
+§ 1º O Programa MoReq-Aval será executado pelo Departamento de Tecnologia da Informação do Conselho Nacional de Justiça, com o apoio do Comitê do Programa Nacional de Gestão Documental e Memória do Poder Judiciário (Proname).
+
+§ 2º Referido Programa incluirá as seguintes ações, entre outras:
+
+I – suporte no acompanhamento das informações prestadas pelos órgãos do Poder Judiciário quanto aos requisitos atendidos;
+
+II – elaboração de relatórios, cartilhas, guias e boletins que especifiquem as ações e projetos relacionados ao MoReq-Jus com acesso a partir das páginas do Proname e do Programa Justiça 4.0;
+
+III – avaliação de conformidade dos sistemas, módulos, funcionalidades e aplicações de gestão de processos e documentos, em instrumentos a serem definidos;
+
+IV – propostas de capacitação relacionadas ao MoReq-Jus; e
+
+V – atualização permanente do MoReq-Jus.
+
+Art. 5° O órgão do Poder Judiciário desenvolvedor de sistema informatizado de gestão de processos e documentos deverá informar, em periodicidade a ser definida, a relação dos requisitos atendidos ou não, obrigatórios e desejáveis, identificando os do sistema principal e dos serviços complementares interligados.
+
+§ 1° A informação de que trata o caput também deverá ser prestada pelo órgão que utilizar sistema desenvolvido por outro tribunal, conselho ou ente externo, a partir de avaliação própria ou de declaração recebida do fornecedor do sistema, inclusive quanto às modificações por si promovidas.
+
+§ 2° A informação inicial, nas hipóteses do caput e do parágrafo primeiro, deverá ser prestada pelo órgão no prazo de 1 (um) ano.
+
+Art. 6º A adequação ao MoReq-Jus pelos sistemas informatizados de gestão de processos e documentos em utilização nos órgãos do Poder Judiciário deverá ser efetuada em:
+
+I – até 1 (um) ano, quanto ao recebimento, armazenamento e envio de 100% (cem por cento) dos metadados;
+
+II – em até 2 (dois) anos, quanto aos requisitos funcionais; e
+
+III – em até 3 (três) anos, quanto aos requisitos não funcionais.
+
+Art. 7º Os sistemas atualmente em desuso e aqueles que vierem a ser descontinuados deverão preservar os dados e metadados, garantir o direito de certidão e de acesso à informação para fins legais e ter seus processos, dossiês e documentos:
+
+I – submetidos a classificação, avaliação e, cumprida a temporalidade, destinação para eliminação ou guarda permanente, na forma do regramento do Proname; ou
+
+II – transferidos ou migrados para sistemas informatizados que atendam aos requisitos do MoReqJus, nos quais serão realizadas as atividades de gestão documental.
+
+§ 1º É vedada a substituição de sistema por outro menos aderente ao MoReq-Jus, devendo o processo decisório ser precedido de estudo pormenorizado subscrito pelos responsáveis pela unidade de gestão documental e de tecnologia da informação do órgão.
+
+§ 2º Os processos, dossiês e documentos de guarda longa ou permanente deverão ser armazenados em Repositório Arquivístico Digital Confiável (RDC-Arq).
+
+Art. 8º Os instrumentos de avaliação da aderência dos sistemas ao MoReq-Jus serão definidos em até 12 (doze) meses pelo Conselho Nacional de Justiça.
+
+Parágrafo único. A partir da publicação dos instrumentos referidos no caput, terão início os prazos previstos nos arts. 5º, § 2º, e 6º.
+
+Art. 9º O MoReq-Jus deverá ser incluído como conteúdo programático nos concursos públicos para provimento de cargos nas áreas de tecnologia da informação e gestão documental dos órgãos do Poder Judiciário.
+
+Art. 10. Esta Resolução entra em vigor na data de sua publicação e revoga a Resolução CNJ n. 91/2009.
+
+
+Ministra ROSA WEBER 
+
+Resolução Nº 335 de 29/09/2020
+
+Institui política pública para a governança e a gestão de processo judicial eletrônico. Integra os tribunais do país com a criação da Plataforma Digital do Poder Judiciário Brasileiro – PDPJ-Br. Mantém o sistema PJe como sistema de Processo Eletrônico prioritário do Conselho Nacional de Justiça.
+
+O PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA (CNJ),no uso de suas atribuições legais e regimentais,
+
+CONSIDERANDO as diretrizes contidas na Lei n. 11.419/2006, que dispõe sobre a informatização do processo judicial, especialmente o disposto no art. 18, que autoriza a regulamentação pelos órgãos do Poder Judiciário;
+
+CONSIDERANDO os benefícios advindos da substituição da tramitação de autos em meio físico pelo meio eletrônico, como instrumento de celeridade e qualidade da prestação jurisdicional;
+
+CONSIDERANDO a necessidade de racionalização da utilização dos recursos orçamentários pelos órgãos do Poder Judiciá rio;
+
+CONSIDERANDO as vantagens advindas da adoção de instrumentos tecnológicos que permitam a adequação do funcionamento do Poder Judiciário aos princípios da proteção ambiental;
+
+CONSIDERANDO a necessidade de se convergir esforços para a adoção de soluções desenvolvidas e compartilhadas pelos próprios tribunais brasileiros, sem a dependência de fornecedores privados, atentando-se para requisitos de segurança e de interoperabilidade e racionalização dos gastos com elaboração e aquisição de softwares e permitindo o emprego desses valores financeiros e de pessoal em atividades mais dirigidas à finalidade do judiciário;
+
+CONSIDERANDO a necessidade da implementação de um conceito comunitário, no qual todos os tribunais, independentemente da esfera, possam contribuir com as melhores soluções tecnológicas para aproveitamento comum, e melhor gestão da jurisdição digital, respeitando-se a autonomia dos tribunais;
+
+CONSIDERANDO que a criação de plataforma digital do judiciário brasileiro facilitará essa convergência de esforços, gerando identidade única do judiciário nacional;
+
+CONSIDERANDO que para a criação dessa plataforma é necessária a implantação de uma política de governança e de gestão unificadas com o estabelecimento de padrões que possam atender à diversidade de soluções existentes em todos os segmentos do Judiciário;
+
+CONSIDERANDO que a governança e a gestão devem ser pautadas por padrões que atendam a melhor experiência dos usuários no aspecto da usabilidade e acessibilidade, na velocidade na entrega de novas soluções de forma a atender ao cidadão e a sociedade com maior efetividade;
+
+RESOLVE:
+
+
+CAPÍTULO I
+DA PLATAFORMA DIGITAL DO JUDICIÁRIO BRASILEIRO
+
+Art. 1º Fica instituída a política pública para a governança e gestão de processo judicial eletrônico, integrando todos os tribunais do país com a criação da Plataforma Digital do Poder Judiciário Brasileiro – PDPJ-Br, mantendo-se o sistema PJe como sistema de Processo Eletrônico prioritário do Conselho Nacional de Justiça.
+
+Art. 2º A PDPJ-Br tem por objetivo:
+
+I – integrar e consolidar todos os sistemas eletrônicos do Judiciário brasileiro em um ambiente unificado;
+
+II – implantar o conceito de desenvolvimento comunitário, no qual todos os tribunais contribuem com as melhores soluções tecnológicas para aproveitamento comum;
+
+III – estabelecer padrões de desenvolvimento, arquitetura, experiência do usuário (User Experience - UX) e operação de software, obedecendo as melhores práticas de mercado e disciplinado em Portaria da Presidência do CNJ; e
+
+IV – instituir plataforma única para publicação e disponibilização de aplicações, microsserviços e modelos de inteligência artificial (I.A.), por meio de computação em nuvem.
+
+Art. 3º A PDPJ-Br funcionará como modelo de convergência, será provida por um repositório (marketplace) de soluções que estará disponível para uso por todos os sistemas de processo judicial eletrônico do Poder Judiciário nacional.
+
+Art. 4º A PDPJ-Br adotará obrigatoriamente soluções que abranjam os seguintes conceitos:
+
+I – processo eletrônico em plataforma pública;
+
+II – desenvolvimento comunitário que possibilite o compartilhamento entre todos os segmentos e esferas do Poder Judiciário;
+
+III – ampla cobertura de testes, baixo acoplamento, alta coesão, modularização;
+
+IV – microsserviços;
+
+V – computação em nuvem;
+
+VI – autenticação uniformizada;
+
+VII – interoperabilidade;
+
+VIII – portabilidade;
+
+IX – mobilidade;
+
+X – acessibilidade;
+
+XI – usabilidade;
+
+XII – segurança da informação;
+
+XIII – adaptável ao uso de ferramentas de aprendizado de máquina (machine learning) e de I.A.;
+
+XIV – otimização de fluxos de trabalhos (workflow), padronizando-os sempre que possível;
+
+XV – automação de atividades rotineiras ou sequenciais que possam ser substituídas por ações de sistema;
+
+XVI – incremento da robotização e técnicas disruptivas de desenvolvimento de soluções;
+
+XVII – foco prioritário na redução da taxa de congestionamento dos processos e significativa melhora na qualidade dos serviços prestados;
+
+XVIII – adequação à Lei no 13.709/2018 (LGPD); e
+
+XIX – utilização preferencial de tecnologias com código aberto (open source).
+
+Art. 5º Fica proibida a contratação de qualquer novo sistema, módulo ou funcionalidade privados, mesmo de forma não onerosa, que cause dependência tecnológica do respectivo fornecedor e que não permita o compartilhamento não oneroso da solução na PDPJ-Br.
+
+§ 1º A dependência tecnológica indicada no caput diz respeito à hipótese em que o tribunal contratante não tenha direito à propriedade do que for desenvolvido e não tenha direito aos códigos fonte, documentação e quaisquer outros artefatos que venham a ser produzidos.
+
+§ 2º Os tribunais que possuem contratos nas condições previstas no § 1º deste artigo terão prazo fixado em ato normativo próprio para início de projeto-piloto de adequação.
+
+§ 3º O descumprimento da regra prevista no caput poderá ensejar:
+
+I – a responsabilização do ordenador de despesas por improbidade administrativa, sem prejuízo da comunicação ao Tribunal de Contas respectivo;
+
+II – apuração de possível responsabilidade disciplinar dos gestores de TIC e da administração do respectivo tribunal.
+
+§ 4º São permitidos, quando houver interesse institucional, o credenciamento, a contratação ou a realização de acordos de cooperação técnica para a disponibilização não onerosa ao Poder Judiciário de módulos ou funcionalidades privadas, desde que desenvolvidos segundo os padrões tecnológicos estabelecidos e depositados na PDPJ-Br, e seu objeto não esteja relacionado a funcionalidades básicas e essenciais dos sistemas de processo judicial eletrônico, conforme parecer prévio do Departamento de Tecnologia da Informação e Comunicação do Conselho Nacional de Justiça. (incluído pela Resolução n. 574, de 26.8.2024)
+
+
+CAPÍTULO II
+DA POLÍTICA DE GOVERNANÇA E GESTÃO DA PDPJ-Br
+
+Art. 6º Fica instituída a política de governança e gestão para implantação e sustentação da PDPJ-Br.
+
+Art. 7º A política de governança e gestão da PDPJ-Br será coordenada pelo CNJ, contando, sempre que possível, com a participação de representantes do Poder Judiciário e do Sistema de Justiça, e será regulamentada em ato da Presidência do CNJ.
+
+Art. 8º Qualquer solução pública existente que atenda a todos os requisitos estabelecidos na política de governança e gestão, poderá ser aceita na PDPJ-Br, após aprovação da equipe técnica do CNJ.
+
+§ 1º Em casos excepcionais será permitido o desenvolvimento de soluções tecnológicas que impliquem sobreposição, desde que respeitada as diretrizes da presente Resolução e nos termos previstos no parágrafo único do art. 18 desta Resolução.
+
+§ 2º O descumprimento da regra presente neste artigo poderá ensejar as consequências previstas nos incisos I e II do §3º do art. 5°.
+
+Art. 9º O Ato da Presidência que disciplinar a política de governança e gestão PDPJ-Br deverá estabelecer também os seguintes requisitos para os sistemas:
+
+I – padrões de desenvolvimento, documentação e operação de software;
+
+II – padrões de comunicação e interoperabilidade entre sistemas e aplicações;
+
+III – arquitetura de desenvolvimento e de infraestrutura;
+
+IV – padrão de autenticação;
+
+V – permissão para o desenvolvimento compartilhado;
+
+VI – definição dos padrões mínimos de interface, com aplicação dos conceitos de usabilidade, de acessibilidade e de experiência do usuário (user experience);
+
+VII – disciplina da plataforma única para os modelos de I.A;
+
+VIII – delimitação dos critérios e serviços para computação em nuvem; e
+
+IX – instituição do desenvolvimento:
+
+a) em microsserviços;
+
+b) com ampla cobertura de testes;
+
+c) com baixo acoplamento e alta coesão; e
+
+d) modularizado.
+
+Parágrafo único. A política de governança e gestão da PDPJ-Br poderá adotar outros requisitos face a evolução tecnológica da plataforma, nos termos disciplinados por ato da Presidência do CNJ.
+
+Art. 10. A política de governança e gestão PDPJ-Br deverá estabelecer também os seguintes requisitos para os dados e documentos:
+
+I – padrões das tabelas unificadas;
+
+II – possibilidade de bases centralizadas ou descentralizadas, sempre uniformes;
+
+III – padrões de dados mínimos para o atendimento da Lei no 13.709/2018;
+
+IV – padrões de documentos digitais; e
+
+V – padrões de assinaturas digitais.
+
+Art. 11. Caberá ao CNJ definir e coordenar o desenvolvimento do portal com interface nacional única para os usuários externos e internos. (redação dada pela Resolução n. 574, de 26.8.2024)
+
+Parágrafo único. Todos os sistemas judiciais atuais deverão aderir à solução prevista no caput, integrando-a aos seus sistemas como um microsserviço.
+
+ 
+
+CAPÍTULO III
+DA GESTÃO DA PDPJ-Br
+
+Art. 12. Para uma avaliação precisa do estágio atual de desenvolvimento dos sistemas judiciais eletrônicos, o CNJ deverá coordenar e promover as seguintes ações:
+
+I – elaborar censo para identificar os sistemas processuais empregados em todos os tribunais e o grau de adesão ao PJe, com identificação das tecnologias empregadas, práticas de desenvolvimento utilizadas, atividade no repositório, contribuições efetivas de outros tribunais, além de identificar os sistemas processuais onerosos que ainda são empregados; e
+
+II – fixar diretrizes para alinhamento da governança com todos os tribunais.
+
+Art. 13. Para garantir a eficiência operacional da PDPJ-Br o CNJ deverá garantir por meio de monitoramento, indicadores e metas:
+
+I – a agilidade na tramitação dos processos judiciais e administrativos;
+
+II – a razoável duração do processo;
+
+III – a excelência na gestão de custos operacionais;
+
+IV – a economicidade dos recursos por meio da racionalização na aquisição e utilização de todos os materiais, bens e serviços;
+
+V – a responsabilidade ambiental;
+
+VI – melhor alocação dos recursos humanos necessários à prestação jurisdicional, principalmente na área de tecnologia da informação e comunicações (TIC); e
+
+VII – promover e facilitar o acesso à Justiça e ao Poder Judiciário, com o objetivo de democratizar a relação do cidadão com os órgãos judiciais e garantir equidade no atendimento à sociedade.
+
+Art. 14. A PDPJ-Br será hospedada em nuvem, podendo se valer de serviço de computação em nuvem provido por pessoa jurídica de direito privado, inclusive na modalidade de integrador de nuvem (broker), desde que observado o seguinte:
+
+I – armazenamento dos dados em datacenter abrigado em território nacional;
+
+II – cumprimento da Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018);
+
+III – atendimento aos requisitos de disponibilidade, de escalabilidade, de redundância e de criptografia;
+
+IV – capacidade de mensuração de uso dos recursos da nuvem de forma individualizada por cliente de cada serviço provido na PDPJ-Br; e
+
+V – conformidade com as normas técnicas e outras estabelecidas em ato próprio da Presidência do CNJ.
+
+ 
+
+CAPÍTULO IV
+DOS SISTEMAS ATUAIS
+
+Art. 15. O projeto PJe, coordenado pelo CNJ, face a seu avançado estágio de desenvolvimento aderente a PDPJ-Br, será mantido e aprimorado capitaneando a nova Plataforma.
+
+§ 1º A PDPJ-Br proverá aplicações, módulos e microsserviços, em especial o PJe, por meio do conceito de “nuvem nacional”, para todos os integrantes da rede do Poder Judiciário Nacional que já utilizem ou pretendem utilizar solução em nuvem, na qual estarão centralizadas todas as bases de dados, documentos e aplicações.
+
+§ 2º O CNJ coordenará as ações para contratação e implantação da nuvem nacional.
+
+§ 3º Os custos de processamento de microsserviços específicos de um integrante da rede do Poder Judiciário Nacional, disponibilizados na PDPJ-Br, bem como o armazenamento das bases de dados e documentos de cada tribunal que adotar a PDPJ-Br na nuvem nacional, deverão ser rateados proporcionalmente, considerando, no mínimo a volumetria, dentre outros quesitos.
+
+§ 4º A atual nuvem administrada pelo CNJ será mantida nas mesmas condições e com os mesmos tribunais integrantes, enquanto a nuvem nacional não for implantada.
+
+§ 5º As regras para adoção e implantação da nuvem nacional, bem como a utilização e divisão de custos por rateio pelos tribunais serão regulamentadas em ato próprio da Presidência do CNJ.
+
+Art. 16. Os demais projetos de sistema processual público coordenados por outros tribunais também poderão ser mantidos e aprimorados para se adequar a PDPJBr, desde que:
+
+I – estejam aderentes a plataforma de interoperabilidade entres os sistemas, definida pela Presidência do CNJ;
+
+II – seja possível a coexistência mediante desenvolvimento colaborativo; e
+
+III – seus novos módulos e evoluções sejam disponibilizados na Plataforma Nacional para permitir a utilização por toda a rede do Poder Judiciário.
+
+Art. 17. Tribunais que não possuem projetos de sistema processual público poderão aderir à PDPJ, inclusive colaborando no desenvolvimento de microsserviços.
+
+Parágrafo único. As melhorias e evoluções dos sistemas de que trata o caput terão que ser adequados à PDPJ-Br; e os novos desenvolvimentos deverão tornar-se públicos e compartilhados com todos os tribunais.
+
+Art. 18. O CNJ coordenará a definição de critérios para evolução de sistemas considerando o conceito de desenvolvimento comunitário, bem como monitorará o desenvolvimento e manutenção dos sistemas legados.
+
+Parágrafo único. O CNJ não interferirá no desenvolvimento de soluções tecnológicas pelos tribunais ainda que sobrepostas a outras já existentes, desde que desenvolvidas na forma da presente Resolução e se mostrem justificadas pelas peculiaridades regionais ou pela metodologia de trabalho adotada no órgão.
+
+Art. 19. Os tribunais, juntamente com os coordenadores dos projetos vigentes de sistema de tramitação processual eletrônica, deverão promover ações que possibilitem a troca de informações com os demais sistemas e redução dos custos de TIC com ações isoladas.
+
+ 
+
+CAPÍTULO V
+DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+Art. 20. Esta Resolução será disciplinada por atos próprios da Presidência do CNJ, inclusive quanto aos prazos para as ações da PDPJ-Br.
+
+Art. 21. Os casos omissos que possuam caráter nacional serão resolvidos pela Presidência do Conselho Nacional de Justiça.
+
+Art. 22. Ficam revogados os artigos 34 e seus parágrafos, 44 e seu parágrafo único, 45 e 46 da Resolução CNJ no 185/2013.
+
+Art. 23. A presente Resolução não se aplica às soluções tecnológicas que não tratam de processo judicial eletrônico ainda que sirvam ao Poder Judiciário.
+
+Art. 24. A Corregedoria Nacional do Conselho Nacional de Justiça e a Corregedoria-Geral da Justiça Federal, a Corregedoria-Geral da Justiça do Trabalho, a Corregedoria-Geral da Justiça Eleitoral e a Corregedoria da Justiça Militar da União deverão incluir em suas rotinas de fiscalização a verificação de cumprimento da presente Resolução.
+
+Art. 25. Esta Resolução entra em vigor na data de sua publicação, revogando-se disposições contrárias.
+
+
+Ministro LUIZ FUX
+
+Portaria Nº 252 de 18/11/2020
+
+Dispõe sobre o Modelo de Governança e Gestão da Plataforma Digital do Poder Judiciário – PDPJ-Br.
+
+O PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA (CNJ), no uso de suas atribuições legais e regimentais,
+
+CONSIDERANDO a competência constitucional do CNJ de controle da atuação administrativa e financeira dos tribunais e a atribuição de coordenar o planejamento e gestão estratégica do Poder Judiciário;
+
+CONSIDERANDO a unicidade do Poder Judiciário, a exigir a implementação de diretrizes nacionais para nortear a atuação institucional de todos os seus órgãos;
+
+CONSIDERANDO as diretrizes contidas na Lei no 11.419/2006, que dispõe sobre a informatização do processo judicial;
+
+CONSIDERANDO a publicação da Resolução CNJ no 335/2020, que instituiu política pública para a governança e a gestão de processo judicial eletrônico, integrando os tribunais do país com a criação da Plataforma Digital do Poder Judiciário Brasileiro – PDPJ-Br;
+
+ 
+
+RESOLVE: 
+
+ 
+
+Art. 1o Dispor sobre o Modelo de Governança e Gestão da Plataforma Digital do Poder Judiciário – PDPJ-Br.
+
+Art. 2o As soluções a serem integradas à PDPJ-Br devem satisfazer às seguintes condições, nos termos do art. 4o da Resolução CNJ no 335/2020: 
+
+I – integrar-se à arquitetura definida da Plataforma, consumindo e disponibilizando dados e mensagens de acordo com o padrão previamente definido e divulgado; 
+
+II – não haver sobreposição de soluções já existentes na estrutura principal da plataforma; 
+
+III – não haver dependência compulsória de componentes licenciados para o funcionamento das aplicações a serem integradas;
+
+§ 1o Além das condições estabelecidas no caput, o órgão ou instituição aderente deve:
+
+I – possuir propriedade intelectual das aplicações a serem integradas e dispor de autonomia para modificá-las, adaptá-las e criar derivações; 
+
+II – disponibilizar módulo em conformidade com as normas do Programa Nacional de Gestão Documental e Memória do Poder Judiciário – Proname e de seus instrumentos, instituído por meio da Recomendação CNJ no 37/2011, e com a Lei Geral de Proteção de Dados – LGPD, Lei no 13.709/2018; 
+
+III – possuir planos de suporte, manutenção e evolução da solução disponibilizada; 
+
+IV – prestar auxílio na coordenação, para fins de colaboração e contribuição de melhorias por outros órgãos, repassando boas práticas, auxiliando o CNJ na gestão de solução de demandas corretivas e implementação de novas funcionalidades.
+
+§ 2o O uso de componentes licenciados e a integração com soluções proprietárias podem ser admitidos fora dos serviços essenciais da plataforma, desde que possam ser substituídos por outras soluções de código aberto.
+
+§ 3o Para o desenvolvimento e colaboração na PDPJ-Br será necessário a assinatura do Termo de Adesão disponibilizado pelo CNJ.
+
+Art. 3o Os dados, as informações e as soluções devem ser protegidos contra ameaças e uso indevido, de forma a reduzir riscos e garantir integridade, confidencialidade, disponibilidade e autenticidade, observando-se as normas vigentes.
+
+Parágrafo único. Os usuários são responsáveis pela guarda, pelo sigilo e pela utilização de sua senha e de seus dispositivos móveis registrados na plataforma, não sendo oponível, em qualquer hipótese, alegação de uso indevido ou negação de responsabilidade pelas assinaturas realizadas pelo meio em questão. 
+
+Art. 4o Fica instituída a Rede de Governança da Plataforma Judicial do Poder Judiciário Brasileiro – PDPJ-Br, com a seguinte composição:
+
+I – Comissão Permanente de Tecnologia da Informação e Infraestrutura do CNJ;
+
+II – Comitê Gestor Nacional da PDPJ;
+
+III – Comitês Gestores dos Tribunais;
+
+IV – Gerência Executiva da PDPJ; e
+
+V – Grupos de Trabalho.
+
+Parágrafo único. A Comissão Permanente de Tecnologia da Informação e Infraestrutura é responsável pela coordenação da rede de governança da PDPJ-Br.
+
+Art. 5o Os membros do Comitê Gestor Nacional da PDPJ-Br serão designados por ato do Presidente do CNJ, contendo a seguinte composição:
+
+I – um Conselheiro do CNJ, que presidirá o Comitê;
+
+II – dois Juízes Auxiliares da Presidência do CNJ, que atuarão como gerentes executivos e coordenarão o Comitê na ausência do Conselheiro;
+
+III – três representantes da Justiça Estadual, divididos em vagas para Tribunais de Justiça de grande, médio e pequeno porte, conforme classificação contida no Relatório Justiça em Números dentre aqueles usuários e colaboradores da Plataforma; 
+
+IV – um representante da Justiça Federal, indicado pelo Conselho da Justiça Federal;
+
+V – um representante da Justiça Militar, indicado pelo Superior Tribunal Militar;
+
+VI – um representante da Justiça do Trabalho, indicado pelo Conselho Superior da Justiça do Trabalho;
+
+VII – um representante da Justiça Eleitoral, indicado pelo Tribunal Superior Eleitoral;
+
+VIII – um representante da Procuradoria-Geral da República, indicado pelo Conselho Nacional do Ministério Público; e
+
+IX – um representante indicado pelo Conselho Federal da Ordem dos Advogados do Brasil.
+
+Art. 6o Compete ao Comitê Gestor Nacional da PDPJ-Br exercer a supervisão geral da Plataforma, bem como desempenhar as seguintes atribuições:
+
+I – propor à Presidência, mediante sugestão da Gerência Executiva, a política de tecnologia da informação a ser seguida pela PDPJ-Br;
+
+II – homologar e propor ajustes aos projetos de desenvolvimento de microsserviços sugeridos pela Gerência Executiva e pelos Comitês Gestores dos tribunais de forma a conciliar e integrar as necessidades dos diversos segmentos do Poder Judiciário e dos usuários externos, com o auxílio da Gerência Executiva e seus Grupos instituídos;
+
+III – ratificar as decisões tomadas pela Gerência Executiva e seus grupos instituídos;
+
+IV – propor normas regulamentadoras à Comissão Permanente de Tecnologia da Informação e Infraestrutura do CNJ;
+
+V – sugerir à Presidência o modelo de rateio dos custos da nuvem computacional e, após aprovado, acompanhar sua execução; e
+
+VI – deliberar sobre questões autorizadas pela Presidência e realizar outras ações para o cumprimento do seu objetivo.
+
+Art. 7o O Comitê Gestor Nacional se reunirá ao menos uma vez a cada bimestre, preferencialmente por videoconferência, e as respectivas deliberações serão registradas em ata para conhecimento público.
+
+Art. 8o Os Comitês Gestores dos tribunais serão compostos, no mínimo, por representantes da magistratura, do Ministério Público dos Estados, da Defensoria Pública, das Procuradorias e da Seccional da Ordem dos Advogados do Brasil.
+
+§ 1o É facultativa a constituição de comitês gestores no âmbito dos tribunais regionais eleitorais e tribunais regionais do trabalho em virtude do modelo de gestão adotado, respectivamente, pelo Tribunal Superior Eleitoral e pelo Conselho Superior da Justiça do Trabalho. (incluído pela Portaria n. 284, de 28.10.2021)
+
+§ 2o Os tribunais que dispensarem a constituição de comitês gestores locais manterão interlocução com o CNJ por meio da Presidência ou pelos respectivos Juízes Auxiliares. (incluído pela Portaria n. 284, de 28.10.2021)
+
+Art. 9o São atribuições dos Comitês Gestores dos tribunais, além de outras estabelecidas pelos seus respectivos atos constitutivos:
+
+I – avaliar as necessidades de evolução e correção dos microsserviços e módulos da PDPJ-Br;
+
+II – propor a organização da estrutura de atendimento às demandas de seus usuários internos e externos, que será responsável pelo atendimento de primeiro e segundo níveis;
+
+III – divulgar as ações da PDPJ-Br no âmbito da respectiva jurisdição;
+
+IV – apresentar ao Comitê Gestor Nacional a proposta de plano de ação para a implantação da PDPJ-Br no tribunal;
+
+V – acompanhar a execução do plano de ação, avaliando se as atividades desenvolvidas estão adequadas e em consonância com o planejamento aprovado; e
+
+VI – monitorar e avaliar periodicamente os resultados do plano de implementação, com vistas a melhorar a sua qualidade, eficiência e eficácia, bem como aprimorar a execução e corrigir eventuais falhas identificadas.
+
+Art. 10. A Gerência Executiva da PDPJ-Br caberá aos juízes auxiliares da presidência designados como supervisores do Departamento de Tecnologia da Informação e Comunicação do CNJ, a quem caberá fazer cumprir a Resolução CNJ no 335/2020, os termos desta Portaria e as demais normas regulamentares. 
+
+§ 1o Caberá à Gerência Executiva da PDPJ-Br e ao Departamento de Tecnologia da Informação e Comunicação do CNJ a orquestração das atividades colaborativas de desenvolvimento, sustentação e evolução dos módulos e serviços disponibilizados na Plataforma.
+
+§ 2o Será responsabilidade da Gerência Executiva subsidiar, promover e acompanhar a definição de tribunais e/ou órgão que ficarão responsáveis pelo desenvolvimento de cada módulo e serviço estabelecido pelo Comitê Gestor Nacional.
+
+§ 3o Para cada projeto de desenvolvimento será designado pelo DTI um líder técnico para atuar como facilitador e supervisor das atividades realizadas e artefatos a serem entregues, para garantia de compatibilidade com os padrões e normativos da PDPJ-Br.
+
+§ 4o Para cada projeto também será designado pelo Departamento de Tecnologia da Informação e Comunicação um gerente de projetos, que será responsável pelo acompanhamento do cronograma estabelecido e pela atualização de informações sobre o andamento e comunicação de eventuais impedimentos à Gerência Executiva.
+
+§ 5o O órgão ou instituição que manifestar interesse em participar na evolução, correções técnicas, bem como propor ajustes e melhorias negociais deverá entrar em contato com a Gerência Executiva por meio do endereço de e-mail: .
+
+Art. 11.  Serão criados e mantidos pela Gerência Executiva os seguintes Grupos Nacionais:
+
+I – Grupo Nacional de Gerenciamento, Desenvolvimento e Sustentação, presidido pelo Diretor de Divisão do PJe; e
+
+II – Grupo Nacional de Requisitos de Negócio, presidido por Juiz Auxiliar da Presidência.
+
+§ 1o As demandas de evolução deverão ser realizadas por meio de ferramenta própria, sob a guarda do CNJ, e deverão ser submetidas aos grupos de desenvolvimento e sustentação ou de requisitos de negócio conforme a respectiva natureza.
+
+§ 2o As demandas que impliquem alterações estruturais do sistema serão submetidas ao Comitê Gestor Nacional após parecer de ambos os grupos.
+
+Art. 12. Ao Grupo Nacional de Gerenciamento, Desenvolvimento e Sustentação da PDPJ-Br caberá:
+
+I – corrigir erros e falhas;
+
+II – assegurar a qualidade dos artefatos depositados, bem como zelar pela estrutura e padrões de arquitetura estabelecidos;
+
+III – prestar auxílio técnico aos tribunais quando necessário;
+
+IV – capacitar multiplicadores técnicos, quando demandados pelos Comitês Gestores locais;
+
+V – supervisionar o desenvolvimento e sustentação do sistema, visando a garantir aderência entre as funcionalidades desenvolvidas e os requisitos definidos;
+
+VI – garantir o cumprimento dos acordos de níveis de serviço estabelecidos conforme a criticidade das demandas relatadas;
+
+VII – observar a execução da metodologia de desenvolvimento definida para o projeto; e
+
+VIII – atuar como prospector de novas tecnologias em áreas de usabilidade, acessibilidade, segurança e performance do sistema, dentre outras.
+
+Art. 13. Ao Grupo Nacional de Requisitos de Negócio caberá avaliar as demandas de evolução, mudanças ou melhorias e, em caso de acolhimento, sugerir a respectiva priorização ao Comitê Gestor Nacional.
+
+§ 1o O Grupo Nacional de Requisitos de Negócio poderá constituir grupos de trabalho temáticos, que atuarão sob delegação, coordenado por um Juiz Auxiliar, para o levantamento de requisitos necessários ao desenvolvimento de novas funcionalidades ou fluxos, observada, na medida do possível, a representatividade dos diversos segmentos de justiça.
+
+§ 2o Na hipótese de o gestor de negócio ser externo ao DTI, cumprirá ao Grupo Nacional de Requisitos de Negócio homologar ou sugerir as alterações ou modificações ao Comitê Gestor Nacional mediante parecer fundamentado.
+
+Art. 14. Os casos omissos serão resolvidos pela Gerência Executiva da PDPJ, podendo ser consultado o Comitê Gestor Nacional da PDPJ.
+
+Art. 15. Esta Portaria entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+Ministro LUIZ FUX
+
+Portaria Nº 253 de 18/11/2020
+
+Institui os critérios e diretrizes técnicas para o processo de desenvolvimento de módulos e serviços na Plataforma Digital do Poder Judiciário Brasileiro – PDPJBr.
+
+O PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA (CNJ), no uso de suas atribuições legais e regimentais,
+
+CONSIDERANDO as diretrizes contidas na Resolução CNJ nº 335/2020, que institui a política pública para a governança e gestão de sistemas judiciais por meio da Plataforma Digital do Poder Judiciário Brasileiro – PDPJ-Br;
+
+CONSIDERANDO que a Plataforma Digital do Poder Judiciário Brasileiro – PDPJ-Br é composta por um conjunto de aplicações e microsserviços mantidos de forma colaborativa por diferentes órgãos e instituições, e que deve funcionar de forma harmônica com o objetivo de padronizar o acesso ao trâmite processual, a troca de dados, a interação entre os diversos sistemas, favorecendo a centralização de acesso por todos;
+
+CONSIDERANDO a conveniência da implementação de um conceito comunitário, no qual todos os tribunais, independentemente do segmento de justiça, possam contribuir com as melhores soluções tecnológicas em benefício comum, assegurando uma melhor gestão da jurisdição digital e respeitando-se a autonomia dos tribunais;
+
+CONSIDERANDO o papel fundamental da implantação de uma política de governança e de gestão unificadas com o estabelecimento de padrões que possam atender à diversidade de soluções existentes em todos os segmentos do judiciário para o bom funcionamento da Plataforma;
+
+CONSIDERANDO que a governança e a gestão devem ser pautadas por padrões que busquem a melhor experiência dos usuários no aspecto da usabilidade e acessibilidade, na velocidade da entrega de novas soluções de forma a atender ao cidadão e a sociedade com maior efetividade;
+
+ 
+
+RESOLVE:
+
+ 
+
+Art. 1º Instituir os critérios e diretrizes técnicas para o processo de desenvolvimento de módulos e serviços na Plataforma Digital do Poder Judiciário Brasileiro – PDPJ-Br.
+
+Art. 2º A PDPJ-Br fornecerá padrões de ApplicationProgramming Interface (API), de modelos de dados e domínio, de eventos e mensagens, com os respectivos documentos de referência, que permitam desenvolvedores criarem, manterem e evoluírem as aplicações que compõem a Plataforma.
+
+Art. 3º O processo de disponibilização de soluções para a Plataforma será comunitário e descentralizado, podendo dele participar quaisquer tribunais brasileiros, órgãos públicos externos e, nos termos desta Portaria, particulares.
+
+§ 1º Os tribunais e órgãos externos, bem como os particulares admitidos a colaborar com a Plataforma, indicarão livremente os desenvolvedores e analistas que participarão dos projetos, os quais terão acesso às ferramentas centralizadas de controle de demandas e de versionamento de código e arquivos do CNJ.
+
+§ 2º Os profissionais serão identificados por órgão e área de atuação (negocial ou técnica), devendo-se adotar mecanismos de reputação, tendo em vista a efetiva participação, quantidade e qualidade das contribuições dos participantes, a fim de criar incentivos positivos da participação comunitária.
+
+Art. 4º O CNJ disponibilizará em sítio próprio (marketplace) a lista de projetos em andamento, concluídos, e pendentes de serem integrados à PDPJ-Br.
+
+§ 1º O tribunal que desejar colaborar com o desenvolvimento de algum dos serviços e soluções, ou disponibilizar serviço ou solução por ele já desenvolvida, poderá formalizar seu interesse por e-mail dirigido ao endereço eletrônico , devendo ser realizada, na sequência, reunião inaugural (kickoff) para alinhamento de expectativas.
+
+§ 2º O CNJ acompanhará a execução dos projetos em desenvolvimento, por meio da designação de líder técnico, que será o responsável por orientar os tribunais acerca dos critérios técnicos a serem seguidos para o desenvolvimento de cada solução, conforme as diretrizes desta Portaria.
+
+§ 3º O andamento do projeto também será acompanhado pelo Escritório de Projetos do Departamento de Tecnologia da Informação e Comunicação do CNJ.
+
+Art. 5º Os serviços e aplicações integrados à Plataforma serão classificados da seguinte forma:
+
+I – serviços estruturantes: serviços que implementam as funcionalidades essenciais básicas para um sistema de processo judicial de tramitação eletrônica, bem como àqueles serviços necessários à integração, à coreografia e à interoperabilidade entre os serviços e soluções que compõe a Plataforma;
+
+II – serviços negociais: serviços que implementam necessidade de negócio relevante para a tramitação de processo judicial eletrônico e sistemas judiciais, tais como distribuição de processos, controle de custas, comunicação de atos, controle de agendamento de audiências, central de mandados, dentre outros;
+
+III – serviços de integração com sistemas externos: serviços que fazem interface com sistemas, serviços e/ou aplicações externas ao Poder Judiciário, como o sistema de penhora on-line fornecido em parceira com o Banco Central (Sisbajud), o sistema de envio eletrônico de correspondências pela Empresa Brasileira de Correios e Telégrafos (eCARTA), dentre outros de especial interesse à prestação do serviço jurisdicional; e
+
+IV – soluções e aplicações da comunidade externa ao judiciário: serviços desenvolvidos por entes externos ao judiciário voltados a atender às suas necessidades, adotando padrões de API que se integrem à PDPJ-Br mediante chancela do Poder Judiciário.
+
+Art. 6º A PDPJ-Br seguirá modelo arquitetural de microsserviços, preferencialmente modelados utilizando-se a metodologia Domain Driven Design (DDD).
+
+Parágrafo único. A interação entre os microsserviços da Plataforma adotará o modelo de coreografia, em que cada microsserviço deve possuir inteligência sobre seu próprio domínio, com alto nível de desacoplamento, interagindo com os demais microsserviços por meio de serviço centralizado de mensageria (MessageBroker).
+
+Art. 7º O módulo ou microsserviço que se assemelhar a uma ou mais funcionalidades presentes nos sistemas processuais, deverá observar a necessidade de decomposição da aplicação monolítica existente.
+
+§ 1º O trabalho de decomposição começará pela identificação do domínio a ser extraído, utilizando-se estratégias baseadas em DDD. Identificado o domínio, será iniciada a modelagem por meio de histórias construídas em conjunto por desenvolvedores e especialistas do domínio (Domain Experts).
+
+§ 2º Finalizada a modelagem de domínio, deverá ser iniciada a modelagem da API, que será implementada ainda dentro da aplicação monolítica, mas com vistas à implementação do microsserviço a ser desenvolvido. A criação da API servirá para delinear a construção do microsserviço fora da aplicação monolítica.
+
+§ 3º A aplicação monolítica precisará ser adaptada para utilização da nova API, ao invés de mecanismos nativos, por exemplo, JSF, Richfaces, componentes Seam, etc.
+
+§ 4º O modelo relacional precisará ser desacoplado com a extinção de constraints baseadas em chaves e os dados deverão ser migrados para o novo banco de dados do microsserviço.
+
+§ 5º O CNJ proverá uma série de microsserviços denominados módulos estruturantes, que já disporão de diversas APIs comuns ao relacionamento com o processo judicial, com vistas a não ser necessária a incorporação de diversas APIs nos sistemas monolíticos legados.
+
+Art. 8º Os registros dos microsserviços na PDPJ-Br ocorrerão no Service Discovery (SD) do CNJ, no qual um SD cataloga os serviços que compõem a Plataforma, registrando o nome da instância, o serviço ao qual ela responde e seu endereço de rede. Parágrafo único. O SD é implementado utilizando a ferramenta NetflixEureka, através da implementação do Spring CloudNetflix.
+
+Art. 9º Os microsserviços deverão ser versionados utilizando o sistema de controle de versões Git.
+
+§ 1º Os repositórios deverão ser hospedados na Plataforma disponibilizada pelo CNJ.
+
+§ 2º A criação do repositório em seu respectivo grupo deve ser efetuada pela gestão da Divisão do Processo Judicial Eletrônico Nacional (DPJE).
+
+§ 3º A partir da criação do repositório serão atribuídas as permissões de acesso e controleaos líderes técnicos de cada projeto.
+
+Art. 10. Deverá ser adotada, preferencialmente, a linguagem de programação Java, utilizando-se o framework Spring com Springboot, utilizando como referência o projeto Sample Service, disponível no endereço eletrônico como template.
+
+Parágrafo único. Na utilização de outra linguagem de programação ou framework de desenvolvimento, a solução deverá atender a todos os padrões de desenvolvimento descritos nesta Portaria.
+
+Art. 11. O acesso aos microsserviços deverá ser protegido com mecanismos de autenticação e autorização baseado em OAuth2 a ser provido pelo serviço de Single Sign-On (SSO) da PDPJ-Br permitindo a interligação às diversas bases de usuários de diferentes sistemas de processo eletrônico e utilizando conceito de federação de bases pela implementação de provedores de acesso customizados.
+
+§ 1º Todos os provedores implementados com o propósito de integração da PDPJ-Br ao PJe estão versionados no Git por meio do projeto PJe-KC.
+
+§ 2º Os demais sistemas processuais deverão desenvolver seus próprios provedores de acesso, para integração ao serviço unificado de autenticação (SSO).
+
+Art. 12. Os microsserviços desenvolvidos na PDPJ-Br precisam ser coesos e guardar a característica stateless, possibilitando maior escalabilidade em ambiente voltado à contêineres, como o Kubernetes. Parágrafo único. A escalabilidade deverá ter elasticidade em padrão horizontal, permitindo que réplicas do mesmo microsserviço possam ser instanciadas ou desmobilizadas de forma a atender mais adequadamente a demanda pelo respectivo serviço.
+
+Art. 13. Deverão ser utilizados recursos de ContinuousIntegration (CI), permitindo execução de pipelines, testes automatizados e registro no repositório de imagens.
+
+Parágrafo único. Sempre que possível deve ser adotada a prática de Continuous Delivery (CD), quando compatível com a natureza específica de cada projeto.
+
+Art. 14. As soluções presentes na PDPJ-Br deverão conter artefatos de testes automatizados com incentivo às práticas de Test DrivenDevelopment (TDD), contando com testes de unidade e de integração.
+
+Parágrafo único. É obrigatória a produção de relatório de cobertura de testes automatizados, o qual deverá ser atualizado a cada execução do pipeline de integração contínua.
+
+Art. 15. A documentação de cunho negocial e técnico deverá ser produzida para cada solução presente na PDPJ-Br, e os microsserviços também terão que prover documentação técnica referente à API disponibilizada, utilizando o padrão OpenAPI 3.0.
+
+Art. 16. Os microsserviços deverão prover APIs correspondentes a seu contexto de negócio ou funcional.
+
+§ 1º As APIs deverão ser providas por meio de tecnologia REST e obedecer aos padrões definidos na Plataforma de documentações do CNJ, disponível em .
+
+§ 2º A definição do design da interface das APIs, observando as melhores práticas e buscando atender o maior número de situações e contextos em que o microsserviço pode ser utilizado, deve constituir entrega própria e prioritária.
+
+Art. 17. As soluções baseadas em microsserviços deverão empregar o mecanismo de messagebrokering, por meio do qual trafegam as mensagens com os eventos propagados pelos microsserviços, provocando comportamentos e ações de acordo com os contextos de cada serviço, bem como propiciando a declaração de filas para recebimento de mensagens relevantes produzidas por outros serviços.
+
+Parágrafo único. O formato de comunicação entre os microsserviços por meio de mensageria dar-se-á conforme documentação provida pela Plataforma de documentações do CNJ.
+
+Art. 18. As APIs disponibilizadas pelos microsserviços serão acessadas através de um serviço de borda denominado gateway, que é utilizado para receber requisições dos diversos clientes de API e direcionar essas requisições aos serviços responsáveis pelo processamento.
+
+Art. 19. A identidade visual dos módulos desenvolvidos dentro da PDPJ-Br deverá adotar o conjunto de ferramentas desenvolvido pelo CNJ, denominada de UIKit, com a finalidade de padronizar a interface gráfica dos módulos, uniformizando os aspectos da usabilidade, acessibilidade e experiência do usuário.
+
+Art. 20. As soluções da Plataforma podem utilizar recursos computacionais próprios em ambiente exclusivo ao de desenvolvimento mantido diretamente pelos órgãos e instituições aderentes ou contratados em serviço de nuvem computacional.
+
+§ 1º No caso de utilização de nuvem computacional de terceiros deve-se observar os princípios e diretrizes relacionados à Segurança da Informação para o tratamento da informação em ambiente de Computação em Nuvem dispostos na Portaria SGI nº 9/2018.
+
+§ 2º A nuvem de serviço utilizará a infraestrutura baseada em conteinerização de código aberto que permitirá a criação e uso de contêineres, bem como a orquestração desses contêineres sendo gerenciada por um sistema também de código aberto.
+
+Art. 21. Soluções que utilizam Inteligência Artificial, deverão estar de acordo com o disposto nos termos da Resolução CNJ nº 332/2020, que disciplina a ética, a transparência e a governança na produção e no uso de Inteligência Artificial no Poder Judiciário e dá outras providências.
+
+Art. 22. Cada tribunal ou ente participante do ecossistema de Justiça, para desenvolvimento de módulos ou usufruto dos serviços disponibilizados pela Plataforma, deverá assinar Termo de Cooperação Técnica, conforme modelo estabelecido pela Gerência Executiva da PDPJ-Br.
+
+Art. 23. Cumprirá ao Departamento de Tecnologia da Informação e Comunicação do CNJ a responsabilidade de prover a manutenção e detalhamento dessas diretrizes técnicas em portal próprio, de modo a atender plenamente o disposto nesta Portaria.
+
+Art. 24. Esta Portaria entra em vigor na data da sua publicação.
+
+
+Ministro LUIZ FUX
+
+Portaria Nº 131 de 05/05/2021
+
+Institui o Grupo Revisor de Código-Fonte das soluções da Plataforma Digital do Poder Judiciário (PDPJ-Br) e do Processo Judicial Eletrônico (PJe).
+
+O PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA (CNJ), no uso de suas atribuições legais e com base no art. 6o, XXXI, do Regimento Interno do CNJ;
+
+CONSIDERANDO as diretrizes contidas na Resolução CNJ no 335/2020, que institui a política pública para a governança e gestão de sistemas judiciais por meio da Plataforma Digital do Poder Judiciário Brasileiro (PDPJ-Br);    
+
+CONSIDERANDO o Modelo de Governança e Gestão da Plataforma Digital do Poder Judiciário (PDPJ-Br), disciplinado pela Portaria CNJ no 252/2020; 
+
+ 
+
+RESOLVE:
+
+ 
+
+Art. 1o Instituir o Grupo de Trabalho de revisão de código-fonte das soluções da Plataforma Digital do Poder Judiciário (PDPJ) e do sistema Processo Judicial Eletrônico (PJe), com objetivo de garantir a qualidade das implementações realizadas por este Conselho e pelos desenvolvedores da comunidade.
+
+Parágrafo único. O Grupo Revisor de Código-Fonte é responsável pela análise das implementações de mudanças no código-fonte, realizadas pela comunidade de desenvolvimento das soluções disponibilizadas na PDPJ-Br e no sistema PJe, e seus membros desempenharão suas atividades no grupo em caráter honorífico.
+
+Art. 2o O Grupo Revisor de Código-Fonte será composto por membros indicados pelo Departamento de Tecnologia da Informação e Comunicação (DTI) do CNJ, bem como por representantes indicados pelos tribunais.
+
+§ 1o Os membros devem possuir experiência ou formação na área de desenvolvimento de sistemas, sendo preferencialmente servidores efetivos. 
+
+§ 2o O CNJ poderá convidar colaboradores eventuais para participar de reuniões, projetos ou outras iniciativas, sempre que houver necessidade. 
+
+§ 3o A composição do Grupo Revisor de Código-Fonte poderá ser revista a qualquer tempo, a critério da Gerência Executiva da PDPJ-Br. 
+
+§ 4o Serão membros natos do Grupo Revisor de Código-Fonte os servidores lotados na Divisão do Processo Judicial Eletrônico (DPJe). 
+
+Art. 3o São objetivos do Grupo Revisor de Código-Fonte: 
+
+I – promover a análise das mudanças de código-fonte implementadas pelo CNJ ou pelos tribunais, relativamente a soluções disponibilizadas na PDPJ ou ao sistema PJe; 
+
+II – executar teste de qualidade de código-fonte e garantias operacionais da funcionalidade desenvolvida ou alterada; e
+
+III – definir critérios de avaliação (benchmark) e realizar testes entre soluções concorrentes para orientar a evolução, a escolha e o fomento de projetos disponibilizados na PDPJ. A escolha dos projetos não caberá ao Grupo Revisor do Código-Fonte, sendo este o responsável, tão somente, pelos testes que orientarão, tecnicamente, as escolhas das soluções.
+
+§ 1o Antes de ser encaminhado para análise do Grupo Revisor, o código-fonte objeto da mudança deverá ser submetido à ferramenta de análise sintática automatizada de qualidade de código, segundo parâmetros de complexidade, manutenibilidade, cobertura de testes automatizados, dentre outros definidos pelo CNJ. 
+
+§ 2o O código-fonte que não alcançar os critérios mínimos definidos durante a análise sintática referida no parágrafo anterior será sumariamente rejeitado, devendo a equipe que o implementou proceder às correções indicadas, antes de submetê-lo novamente à análise.
+
+Art. 4o Servidores lotados na DPJe coordenarão as atividades do Grupo Revisor de Código-Fonte, cabendo-lhes, entre outras atribuições: 
+
+I – convocar e coordenar as reuniões, organizando a pauta dos trabalhos; e
+
+II – definir, sem prejuízo de sugestões encaminhadas pelos demais membros do grupo, as prioridades, as metas e os objetivos do Grupo Revisor de Código-Fonte.
+
+Art. 5o Integram o Grupo Revisor de Código-Fonte, além daqueles do § 4o do art. 2o desta Portaria: 
+
+I – 5 (cinco) ou mais servidores indicados pelos Tribunais de Justiça estaduais;
+
+II – 5 (cinco) ou mais servidores indicados pelo Conselho da Justiça Federal;
+
+III – 5 (cinco) ou mais servidores indicados pelo Tribunal Superior Eleitoral; e
+
+IV – 5 (cinco) ou mais servidores indicados pelo Conselho Superior da Justiça do Trabalho. 
+
+Parágrafo único. Os servidores indicados pelos órgãos referidos nos incisos II a IV poderão advir de quaisquer tribunais integrantes daqueles respectivos ramos da Justiça, e representarão, no Grupo Revisor, o mencionado ramo. 
+
+Art. 6o Os encontros do Grupo Revisor de Código-Fonte ocorrerão, prioritariamente, por meio virtual. 
+
+§ 1o As sprints do Grupo Revisor possuirão periodicidade quinzenal e abarcarão todas as requisições de aceite de código (merge requests) pendentes de análise. 
+
+§ 2o O merge request será aceito se pelo menos um tribunal, distinto daquele que desenvolveu a funcionalidade ou solução, aprová-lo.  
+
+§ 3o A aprovação deverá vir acompanhada de comprovação da realização de testes, por qualquer meio que demonstre a higidez da funcionalidade objeto do merge request e do código-fonte subjacente. 
+
+§ 4o O merge request que não for expressamente aceito ou rejeitado terá sua análise sobrestada automaticamente para a sprint seguinte do Grupo Revisor. 
+
+§ 5o Caberá aos coordenadores do Grupo Revisor distribuir entre os seus membros e cobrar a análise do merge request nos prazos estabelecidos.
+
+§ 6o Caso o Grupo Revisor não consiga analisar todas as merge requests que compõem a sprint quinzenal, as que ficarem pendentes terão prioridades sobre as demais na próxima sprint.
+
+§ 7o Caberá aos coordenadores do Grupo Revisor priorizar, se for necessário, os merge requests da próxima sprint, conforme critérios objetivos de relevância nacional.
+
+§ 8o Caberá preferencialmente ao CNJ prover um ambiente de testes padronizado para análise dos merge requests, sem prejuízo dos demais integrantes do Grupo Revisor realizarem suas análises em ambiente próprio.
+
+Art. 7o As atividades do Grupo Revisor de Código-Fonte serão documentadas em repositório centralizado no CNJ. 
+
+Art. 8o O Grupo Revisor será permanente, iniciado a partir da publicação desta Portaria. 
+
+Art. 9o Esta Portaria entra em vigor na data de sua publicação. 
+
+ 
+Ministro LUIZ FUX
+
+Resolução Nº 396 de 07/06/2021
+
+Institui a Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ)
+
+O PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA (CNJ), no uso de suas atribuições legais e regimentais,
+
+CONSIDERANDO que compete ao CNJ a atribuição de coordenar o planejamento e a gestão estratégica de Tecnologia da Informação e Comunicação (TIC) do Poder Judiciário;
+
+CONSIDERANDO que é imprescindível garantir a segurança cibernética do ecossistema digital do Poder Judiciário brasileiro;
+
+CONSIDERANDO os termos da Resolução CNJ nº 370/2021, que institui a Estratégia Nacional de Tecnologia da Informação e Comunicação do Poder Judiciário (ENTIC-JUD) e estabelece as diretrizes para sua governança, gestão e infraestrutura;
+
+CONSIDERANDO a importância de se estabelecer objetivos, princípios e diretrizes de Segurança da Informação alinhados às recomendações constantes da norma NBR ISO/IEC 27001:2013, que trata da segurança da informação;
+
+CONSIDERANDO o que dispõe a Lei nº 13.709/2018, com a redação dada pela Lei nº 13.853/2019, sobre a proteção de dados pessoais, que altera a Lei - nº 12.965/2014 (Marco Civil da Internet);
+
+CONSIDERANDO o disposto na Resolução CNJ nº 291/2019, que instituiu o Sistema Nacional de Segurança do Poder Judiciário;
+
+CONSIDERANDO o disposto na Portaria CNJ nº 242/2020, que institui o Comitê de Segurança Cibernética do Poder Judiciário;
+
+CONSIDERANDO o disposto na Portaria CNJ nº 249/2020, que designa os integrantes do Comitê de Segurança Cibernética do Poder Judiciário (CSCPJ);
+
+CONSIDERANDO que, para contemplar aspectos fundamentais para o desenvolvimento da Política sobre a área da Segurança Cibernética, será necessário abordar aspectos da Segurança da Informação, área sistêmica e mais abrangente,
+
+RESOLVE:
+
+ 
+
+CAPÍTULO I
+
+DISPOSIÇÕES GERAIS
+
+Art. 1º o Instituir a Estratégia Nacional de Segurança da Informação e Cibernética do Poder Judiciário (ENSEC-PJ), no âmbito dos órgãos do Poder Judiciário, à exceção do Supremo Tribunal Federal (STF).
+
+Parágrafo único. A ENSEC-PJ prevista nesta Resolução contempla:
+
+I – temas relacionados à segurança da informação, de forma ampla, que sejam essenciais para segurança cibernética;
+
+II – segurança física e proteção de dados pessoais e institucionais, nos aspectos relacionados à cibersegurança;
+
+III – segurança física e proteção de ativos de tecnologia da informação de forma geral;
+
+IV – ações destinadas a assegurar a disponibilidade, a integridade, a confidencialidade e a autenticidade de dados e de informações;
+
+V – ações destinadas a assegurar o funcionamento dos processos de trabalho, a continuidade operacional e a continuidade das atividades fim e administrativas dos órgãos do Poder Judiciário;
+
+VI – ações de planejamento, de sistematização e de normatização sobre temas atinentes à segurança cibernética;
+
+VII – ações de comunicação, de conscientização, de formação de cultura e de direcionamento institucional com vistas à segurança cibernética; e
+
+VIII – ações de formação acadêmica, formação técnica, qualificação e reciclagem de profissionais de tecnologia da informação e comunicação que atuam na área de segurança cibernética.
+
+ 
+
+CAPÍTULO II
+
+OBJETIVOS DA ESTRATÉGIA NACIONAL DE SEGURANÇA CIBERNÉTICA DO PODER JUDICIÁRIO (ENSEC-PJ)
+
+Art. 2º A ENSEC-PJ tem o objetivo de aprimorar o nível de maturidade em segurança cibernética nos órgãos do Poder Judiciário, abrangendo os aspectos fundamentais da segurança da informação para o aperfeiçoamento necessário à consecução desse propósito.
+
+Art. 3º Para a concretização dos objetivos da segurança cibernética instituídos na Política de Segurança Cibernética do Poder Judiciário (PSEC-PJ), estrutura-se a presente Estratégia Nacional de Segurança Cibernética com visão, objetivos e ações capazes de conduzir os órgãos do Poder Judiciário a um ambiente desenvolvido, resistente e seguro.
+
+ 
+
+CAPÍTULO III
+
+DA VISÃO, DOS OBJETIVOS E DAS AÇÕES
+
+Art. 4º A visão da ENSEC-PJ consiste em alcançar a excelência em segurança cibernética no Poder Judiciário.
+
+Art. 5º Os objetivos da ENSEC-PJ são a base para tornar o espaço cibernético mais confiável, resistente, inclusivo e seguro e visam direcionar as ações dos órgãos do Poder Judiciário na área de segurança cibernética.
+
+Art. 6º São objetivos da ENSEC-PJ:
+
+I – tornar o Judiciário mais seguro e inclusivo no ambiente digital;
+
+II – aumentar a resiliência às ameaças cibernéticas;
+
+III – estabelecer governança de segurança cibernética e fortalecer a gestão e coordenação integrada de ações de segurança cibernética nos órgãos do Poder Judiciário; e
+
+IV – permitir a manutenção e a continuidade dos serviços, ou o seu restabelecimento em menor tempo possível.
+
+Art. 7º As ações da ENSEC-PJ foram estabelecidas com a finalidade de possibilitar o alcance dos objetivos e basearam-se no estágio de maturidade geral dos órgãos do Poder Judiciário.
+
+Art. 8º Os órgãos do Poder Judiciário, com exceção do STF, devem colocar em prática as ações para o pleno alcance dos objetivos da ENSEC-PJ.
+
+Parágrafo único. O engajamento da alta administração de cada tribunal é essencial para a consecução das finalidades e das medidas de proteção ao serviço, sobretudo quando implicarem a necessidade de rápida suspensão do acesso ao público, para evitar o alastramento de ataque cibernético e conter os danos.
+
+Art. 9º São ações da ENSEC-PJ:
+
+I – fortalecer as ações de governança cibernética;
+
+II – elevar o nível de segurança das infraestruturas críticas;
+
+III – estabelecer rede de cooperação do Judiciário para a segurança cibernética; e
+
+IV – estabelecer modelo centralizado de governança cibernética nacional.
+
+Art. 10. Para fortalecer as ações de governança cibernética, deve-se estabelecer um Sistema de Gestão em Segurança da Informação baseado em riscos, de acordo com recomendação do CNJ.
+
+Art. 11. Para elevar o nível de segurança das infraestruturas críticas, deve-se:
+
+I – estabelecer todas as ações que possibilitem maior eficiência, ou seja, capacidade de responder de forma satisfatória a incidentes de segurança, permitindo a contínua prestação dos serviços essenciais a cada órgão;
+
+II – instituir e manter Equipe de Tratamento e Resposta a Incidentes de Segurança Cibernética (ETIR);
+
+III – elaborar e aplicar processo de resposta e tratamento a incidentes de segurança cibernética que contenha, entre outros, procedimento de continuidade do serviço prestado e seu rápido restabelecimento, além de comunicação interna e externa;
+
+IV – utilizar tecnologia que possibilite a análise consolidada dos registros de auditorias coletados em diversas fontes de ativos de informação e de ações de usuários, permitindo automatizar ações de segurança e oferecer inteligência à análise de eventos de segurança;
+
+V – utilizar tecnologia que permita a inteligência em ameaças cibernéticas em redes de informação; especialmente em fóruns, inclusive da iniciativa privada e comunidades virtuais da internet;
+
+VI – providenciar a realização de cópias de segurança atualizadas e segregadas de forma automática em local protegido, em formato que permita a investigação de incidentes;
+
+VII – elaborar requisitos específicos de segurança cibernética relativos aos ativos sob sua jurisdição, incluindo ambientes centralizados, endpoints, equipamentos intermediários ou finais conectados em rede ou a algum sistema de comunicação, inclusive computadores portáteis e telefones celulares;
+
+VIII – elaborar requisitos específicos de segurança cibernética relacionados com o trabalho remoto;
+
+IX – adotar práticas e requisitos de segurança cibernética no desenvolvimento de novos projetos, tais como dupla verificação do acesso externo;
+
+X – realizar, ao menos semestralmente, avaliação e testes de conformidade em segurança cibernética de forma a aferir a eficácia dos controles estabelecidos;
+
+XI realizar prática em gestão de incidentes e efetivar o aprimoramento contínuo do processo; e
+
+XII – estabelecer troca de informações e boas práticas com outros membros do poder público em geral e do setor privado com objetivo colaborativo.
+
+ 
+
+CAPÍTULO IV
+
+DO MODELO CENTRALIZADO DE GOVERNANÇA NACIONAL NA SEGURANÇA CIBERNÉTICA DO PODER JUDICIÁRIO
+
+Art. 12. O modelo centralizado de governança nacional na segurança cibernética do Poder Judiciário tem os seguintes objetivos:
+
+I – promover a coordenação dos diversos entes relacionados com a segurança cibernética;
+
+II – possibilitar a análise conjunta do nível de maturidade em segurança cibernética nos órgãos do Poder Judiciário;
+
+III – estabelecer e desenvolver padrão de maturidade unificado de segurança cibernética, de forma que seja possível avaliar o nível de maturidade de cada órgão do Judiciário, por meio de indicadores estabelecidos;
+
+IV – estabelecer rotinas de verificações de conformidade em segurança cibernética; e
+
+V – possibilitar a convergência de esforços e iniciativas na apuração de incidentes e na promoção de ações de capacitação e educação em segurança cibernética.
+
+Art. 13. O CNJ coordenará as ações para viabilizar a governança nacional em segurança cibernética do Poder Judiciário.
+
+ 
+
+CAPÍTULO V
+
+DO COMITÊ GESTOR DE SEGURANÇA DA INFORMAÇÃO DO PODER JUDICIÁRIO
+
+Art. 14. Fica instituído o Comitê Gestor de Segurança da Informação do Poder Judiciário (CGSI-PJ), com atribuição de assessorar o CNJ nas atividades relacionadas à segurança da informação.
+
+Art. 15. Integram o CGSI-PJ:
+
+I – dois especialistas representantes do Conselho Nacional de Justiça;
+
+II – dois especialistas representantes do Supremo Tribunal Federal;
+
+III – um especialista representante do Superior Tribunal de Justiça;
+
+IV – um especialista representante do Tribunal Superior Eleitoral;
+
+V – um especialista representante do Tribunal Superior do Trabalho;
+
+VI – um especialista representante do Conselho Superior da Justiça do Trabalho;
+
+VII - um especialista representante do Conselho da Justiça Federal;
+
+VIII – um especialista representante do Superior Tribunal Militar; e
+
+IX – dois especialistas representantes dos Tribunais de Justiça Estaduais.
+
+§ 1º O CGSI-PJ será coordenado por um representante do Conselho Nacional de Justiça designado pela Presidência.
+
+§ 2º As indicações dos representantes dos incisos I e IX serão feitas pela Presidência do CNJ.
+
+§ 3º O CGSI-PJ poderá convidar representantes de órgãos de segurança pública, do Ministério Público, das Forças Armadas e especialistas técnicos de outros órgãos públicos ou privados que pretendam subsidiar os respectivos trabalhos.
+
+§ 4º Os integrantes do CGSI-PJ deverão ter conhecimento técnico na área de segurança da informação.
+
+Art. 16. O CGSI-PJ se reunirá, em caráter ordinário, semestralmente, e, em caráter extraordinário, por convocação de seu coordenador.
+
+Art. 17. Compete ao CGSI-PJ, assessorando o CNJ, nos temas relacionados à segurança da informação:
+
+I – estabelecer norma sobre a definição dos requisitos metodológicos para a implementação da gestão de risco dos ativos da informação no Poder Judiciário;
+
+II – aprovar políticas, diretrizes, estratégias, normas e recomendações relacionadas à segurança da informação no Poder Judiciário;
+
+III – elaborar e implementar programas sobre segurança da informação destinados à conscientização e à capacitação dos servidores do Poder Judiciário;
+
+IV – estabelecer critérios que permitam monitorar e avaliar a execução da PSEC-PJ e de seus instrumentos, bem como o nível de maturidade em segurança da informação em cada órgão do Poder Judiciário;
+
+V – estabelecer norma de criação e funcionamento do Centro de Prevenção, Tratamento e Resposta a Incidentes Cibernéticos do Poder Judiciário (CPTRIC-PJ), que funcionará como canal oficial de ações preventivas e corretivas, em caso de ameaças ou de ataques cibernéticos; e
+
+VI – promover troca de informações e experiências com os comitês gestores de segurança da informação dos outros Poderes e com a sociedade.
+
+ 
+
+CAPÍTULO VI
+
+DA REDE NACIONAL DE COOPERAÇÃO DO PODER JUDICIÁRIO NA ÁREA DE SEGURANÇA CIBERNÉTICA
+
+Art. 18. A Rede de Cooperação do Judiciário na área de segurança cibernética tem os seguintes objetivos:
+
+I – promover ambiente participativo, colaborativo e seguro entre os órgãos do Poder Judiciário, por meio do acompanhamento contínuo e proativo das ameaças e dos ataques cibernéticos;
+
+II – estimular o compartilhamento de informações sobre incidentes e vulnerabilidades cibernéticas;
+
+III – realizar exercícios cibernéticos com a participação de múltiplos entes;
+
+IV – fortalecer o Centro de Prevenção, Tratamento e Resposta a Incidentes Cibernéticos (CPTRIC-PJ) do CNJ;
+
+V – aperfeiçoar a estrutura judiciária para o aprimoramento de investigações de crimes cibernéticos;
+
+VI – incentivar a criação e a atuação de ETIR em cada órgão do Poder Judiciário;
+
+VII – emitir alertas e recomendações de segurança cibernética; e
+
+VIII – ampliar parceria com outros órgãos do Poder Executivo, do Poder Legislativo, do Ministério Público, da polícia judiciária, do setor privado e do meio acadêmico, com vistas a elevar, de modo geral, o nível de segurança cibernética.
+
+Parágrafo único. Para fins de cumprimento dos objetivos estabelecidos, todos os órgãos do Judiciário que detectarem incidentes de segurança cibernética deverão reportá-los ao CPTRIC-PJ.
+
+Art. 19. Compete à alta administração dos órgãos do Poder Judiciário, com exceção do STF, realizar a governança da segurança da informação e especialmente:
+
+I – implementar, no que lhe couber, a Política de Segurança Cibernética do Poder Judiciário;
+
+II – elaborar a Política de Segurança da Informação e normas internas correlatas ao tema, observadas as normas de segurança da informação editadas pelo CNJ;
+
+III – destinar recursos orçamentários específicos para as ações de segurança da informação;
+
+IV – promover ações de capacitação e profissionalização dos recursos humanos em temas relacionados à segurança da informação;
+
+V – instituir e implementar ETIR, que comporá a rede de equipes vinculadas ao CPTRIC-PJ;
+
+VI – coordenar e executar as ações de segurança da informação no âmbito de sua atuação; e
+
+VII – aplicar as ações corretivas e disciplinares cabíveis nos casos de violação da segurança da informação.
+
+Art. 20. Cada órgão do Poder Judiciário, com exceção do STF, deverá constituir Comitê de Governança de Segurança da Informação (CGSI), ao qual caberá:
+
+I – assessorar a alta administração do órgão do Poder Judiciário em todas as questões relacionadas à segurança da informação;
+
+II – propor alterações na política de segurança da informação e deliberar sobre assuntos a ela relacionados, incluindo atividades de priorização de ações e gestão de riscos de segurança;
+
+III – propor normas internas relativas à segurança da informação;
+
+IV – constituir grupos de trabalho para tratar de temas e propor soluções específicas sobre segurança da informação; e
+
+V – consolidar e analisar os resultados dos trabalhos de auditoria sobre a gestão da segurança da informação.
+
+§ 1º o O CGSI será coordenado pela autoridade responsável pela segurança da informação no respectivo órgão do Poder Judiciário, nomeado por seu presidente.
+
+§ 2º Os órgãos do Poder Judiciário, com exceção do STF, editarão atos para definir a forma de funcionamento dos respectivos CGSIs, observado o disposto nesta Resolução e na legislação de regência.
+
+Art. 21. Cada órgão do Poder Judiciário, com exceção do STF, deverá constituir estrutura de segurança da informação, subordinada diretamente à alta administração do órgão e desvinculada da área de TIC.
+
+§ 1º O titular da estrutura prevista no caput deste artigo será o gestor de segurança da informação do órgão.
+
+§ 2º O gestor de segurança da informação terá as seguintes atribuições:
+
+I – instituir e gerir o Sistema de Gestão de Segurança da Informação;
+
+II – implementar controles internos fundamentados na gestão de riscos da segurança da informação;
+
+III – planejar a execução de programas, de projetos e de processos relativos à segurança da informação com as demais unidades do órgão;
+
+IV – implantar procedimento de tratamento e resposta a incidentes em segurança da informação; e
+
+V – observar as normas e os procedimentos específicos aplicáveis em consonância com os princípios e as diretrizes desta Resolução e da legislação de regência. .
+
+ 
+
+CAPÍTULO VII
+
+DA POLÍTICA DE SEGURANÇA CIBERNÉTICA DO PODER JUDICIÁRIO
+
+Art. 22. A PSEC-PJ tem a finalidade de prover os princípios, objetivos e instrumentos capazes de assegurar a Segurança Cibernética no Poder Judiciário.
+
+Art. 23. São princípios da PSEC-PJ:
+
+I – segurança jurídica;
+
+II – respeito e promoção dos direitos humanos e das garantias fundamentais, em especial a liberdade de expressão, a proteção de dados pessoais, a proteção de privacidade e o acesso à informação;
+
+III – visão abrangente e sistêmica da segurança cibernética;
+
+IV – integração, cooperação e intercâmbio científico e tecnológico relacionado à segurança cibernética entre os órgãos da Administração Pública Federal e do meio acadêmico;
+
+V – educação e inovação como alicerce fundamental para o fomento da cultura em segurança cibernética;
+
+VI – orientação à gestão de riscos e à gestão da segurança da informação;
+
+VII – prevenção, tratamento e resposta a incidentes cibernéticos;
+
+VIII – articulação entre as ações de segurança cibernética e de proteção de dados e ativos de informação; e
+
+IX – garantia ao sigilo das informações imprescindíveis à segurança da sociedade e do Estado e inviolabilidade da vida privada, da honra e da imagem das pessoas.
+
+Art. 24. São objetivos da PSEC-PJ:
+
+I – contribuir para a segurança do indivíduo, da sociedade e do Estado, por meio de ações de segurança cibernética, observados os direitos e as garantias fundamentais;
+
+II – fomentar as atividades de pesquisa científica, de desenvolvimento tecnológico e de inovação relacionadas à segurança cibernética;
+
+III – aprimorar continuamente o arcabouço normativo relacionado à segurança cibernética;
+
+IV – fomentar a formação e a qualificação dos recursos humanos necessários à área de segurança cibernética;
+
+V – fortalecer a cultura de segurança cibernética no âmbito do Poder Judiciário;
+
+VI – aprimorar o nível de maturidade em segurança cibernética no Poder Judiciário;
+
+VII – orientar ações relacionadas:
+
+a) à gestão em segurança da informação;
+
+b) à segurança da informação das infraestruturas críticas;
+
+c) ao tratamento das informações com restrições de acesso;
+
+d) à proteção dos dados pessoais e dos dados pessoais sensíveis, em conformidade com legislação específica;
+
+e) à prevenção, ao tratamento e à resposta a incidentes cibernéticos;
+
+f) à gestão e operação de equipe de tratamento e resposta a incidentes cibernéticos;
+
+g) ao estabelecimento dos níveis de maturidade em segurança cibernética; e
+
+h) ao estabelecimento de processo transparente de comunicação e respostas a incidentes entre o poder público e a sociedade.
+
+Art. 25. São instrumentos da PSEC-PJ:
+
+I – a Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ);
+
+II – o Protocolo de Prevenção de Incidentes Cibernéticos no âmbito do Poder Judiciário (PPINC-PJ);
+
+III – o Protocolo de Gerenciamento de Crises Cibernéticas no âmbito do Poder Judiciário (PGCC-PJ);
+
+IV – o Protocolo de Investigação para Ilícitos Cibernéticos no âmbito do Poder Judiciário (PIILC-PJ).
+
+§ 1º  Os protocolos previstos neste artigo deverão ser revisados sempre que necessário, por ato do Presidente do CNJ.
+
+§ 2º Além dos protocolos previstos nesta Resolução, serão aprovados por ato do Presidente do CNJ os Manuais de Referência para o gerenciamento, controle e padrões necessários ao aperfeiçoamento da segurança cibernética.
+
+Art. 26. Todos os órgãos do Poder Judiciário, à exceção do STF, deverão adotar e seguir, além dos Manuais de Referência para o gerenciamento, controle e padrões necessários ao aperfeiçoamento da segurança cibernética, o PPINC-PJ, que deverá contemplar um conjunto de diretrizes para a prevenção a incidentes cibernéticos em seu mais alto nível; o PGCC-PJ, objetivando contribuir para a resiliência corporativa por meio de resposta, tão célere e eficiente quanto possível, a incidentes em que os ativos de informação do Poder Judiciário tenham a sua integridade, confidencialidade ou disponibilidade comprometidos em larga escala ou por longo período; e o PIINC-PJ, com a finalidade de estabelecer os procedimentos básicos para coleta e preservação de evidências, bem como para comunicar fatos penalmente relevantes aos órgãos de investigação e com atribuição para o início da persecução penal.
+
+Parágrafo único. O PGCC-PJ complementa o PPINC-PJ e prevê as ações responsivas a serem colocadas em prática quando ficar evidente que um incidente de segurança cibernética não será mitigado rapidamente e poderá durar por tempo indeterminado.
+
+Art. 27. Considerado o incidente como crise cibernética, o Comitê de Crise deverá ser acionado, nos termos do Protocolo de Gerenciamento de Incidentes e de Crises Cibernéticas.
+
+Art. 28. Cada tribunal, com exceção do STF, deverá estabelecer em sua Política de Segurança da Informação ações para:
+
+I – realizar a Gestão dos Ativos de Informação e da Política de Controle de Acesso;
+
+II – criar controles para o tratamento de informações com restrição de acesso;
+
+III – promover treinamento contínuo e certificação internacional dos profissionais diretamente envolvidos na área de segurança cibernética;
+
+IV – estabelecer requisitos mínimos de segurança cibernética nas contratações e nos acordos que envolvam a comunicação com outros órgãos;
+
+V – utilizar os recursos de soluções de criptografia, ampliando o uso de assinatura eletrônica, conforme legislações específicas; e
+
+VI – comunicar e articular as ações de segurança da informação com a alta administração do órgão.
+
+ 
+
+CAPÍTULO VIII
+
+DA GESTÃO DE USUÁRIOS
+
+Art. 29. Cada órgão do Poder Judiciário, com exceção do STF, deverá implementar a gestão de usuários de sistemas informatizados composta de:
+
+I – gerenciamento de identidades;
+
+II – gerenciamento de acessos; e
+
+III – gerenciamento de privilégios.
+
+Parágrafo único. A gestão de usuários será disciplinada por ato do Presidente do CNJ, que definirá o padrão a ser adotado para utilização de credenciais de login único e interface de interação dos sistemas, com o objetivo de uniformizar e garantir a experiência única de interação com os sistemas judiciais.
+
+ 
+
+CAPÍTULO IX
+
+DA POLÍTICA DE CULTURA E EDUCAÇÃO EM SEGURANÇACIBERNÉTICA
+
+Art. 30. Fica instituída, no âmbito dos órgãos do Poder Judiciário, à exceção do STF, a Política de Cultura e Educação em Segurança Cibernética no âmbito do Poder Judiciário (PCESC-PJ).
+
+Parágrafo único. A PCESC-PJ será disciplinada por ato do Presidente do CNJ.
+
+ 
+
+CAPÍTULO X
+
+DO ORÇAMENTO
+
+Art. 31. Para execução das ações estratégicas, os órgãos do Poder Judiciário, objeto desta norma, deverão destinar os recursos orçamentários necessários.
+
+Parágrafo único. Os recursos orçamentários deverão ser discriminados em rubrica específica para possibilitar que a Governança Nacional em Segurança Cibernética possa avaliar, de forma clara, os investimentos no setor.
+
+ 
+
+CAPÍTULO XI
+
+DAS DISPOSIÇÕES FINAIS
+
+Art. 32. Poderão ser instituídos planos de ações para detalhar a forma de aplicação da presente estratégia de segurança cibernética de acordo com a prioridade definida pelo CGSI-PJ.
+
+Art. 33. Outros instrumentos complementares poderão ser elaborados e formalizados em normativos específicos do órgão desde que não contrariem as disposições estabelecidas nesta Resolução.
+
+Art. 34. Ficam revogadas as Resoluções CNJ nº 360/2020; nº 361/2020 e nº 362/2020.
+
+Art. 35. Ficam revogados os arts. 39 e 40 da Resolução CNJ nº 370/2021.
+
+Art. 36. Esta Resolução entra em vigor na data de sua publicação.
+
+ 
+
+Ministro LUIZ FUX
+
+
+Portaria Nº 162 de 10/06/2021
+
+Aprova Protocolos e Manuais criados pela Resolução CNJ nº 396/2021, que instituiu a Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ).
+
+O PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA (CNJ), no uso de suas atribuições legais e regimentais e nos termos da Resolução CNJ no 396/2021,
+
+CONSIDERANDO a Lei no 13.709/2018 (Lei Geral de Proteção de Dados); a Lei no 12.965/2014 (Marco Civil da Internet); o Decreto no 8.771/2016; a Lei no 12.527/2011 (Lei de Acesso à Informação); bem como as Resoluções CNJ no 121/2010 e no 215/2015 e a Recomendação CNJ no 73/2020;
+
+CONSIDERANDO a Portaria CNJ no 242/2020, que institui o Comitê de Segurança Cibernética do Poder Judiciário e dispõe sobre a normatização para criação do Centro de Tratamento de Incidentes de Segurança Cibernética (CTISC) do CNJ, que funcionará como canal oficial para orquestração e divulgação de ações preventivas e corretivas, em caso de ameaças ou de ataques cibernéticos;
+
+CONSIDERANDO a Instrução Normativa GSI no 1/2020, que dispõe sobre a Estrutura de Gestão da Segurança da Informação nos órgãos e nas entidades da Administração Pública Federal;
+
+CONSIDERANDO a Norma Complementar no 04/IN01/DSIC/GSIPR, que estabelece Diretrizes para o processo de Gestão de Riscos de Segurança da Informação e Comunicações (GRSIC) nos órgãos e entidades da Administração Pública Federal;
+
+CONSIDERANDO a Norma Complementar no 06/IN01/DSIC/GSIPR, que estabelece Diretrizes para Gestão de Continuidade de Negócios, nos aspectos relacionados à Segurança da Informação e Comunicações, nos órgãos e entidades da Administração Pública Federal, direta e indireta (APF);
+
+CONSIDERANDO a Norma Complementar no 08/IN01/DSIC/GSIPR, que estabelece as Diretrizes para Gerenciamento de Incidentes em Redes Computacionais nos órgãos e entidades da Administração Pública Federal;
+
+CONSIDERANDO a Norma Complementar no 21/IN01/DSIC/GSIPR, que estabelece as Diretrizes para o Registro de Eventos, Coleta e Preservação de Evidências de Incidentes de Segurança em Redes nos órgãos e entidades da Administração Pública Federal, direta e indireta;
+
+CONSIDERANDO os termos da Resolução CNJ no 370/2021, que estabelece a nova Estratégia Nacional de Tecnologia da Informação e Comunicação do Poder Judiciário (ENTIC-JUD) e as diretrizes para sua governança, gestão e infraestrutura;
+
+CONSIDERANDO a importância de se estabelecer objetivos, princípios e diretrizes de Segurança da Informação alinhados às recomendações constantes da norma NBR ISO/IEC 27001:2013, que trata da segurança da informação;
+
+CONSIDERANDO a importância de se estabelecer objetivos, princípios e diretrizes de Gestão de Riscos de Segurança da Informação alinhados às recomendações constantes da norma NBR ISO/IEC 27005:2019, que trata da gestão de riscos de segurança da informação;
+
+CONSIDERANDO que os ataques cibernéticos têm se tornado cada vez mais avançados e com alto potencial de prejuízo, cujo alcance e complexidade não têm precedentes; que os impactos financeiros, operacionais e de reputação podem ser imediatos e significativos; e que é fundamental aprimorar a capacidade do Poder Judiciário coordenar pessoas, desenvolver recursos e aperfeiçoar processos, visando minimizar danos e  agilizar o restabelecimento da condição de normalidade em caso de ocorrência de ataques cibernéticos de grande impacto;
+
+ 
+
+RESOLVE:
+
+ 
+
+Art. 1o Aprovar os Anexos I, II e III, desta Portaria, que contêm os seguintes protocolos:
+
+I – Prevenção de Incidentes Cibernéticos do Poder Judiciário (PPINC-PJ);
+
+II – Gerenciamento de Crises Cibernéticas do Poder Judiciário (PGCRC-PJ); e
+
+III – Investigação de Ilícitos Cibernéticos do Poder Judiciário (PIILC-PJ).
+
+Art. 2o Aprovar os Anexos IV, V, VI e VII desta Portaria, que contêm os seguintes Manuais:
+
+I – Proteção de Infraestruturas Críticas de TIC;
+
+II – Prevenção e Mitigação de Ameaças Cibernéticas e Confiança Digital;
+
+III – Gestão de Identidades; e
+
+IV – Política de Educação e Cultura em Segurança Cibernética do Poder Judiciário.
+
+Art. 3o Aprovar o glossário de termos técnicos, constante do Anexo VIII, aplicáveis nos documentos de Segurança Cibernética produzidos pelo Comitê Gestor de Segurança Cibernética do Poder Judiciário e de quaisquer discussões acerca deles.
+
+Art. 4o Os protocolos e manuais aprovados neste ato serão objeto de atualização a qualquer tempo por indicação do Comitê Gestor de Segurança Cibernética do Poder Judiciário.
+
+Art. 5o Os protocolos e manuais aprovados por este ato deverão ser implementados por todos os órgãos do Poder Judiciário, com exceção do Supremo Tribunal Federal.
+
+Art. 6o Ficam revogadas a Portaria CNJ no 290/2020, no 291/2020 e a no 292/2020.
+
+Art. 7o Esta Portaria entrará em vigor 120 (cento e vinte) dias da data de sua publicação, excetuando-se os anexos I, II e III, que passam a vigorar na data de sua publicação.
+
+ 
+
+Ministro LUIZ FUX
+
