@@ -111,6 +111,7 @@ def main():
     formatted_text = formatted_text.replace("I.A", "Inteligência Artificial")
 
     # Parágrafo
+    formatted_text = formatted_text.replace("§§", "Parágrafos ")
     formatted_text = formatted_text.replace("§ ", "Parágrafo ")
     formatted_text = formatted_text.replace("§", "Parágrafo ")
 
