@@ -107,6 +107,16 @@ def main():
     formatted_text = formatted_text.replace(" n. ", " número ")
     formatted_text = formatted_text.replace(" N. ", " número ")
 
+    # IA - evita interpretar a letra "I" como um numeral
+    formatted_text = formatted_text.replace("I.A", "Inteligência Artificial")
+    formatted_text = formatted_text.replace("IA", "Inteligência Artificial")
+
+    # Parágrafo
+    formatted_text = formatted_text.replace("§ ", "Parágrafo ")
+    formatted_text = formatted_text.replace("§", "Parágrafo ")
+
+    # Retirar
+    formatted_text = formatted_text.replace("(Vigência)", "")
 
     # Números romanos
     for i in range(1, 150):
@@ -122,13 +132,9 @@ def main():
         formatted_text = formatted_text.replace(f" {int_to_roman(i)}\n", f" {i}\n")
         formatted_text = formatted_text.replace(f"\n{int_to_roman(i)} ", f"\n{i} ")
         formatted_text = formatted_text.replace(f" {int_to_roman(i)},", f" {i},")
-        formatted_text = formatted_text.replace(f" {int_to_roman(i)}.", f" {i}.")
+        #formatted_text = formatted_text.replace(f" {int_to_roman(i)}.", f" {i}.")
         formatted_text = formatted_text.replace(f" {int_to_roman(i)}-", f" {i} -")
         formatted_text = formatted_text.replace(f"\n{int_to_roman(i)} – ", f"\n{i} – ")
-        
-
-    # Parágrafo
-    formatted_text = formatted_text.replace("§ ", "Parágrafo ")
 
     destination_file_path.write(formatted_text)
 
