@@ -108,7 +108,7 @@ def main():
     formatted_text = formatted_text.replace(" N. ", " número ")
 
     # IA - evita interpretar a letra "I" como um numeral
-    formatted_text = formatted_text.replace("I.A", "Inteligência Artificial")
+    formatted_text = formatted_text.replace("I.A.", "IA")
 
     # Parágrafo
     formatted_text = formatted_text.replace("§§", "Parágrafos ")
