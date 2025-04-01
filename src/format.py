@@ -79,7 +79,7 @@ def main():
     formatted_text = formatted_text.replace("8o ", "8º ")
     formatted_text = formatted_text.replace("9o ", "9º ")
 
-    # Às vezes os números perdem o "º" na cópia a viram a graus "°"
+    # Às vezes os números perdem o "º" na cópia a viram graus "°"
     #formatted_text = formatted_text.replace("1° ", "1º ")
     #formatted_text = formatted_text.replace("2° ", "2º ")
     #formatted_text = formatted_text.replace("3° ", "3º ")
@@ -106,6 +106,12 @@ def main():
     formatted_text = formatted_text.replace(" Nº ", " número ")
     formatted_text = formatted_text.replace(" n. ", " número ")
     formatted_text = formatted_text.replace(" N. ", " número ")
+
+    # Algumas leis possuem erros no "número" (adicionam um espaço extra), então vou corrigí-lo
+    formatted_text = formatted_text.replace(" n ° ", " número ")
+    formatted_text = formatted_text.replace(" N ° ", " número ")
+    formatted_text = formatted_text.replace(" n º ", " número ")
+    formatted_text = formatted_text.replace(" N º ", " número ")
 
     # IA - evita interpretar a letra "I" como um numeral
     formatted_text = formatted_text.replace("I.A.", "IA")
