@@ -113,6 +113,14 @@ def main():
     formatted_text = formatted_text.replace(" n º ", " número ")
     formatted_text = formatted_text.replace(" N º ", " número ")
 
+    # Plural
+    formatted_text = formatted_text.replace(" n°s ", " números ")
+    formatted_text = formatted_text.replace(" N°s ", " números ")
+    formatted_text = formatted_text.replace(" nºs ", " números ")
+    formatted_text = formatted_text.replace(" Nºs ", " números ")
+    formatted_text = formatted_text.replace(" n.s ", " números ")
+    formatted_text = formatted_text.replace(" N.s ", " números ")
+
     # IA - evita interpretar a letra "I" como um numeral
     formatted_text = formatted_text.replace("I.A.", "IA")
 
