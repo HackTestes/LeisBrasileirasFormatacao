@@ -2,6 +2,11 @@
 
 Foco é formatar leis brasileiras para leitores de texto.
 
+## Como eliminar texto riscado
+
+* Se a lei umsa uma tag `strike`, basta adicionar um estilo CSS no painel de Debug do Chrome (estilo: `Display: None`)
+* Se a linha for um estilo em si, devemos salvar a página web (`CTRL + S`) e abrir em um editor de texto que possua a funcionalidade de "mudar todas as ocorrências" (VSCode). Em seguida, substitua todas os estilos de linha por `Display: None` e renderize o resultado final em um navegador web
+
 ## Comandos
 
 * Formatar
