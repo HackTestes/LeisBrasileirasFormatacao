@@ -7,6 +7,9 @@ Foco é formatar leis brasileiras para leitores de texto.
 * Se a lei umsa uma tag `strike`, basta adicionar um estilo CSS no painel de Debug do Chrome (estilo: `Display: None`)
 * Se a linha for um estilo em si, devemos salvar a página web (`CTRL + S`) e abrir em um editor de texto que possua a funcionalidade de "mudar todas as ocorrências" (VSCode). Em seguida, substitua todas os estilos de linha por `Display: None` e renderize o resultado final em um navegador web
 
+    * `text-decoration:line-through` -> `display:none`
+    * `<style>strike{display: none;};</style>`
+
 ## Encoding
 
 * Algumas leis não usam UTF-8 e podem quebrar ao salvar como UTF-8 em um editor de texto. É necessário descobrir o encoding correto da página web e depois abrir com ele no editor. Muitas leis usam o: `windows-1252`
