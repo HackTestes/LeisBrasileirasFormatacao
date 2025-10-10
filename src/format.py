@@ -1,4 +1,6 @@
 import sys
+import re
+from datetime import date
 
 class InsufficientArgs(Exception):
     pass
@@ -48,7 +50,8 @@ def main():
     if destination_path[-1] != "\\":
         raise DstPathNotADirectory("Destination path is not a directory")
 
-    destination_file_path = open(destination_path + source_path.split("\\")[-1].replace(".txt", "_altered.txt"), "w", encoding='utf-8')
+    # Also append the date, so we can differentiate newer files
+    destination_file_path = open(destination_path + source_path.split("\\")[-1].replace(".txt", f"_altered_{date.today().strftime("%d-%m-%Y")}.txt"), "w", encoding='utf-8')
 
     print(separator)
     print(f"Source path: {source_path}")
@@ -131,6 +134,19 @@ def main():
 
     # Retirar
     formatted_text = formatted_text.replace("(Vigência)", "")
+    formatted_text = formatted_text.replace("Vigência \n", "")
+    formatted_text = formatted_text.replace("(Regulamento)", "")
+
+    # \( ou \) : são os parêntes literais já que é uma caracter especial
+    # [\n\)] : representa uma bquebra de linha OU o fechamento de parênteses
+    # ^ : negação (faz match com o oposto)
+    # [^\n\)]* : faz match com 0 ou mais caracteres que não são uma quebra de linha OU fechamento de parênteses (isso permmite subtituir todo o texto dentro)
+    # A ideia é substituir todo o texto dentro do parêntes e se ele não estiver fechado, parar na quebra de linha
+    formatted_text = re.sub(r'\(Incluído pel[^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Redação dada pel[^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Vide [^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Regulamento Dec. [^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Revogado pel[^\n\)]*[\n\)]', "Revogado", formatted_text, flags=re.IGNORECASE)
 
     # Números romanos
     for i in range(1, 150):
