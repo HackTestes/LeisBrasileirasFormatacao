@@ -1,0 +1,34 @@
+Engenharia de requisitos
+
+1 Requisitos funcionais: Apresentam descrições dos serviços que devem ser oferecidos, do modo como o software deve reagir a determinadas entradas e de como o sistema deve se comportar em determinadas situações.
+
+2 Requisitos inversos: Em alguns casos, os requisitos funcionais podem explicitar o que o sistema não deve fazer.
+
+3 Requisitos não funcionais: São restrições aos serviços e funções do sistema. Inclui nessa definição as restrições de tempo, as relacionadas ao processo de desenvolvimento e as decorrentes da utilização de padrões. Requisitos não funcionais podem ser aplicados ao sistema como um todo ou a determinada funcionalidade do sistema. Inclui requisitos regulatórios, éticos e legais 
+
+4 Requisitos de domínio: são apresentados por Sommerville como sendo derivados do domínio da aplicação do sistema. Eles podem se constituir de novos requisitos funcionais, restrições a requisitos funcionais (requisitos não funcionais) ou definir como uma computação deve ocorrer (também requisitos funcionais)
+
+5 Requisitos Voláteis são específicos para a instanciação de um sistema em um ambiente particular e para um cliente particular. Caracterizam-se pela modificação ao longo do desenvolvimento (ou quando o sistema já está em uso). Eles podem ser classificados em quatro tipos:
+
+5.1 Requisitos mutáveis: São os requisitos que mudam em função de mudanças no ambiente no qual o sistema opera. Por exemplo, os requisitos para um sistema que calcula taxas de dedução, o qual evolui conforme as leis de taxação mudam
+
+5.2 Requisitos emergentes: São os requisitos que não podem ser completamente definidos quando o sistema é especificado, “emergindo” quando o sistema está sendo projetado e implementado. Conforme os stakeholders veem exemplos de apresentações possíveis (nossos famosos protótipos), podem ser pensadas novas maneiras de exibição da informação mais úteis ao negócio.
+
+5.3 Requisitos consequentes: São os requisitos baseados em suposições de como o sistema será utilizado. Ou seja, são requisitos que aparecem como consequência da operação do sistema.
+
+5.4 Requisitos de compatibilidade: São os requisitos que dependem de outro equipamento ou processo. Conforme muda esse equipamento (ou processo), os requisitos também mudam.
+
+6 Requisitos de usuário descrevem as funções e restrições do sistema de forma abstrata, tendo como premissa a capacidade de entendimento pelo usuário ou cliente.  São levantados tendo como ponto de vista as necessidades da empresa e não indicam uma solução tecnológica. São escritos em linguagem natural com diagramas simples (ex. tabelas).
+
+7 requisitos do sistema são descrições mais detalhadas das funções, serviços e restrições operacionais do sistema de software, devendo ser padronizados, completos e consistentes. São usados pela equipe de desenvolvimento e fazem parte do contrato.
+
+........................................................
+
+Implantação da Função de Qualidade (IFQ): técnica que traduz as necessidades do cliente para requisitos técnicos do software. A IFQ concentra-se em maximizar a satisfação do cliente a partir do processo de engenharia de software. A IFQ identifica três tipos de requisitos:
+
+1 Os requisitos normais são aqueles informados pelo usuário.
+
+2 Já os requisitos esperados são aqueles que o usuário não informou, porém, em sua percepção, esse requisito é óbvio e não necessita ser listado. 
+
+3 Por fim, existem os requisitos excitantes (ou fascinantes), que vão além da expectativa do usuário.
+

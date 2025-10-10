@@ -1,0 +1,95 @@
+PMBok
+
+Definição: o guia de padrão de gerenciamento de projetos
+
+........................................................
+
+Glossário
+
+1 Resultado - Consequência final de um processo ou projeto; Podem incluir produtos e artefatos, mas têm uma intenção mais ampla, concentra se nos benefícios e no valor que o projeto deve entregar.
+
+2 Portfólio - Projetos, programas, subportfólios e operações gerenciadas em grupo para alcançar objetivos estratégicos. 
+
+3 Programa - Um grupo relacionado de projetos, subprogramas e atividades de programa gerenciados de forma coordenada para a obtenção de benefícios que não estariam disponíveis se eles fossem gerenciados individualmente.
+
+4 Projeto - Um esforço temporário empreendido para criar um produto, serviço ou resultado único. A natureza temporária indica um início e um fim para o trabalho ou fase do projeto. 
+
+5 Produto - Um artefato produzido, quantificável e que pode ser um item final ou um item componente (intermediário).
+
+6 Gerenciamento de projetos - A aplicação de conhecimentos, habilidades, ferramentas e técnicas às atividades do projeto para cumprir os requisitos definidos
+
+7 Gerente de projeto - A pessoa designada pela organização executora para liderar a equipe do projeto, responsável por alcançar seus objetivos
+
+8 Equipe do projeto - Um grupo de indivíduos que executa o trabalho do projeto para alcançar seus objetivos.
+
+9 Sistema de entrega de valor - Uma coleção de atividades estratégicas de negócios destinadas a construir, sustentar e/ou promover uma organização; Portfólios, programas, projetos, produtos e operações podem fazer parte do sistema de uma organização para entrega de valor. 
+
+10 Valor - O benefício, a importância ou a utilidade de algo.
+
+11 Entrega - Qualquer produto, capacidade ou resultado, únicos e verificáveis, para executar um serviço necessário para produzir ou concluir um processo, fase ou projeto. 
+
+12 Cadência - Um ritmo de atividades realizadas ao longo do projeto.
+
+13 Fase do projeto - Uma coleção de atividades de projeto logicamente relacionadas que culmina na conclusão de uma ou mais entregas.
+
+14 Ciclo de vida do projeto - Uma série de fases pelas quais um projeto passa desde seu início até sua conclusão. 
+
+........................................................
+
+Como projetos produzem valor?
+
+- Criação de um novo produto, serviço ou resultado;
+- Criação de contribuições positivas, sociais ou ambientais;
+- Aprimoramento da eficiência, a produtividade, a eficácia ou a capacidade de resposta;
+- Viabilização das mudanças necessárias para facilitar a transição organizacional para seu futuro estado desejado.
+
+
+........................................................
+
+4 valores:
+
+1 Equidade
+2 Responsabilidade
+3 Respeito
+4 Honestidade
+
+........................................................
+
+Princípios
+
+1 Seja um administrador diligente, respeitoso e atencioso
+
+2 Crie um ambiente colaborativo para a equipe do projeto
+
+3 Envolva-se de fato com as partes interessadas
+
+4 Concentre-se no valor
+
+5 Reconheça, avalie e reaja às interações do sistema
+
+6 Demonstre comportamentos de liderança
+
+7 Faça a adaptação de acordo com o contexto
+
+8 Crie qualidade nos processos e nas entregas
+
+9 Navegue pela complexidade
+
+10 Otimize as respostas ao risco
+
+11 Adote a capacidade de adaptação e resiliência
+
+12 Aceite a mudança para alcançar o futuro estado previsto
+
+........................................................
+
+Domínios de desempenho 
+
+1 Partes interessadas
+2 Abordagem de desenvolvimento e ciclo de vida
+3 Trabalho do projeto
+4 Medição
+5 Equipe
+6 Planejamento
+7 Entrega
+8 Incerteza

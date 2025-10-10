@@ -1,0 +1,107 @@
+Scrum
+
+........................................................
+
+Valores
+
+1 Compromisso
+2 Foco
+3 Abertura
+4 Respeito
+5 Coragem
+
+........................................................
+
+Time Scrum
+
+Os Times Scrum são multifuncionais, o que significa que os membros possuem todas as 
+habilidades necessárias para criar valor a cada Sprint. Eles também são autogerenciáveis, o 
+que significa que decidem internamente quem faz o quê, quando e como.
+
+Papéis:
+
+1 Developers
+2 Product Owner (P O)
+3 Scrum Master 
+
+........................................................
+
+Sprint
+
+São eventos de duração fixa de um mês ou menos para criar consistência. Uma nova Sprint 
+começa imediatamente após a conclusão da Sprint anterior. 
+
+Restrições:
+
+- Nenhuma mudança é feita que coloque em risco a meta da Sprint;
+
+- A qualidade não diminui; 
+
+- O Product Backlog é refinado conforme necessário; e, 
+
+- O escopo pode ser esclarecido e renegociado com o Product Owner conforme mais é 
+aprendido. 
+
+........................................................
+
+Eventos
+
+1 Sprint Planning
+2 Daily Scrums
+3 Sprint Review
+4 Sprint Retrospective
+
+
+Descrição
+
+1 Sprint Planning:
+
+Inicia a Sprint ao definir o trabalho a ser realizado na Sprint. Tem um Timebox definido com duração máxima de oito horas para uma Sprint de um mês. Para Sprints mais curtas, o evento geralmente é mais curto.
+
+
+2 Daily Scrums
+
+O propósito é inspecionar o progresso em direção a Meta da Sprint e adaptar o Sprint Backlog conforme necessário, ajustando o próximo trabalho planejado. É um evento de 15 minutos para os Developers do Scrum Team. Para reduzir a complexidade, é realizado no mesmo horário e local, todos os dias úteis da Sprint. Não é o único momento em que os Developers podem ajustar seu plano. Eles costumam se reunir ao longo do dia para discussões mais detalhadas.
+
+
+3 Sprint Review
+
+O propósito é inspecionar o resultado da Sprint e determinar as adaptações futuras. O Scrum Team apresenta os resultados de seu trabalho para os principais stakeholders e o progresso em direção a Meta do Produto é discutido. o Scrum Team e os stakeholders revisam o que foi realizado na Sprint e o que mudou em seu ambiente. Scrum Team deve evitar limitá-la a uma apresentação.
+
+A Sprint Review é o penúltimo evento da Sprint e tem um Timebox com prazo máximo de quatro horas para uma Sprint de um mês
+
+
+4 Sprint Retrospective
+
+O propósito é planejar maneiras de aumentar a qualidade e a eficácia. O Scrum Team inspeciona como foi a última Sprint em relação a indivíduos, interações, processos, ferramentas e sua Definição de Pronto. O Scrum Team discute o que deu certo durante a Sprint, quais problemas encontraram e como esses problemas foram (ou não) resolvidos.
+
+O Scrum Team identifica as mudanças mais úteis para melhorar sua eficácia. As melhorias mais impactantes são endereçadas o mais rápido possível.
+
+A Sprint Retrospective conclui a Sprint. É limitada pelo Timebox de no máximo três horas para uma Sprint de um mês.
+
+........................................................
+
+Artefatos
+
+Os artefatos do Scrum representam trabalho ou valor. Cada artefato contém um compromisso para garantir que ele forneça informações que 
+aumentem a transparência e o foco contra o qual o progresso pode ser medido:
+
+- Para o Product Backlog, é a Meta do produto.
+
+- Para o Sprint Backlog, é a Meta da Sprint. 
+
+- Para o incremento, é a Definição de Pronto
+
+O Product Backlog é uma lista ordenada e emergente do que é necessário para melhorar o produto
+
+A Meta do Produto descreve um estado futuro do produto que pode servir como um alvo para o Scrum Team planejar. A Meta do Produto é o objetivo de longo prazo para o Scrum Team
+
+O Sprint Backlog é composto pela Meta da Sprint (por que), o conjunto de itens do Product Backlog selecionados para a Sprint (o que), bem como um plano de ação para entregar o Incremento (como). O Sprint Backlog é um plano feito por e para os Developers.
+
+A Meta da Sprint é o único objetivo da Sprint.
+
+Um incremento é um trampolim concreto em direção a Meta do produto. A fim de fornecer valor, o incremento deve ser utilizável. Vários incrementos podem ser criados em uma Sprint. A soma dos incrementos é apresentada na Sprint Review, apoiando assim o empirismo. A Sprint Review nunca deve ser considerada um marco para liberar valor.
+
+O trabalho não pode ser considerado parte de um incremento a menos que atenda a Definição de Pronto.
+
+A Definição de Pronto é uma descrição formal do estado do Incremento quando ela atende às medidas de qualidade exigidas para o produto. 

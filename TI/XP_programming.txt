@@ -1,0 +1,45 @@
+XP programação extrema
+
+Definição: framework ágil de desenvolvimento de software que busca produzir software de mais alta qualidade e com uma qualidade de vida melhor para o time de desenvolvimento.
+
+........................................................
+
+Valores
+
+1 Communicação
+2 Simplicidade
+3 Feedback
+4 Coragem 
+5 Respeito
+
+........................................................
+
+Práticas
+
+1 O Jogo do Planejamento
+2 Pequenos lançamentos
+3 Metáfora
+4 Design simples
+5 Testes (T D D)
+6 Refatoração
+7 Programação em pares
+8 Propriedade coletiva
+9 Integração contínua
+10 Semana de 40 horas
+11 Cliente presencial
+12 Padrão de codificação
+
+Descrição
+
+1 O Jogo do Planejamento: determinar rapidamente o escopo do próximo lançamento
+2 Pequenos lançamentos: mesmo que entrega contínua
+3 Metáfora: é uma linguagem comum que todos devem possuir
+4 Design simples: mantém-se o projeto o mais simples possível, modificando-o quando for necessário suportar mais funcionalidade
+5 Testes (T D D): aplicação da metodologia TDD Test Driven Design
+6 Refatoração: significa melhorar o código sem alterar sua funcionalidade
+7 Programação em pares: Trata-se de duas pessoas trabalhando com UMA máquina onde um codifica, e o outro critica ou dá sugestões. Os pares trocam de lugar periodicamente
+8 Propriedade coletiva: Todos podem modificar o código a qualquer momento. Códigos não pertencem a apenas uma pessoa. A melhor forma de evitarmos problemas como trocas de pessoas da equipe e com isso a perda de conhecimento. Todos mexem em todas as partes do programa e conhecem de tudo um pouco (rodízio de desenvolvedores em diferentes partes do código)
+9 Integração contínua: Todo código deve ser integrado diariamente e todos testes devem passar antes e depois da integração
+10 Semana de 40 horas: equilíbrio entre descanso e trabalho (se o descanso não é adequado, o trabalho fica prejudicado)
+11 Cliente presencial: O cliente deve participar ativamente do processo de desenvolvimento
+12 Padrão de codificação: estabelecer regras para programar e todos devem seguir essas regras

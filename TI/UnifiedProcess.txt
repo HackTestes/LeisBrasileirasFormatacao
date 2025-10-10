@@ -1,0 +1,80 @@
+Processo Unificado (R U P - RUP)
+
+O processo unificado, também conhecido como RUP (Rational Unified Process), é um framework que visa apoiar o desenvolvimento de software. 
+
+........................................................
+
+Características:
+
+1 Iterativo e incremental
+
+2 Guiado por casos de uso
+
+3 Centrado na arquitetura
+
+4 Orientado a objetos
+
+5 Focado em riscos
+
+........................................................
+
+4 fases do RUP:
+
+1 concepção
+2 elaboração
+3 construção
+4 transição.
+
+1 Concepção: fase responsável pela definição do escopo do projeto, ou seja, as tarefas que o projeto se propõe a entregar. Normalmente, efetua-se o levantamento inicial de requisitos nesta etapa.
+
+2 Elaboração: fase em que se concentra a análise do projeto, incluindo planejamento, especificações detalhadas e arquitetura do sistema. Apesar do nome, a elaboração também contempla o início da codificação.
+
+3 Construção: fase caracterizada pela codificação e testes de sistema propriamente ditos.  Ações relativas à implantação no ambiente também realizam-se massivamente nesta etapa.
+
+4 Transição: última fase do projeto, que contempla majoritariamente a conclusão dos testes e a implantação do sistema no ambiente. Se necessários, acertos finais no código também são bem-vindos.
+
+........................................................
+
+9 disciplinas do RUP:
+
+1 modelagem de negócios
+2 requisitos
+3 análise e design
+4 implementação
+5 teste
+6 implantação
+7 gerenciamento de configuração e mudança
+8 gerenciamento de projeto
+9 ambiente
+
+1 Modelagem de negócios: identifica o contexto de negócios do sistema, incluindo o funcionamento da organização em que a solução será implantada.
+
+2 Requisitos: alinhamento do que o sistema deve fazer, ou seja, definição das funcionalidades necessárias ao sistema, segundo as expectativas do cliente.
+
+3 Análise e design: definição da arquitetura do sistema, de acordo com os requisitos levantados na etapa anterior. Em outras palavras, é a fase responsável pela modelagem do projeto.
+
+4 Implementação: além de realizar a codificação da solução propriamente dita, em conformidade com a análise prévia realizada, esta etapa também contempla testes unitários.
+
+5 Teste: etapa que realiza a maior parte dos testes da aplicação, visando localizar e documentar defeitos na qualidade do software desenvolvido.
+
+6 Implantação: cria uma nova versão do produto, instalando-o no ambiente e distribuindo-a para a utilização dos usuários. Em outras palavras, essa é a etapa que coloca a solução em produção.
+
+7 Gerenciamento de configuração e mudança: responsável por gerenciar o versionamento do produto / itens de configuração, além de apoiar eventuais processos de mudança.
+
+8 Gerenciamento de projeto: conjunto de ações para realizar um apoio ao monitoramento e à gestão dos projetos de software. Fique atento, pois essa disciplina não tem relação com PMBOK (ao contrário, é bem mais simples).   
+
+9 Ambiente: etapa que disponibiliza as ferramentas necessárias no ambiente para o desenvolvimento do sistema, incluindo também configuração de hardware e software.
+
+........................................................
+
+3 perspectivas do RUP:
+
+1 dinâmica
+2 estática
+3 prática
+
+1 Dinâmica: perspectiva horizontal do gráfico de baleias, que mostra as fases do projeto ao longo do tempo.
+
+2 Estática: perspectiva vertical do gráfico de baleias, que mostra as disciplinas do projeto ao longo do tempo.
+
+3 Prática: recomendações de boas práticas para a utilização no projeto (nem todos os autores da literatura reconhecem esta perspectiva).  

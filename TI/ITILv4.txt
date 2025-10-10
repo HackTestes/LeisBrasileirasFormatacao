@@ -1,0 +1,134 @@
+Itil versão 4
+
+UTILIDADE: Funcionalidade, o que o serviço faz
+
+GARANTIA: atender aos requisitos - o modo como o serviço funciona - adequado ao uso - disponibilidade, capacidade, níveis de segurança e continuidade do serviço.
+
+........................................................
+
+Modelo 4 dimensões:
+
+1 Organizações e Pessoas; 
+2 Informação e Tecnologia; 
+3 Parceiros e Fornecedores;
+4 Fluxos de Valor e Processos. 
+
+Descrição
+
+1 Organizações e Pessoas: É importante assegurar que a organização tenha papeis, responsabilidades e 
+sistemas de autoridade bem definidos
+
+2 Informação e Tecnologia: Inclui toda informação e conhecimento técnico necessário para o gerenciamento de 
+serviços. 
+
+3 Parceiros e Fornecedores:  Esta dimensão inclui os relacionamentos da organização com outras que ajudam a projetar, desenvolver, implantar, entregar, suportar e melhorar os serviços. Também incorpora contratos e outros acordos com parceiros e fornecedores
+
+4 Fluxos de Valor e Processos:  Definem como as várias partes de uma organização trabalham de uma maneira coordenada e integrada para gerar valor na forma de produtos e serviços.  
+
+........................................................
+
+
+Sistema de valor de serviços: modelo que representa o modo como todos os componentes e atividades de uma organização funcionam em conjunto para facilitar a criação de valor. (não confundir com a cadeia de valor de serviço)
+
+1 Oportunidade e Demanda: Oportunidade: é a possibilidade de gerar valor ou melhorar a organização. Demanda: representa a necessidade ou desejo por produtos e serviços de clientes internos ou externos.
+
+2 Valor: Benefícios, utilidade ou importância percebidos em algo. 
+
+3 Princípios orientadores: Recomendações que podem orientar uma organização em todas as circunstâncias, independentemente das mudanças em suas metas, estratégias, tipo de trabalho ou estrutura de gerenciamento. Um princípio orientador é universal e duradouro. 
+
+4 Governança: Meio pelo qual uma organização é dirigida e controlada.
+
+5 Cadeia de valor de serviço ITIL: Modelo operacional para provedores de serviço que abrange todas as principais atividades necessárias ao gerenciamento eficaz de produtos e serviços.
+
+6 Práticas: Conjunto de recursos organizacionais destinado a executar um trabalho ou atingir um objetivo. 
+
+7 Melhoria Contínua: Prática que alinha as práticas e os serviços de uma organização com as necessidades de negócio em constante mudança através da identificação e da melhoria contínuas de todos os elementos envolvidos no gerenciamento efetivo de produtos e serviços
+
+........................................................
+
+Princípios
+
+Foque no valor 
+
+Comece onde você está 
+
+Progrida iterativamente com feedback
+
+Colabore e promova a visibilidade
+
+Pense e trabalhe de forma holística
+
+Mantenha a simplicidade e praticidade
+
+Otimize e automatize
+
+........................................................
+
+Atividades
+
+1 Engajar
+2 Planejar
+3 Projeto e Transição
+4 Obter ou Construir
+5 Entregar e Suportar
+6 Melhorar 
+
+1 Engajar: Prover entendimento sobre as necessidades dos stakeholders, transparência e bom relacionamento com as partes interessadas. 
+
+2 Planejar: Garantir entendimento da visão, estado atual, e direcionamento para produtos e serviços da organização. 
+
+3 Projeto e Transição: Garantir que as especificações (projeto/arquitetura) de produtos e serviços atendem às expectativas de qualidade, custo e prazos.
+
+4 Obter ou Construir: Produzir os componentes dos serviços, desenvolver softwares, adquirir infraestrutura, montar arquitetura de rede etc. 
+
+5 Entregar e Suportar: Garantir que os serviços estão sendo entregues aos usuários de acordo com os níveis acordados (atendimento e suporte). 
+
+6 Melhorar: Garantir a melhoria contínua dos serviços e descobrir oportunidades de aperfeiçoamento por meio de medições.
+
+........................................................
+
+Práticas
+
+Práticas de gerenciamento geral (Geral)
+
+1 Gerenciamento da arquitetura 
+2 Melhoria contínua 
+3 Gerenciamento da segurança da informação
+4 Gerenciamento do conhecimento
+5 Medição e relatórios 
+6 Gerenciamento da mudança organizacional
+7 Gerenciamento de portfólio
+8 Gerenciamento de projetos
+9 Gerenciamento de relacionamento
+10 Gerenciamento de riscos
+11 Gerenciamento financeiro de serviços
+12 Gerenciamento da estratégia
+13 Gerenciamento de fornecedor
+14 Gerenciamento de talento e força de trabalho 
+
+
+Práticas de gerenciamento de serviços (serviços)
+
+1 Gerenciamento da disponibilidade
+2 Análise de negócios
+3 Gerenciamento do desempenho e capacidade 
+4 Controle de mudanças
+5 Gerenciamento de incidentes 
+6 Gerenciamento de ativos de TI
+7 Gerenciamento de eventos e monitoramento
+8 Gerenciamento de problemas 
+9 Gerenciamento de liberação
+10 Gerenciamento de catálogo de serviços
+11 Gerenciamento de configuração de serviço
+12 Gerenciamento de continuidade de serviço
+13 Desenho de serviço
+14 Central de serviço
+15 Gerenciamento de nível de serviço 
+16 Gerenciamento de requisições de serviço 
+17 Teste e validação de serviço
+
+Práticas de gerenciamento técnico (técnico)
+
+1 Gerenciamento da implantação 
+2 Gerenciamento de plataforma e infraestrutura 
+3 Gerenciamento e desenvolvimento de software

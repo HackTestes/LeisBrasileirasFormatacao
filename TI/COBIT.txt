@@ -1,0 +1,87 @@
+Cobit 
+
+Definição: é um framework para a gestão e governança empresarial de Informação e Tecnologia. Ele define os componentes para construir e sustentar um sistema de governança além de definir fatores de projeto que devem ser considerados para realizar a governança sob medida
+
+........................................................
+
+Domínios
+
+1 Avaliar, Dirigir e Monitorar (A D M - adm) 
+2 Alinhar, Planejar e Organizar (A P O - apo)
+3 Construir, Adquirir e Implementar (C A I - cai)
+4 Entregar, Servir e Suportar (E S S - ess)
+5 Monitorar, Avaliar e Analisar (M A A - maa)
+
+Detalhes
+
+1 Avaliar, Dirigir e Monitorar (A D M - adm): Foco em garantir
+2 Alinhar, Planejar e Organizar (A P O - apo): Visão abrangente da organização; Organização do portfólio, arquitetura, RH
+3 Construir, Adquirir e Implementar (C A I - cai): Definição, aquisição e implementação de soluções de I&T.
+4 Entregar, Servir e Suportar (E S S - ess): Entrega e suporte operacional de serviços de I&T. 
+5 Monitorar, Avaliar e Analisar (M A A - maa): Monitoramento do desempenho; Controles internos; Conformidade. 
+
+
+........................................................
+
+Avaliar, Dirigir e Monitorar (A D M - adm) Objetivos (ou Objetivos de Governança):
+
+1 Garantir a Definição e Manutenção do Modelo de Governança
+2 Garantir a realização de benefícios (Garantir o melhor valor das iniciativas, serviços e ativos habilitados por I&T)
+3 Garantir a Otimização de riscos
+4 Garantir a Otimização de recursos 
+5 Garantir a Transparência para as partes interessadas
+
+........................................................
+
+Alinhar, Planejar e Organizar (A P O - apo) Objetivos:
+
+1 Gerenciar a Estrutura de Gestão de TI
+2 Gerenciar a Estratégia
+3 Gerenciar a Arquitetura da Organização
+4 Gerenciar a inovação
+5 Gerenciar o Portfólio
+6 Gerenciar orçamento e custos
+7 Gerenciar recursos humanos
+8 Gerenciar relacionamentos 
+9 Gerenciar contratos de prestação de serviços
+10 Gerenciar fornecedores 
+11 Gerenciar qualidade
+12 Gerenciar riscos (Integrar o gerenciamento de riscos corporativos relacionados a TI com o gerenciamento geral de riscos corporativos e equilibrar os custos e benefícios do gerenciamento de riscos corporativos relacionados a TI)
+13 Gerenciar segurança
+14 Gerenciar dados (novo)
+
+........................................................
+
+Construir, Adquirir e Implementar (C A I - cai) Objetivos:
+
+1 Gerenciar programas
+2 Gerenciar definição de requisitos
+3 Gerenciar identificação e desenvolvimento de soluções 
+4 Gerenciar disponibilidade e capacidade 
+5 Gerenciar a mudança organizacional
+6 Gerenciar mudanças de TI 
+7 Gerenciar aceitação e transição de mudança de TI
+8 Gerenciar conhecimento
+9 Gerenciar ativos
+10 Gerenciar configuração
+11 Gerenciar projetos 
+
+........................................................
+
+Entregar, Servir e Suportar (E S S - ess) Objetivos:
+
+1 Gerenciar operações
+2 Gerenciar solicitações de serviço e incidentes
+3 Gerenciar problemas
+4 Gerenciar continuidade 
+5 Gerenciar serviços de segurança
+6 Gerenciar controles do processo de negócio 
+
+........................................................
+
+Monitorar, Avaliar e Analisar (M A A - maa) Objetivos:
+
+1 Gerenciar o monitoramento do desempenho e da conformidade 
+2 Gerenciar o Sistema de Controle Interno
+3 Gerenciar Conformidade com Requisitos Externos
+4 Gerenciar a garantia
