@@ -166,6 +166,10 @@ def main():
         formatted_text = formatted_text.replace(f" {int_to_roman(i)}-", f" {i} -")
         formatted_text = formatted_text.replace(f"\n{int_to_roman(i)} – ", f"\n{i} – ")
 
+    # Corrigir
+    # Raios X - acaba virando raios 10
+    formatted_text = formatted_text.replace("Raios 10", "Raios X")
+
     destination_file_path.write(formatted_text)
 
 if __name__ == '__main__':
