@@ -146,7 +146,16 @@ def main():
     formatted_text = re.sub(r'\(Redação dada pel[^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
     formatted_text = re.sub(r'\(Vide [^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
     formatted_text = re.sub(r'\(Regulamento Dec. [^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
-    formatted_text = re.sub(r'\(Revogado pel[^\n\)]*[\n\)]', "Revogado", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Revogad[oa] pel[^\n\)]*[\n\)]', "Revogado", formatted_text, flags=re.IGNORECASE)
+
+    # Regras específicas para o Regimento Interno da Câmara dos Deputados
+    formatted_text = re.sub(r'\(“Caput” do artigo com redação dada[^\)]*\)', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Parágrafo único acrescido [^\)]*\)', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Revogado em decorrência [^\)]*\)', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\((Artigo|Inciso|Parágrafo|Alínea|Capítulo|Seção) acrescido [^\)]*\)', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\((Artigo|Inciso|Parágrafo|Alínea|Capítulo|Seção) com redação dada [^\)]*\)', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\((Artigo|Inciso|Parágrafo|Alínea|Capítulo|Seção) com redação adaptada [^\)]*\)', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\((Artigo|Inciso|Parágrafo|Alínea|Capítulo|Seção) adaptado [^\)]*\)', "", formatted_text, flags=re.IGNORECASE)
 
     # Números romanos
     for i in range(1, 150):
