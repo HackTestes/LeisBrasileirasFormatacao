@@ -133,6 +133,7 @@ def main():
     formatted_text = formatted_text.replace("§", "Parágrafo ")
 
     # Retirar
+    formatted_text = formatted_text.replace("(Promulgação partes vetadas)", "")
     formatted_text = formatted_text.replace("(Vigência)", "")
     formatted_text = formatted_text.replace("Vigência \n", "")
     formatted_text = formatted_text.replace("(Regulamento)", "")
