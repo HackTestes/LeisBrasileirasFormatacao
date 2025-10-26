@@ -1,0 +1,42 @@
+OLTP (Processamento de Transações Online) e OLAP (Processamento Analítico Online).
+
+A principal diferença é que o OLTP é transacional e operacional, enquanto o OLAP é analítico e estratégico.
+
+OLAP:
+
+- Objetivo: O OLAP ajuda você a analisar grandes volumes de dados para apoiar a tomada de decisões.
+- Fonte de dados: O OLAP usa dados históricos e agregados de várias fontes.
+- Estrutura de dados: O OLAP usa bancos de dados multidimensionais (cubos) ou relacionais.
+- Modelo de dados: O OLAP usa esquema em estrela, esquema de floco de neve ou outros modelos analíticos.
+- Tempo de resposta: O OLAP tem tempos de resposta mais longos, normalmente em segundos ou minutos.
+- Aplicativos de exemplo: O OLAP é bom para analisar tendências, prever o comportamento do cliente e identificar a lucratividade.
+
+OLTP:
+
+- Objetivo: O OLTP ajuda você a gerenciar e processar transações em tempo real.
+- Fonte de dados: O OLTP usa dados transacionais e em tempo real de uma única fonte.
+- Estrutura de dados: O OLTP usa bancos de dados relacionais.
+- Modelo de dados: O OLTP usa modelos normalizados ou desnormalizados.
+- Tempo de resposta: O OLTP tem tempos de resposta mais curtos, normalmente em milissegundos.
+- Aplicativos de exemplo: O OLTP é bom para processar pagamentos, para o gerenciamento de dados de clientes e o processamento de pedidos.
+
+Esquemas.
+
+Esquema estrela:
+
+- No centro, há uma tabela principal chamada tabela fato, que contém dados mensuráveis, como vendas ou receita. Ao redor dela estão as tabelas de dimensão, que adicionam detalhes como nomes de produtos, informações de clientes ou datas.
+- Tabelas de dimensão de nível único: As tabelas de dimensão se conectam diretamente à tabela de fatos sem camadas adicionais. Cada tabela se concentra em uma área, como produtos, regiões ou tempo, o que simplifica o uso.
+- Design desnormalizado: Em um esquema em estrela, os dados relacionados são armazenados juntos em uma tabela usando uma abordagem desnormalizada. Por exemplo, uma tabela de produtos pode incluir o ID, o nome e a categoria do produto no mesmo local. Embora isso possa significar alguma repetição de dados, ele processa as consultas mais rapidamente.
+- Desempenho de consulta mais rápido: O esquema em estrela simplifica a recuperação de dados, tornando as consultas mais rápidas. 
+- Fácil de entender: Sua estrutura é lógica e simples de entender, mesmo para usuários não técnicos. 
+Apesar de todos os benefícios as tabelas de dimensão geralmente contêm informações repetidas, o que aumenta o uso do armazenamento devido à desnormalização.
+
+Floco de neve:
+
+- Nesse esquema, as tabelas de dimensão são divididas em subdimensões menores para manter os dados mais organizados e detalhados, como flocos de neve em um grande lago.
+- Tabelas de dimensão multinível: Podemos dividir nossas tabelas de dimensões em tabelas menores e mais específicas. Por exemplo, se eu quiser rastrear os locais das lojas, em vez de colocar todos os detalhes de localização em uma grande tabela, posso dividi-los em tabelas separadas para países, estados e cidades.
+- Normalização para eficiência de armazenamento: Ao contrário do esquema em estrela, o esquema floco de neve permite um design normalizado, o que evita a duplicação de dados.
+- Adequação para ambientes de dados complexos: O esquema snowflake funciona melhor em ambientes de dados complexos porque usa tabelas de vários níveis para lidar com relacionamentos complexos e estruturas de dados hierárquicas.
+- Menos redundância de dados: A normalização garante que os mesmos dados não sejam armazenados várias vezes, o que reduz a duplicação.
+- Armazenamento eficiente para grandes conjuntos de dados: Esse esquema economiza espaço de armazenamento ao evitar dados repetidos, o que o torna ideal para gerenciar grandes conjuntos de dados.
+- No entanto, também existem algumas limitações. As consultas em podem ser mais lentas porque há mais uniões entre tabelas. Além disso, a estrutura multinível é mais desafiadora para projetar e manter do que esquemas mais simples.

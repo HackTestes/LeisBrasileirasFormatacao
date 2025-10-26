@@ -1,0 +1,14 @@
+Big Data
+
+5 V's
+
+1. Volume;
+2. Variedade;
+3. Velocidade;
+4. Veracidade;
+5. Valor.
+
+
+Data warehouse
+
+Data Lake

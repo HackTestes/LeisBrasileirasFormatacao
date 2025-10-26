@@ -1,0 +1,19 @@
+Banco de dados.
+
+SQL ou Relacionais.
+
+- Os dados são organizados em tabelas com linhas e colunas, e a relação entre os dados é estabelecida por meio de chaves primárias e estrangeiras. Exemplos populares incluem MySQL, PostgreSQL, Oracle e Microsoft SQL Server.
+
+NoSQL.
+
+- Bancos de dados NoSQL são projetados para lidar com dados não estruturados, semiestruturados ou altamente variáveis.
+- Baseados em documentos (como o MongoDB).
+- Baseados em colunas (como o Apache Cassandra).
+- Baseados em grafos (como o Neo4j).
+- Baseados em chave-valor (como o Redis).
+
+Normalização.
+
+1ª. Forma normal: todos os atributos do modelo sejam atômicos, indivisíveis.
+2ª. Forma normal: os atributos que não são chave dependem unicamente e totalemte da chave primária da tabela. Não pode haver dependência parcial.
+3ª. Forma normal: elimina as dependências transitivas, onde um atributo não-chave depende de outro atributo não-chave, que por sua vez depende da chave primária. Garante que os atributos não-chave sejam independentes entre si e dependam apenas da chave primária.
