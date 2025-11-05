@@ -136,6 +136,7 @@ def main():
     formatted_text = formatted_text.replace("(Promulgação partes vetadas)", "")
     formatted_text = formatted_text.replace("(Vigência)", "")
     formatted_text = formatted_text.replace("Vigência \n", "")
+    formatted_text = formatted_text.replace("Vigência\n", "")
     formatted_text = formatted_text.replace("(Regulamento)", "")
 
     # \( ou \) : são os parêntes literais já que é uma caracter especial
