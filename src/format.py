@@ -148,6 +148,7 @@ def main():
     formatted_text = re.sub(r'\(Redação dada pel[^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
     formatted_text = re.sub(r'\(Vide [^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
     formatted_text = re.sub(r'\(Regulamento Dec. [^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Alterad[oa] pel[^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
     formatted_text = re.sub(r'\(Revogad[oa] pel[^\n\)]*[\n\)]', "Revogado", formatted_text, flags=re.IGNORECASE)
 
     # Regras específicas para o Regimento Interno da Câmara dos Deputados
