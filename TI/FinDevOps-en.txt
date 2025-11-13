@@ -1,0 +1,23 @@
+FinDevOps - Financial DevOps.
+
+Expanding on the fundamental principles of DevOps, which encompass a holistic system focus, feedback loops, and a culture of experimentation, FinDevOps introduces a revolutionary dimension by seamlessly integrating financial considerations. 
+
+5 Core Capabilities of FinDevOps
+
+1. Collaborative Knowledge;
+2. Continuous Cost Control;
+3. Budget Monitoring;
+4. Cost Prediction;
+5. Anomaly Detection.
+
+Description.
+
+1. Collaborative Knowledge: Knowing the stock of the considerable number of assets in your cloud surroundings, their connections, and their expenses. When joined with connections, you can start to perceive how a change to one asset influences others' expenses;
+
+2. Continuous Cost Control: When you can observe cost connected directly to your infrastructure and architecture then you will quickly be able to improve your system and control operational cost (real time monitoring);
+
+3. Budget Monitoring: Knowing how your expenses are gathering, and by whom, to a point, later on, discloses to you how your operational expenses are following to spending plan. Knowing the continuous breakdown of genuine costs will empower you to precisely assign expenses to specialty units, groups, items, and highlights;
+
+4. Cost Prediction: Knowing and dissecting your expenses over extensive stretches of time will reveal imperceptible patterns and anticipate expenses to a point later on. Imperceptible patterns can bring about significant expenses since they have gathered for quite a while. Distinguishing patterns are practically difficult to do outwardly, and investigation regularly requires AI calculations;
+
+5. Anomaly Detection: .Knowing real-time resource costs helps you in observing billing anti-patterns. Most cost spikes are difficult to detect visually owing to the vast volumes of your billing data. The ability to automatically keep your system costs, discover the needles in the haystack, and differentiate between recurring spikes and real outliers will help you manage operational costs.
