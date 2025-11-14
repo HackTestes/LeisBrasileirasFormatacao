@@ -4,6 +4,31 @@ UTILIDADE: Funcionalidade, o que o serviço faz.
 
 GARANTIA: atender aos requisitos - o modo como o serviço funciona - adequado ao uso - disponibilidade, capacidade, níveis de segurança e continuidade do serviço.
 
+Mudança: a adição, modificação ou remoção de qualquer coisa que possa afetar os serviços de T.I.
+
+Tipos de mudanças (são 3):
+
+1. Alterações padrão: alterações pré-autorizadas e de baixo risco que seguem um procedimento bem conhecido.
+2. Alterações de emergência: alterações que devem ser implementadas imediatamente, por exemplo, para resolver um incidente grave.
+3. Alterações normais: todas as outras alterações que não sejam alterações padrão ou alterações de emergência.
+
+Problema: a causa subjacente de um ou mais incidentes.
+
+Output: Um resultado tangível ou intangível de uma atividade. São os resultados diretos de atividades específicas. Podem ser produtos físicos, relatórios, dados ou outras entregas geradas durante a prestação do serviço.
+
+Outcome: São os resultados ou impactos mais amplos que ocorrem como consequência dos produtos. Eles refletem como os produtos influenciaram as necessidades ou os objetivos das partes interessadas.
+
+........................................................
+
+As Fases do Gerenciamento de Problemas.
+Uma vez que uma potencial fonte de erro é identificada, ela entra no fluxo principal:
+
+Identificação do Problema: A primeira fase formaliza o registro do problema, documentando todos os detalhes conhecidos.
+
+Controle de Problemas: Em seguida, as equipes investigam o problema para identificar a sua causa raiz. Analisam-se os sintomas, o impacto e o histórico para entender o que realmente está a acontecer.
+
+Controle de Erros: Após identificar a causa raiz, o problema passa a ser classificado como um “Erro Conhecido”. Nesta fase, as equipes trabalham para desenvolver soluções, que podem ser uma solução de contorno (workaround) para mitigar o impacto ou uma correção definitiva para eliminar o erro.
+
 ........................................................
 
 Modelo 4 dimensões:
@@ -28,7 +53,7 @@ serviços.
 ........................................................
 
 
-Sistema de valor de serviços: modelo que representa o modo como todos os componentes e atividades de uma organização funcionam em conjunto para facilitar a criação de valor. (não confundir com a cadeia de valor de serviço).
+Sistema de valor de serviços (S.V.S.): modelo que representa o modo como todos os componentes e atividades de uma organização funcionam em conjunto para facilitar a criação de valor. (não confundir com a cadeia de valor de serviço).
 
 1. Oportunidade e Demanda: Oportunidade: é a possibilidade de gerar valor ou melhorar a organização. Demanda: representa a necessidade ou desejo por produtos e serviços de clientes internos ou externos.
 
@@ -64,7 +89,7 @@ Otimize e automatize.
 
 ........................................................
 
-Atividades.
+Atividades da Cadeia de Valor.
 
 1. Engajar;
 2. Planejar;
