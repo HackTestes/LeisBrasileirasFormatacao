@@ -144,7 +144,7 @@ def main():
     # ^ : negação (faz match com o oposto)
     # [^\n\)]* : faz match com 0 ou mais caracteres que não são uma quebra de linha OU fechamento de parênteses (isso permmite subtituir todo o texto dentro)
     # A ideia é substituir todo o texto dentro do parêntes e se ele não estiver fechado, parar na quebra de linha
-    formatted_text = re.sub(r'\(Incluído pel[^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Incluído[ ]*pel[^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
     formatted_text = re.sub(r'\(Redação dada pel[^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
     formatted_text = re.sub(r'\(Vide [^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
     formatted_text = re.sub(r'\(Regulamento Dec. [^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
