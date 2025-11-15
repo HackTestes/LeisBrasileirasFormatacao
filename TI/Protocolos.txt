@@ -1,0 +1,9 @@
+TCP, UDP, SCTP, ARP, TLS, SSL, OSPF, BGP, DNS, DHCP, ICMP, FTP, SFTP, SSH, HTTP, HTTPS, SMTP, IMAP, POP3
+
+VLANs
+
+SAN, NAS, DAS: arquiteturas e protocolos (iSCSI, NFS, SMB)
+
+RPO, RTO
+
+LDAP

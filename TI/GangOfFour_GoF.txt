@@ -1,0 +1,48 @@
+Gang of Four. Design Patterns.
+
+3 major patterns: Creational patterns; Structural patterns; and Behavioral patterns.
+
+1. Creational patterns.
+These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
+
+2. Structural patterns.
+These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
+
+3. Behavioral patterns.
+These patterns are concerned with algorithms and the assignment of responsibilities between objects.
+
+................................................
+
+Creational patterns.
+
+1. (Creational) Factory Method;
+2. (Creational) Abstract Factory;
+3. (Creational) Builder;
+4. (Creational) Prototype;
+5. (Creational) Singleton.
+
+Structural patterns.
+
+1. (Structural) Adapter;
+2. (Structural) Bridge;
+3. (Structural) Composite;
+4. (Structural) Decorator;
+5. (Structural) Facade;
+6. (Structural) Flyweight;
+7. (Structural) Proxy.
+
+Behavioral patterns.
+
+1. (Behavioral) Chain of responsibility;
+2. (Behavioral) Command;
+3. (Behavioral) Iterator;
+4. (Behavioral) Mediator;
+5. (Behavioral) Memento;
+6. (Behavioral) Observer;
+7. (Behavioral) State;
+8. (Behavioral) Startegy;
+9. (Behavioral) Template method;
+10. (Behavioral) Visitor.
+
+Description.
+

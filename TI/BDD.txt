@@ -1,0 +1,39 @@
+Behavior-driven development (BDD) involves naming software tests using domain language to describe the behavior of the code.
+
+BDD involves use of a domain-specific language (DSL) using natural-language constructs (e.g., English-like sentences) that can express the behavior and the expected outcomes.
+
+Proponents claim it encourages collaboration among developers, quality assurance experts, and customer representatives in a software project. It encourages teams to use conversation and concrete examples to formalize a shared understanding of how the application should behave. BDD is considered an effective practice especially when the problem space is complex.
+
+BDD is considered a refinement of test-driven development (TDD). BDD combines the techniques of TDD with ideas from domain-driven design and object-oriented analysis and design to provide software development and management teams with shared tools and a shared process to collaborate on software development.
+
+BDD is a process by which DSL structured natural-language statements are converted into executable tests. The result are tests that read like acceptance criteria for a given function.
+
+BDD suggests that software tests should be named in terms of desired behavior. Borrowing from agile software development the "desired behavior" in this case consists of the requirements set by the business — that is, the desired behavior that has business value for whatever entity commissioned the software unit under construction. Within BDD practice, this is referred to as BDD being an "outside-in" activity.
+
+BDD suggests that business analysts and software developers should collaborate in this area and should specify behavior in terms of user stories, which are each explicitly documented. Each user story should, to some extent, follow the structure:
+
+- Title: An explicit title.
+
+- Narrative. A short introductory section with the following structure:
+    - As a: the person or role who will benefit from the feature;
+    - I want: the feature;
+    - so that: the benefit or value of the feature.
+
+Acceptance criteria. A description of each specific scenario of the narrative with the following structure:
+    - Given: the initial context at the beginning of the scenario, in one or more clauses;
+    - When: the event that triggers the scenario;
+    - Then: the expected outcome, in one or more clauses.
+
+The simplified structure:
+
+- Title.
+
+- Narrative.
+    - As a;
+    - I want;
+    - so that.
+
+Acceptance criteria:
+    - Given;
+    - When;
+    - Then.

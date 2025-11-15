@@ -1,0 +1,31 @@
+Test-driven development (TDD) is a way of writing code that involves writing an automated unit-level test case that fails, then writing just enough code to make the test pass, then refactoring both the test code and the production code, then repeating with another new test case.
+
+- Writing the tests first: The tests should be written before the functionality that is to be tested.
+
+- Each test case fails initially: This ensures that the test really works and can catch an error. 
+
+- red-green-refactor: where red means fail and green means pass. This is the basic cycle.
+
+TDD steps.
+
+1. List scenarios for the new feature: The developer can discover these specifications by asking about use cases and user stories. A key benefit of TDD is that it makes the developer focus on requirements before writing code.
+
+2. Write a test for an item on the list.
+
+3. Run all tests. The new test should fail for expected reasons: This shows that new code is actually needed for the desired feature. It validates that the test harness is working correctly. It rules out the possibility that the new test is flawed and will always pass.
+
+4. Write the simplest code that passes the new test
+Inelegant code and hard coding is acceptable. The code will be honed in Step 6. No code should be added beyond the tested functionality.
+
+5. All tests should now pass.
+
+6. Refactor as needed while ensuring all tests continue to pass: Code is refactored for readability and maintainability. In particular, hard-coded test data should be removed from the production code. Running the test suite after each refactor ensures that no existing functionality is broken.
+
+TDD steps shortened.
+
+1. "Add a test"
+2. "Run all tests"
+3. "Write some code"
+4. "Run tests"
+5. "Refactor code"
+6. "Repeat"

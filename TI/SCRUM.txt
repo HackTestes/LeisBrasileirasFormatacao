@@ -2,13 +2,13 @@ Scrum
 
 ........................................................
 
-Valores
+Valores.
 
-1 Compromisso
-2 Foco
-3 Abertura
-4 Respeito
-5 Coragem
+1. Compromisso;
+2. Foco;
+3. Abertura;
+4. Respeito;
+5. Coragem.
 
 ........................................................
 
@@ -20,9 +20,47 @@ que significa que decidem internamente quem faz o quê, quando e como.
 
 Papéis:
 
-1 Developers
-2 Product Owner (P O)
-3 Scrum Master 
+1. Developers;
+2. Product Owner (P O);
+3. Scrum Master.
+
+Descrição:
+
+1. Developers: são as pessoas do Scrum Team que estão comprometidas em criar qualquer 
+aspecto de um Incremento utilizável a cada Sprint.
+
+2. Product Owner (P O): é responsável por maximizar o valor do produto resultante do trabalho do 
+Scrum Team.
+
+3. Scrum Master: é responsável por estabelecer o Scrum conforme definido no Guia do Scrum. 
+Eles fazem isso ajudando todos a entender a teoria e a prática do Scrum, tanto no Scrum Team 
+quanto na organização.
+
+Responsabilidades.
+
+Developers:
+
+1. Criar um plano para a Sprint, o Sprint Backlog;
+2. Introduzir gradualmente qualidade aderindo a uma Definição de Pronto;
+3. Adaptar seu plano a cada dia em direção à meta da Sprint; e,
+4. Responsabilizar-se mutuamente como profissionais. 
+
+
+Product Owner (P O):
+
+1. Desenvolver e comunicar explicitamente a meta do produto;
+2. Criar e comunicar claramente os itens do Product Backlog;
+3. Ordenar os itens do Product Backlog; e,
+4. Garantir que o Product Backlog seja transparente, visível e compreensível.
+
+Scrum Master
+
+1. Treinar os membros do time em autogerenciamento e cross-funcionalidade;
+2. Ajudar o Scrum Team a se concentrar na criação de incrementos de alto valor que 
+atendem à Definição de Pronto;
+3. Provocando a remoção de impedimentos ao progresso do Scrum Team; e,
+4. Garantir que todos os eventos Scrum ocorram e sejam positivos, produtivos e mantidos 
+dentro do Timebox.
 
 ........................................................
 
@@ -44,34 +82,34 @@ aprendido.
 
 ........................................................
 
-Eventos
+Eventos.
 
-1 Sprint Planning
-2 Daily Scrums
-3 Sprint Review
-4 Sprint Retrospective
+1. Sprint Planning;
+2. Daily Scrums;
+3. Sprint Review;
+4. Sprint Retrospective.
 
 
-Descrição
+Descrição.
 
-1 Sprint Planning:
+1. Sprint Planning:
 
 Inicia a Sprint ao definir o trabalho a ser realizado na Sprint. Tem um Timebox definido com duração máxima de oito horas para uma Sprint de um mês. Para Sprints mais curtas, o evento geralmente é mais curto.
 
 
-2 Daily Scrums
+2. Daily Scrums:
 
 O propósito é inspecionar o progresso em direção a Meta da Sprint e adaptar o Sprint Backlog conforme necessário, ajustando o próximo trabalho planejado. É um evento de 15 minutos para os Developers do Scrum Team. Para reduzir a complexidade, é realizado no mesmo horário e local, todos os dias úteis da Sprint. Não é o único momento em que os Developers podem ajustar seu plano. Eles costumam se reunir ao longo do dia para discussões mais detalhadas.
 
 
-3 Sprint Review
+3. Sprint Review:
 
 O propósito é inspecionar o resultado da Sprint e determinar as adaptações futuras. O Scrum Team apresenta os resultados de seu trabalho para os principais stakeholders e o progresso em direção a Meta do Produto é discutido. o Scrum Team e os stakeholders revisam o que foi realizado na Sprint e o que mudou em seu ambiente. Scrum Team deve evitar limitá-la a uma apresentação.
 
 A Sprint Review é o penúltimo evento da Sprint e tem um Timebox com prazo máximo de quatro horas para uma Sprint de um mês
 
 
-4 Sprint Retrospective
+4. Sprint Retrospective:
 
 O propósito é planejar maneiras de aumentar a qualidade e a eficácia. O Scrum Team inspeciona como foi a última Sprint em relação a indivíduos, interações, processos, ferramentas e sua Definição de Pronto. O Scrum Team discute o que deu certo durante a Sprint, quais problemas encontraram e como esses problemas foram (ou não) resolvidos.
 
@@ -81,7 +119,7 @@ A Sprint Retrospective conclui a Sprint. É limitada pelo Timebox de no máximo 
 
 ........................................................
 
-Artefatos
+Artefatos.
 
 Os artefatos do Scrum representam trabalho ou valor. Cada artefato contém um compromisso para garantir que ele forneça informações que 
 aumentem a transparência e o foco contra o qual o progresso pode ser medido:
@@ -92,9 +130,9 @@ aumentem a transparência e o foco contra o qual o progresso pode ser medido:
 
 - Para o incremento, é a Definição de Pronto
 
-O Product Backlog é uma lista ordenada e emergente do que é necessário para melhorar o produto
+O Product Backlog é uma lista ordenada e emergente do que é necessário para melhorar o produto.
 
-A Meta do Produto descreve um estado futuro do produto que pode servir como um alvo para o Scrum Team planejar. A Meta do Produto é o objetivo de longo prazo para o Scrum Team
+A Meta do Produto descreve um estado futuro do produto que pode servir como um alvo para o Scrum Team planejar. A Meta do Produto é o objetivo de longo prazo para o Scrum Team.
 
 O Sprint Backlog é composto pela Meta da Sprint (por que), o conjunto de itens do Product Backlog selecionados para a Sprint (o que), bem como um plano de ação para entregar o Incremento (como). O Sprint Backlog é um plano feito por e para os Developers.
 
@@ -104,4 +142,4 @@ Um incremento é um trampolim concreto em direção a Meta do produto. A fim de 
 
 O trabalho não pode ser considerado parte de um incremento a menos que atenda a Definição de Pronto.
 
-A Definição de Pronto é uma descrição formal do estado do Incremento quando ela atende às medidas de qualidade exigidas para o produto. 
+A Definição de Pronto é uma descrição formal do estado do Incremento quando ela atende às medidas de qualidade exigidas para o produto.

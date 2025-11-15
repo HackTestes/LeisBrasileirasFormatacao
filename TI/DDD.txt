@@ -1,0 +1,40 @@
+Domain-driven design (DDD) is a major software design approach, focusing on modeling software to match a domain according to input from that domain's experts. DDD is against the idea of having a single unified model; instead it divides a large system into bounded contexts, each of which have their own model.
+
+Goals:
+
+1. placing the project's primary focus on the core domain and domain logic layer;
+2. basing complex designs on a model of the domain;
+3. initiating a creative collaboration between technical and domain experts to iteratively refine a conceptual model that addresses particular domain problems.
+
+Critics of domain-driven design argue that developers must typically implement a great deal of isolation and encapsulation to maintain the model as a pure and helpful construct. While domain-driven design provides benefits such as maintainability, Microsoft recommends it only for complex domains (to reiterate, for COMPLEX problems) where the model provides clear benefits in formulating a common understanding of the domain.
+
+Glossary:
+
+- Domain of the software: the subject area to which the user applies a program.
+
+- Domain model: a system of abstractions that describes selected aspects of a domain and can be used to solve problems related to that domain.
+
+- The ubiquitous language: a common language shared by domain experts, users, and developers. Ubiquitous language is one of the pillars of DDD together with strategic design and tactical design.
+
+- Entity: it is an object defined not by its attributes, but its identity. For example: a unique number to seats on every flight, this is the seat's identity.
+
+- Value object: it is an immutable object that contains attributes but has no conceptual identity. For example: business cards, we only care about the information on the card (its attributes) rather than trying to distinguish between each unique card.
+
+- Events: something that happened in the past.
+
+- Domain event: it is an event that domain experts care about. These events are restricted to a bounded context and are vital for preserving business logic. 
+
+- Integration Events: they serve to communicate changes across different bounded contexts. They are crucial for ensuring data consistency throughout the entire system.
+
+- Aggregate: Models can be bound together by a root entity to become an aggregate. Objects outside the aggregate are allowed to hold references to the root but not to any other object of the aggregate. The aggregate root checks the consistency of changes in the aggregate. For example: a car is an aggregate of several other objects (the engine, the brakes, the headlights, etc.).
+
+- Context Mapping: it identifies and defines the boundaries of different domains or subdomains within a larger system. It helps visualize how these contexts interact and relate to each other. There are multiple patterns:
+
+1. (Context Mapping pattern) Partnership: Forge a partnership between the teams in charge of the two contexts. Teams in two contexts will succeed or fail together.
+2. (Context Mapping pattern) Shared Kernel: Designate with an explicit boundary some subset of the domain model that the teams agree to share. Keep this kernel small.
+3. (Context Mapping pattern) Customer/Supplier Development: Establish a clear customer/supplier relationship between the two teams, when two teams are in a upstream-downstream relationship.
+4. (Context Mapping pattern) Conformist: Eliminate the complexity of translation choosing conformity enormously simplifies integration, when a custom interface for a downstream subsystem isn't likely to happen.
+5. (Context Mapping pattern) Anticorruption Layer: Create an isolating layer to provide your system with functionality of the upstream system in terms of your own domain model. It helps to maintain integrity.
+6. (Context Mapping pattern) Open-host Service: A protocol that gives access to your subsystem as a set of services, in case it's necessary to integrate one subsystem with many others, making custom translations between subsystems infeasible.
+7. (Context Mapping pattern) Published Language: A well-documented shared language that can express the necessary domain information as a common medium of communication, e.g. data interchange standards in various industries.
+8. (Context Mapping pattern) Separate Ways: A bounded context with no connection to the others at all, allowing developers to find simple, specialized solutions within this small scope

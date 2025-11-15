@@ -1,0 +1,244 @@
+THE KANBAN METHOD GLOSSARY
+
+Activity
+Actions taken in the service delivery workflow that progress a work item to the next step of the knowledge discovery. One or more activities can be visualized as a column in a kanban board.
+
+Blocker
+Something that is impeding the flow of a work item. The blockage could be partial or complete.
+
+Bottleneck
+A constrained activity that limits the flow and possible delivery rate of the entire workflow.
+
+Cadences
+A type of meeting or review providing feedback from one or more services for the purpose of reviewing, coordinating, or improving the work being delivered.
+
+Capability
+A measurement of system performance. Measurements may include lead time and throughput. For more information on measurements, please see metrics.
+
+Capacity
+Represents the amount of work a kanban system can hold while work is still flowing efficiently. Also used for the allocation to a particular activity, work item type, or class of service.
+
+Card
+A visual representation of a work item. A card may also be referred to as a ticket.
+
+Change Management Principles
+The Kanban Method approaches evolutionary change using the following three principles.
+1. Start with what you do now
+2. Gain agreement to pursue improvement through evolutionary change
+3. Encourage acts of leadership at all levels
+
+Class of Service
+A specific level of service applied to the treatment of a work item established through a defined set of policies. A Class of Service can apply to one or more work item types. A class of service will often set a service level expectation. The choice of class of service may reflect a relative value, risk, or cost of delay. The four common archetypes of class of service that are widely recognized are:
+
+1. Expedite
+2. Fixed date
+3. Intangible
+4. Standard
+
+Expedite
+An archetype of a class of service that is applied to work items where the impact of delay is both high and immediate.
+
+Fixed Date
+An archetype of a class of service that is applied to work items where the impact of delay occurs at a specific date.
+
+Intangible
+An archetype of a class of service that is applied to work items where the impact of delay is unknown.
+
+Standard
+An archetype of a class of service that is applied to work items where the impact of delay is typical of current conditions.
+
+Commitment Point
+The point at which the decision is made to start activities to deliver a work item. Before this point, work done supports the decision whether to deliver the work item (see Upstream).
+
+Control Chart
+A chart, usually a run chart, showing control ranges outside of which a process may be considered “out of control” in some specific sense.
+
+Cost of Delay
+The rate at which the expected value of a product, initiative, or work item decays as its delivery is delayed. Cost of delay involves both urgency and impact. Cost of delay may be used to inform time-related decisions, including the ordering of work items during replenishment or the assignment of a class of service.
+
+Cumulative Flow Diagram
+A chart showing the cumulative number of arrivals and departures of work items from each step in the workflow over a time period. The diagram is a quick visual indicator of the stability and characteristics of the workflow in terms of amount of work in progress in the different stages. In general, parallel lines between the steps indicate that the inflow is consistent with the outflow which is good, and deviation is something to be investigated.
+
+Customer
+The person, or more likely group of people making the service request and accepting its delivery. Customers can be internal or external to an organization: When one service makes a request to another service within the same organization, the requesting service can be considered an internal customer of the requested service.
+
+Customer Lead Time
+Customer lead time is the time between receiving the customer’s request and delivering on it.
+
+Delay
+In knowledge work there are a number of potential sources of delay. A work item could be waiting for capacity or it could be blocked due to a defect or a dependency. There are also delays due to switching between different work items in progress, e.g., when a work item has to give way to another work item with higher urgency.
+
+Delivery Rate
+See throughput.
+
+Throughput
+The number of work items exiting from the system or a given part of it; measured in work items delivered per time period. Throughput is often referred to as delivery rate.
+
+Demand
+The work requested by a service’s customers. Kanban systems seek to bring demand and capability into balance.
+
+Experiment
+An intentional design to determine if a hypothesis is valid or not. Observations and evidence from the experiment will be used to determine the validity of the hypothesis and what further experiments should be planned. See: Scientific Method
+
+Explicit Policies
+An explicit description of various agreements that shape how the service delivery works. Policies can reflect how work items move from one activity to another or can include how a team, individuals, and services interact with each other.
+
+Failure Demand
+Demand generated because of previous poor-quality deliverables or demand that never should have been received. Examples can include poor requirements or defects during delivery requiring rework.
+
+Feedback Loop
+One of the 6 general practices described as Establish Feedback Loops in the Kanban Method. A feedback loop starts with feedback information about the existing system and then requires action based on whether the result is in line with the desired goals or must be altered in order to improve or align with those goals. Feedback information without action is not a feedback loop.
+
+Hypothesis
+An idea, based on observations, that lends itself to an experiment using the scientific method to determine if the idea is valid.
+
+Kanban Board
+A kanban board is a visual display of cards that represent the work items in a kanban system. Typically, boards are arranged in vertical columns that represent activities. Some boards use horizontal swimlanes to further enhance the visualization of policies, types of work, classes or service, or other attribute that is important for the management of the work. Additional dimensions may be represented by color or other card attributes. Cards move rightward from column to column as the work items they represent progress through the system. Work in progress limits and other policies may be represented visually.
+
+Kanban General Practices
+The six general practices of the Kanban Method are:
+1. Visualize
+2. Limit WIP
+3. Manage Flow
+4. Make Policies Explicit
+5. Use Feedback Loops
+6. Evolve Experimentally
+
+Visualize
+One of the 6 general practices in the Kanban Method. We want to make work and its flow visible so that it is not hidden. We also want to make information about the work, its risks or the process visible through such elements as charts.
+
+Limit WIP (Work in Progress)
+One of the 6 general practices in the Kanban Method. We want to limit work in progress to enable a pull system to improve predictability and flow. When work in progress is not limited, the system can frequently become overburdened resulting in poor throughput, predictability, and quality. Work in progress is commonly limited by work in progress limit policies.
+
+Manage Flow
+One of the 6 general practices in the Kanban Method. The point of a workflow is to result in delivery. We focus on managing the flow of the work in order to get smooth and predictable and potentially faster and efficient delivery. To this extent we manage the work, not the workers. Workers are encouraged to self-organize to improve the delivery of the work.
+
+Make Policies Explicit
+One of the 6 general practices in the Kanban Method. The practice of defining agreements on how the service delivery will be handled. Examples of policies can include agreements on replenishment criteria, pull criteria, class of service, service level expectations, work in progress limits, and completion criteria. Policies are commonly visualized on or near the kanban board. They can also be stored and shared through various digital tools. For a complete list of tools, please visit https://kanban.university/partners/
+
+Evolve Experimentally
+One of the 6 general practices in the Kanban Method. See evolutionary change.
+
+Evolutionary Change
+In the Kanban Method, managed evolutionary change is the intentional design of small incremental changes, tested via experiments using the scientific method. The current way of working serves as the starting point, with the goal of being fitter for purpose in a continuously changing environment. Also known as Evolve Experimentally.
+
+Kanban Maturity Model
+A model describing common patterns of evolutionary change within organizations. The model can serve as a map to organizational agility, resilience & reinvention. See: Kanban+.
+
+Kanban Method
+A method for the definition, management and improvement of services that deliver knowledge work.
+
+Kanban System
+A model of a kanban service delivery workflow. A kanban system is designed using STATIK. A kanban system contains the board, work items represented as cards, policies, metrics, and cadences.
+
+Knowledge Work
+Developing goods and services through activities that add to knowledge discovery. Examples of Knowledge Work are Marketing, Software Development, all kinds of Product Development. Knowledge work is performed by knowledge workers.
+
+Lead Time
+The difference in time (e.g., minutes, hours, days, etc.) between one point in the workflow to another point in the workflow. See Customer Lead Time and System Lead Time.
+
+Lead Time Distribution
+A chart showing the frequency of the observed lead time of work items. Lead times should be consistent, i.e., all system lead times or all customer lead times. Different work item types or different classes of service may have different lead time distributions. The distribution of the lead time can be an indicator of the predictability of the system.
+
+Meeting
+A type of feedback loop designed to focus on managing the work. Examples include:
+1. Team replenishment meeting
+2. Team kanban meeting
+3. Team retrospective
+
+Replenishment
+The act of reviewing the requested work items that fulfill the “ready for delivery” criteria and selecting the ones to be pulled into the system based on available capacity.
+
+Kanban Meeting
+A meeting to help the delivery teams coordinate and manage the flow of work. The meeting is held at the cadence appropriate for the team, usually somewhere between daily and weekly. A common approach is to “walk the board” meaning to look at the work on the Kanban board, going from right to left, and ask the question “what is keeping this item from flowing?” and “who can help?”
+
+Team Retrospective
+A type of review focused on exploring potential improvements based on learnings from the past. At higher levels of organizational maturity it is frequently found that this review does not need to exist on its own but becomes part of other reviews and meetings.
+
+Metrics
+Metrics are a means of feedback to indicate how a system is performing. The metrics most used for kanban systems are:
+1. Lead time in different versions
+2. Delivery rate or throughput
+3. Levels of WIP in various parts of the system
+4. Blockers
+5. Failure demand
+Other metrics such as quality or rework may be quite valuable. Teams should not have too many metrics to start, but at the same time should be cognizant that “you get what you measure”, so collection of metrics should be designed to counter or minimize any gaming of the system while supporting the management of flow. Common visualizations of metrics used in understanding a system are:
+1. Lead time distribution
+2. Lead time or delivery rate run chart
+3. Cumulative flow diagram
+
+Overburden
+A situation when demand exceeds capacity and demand is not limited by available capacity. Overburdening is commonly observed when work in progress is not limited resulting in work being pushed into the system.
+
+Option
+Prior to the commitment point we have many ideas, requirements, or needs that have come from customers and which may have value. Some people may refer to this as a backlog, but in the Kanban Method we prefer to call the things that may have value as options. They are managed in the upstream part of the Kanban system. We wish to vet these options and constrain them against available capacity, also considering their urgency. This frequently results in discarding many of the options prior to service delivery which helps ensure that the service delivery is focused on high value requests.
+
+Pull Signals
+A work item in an upstream can be pulled downstream only when capacity is available. The available capacity is the signal. In a kanban system the signal is that the work in progress is below the current work in progress limit.
+
+Pull System
+A system for delivering work only when both demand exists and delivery capacity is available. A kanban system is an example of a pull system which uses pull signals to indicate available capacity. WIP limits are the means to implement pull systems in Kanban.
+
+Push System
+A system or activity where work is placed into the system without regard to whether capacity is immediately available. The opposite of pull system.
+
+Review
+A type of cadence designed to reflect on the performance or risk of one or more services with a goal to improve service delivery. Reviews are largely performed based on data and observations. Examples include:
+1. Service Delivery Review
+2. Risk Review
+3. Operations Review
+
+Run Chart
+A chart that shows an observed metric in a time sequence. Commonly used to visualize the past Lead Times or Delivery Rates. One of the main benefits of the Run Chart is to see any trending of the data. A common question to consider is, “Are lead times going up or down, or within the expected variation?”
+
+Scientific Method
+A feedback loop designed to iterate towards a better understanding of a given situation. The steps of the scientific method are:
+1. Observe
+2. Hypothesis
+3. Experiment
+4. Collect data
+5. Analyze results
+6. Accept or Reject hypothesis
+7. Repeat
+
+Service
+A service starts with a customer request, fulfilled through service delivery, which results in acceptance by the customer. From a service perspective, a request can scale from a task to the development of a product, project, or initiative.
+
+Service Delivery
+The performance of a series of activities, also known as a workflow, to fulfill customer requests. For example, the activities performed in a service support the delivery of a work item. A service can be managed by one or more kanban systems.
+
+Service Delivery Principles
+The core principles of the Kanban Method for Service Delivery. The principles are:
+1. Understand and focus on customer needs and expectations
+2. Manage the work; let people self-organize around it
+3. Regularly review the network of services and its policies in order to improve outcomes
+
+Service Level Expectation
+What can be expected in future service delivery based on prior performance. In knowledge work we have inherent uncertainty and prefer to set expectations based on historical probabilities. If we know that historically we have a stable system that delivers 85% of work items within 10 days, we can set a corresponding Service Level Expectation (SLE) of 10 days with 85% confidence.
+
+STATIK
+An acronym for the Systems Thinking Approach to Introducing Kanban, a recommended approach to introducing kanban in a new context. It is a “how-to” for designing service-oriented kanban systems. Common activities when using STATIK include:
+1. Identify sources of dissatisfaction
+2. Analyze demand
+3. Analyze capability
+4. Model the workflow
+5. Identify classes of service
+6. Design the kanban system
+
+System Lead Time
+The elapsed time it takes for a work item to move from the commitment point to the first column on its kanban board that has no work in progress limit.
+
+Workflow
+A series of activities, often performed within a Kanban service, that results in products or services being delivered. Usually, the workflow starts with a request and ends with delivery. The workflow or a selected part of it is represented on a kanban board by a set of sequential columns showing the knowledge discovery activities that the work item passes through. For activities that occur in parallel or in no particular order, workflow-related information can be added to the kanban card.
+
+Work in Progress (WIP)
+The work items which have entered the system or activity under consideration and have not exited.
+
+Work in Progress Limit (WIP Limit)
+A policy that constrains the amount of work allowed in a given part of the kanban system. Can be applied for instance on columns, swimlanes, per person, or for the whole system. Limits prevent starting new work when downstream capacity is already utilized and unable to complete the work. This is also known as limiting work in progress.
+
+Work Item
+A deliverable or a component thereof resulting from the demand placed at the system that will be worked on by the service.
+
+Work Item Type
+A grouping of work items that behave similarly and follow the same workflow. These different types depend on the demand of the service and will vary in their form and size, specific to each kanban system. Examples of work item types are information requests, campaigns, incidents, software bugs, product features, whole products, or projects.

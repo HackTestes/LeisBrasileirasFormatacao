@@ -1,4 +1,4 @@
-Cobit.
+Cobit 2019.
 
 Definição: é um framework para a gestão e governança empresarial de Informação e Tecnologia. Ele define os componentes para construir e sustentar um sistema de governança além de definir fatores de projeto que devem ser considerados para realizar a governança sob medida.
 
