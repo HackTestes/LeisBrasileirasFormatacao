@@ -44,5 +44,126 @@ Behavioral patterns.
 9. (Behavioral) Template method;
 10. (Behavioral) Visitor.
 
+................................................
+
 Description.
 
+Creational patterns.
+
+1. (Creational) Factory Method.
+Also known as: Virtual Constructor.
+Intent: Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
+The Factory Method pattern suggests that you replace direct object construction calls (using the new operator) with calls to a special factory method. Useful for inheritance.
+
+2. (Creational) Abstract Factory
+Intent: Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying their concrete classes. For example: the abstract chair and its concrete classes (modern, victorian, etc).
+
+3. (Creational) Builder.
+Intent: Builder is a creational design pattern that lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
+The Builder pattern suggests that you extract the object construction code out of its own class and move it to separate objects called builders.
+For example, a house may have many builder methods such as: build walls, build doors, etc.
+
+4. (Creational) Prototype.
+Also known as: Clone.
+Intent: Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
+The Prototype pattern delegates the cloning process to the actual objects that are being cloned. The pattern declares a common interface for all objects that support cloning. This interface lets you clone an object without coupling your code to the class of that object. Usually, such an interface contains just a single clone method.
+An object that supports cloning is called a prototype. 
+
+5. (Creational) Singleton.
+Intent: Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
+The Singleton pattern solves two problems at the same time, violating the Single Responsibility Principle:
+    - Ensure that a class has just a single instance: The most common reason for this is to control access to some shared resource—for example, a database or a file.
+    - Provide a global access point to that instance: Just like a global variable, the Singleton pattern lets you access some object from anywhere in the program. However, it also protects that instance from being overwritten by other code.
+
+
+
+Structural patterns.
+
+1. (Structural) Adapter.
+Intent: Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
+This is a special object that converts the interface of one object so that another object can understand it.
+An adapter wraps one of the objects to hide the complexity of conversion happening behind the scenes. The wrapped object isn't even aware of the adapter. For example, you can wrap an object that operates in meters and kilometers with an adapter that converts all of the data to imperial units such as feet and miles.
+
+2. (Structural) Bridge.
+Intent: Bridge is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
+
+The Bridge pattern attempts to solve this problem by switching from inheritance to the object composition. What this means is that you extract one of the dimensions into a separate class hierarchy, so that the original classes will reference an object of the new hierarchy, instead of having all of its state and behaviors within one class.
+
+3. (Structural) Composite.
+Also known as: Object Tree.
+Composite is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.
+For example: Products and Boxes. A Box can contain several Products as well as a number of smaller Boxes. These little Boxes can also hold some Products or even smaller Boxes, and so on.
+
+4. (Structural) Decorator.
+Intent: Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
+Difference: the Adapter provides a completely different interface for accessing an existing object. On the other hand, with the Decorator pattern the interface either stays the same or gets extended. In addition, Decorator supports recursive composition, which isn't possible when you use Adapter.
+
+
+5. (Structural) Facade.
+Intent: Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
+A facade is a class that provides a simple interface to a complex subsystem which contains lots of moving parts. A facade might provide limited functionality in comparison to working with the subsystem directly. However, it includes only those features that clients really care about.
+
+Having a facade is handy when you need to integrate your app with a sophisticated library that has dozens of features, but you just need a tiny bit of its functionality.
+
+6. (Structural) Flyweight.
+Also known as: Cache.
+Intent: Flyweight is a structural design pattern that lets you fit more objects into the available amount of RAM by sharing common parts of state between multiple objects instead of keeping all of the data in each object.
+
+7. (Structural) Proxy.
+Intent: Proxy is a structural design pattern that lets you provide a substitute or placeholder for another object. A proxy controls access to the original object, allowing you to perform something either before or after the request gets through to the original object.
+
+
+Behavioral patterns.
+
+1. (Behavioral) Chain of responsibility.
+Also known as: CoR, Chain of Command.
+Chain of Responsibility is a behavioral design pattern that lets you pass requests along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain. A handler can decide not to pass the request further down the chain and effectively stop any further processing.
+Example: firewall filters.
+
+2. (Behavioral) Command.
+Also known as: Action, Transaction.
+Intent: Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as a method arguments, delay or queue a request's execution, and support undoable operations.
+The Command pattern suggests that GUI objects shouldn't send these requests directly. Instead, you should extract all of the request details, such as the object being called, the name of the method and the list of arguments into a separate command class with a single method that triggers this request.
+
+3. (Behavioral) Iterator.
+Intent: Iterator is a behavioral design pattern that lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).
+
+4. (Behavioral) Mediator.
+Also known as: Intermediary, Controller.
+Intent: Mediator is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
+The Mediator pattern suggests that you should cease all direct communication between the components which you want to make independent of each other. Instead, these components must collaborate indirectly, by calling a special mediator object that redirects the calls to appropriate components. As a result, the components depend only on a single mediator class instead of being coupled to dozens of their colleagues.
+
+5. (Behavioral) Memento.
+Also known as: Snapshot.
+Memento is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.
+The pattern suggests storing the copy of the object's state in a special object called memento. The contents of the memento aren't accessible to any other object except the one that produced it. Other objects must communicate with mementos using a limited interface which may allow fetching the snapshot's metadata (creation time, the name of the performed operation, etc.), but not the original object's state contained in the snapshot.
+Such a restrictive policy lets you store mementos inside other objects, usually called caretakers. Since the caretaker works with the memento only via the limited interface, it's not able to tamper with the state stored inside the memento. At the same time, the originator has access to all fields inside the memento, allowing it to restore its previous state at will.
+
+6. (Behavioral) Observer.
+Also known as: Event-Subscriber, Listener.
+Intent: Observer is a behavioral design pattern that lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they're observing.
+The object that has some interesting state is often called subject, but since it's also going to notify other objects about the changes to its state, we'll call it publisher. All other objects that want to track changes to the publisher's state are called subscribers.
+The Observer pattern suggests that you add a subscription mechanism to the publisher class so individual objects can subscribe to or unsubscribe from a stream of events coming from that publisher.
+
+7. (Behavioral) State.
+Intent: State is a behavioral design pattern that lets an object alter its behavior when its internal state changes. It appears as if the object changed its class.
+The State pattern is closely related to the concept of a Finite-State Machine.
+The main idea is that, at any given moment, there's a finite number of states which a program can be in. Within any unique state, the program behaves differently, and the program can be switched from one state to another instantaneously. However, depending on a current state, the program may or may not switch to certain other states. These switching rules, called transitions, are also finite and predetermined.
+
+8. (Behavioral) Startegy.
+Intent: Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.
+The Strategy pattern suggests that you take a class that does something specific in a lot of different ways and extract all of these algorithms into separate classes called strategies.
+
+The original class, called context, must have a field for storing a reference to one of the strategies. The context delegates the work to a linked strategy object instead of executing it on its own.
+
+The context isn't responsible for selecting an appropriate algorithm for the job. Instead, the client passes the desired strategy to the context. In fact, the context doesn't know much about strategies. It works with all strategies through the same generic interface, which only exposes a single method for triggering the algorithm encapsulated within the selected strategy.
+
+For example: the different set of Uber categories.
+
+9. (Behavioral) Template method.
+Intent: Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
+
+10. (Behavioral) Visitor.
+Intent: Visitor is a behavioral design pattern that lets you separate algorithms from the objects on which they operate.
+
+However, the Visitor pattern addresses this problem. It uses a technique called Double Dispatch, which helps to execute the proper method on an object without cumbersome conditionals. Instead of letting the client select a proper version of the method to call, how about we delegate this choice to objects we're passing to the visitor as an argument? Since the objects know their own classes, they'll be able to pick a proper method on the visitor.
