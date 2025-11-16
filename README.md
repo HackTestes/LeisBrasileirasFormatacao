@@ -20,23 +20,23 @@ Foco é formatar leis brasileiras para leitores de texto.
 
 * Formatar
 
-```
+``` powershell
 python.exe .\format.py  D:\code_repo\LeisBrasileiras_Formatacao\Original\*.txt "D:\code_repo\LeisBrasileiras_Formatacao\Modificado\"
 ```
 
 * Formatar tudo
-```
+``` powershell
 $InputFiles = Get-Item D:\code_repo\LeisBrasileiras_Formatacao\Original\*.txt; $InputFiles | ForEach { python.exe .\src\format.py $_.FullName "D:\code_repo\LeisBrasileiras_Formatacao\Modificado\" }
 ```
 
 
 * Copiar textos para VM
-```
+``` powershell
 scp.exe D:\code_repo\LeisBrasileiras_Formatacao\Modificado\* caiohvm@$(arp -a | Select-String -Pattern "00-15-5d-00-5d-" | %{$_.Line.Split(" ")[2]}):/home/caiohvm/Dev/edge-tts/texts/
 ```
 
 
 * Copiar os áudios para o host
-```
+``` powershell
 scp.exe caiohvm@$(arp -a | Select-String -Pattern "00-15-5d-00-5d-" | %{$_.Line.Split(" ")[2]}):/home/caiohvm/Dev/edge-tts/texts/*.mp3 .\Documents\Leis\Audio\
 ```
