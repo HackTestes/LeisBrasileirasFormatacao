@@ -1,0 +1,57 @@
+General Responsibility Assignment Software Patterns (or Principles) (GRASP).
+
+Patterns or principles.
+
+1. Information expert;
+2. Creator;
+3. Controller;
+4. Indirection;
+5. Low coupling;
+6. High cohesion;
+7. Polymorphism;
+8. Protected variations;
+9. Pure fabrication.
+
+Description.
+
+1. Information expert.
+Problem: What is a basic principle by which to assign responsibilities to objects?
+Solution: Assign responsibility to the class that has the information needed to fulfill it.
+
+Information expert (also expert or the expert principle) is a principle used to determine where to delegate responsibilities such as methods, computed fields, and so on.
+This will lead to placing the responsibility on the class with the most information required to fulfill it.
+
+2. Creator.
+Assign the responsibility of creating instances of a class to the class that has the most knowledge about when and how to create them.
+
+3. Controller.
+Problem: Who should be responsible for handling an input system event?
+Solution: A use case controller should be used to deal with all system events of a use case, and may be used for more than one use case.
+
+The controller pattern assigns the responsibility of dealing with system events to a non-UI class that represents the overall system or a use case scenario. A controller object is a non-user interface object responsible for receiving or handling a system event.
+The controller is defined as the first object beyond the UI layer that receives and coordinates ("controls") a system operation. The controller should delegate the work that needs to be done to other objects; it coordinates or controls the activity. It should not do much work itself.
+
+4. Indirection.
+Problem: Where to assign responsibility, to avoid direct coupling between two (or more) things? How to de-couple objects so that low coupling is supported and reuse potential remains higher?
+
+Solution: Assign the responsibility to an intermediate object to mediate between other components or services so that they are not directly coupled.
+The intermediary creates an indirection between the other components.
+
+5. Low coupling.
+Coupling is a measure of how strongly one element is connected to, has knowledge of, or relies on other elements. Low coupling is an evaluative pattern that dictates how to assign responsibilities for the following benefits:
+    - lower dependency between the classes,
+    - change in one class having a lower impact on other classes,
+    - higher reuse potential.
+
+6. High cohesion.
+High cohesion is an evaluative pattern that attempts to keep objects appropriately focused, manageable and understandable. High cohesion is generally used in support of low coupling. High cohesion means that the responsibilities of a given set of elements are strongly related and highly focused on a rather specific topic.
+Alternatively, low cohesion is a situation in which a set of elements, of e.g., a subsystem, has too many unrelated responsibilities. Subsystems with low cohesion between their constituent elements often suffer from being hard to comprehend, reuse, maintain and change as a whole.
+
+7. Polymorphism.
+According to the polymorphism principle, responsibility for defining the variation of behaviors based on type is assigned to the type for which this variation happens. This is achieved using polymorphic operations. The user of the type should use polymorphic operations instead of explicit branching based on type.
+
+8. Protected variations.
+The protected variations pattern protects elements from the variations on other elements (objects, systems, subsystems) by wrapping the focus of instability with an interface and using polymorphism to create various implementations of this interface.
+
+9. Pure fabrication.
+A pure fabrication is a class that does not represent a concept in the problem domain, specially made up to achieve low coupling, high cohesion, and the reuse potential thereof derived.
