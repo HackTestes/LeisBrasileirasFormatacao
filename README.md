@@ -40,3 +40,18 @@ scp.exe D:\code_repo\LeisBrasileiras_Formatacao\Modificado\* caiohvm@$(arp -a | 
 ``` powershell
 scp.exe caiohvm@$(arp -a | Select-String -Pattern "00-15-5d-00-5d-" | %{$_.Line.Split(" ")[2]}):/home/caiohvm/Dev/edge-tts/texts/*.mp3 .\Documents\Leis\Audio\
 ```
+
+* Gerar audio em português brasileiro
+```bash
+MAX_JOBS=4 && cd ~/texts && ls *.txt | sed 's/\..*//' | xargs -i --max-procs=$MAX_JOBS bash -c "echo 'Generating {}.mp3...' && edge-tts --voice pt-BR-FranciscaNeural --file {}.txt --write-media /tmp/{}.mp3 && mv /tmp/{}.mp3 ./ && echo 'Finished {}.mp3...'"
+```
+
+* Gerar audio em português brasileiro APENAS
+```bash
+MAX_JOBS=4 && cd ~/texts && ls *ptBR.txt | sed 's/\..*//' | xargs -i --max-procs=$MAX_JOBS bash -c "echo 'Generating {}.mp3...' && edge-tts --voice pt-BR-FranciscaNeural --file {}.txt --write-media /tmp/{}.mp3 && mv /tmp/{}.mp3 ./ && echo 'Finished {}.mp3...'"
+```
+
+* Gerar audio em inglês
+```bash
+MAX_JOBS=4 && cd ~/texts && ls *en.txt | sed 's/\..*//' | xargs -i --max-procs=$MAX_JOBS bash -c "echo 'Generating {}.mp3...' && edge-tts --voice en-US-AndrewNeural --file {}.txt --write-media /tmp/{}.mp3 && mv /tmp/{}.mp3 ./ && echo 'Finished {}.mp3...'"
+```
