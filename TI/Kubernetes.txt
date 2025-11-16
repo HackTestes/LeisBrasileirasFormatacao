@@ -204,6 +204,7 @@ Used to deploy system daemons such as log collectors and monitoring agents that 
 The layer that provides capacity such as CPU, memory, network, and storage so that the containers can run and connect to a network.
 
 47. Deployment.
+A Deployment manages a set of Pods to run an application workload, usually one that doesn't maintain state.
 An API object that manages a replicated application, typically by running Pods with no local state.
 Each replica is represented by a Pod, and the Pods are distributed among the nodes of a cluster. For workloads that do require local state, consider using a StatefulSet.
 
@@ -270,7 +271,7 @@ With DRA, device drivers and cluster admins define device classes that are avail
 Allows users to request automatic creation of storage Volumes.
 Dynamic provisioning eliminates the need for cluster administrators to pre-provision storage. Instead, it automatically provisions storage by user request. Dynamic volume provisioning is based on an API object, StorageClass, referring to a Volume Plugin that provisions a Volume and the set of parameters to pass to the Volume Plugin.
 
-64. Endpoints.
+64. Endpoints (deprecated).
 A deprecated API that represents the set of all endpoints for a Service.
 Since v1.21, Kubernetes uses EndpointSlices rather than Endpoints; the original Endpoints API was deprecated due to concerns about scalability.
 
@@ -316,7 +317,7 @@ Finalizers are namespaced keys that tell Kubernetes to wait until specific condi
 
 You can use finalizers to control garbage collection of resources. For example, you can define a finalizer to clean up related API resources or infrastructure before the controller deletes the object being finalized.
 
-73. FlexVolume.
+73. FlexVolume (deprecated).
 FlexVolume is a deprecated interface for creating out-of-tree volume plugins. The Container Storage Interface is a newer interface that addresses several problems with FlexVolume.
 
 74. Garbage Collection.
@@ -536,7 +537,7 @@ The Pod Lifecycle is defined by the states or phases of a Pod. There are five po
 Pod Priority indicates the importance of a Pod relative to other Pods.
 Pod Priority gives the ability to set scheduling priority of a Pod to be higher and lower than other Pods — an important feature for production clusters workload.
 
-121. Pod Security Policy.
+121. Pod Security Policy (deprecated).
 A former Kubernetes API that enforced security restrictions during Pod creation and updates.
 PodSecurityPolicy was deprecated as of Kubernetes v1.21, and removed in v1.25. As an alternative, use Pod Security Admission or a 3rd party admission plugin.
 
