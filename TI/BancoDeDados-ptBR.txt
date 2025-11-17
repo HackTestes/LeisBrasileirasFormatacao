@@ -12,8 +12,10 @@ NoSQL.
 - Baseados em grafos (como o Neo4j).
 - Baseados em chave-valor (como o Redis).
 
+- Dependência parcial: ocorre quando um atributo não principal (coluna que não faz parte de nenhuma chave candidata) depende apenas de parte de uma chave composta em vez de toda a chave. 
+
 Normalização.
 
 1ª. Forma normal: todos os atributos do modelo sejam atômicos, indivisíveis.
-2ª. Forma normal: os atributos que não são chave dependem unicamente e totalemte da chave primária da tabela. Não pode haver dependência parcial.
+2ª. Forma normal: os atributos que não são chave dependem unicamente e totalmente da chave primária da tabela. Não pode haver dependência parcial. O atributo só pode ser obtido usando toda a chave, não só parte dela.
 3ª. Forma normal: elimina as dependências transitivas, onde um atributo não-chave depende de outro atributo não-chave, que por sua vez depende da chave primária. Garante que os atributos não-chave sejam independentes entre si e dependam apenas da chave primária.
