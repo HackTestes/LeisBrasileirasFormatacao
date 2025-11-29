@@ -188,11 +188,11 @@ Das Penas
 
 Art. 12. Independentemente do ressarcimento integral do dano patrimonial, se efetivo, e das sanções penais comuns e de responsabilidade, civis e administrativas previstas na legislação específica, está o responsável pelo ato de improbidade sujeito às seguintes cominações, que podem ser aplicadas isolada ou cumulativamente, de acordo com a gravidade do fato:        (Redação dada pela Lei nº 14.230, de 2021)
 
-I - na hipótese do art. 9º desta Lei, perda dos bens ou valores acrescidos ilicitamente ao patrimônio, perda da função pública, suspensão dos direitos políticos até 14 (catorze) anos, pagamento de multa civil equivalente ao valor do acréscimo patrimonial e proibição de contratar com o poder público ou de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo não superior a 14 (catorze) anos;        (Redação dada pela Lei nº 14.230, de 2021)
+I - na hipótese do art. 9º desta Lei (enriquecimento ilícito), perda dos bens ou valores acrescidos ilicitamente ao patrimônio, perda da função pública, suspensão dos direitos políticos até 14 (catorze) anos, pagamento de multa civil equivalente ao valor do acréscimo patrimonial e proibição de contratar com o poder público ou de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo não superior a 14 (catorze) anos;        (Redação dada pela Lei nº 14.230, de 2021)
 
-II - na hipótese do art. 10 desta Lei, perda dos bens ou valores acrescidos ilicitamente ao patrimônio, se concorrer esta circunstância, perda da função pública, suspensão dos direitos políticos até 12 (doze) anos, pagamento de multa civil equivalente ao valor do dano e proibição de contratar com o poder público ou de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo não superior a 12 (doze) anos;        (Redação dada pela Lei nº 14.230, de 2021)
+II - na hipótese do art. 10 desta Lei (lesão ao erário), perda dos bens ou valores acrescidos ilicitamente ao patrimônio, se concorrer esta circunstância, perda da função pública, suspensão dos direitos políticos até 12 (doze) anos, pagamento de multa civil equivalente ao valor do dano e proibição de contratar com o poder público ou de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo não superior a 12 (doze) anos;        (Redação dada pela Lei nº 14.230, de 2021)
 
-III - na hipótese do art. 11 desta Lei, pagamento de multa civil de até 24 (vinte e quatro) vezes o valor da remuneração percebida pelo agente e proibição de contratar com o poder público ou de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo não superior a 4 (quatro) anos;        (Redação dada pela Lei nº 14.230, de 2021)
+III - na hipótese do art. 11 desta Lei (ato que atenta contra os princípios da administração pública), pagamento de multa civil de até 24 (vinte e quatro) vezes o valor da remuneração percebida pelo agente e proibição de contratar com o poder público ou de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo não superior a 4 (quatro) anos;        (Redação dada pela Lei nº 14.230, de 2021)
 
 IV - (revogado).        (Redação dada pela Lei nº 14.230, de 2021)
 
@@ -276,7 +276,7 @@ Art. 16. Na ação por improbidade administrativa poderá ser formulado, em car�
 
 § 13. É vedada a decretação de indisponibilidade da quantia de até 40 (quarenta) salários mínimos depositados em caderneta de poupança, em outras aplicações financeiras ou em conta-corrente.         (Incluído pela Lei nº 14.230, de 2021)
 
-§ 14. É vedada a decretação de indisponibilidade do bem de família do réu, salvo se comprovado que o imóvel seja fruto de vantagem patrimonial indevida, conforme descrito no art. 9º desta Lei.        (Incluído pela Lei nº 14.230, de 2021)
+§ 14. É vedada a decretação de indisponibilidade do bem de família do réu, salvo se comprovado que o imóvel seja fruto de vantagem patrimonial indevida, conforme descrito no art. 9º desta Lei (enriquecimento ilícito).        (Incluído pela Lei nº 14.230, de 2021)
 
 Art. 17. A ação para a aplicação das sanções de que trata esta Lei será proposta pelo Ministério Público e seguirá o procedimento comum previsto na Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), salvo o disposto nesta Lei.         (Redação dada pela Lei nº 14.230, de 2021)     (Vide ADI 7042)       (Vide ADI 7043)
 
@@ -358,7 +358,7 @@ III - o ajuizamento de mais de uma ação de improbidade administrativa pelo mes
 
 IV - o reexame obrigatório da sentença de improcedência ou de extinção sem resolução de mérito.          (Incluído pela Lei nº 14.230, de 2021)
 
-§ 20. A assessoria jurídica que emitiu o parecer atestando a legalidade prévia dos atos administrativos praticados pelo administrador público ficará obrigada a defendê-lo judicialmente, caso este venha a responder ação por improbidade administrativa, até que a decisão transite em julgado.        (Incluído pela Lei nº 14.230, de 2021)      (Vide ADI 7042)           (Vide ADI 7043)
+§ 20. A assessoria jurídica que emitiu o parecer atestando a legalidade prévia dos atos administrativos praticados pelo administrador público ficará obrigada a defendê-lo judicialmente, caso este venha a responder ação por improbidade administrativa, até que a decisão transite em julgado.  (STF em ADI: declarar a inconstitucionalidade parcial, com redução de texto, do § 20 do art. 17 da Lei 8.429/1992, incluído pela Lei 14.230/2021, no sentido de que não existe “obrigatoriedade de defesa judicial”; havendo, porém, a possibilidade dos órgãos da Advocacia Pública autorizarem a realização dessa representação judicial, por parte da assessoria jurídica que emitiu o parecer atestando a legalidade prévia dos atos administrativos praticados pelo administrador público, nos termos autorizados por lei específica)      (Incluído pela Lei nº 14.230, de 2021)      (Vide ADI 7042)           (Vide ADI 7043)
 
 § 21. Das decisões interlocutórias caberá agravo de instrumento, inclusive da decisão que rejeitar questões preliminares suscitadas pelo réu em sua contestação.       (Incluído pela Lei nº 14.230, de 2021)
 
@@ -481,7 +481,7 @@ Art. 20. A perda da função pública e a suspensão dos direitos políticos só
 
 Art. 21. A aplicação das sanções previstas nesta lei independe:
 
-I - da efetiva ocorrência de dano ao patrimônio público, salvo quanto à pena de ressarcimento e às condutas previstas no art. 10 desta Lei;          (Redação dada pela Lei nº 14.230, de 2021)
+I - da efetiva ocorrência de dano ao patrimônio público, salvo quanto à pena de ressarcimento e às condutas previstas no art. 10 desta Lei (lesão ao erário);          (Redação dada pela Lei nº 14.230, de 2021)
 
 II - da aprovação ou rejeição das contas pelo órgão de controle interno ou pelo Tribunal ou Conselho de Contas.
 
