@@ -16,6 +16,10 @@ Foco é formatar leis brasileiras para leitores de texto.
 
     * Mostrar o encoding no navegador: document.characterSet
 
+## Mudanças nos textos ou interpretações
+
+* Pesquisar por "ADI", "ADIN" ou "EMC".
+
 ## Comandos
 
 * Formatar
