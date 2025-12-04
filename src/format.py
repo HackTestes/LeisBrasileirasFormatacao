@@ -130,6 +130,9 @@ def main():
     # CF/88 Fica melhor de ouvir sem abreviar
     formatted_text = formatted_text.replace("CF/88", "Constituição Federal de 1988")
 
+    # pdftotext: separação silábica pode atrapalhar o TTS ('-')
+    formatted_text = formatted_text.replace("-\n", "")
+
     # Parágrafo
     formatted_text = formatted_text.replace("§§", "Parágrafos ")
     formatted_text = formatted_text.replace("§ ", "Parágrafo ")
