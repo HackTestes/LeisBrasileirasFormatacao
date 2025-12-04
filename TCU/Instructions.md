@@ -3,7 +3,7 @@
 Instruções para lidar com pdfs ISSAI.
 
 ```bash
-wget <ULR>
+wget <URL>
 ```
 
 ```bash
