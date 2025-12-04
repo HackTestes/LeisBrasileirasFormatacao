@@ -127,6 +127,9 @@ def main():
     # IA - evita interpretar a letra "I" como um numeral
     formatted_text = formatted_text.replace("I.A.", "IA")
 
+    # CF/88 Fica melhor de ouvir sem abreviar
+    formatted_text = formatted_text.replace("CF/88", "Constituição Federal de 1988")
+
     # Parágrafo
     formatted_text = formatted_text.replace("§§", "Parágrafos ")
     formatted_text = formatted_text.replace("§ ", "Parágrafo ")
