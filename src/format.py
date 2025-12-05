@@ -144,6 +144,7 @@ def main():
     formatted_text = formatted_text.replace("Vigência \n", "")
     formatted_text = formatted_text.replace("Vigência\n", "")
     formatted_text = formatted_text.replace("(Regulamento)", "")
+    formatted_text = formatted_text.replace("(NR)", "")
 
     # \( ou \) : são os parêntes literais já que é uma caracter especial
     # [\n\)] : representa uma bquebra de linha OU o fechamento de parênteses
@@ -166,6 +167,9 @@ def main():
     formatted_text = re.sub(r'\((Artigo|Inciso|Parágrafo|Alínea|Capítulo|Seção) com redação adaptada [^\)]*\)', "", formatted_text, flags=re.IGNORECASE)
     formatted_text = re.sub(r'\((Artigo|Inciso|Parágrafo|Alínea|Capítulo|Seção) adaptado [^\)]*\)', "", formatted_text, flags=re.IGNORECASE)
 
+    # Regimento Interno TCU
+    formatted_text = re.sub(r'\(Resolução-TCU[^\)]*\)', "", formatted_text, flags=re.IGNORECASE)
+
     # Números romanos
     for i in range(1, 150):
         # Incisos
@@ -182,7 +186,11 @@ def main():
         formatted_text = formatted_text.replace(f" {int_to_roman(i)},", f" {i},")
         #formatted_text = formatted_text.replace(f" {int_to_roman(i)}.", f" {i}.")
         formatted_text = formatted_text.replace(f" {int_to_roman(i)}-", f" {i} -")
+        formatted_text = formatted_text.replace(f" {int_to_roman(i)}‑", f" {i}‑") # Traço diferente
         formatted_text = formatted_text.replace(f"\n{int_to_roman(i)} – ", f"\n{i} – ")
+
+        # TCU NAT
+        formatted_text = formatted_text.replace(f"\n{int_to_roman(i)}. ", f"\n{i}. ")
 
     # Corrigir
     # Raios X - acaba virando raios 10
