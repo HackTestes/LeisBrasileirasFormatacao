@@ -7,14 +7,14 @@ wget <URL>
 ```
 
 ```bash
-ls *.pdf | xargs -i bash -c "pdftotext -y 50 -W 1000 -H 735 -f 4 -layout ./'{}'"
+ls *.pdf | xargs -i bash -c "pdftotext -y 50 -W 1000 -H 735 -f 4 ./'{}'"
 ```
 
 ## Regimento interno TCU
 
 * Debug
 ```bash
-pdftotext -y 50 -W 1000 -H 615 -f 11 -l 11 -layout -nopgbrk ./RITCU.pdf - | less
+pdftotext -y 50 -W 1000 -H 615 -f 11 -l 11 -nopgbrk ./RITCU.pdf - | less
 ```
 
 * Gerar arquivo final com as páginas selecionadas
@@ -22,19 +22,19 @@ pdftotext -y 50 -W 1000 -H 615 -f 11 -l 11 -layout -nopgbrk ./RITCU.pdf - | less
 printf "Regimento Interno do TCU\n\n" > RITCU.txt &&
 WIDTH=1000 && HEIGHT=615 && Y=50 &&
 H_WITH_TITLE=635 && Y_WITH_TITLE=30 &&
-pdftotext -y $Y_WITH_TITLE -W $WIDTH -H $H_WITH_TITLE -f 10 -l 10 -layout -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
-pdftotext -y $Y -W $WIDTH -H $HEIGHT -f 11 -l 16 -layout -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
-pdftotext -y $Y_WITH_TITLE -W $WIDTH -H $H_WITH_TITLE -f 20 -l 20 -layout -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
-pdftotext -y $Y_WITH_TITLE -W $WIDTH -H 150 -f 96 -l 96 -layout -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
-pdftotext -y $Y -W $WIDTH -H $HEIGHT -f 102 -l 102 -layout -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
-pdftotext -y $Y -W $WIDTH -H $HEIGHT -f 109 -l 110 -layout -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
-pdftotext -y $Y_WITH_TITLE -W $WIDTH -H $H_WITH_TITLE -f 120 -l 120 -layout -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
-pdftotext -y $Y -W $WIDTH -H $HEIGHT -f 121 -l 153 -layout -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
-pdftotext -y $Y_WITH_TITLE -W $WIDTH -H $H_WITH_TITLE -f 158 -l 158 -layout -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
-pdftotext -y $Y -W $WIDTH -H $HEIGHT -f 159 -l 161 -layout -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
-pdftotext -y $Y_WITH_TITLE -W $WIDTH -H $H_WITH_TITLE -f 168 -l 168 -layout -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
-pdftotext -y $Y -W $WIDTH -H $HEIGHT -f 169 -l 176 -layout -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
-pdftotext -y $Y_WITH_TITLE -W $WIDTH -H 225 -f 184 -l 184 -layout -nopgbrk ./RITCU.pdf - >> RITCU.txt
+pdftotext -y $Y_WITH_TITLE -W $WIDTH -H $H_WITH_TITLE -f 10 -l 10 -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
+pdftotext -y $Y -W $WIDTH -H $HEIGHT -f 11 -l 16 -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
+pdftotext -y $Y_WITH_TITLE -W $WIDTH -H $H_WITH_TITLE -f 20 -l 20 -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
+pdftotext -y $Y_WITH_TITLE -W $WIDTH -H 170 -f 96 -l 96 -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
+pdftotext -y $Y -W $WIDTH -H $HEIGHT -f 102 -l 102 -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
+pdftotext -y $Y -W $WIDTH -H $HEIGHT -f 109 -l 110 -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
+pdftotext -y $Y_WITH_TITLE -W $WIDTH -H $H_WITH_TITLE -f 120 -l 120 -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
+pdftotext -y $Y -W $WIDTH -H $HEIGHT -f 121 -l 153 -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
+pdftotext -y $Y_WITH_TITLE -W $WIDTH -H $H_WITH_TITLE -f 158 -l 158 -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
+pdftotext -y $Y -W $WIDTH -H $HEIGHT -f 159 -l 161 -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
+pdftotext -y $Y_WITH_TITLE -W $WIDTH -H $H_WITH_TITLE -f 168 -l 168 -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
+pdftotext -y $Y -W $WIDTH -H $HEIGHT -f 169 -l 176 -nopgbrk ./RITCU.pdf - >> RITCU.txt &&
+pdftotext -y $Y_WITH_TITLE -W $WIDTH -H 225 -f 184 -l 184 -nopgbrk ./RITCU.pdf - >> RITCU.txt
 ```
 
 Explicação

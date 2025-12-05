@@ -1,1871 +1,1174 @@
 Regimento Interno do TCU
 
-            TÍTULO I – NATUREZA, COMPETÊNCIA E JURISDIÇÃO
+TÍTULO I – NATUREZA, COMPETÊNCIA E JURISDIÇÃO
 
-
-
-                           CAPÍTULO I
-                  NATUREZA E COMPETÊNCIA
-
+CAPÍTULO I
+NATUREZA E COMPETÊNCIA
 Art. 1º Ao Tribunal de Contas da União, órgão de controle externo,
-compete, nos termos da Constituição Federal e na forma da legis-
-lação vigente, em especial da Lei nº 8.443, de 16 de julho de 1992:
-
+compete, nos termos da Constituição Federal e na forma da legislação vigente, em especial da Lei nº 8.443, de 16 de julho de 1992:
 I – julgar as contas de qualquer pessoa física ou jurídica, pública ou
-privada, que utilize, arrecade, guarde, gerencie ou administre di-
-nheiros, bens e valores públicos ou pelos quais a União responda
+privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda
 ou que, em nome desta, assuma obrigações de natureza pecuniária,
-bem como daqueles que derem causa a perda, extravio ou outra ir-
-regularidade de que resulte dano ao erário;
-
+bem como daqueles que derem causa a perda, extravio ou outra irregularidade de que resulte dano ao erário;
 II – realizar, por iniciativa própria ou por solicitação do Congresso
 Nacional, de suas casas ou das respectivas comissões, auditorias,
 inspeções ou acompanhamentos de natureza contábil, financeira,
-orçamentária, operacional ou patrimonial nas unidades adminis-
-trativas dos Poderes Legislativo, Executivo e Judiciário e demais ór-
-gãos e entidades sujeitos à sua jurisdição;
-
+orçamentária, operacional ou patrimonial nas unidades administrativas dos Poderes Legislativo, Executivo e Judiciário e demais órgãos e entidades sujeitos à sua jurisdição;
 III – prestar as informações solicitadas pelo Congresso Nacional,
-por qualquer de suas casas, ou por suas comissões, sobre a fiscaliza-
-ção contábil, financeira, orçamentária, operacional e patrimonial e
+por qualquer de suas casas, ou por suas comissões, sobre a fiscalização contábil, financeira, orçamentária, operacional e patrimonial e
 sobre resultados de auditorias e inspeções realizadas;
-
-IV – emitir pronunciamento conclusivo sobre matéria que seja sub-
-metida a sua apreciação pela comissão mista permanente de sena-
-dores e deputados referida no § 1º do art. 166 da Constituição Fede-
-ral, nos termos do § 1º do art. 72 da Constituição Federal;
-
-V – auditar, por solicitação da comissão mista permanente de se-
-nadores e deputados referida no § 1º do art. 166 da Constituição
-Federal, ou de comissão técnica de qualquer das casas do Congres-
-so Nacional, projetos e programas autorizados na lei orçamentária
+IV – emitir pronunciamento conclusivo sobre matéria que seja submetida a sua apreciação pela comissão mista permanente de senadores e deputados referida no § 1º do art. 166 da Constituição Federal, nos termos do § 1º do art. 72 da Constituição Federal;
+V – auditar, por solicitação da comissão mista permanente de senadores e deputados referida no § 1º do art. 166 da Constituição
+Federal, ou de comissão técnica de qualquer das casas do Congresso Nacional, projetos e programas autorizados na lei orçamentária
 anual, avaliando os seus resultados quanto à eficácia, eficiência,
 efetividade e economicidade;
+
 VI – apreciar as contas prestadas anualmente pelo Presidente da
 República;
-
 VII – acompanhar a arrecadação da receita a cargo da União, das
-entidades da administração indireta, incluídas as fundações e so-
-ciedades instituídas e mantidas pelo poder público federal, e das
+entidades da administração indireta, incluídas as fundações e sociedades instituídas e mantidas pelo poder público federal, e das
 demais instituições sob sua jurisdição, mediante fiscalizações, ou
 por meio de demonstrativos próprios;
-
-VIII – apreciar, para fins de registro, a legalidade dos atos de admis-
-são de pessoal, a qualquer título, na administração direta e indireta,
+VIII – apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer título, na administração direta e indireta,
 incluídas as fundações instituídas e mantidas pelo poder público
-federal, excetuadas as nomeações para cargo de provimento em co-
-missão, bem como a das concessões de aposentadorias, reformas
+federal, excetuadas as nomeações para cargo de provimento em comissão, bem como a das concessões de aposentadorias, reformas
 e pensões a servidores públicos civis e militares federais ou a seus
 beneficiários, ressalvadas as melhorias posteriores que não alterem
 o fundamento legal do ato concessório;
-
 IX – efetuar, observada a legislação pertinente, o cálculo das quotas
 referentes aos fundos de participação a que alude o parágrafo único
-do art. 161 da Constituição Federal, fiscalizando a entrega dos res-
-pectivos recursos;
-
+do art. 161 da Constituição Federal, fiscalizando a entrega dos respectivos recursos;
 X – (Revogado)
-
 XI – efetuar, observada a legislação pertinente, o cálculo das quotas
 dos recursos provenientes do produto da arrecadação do Imposto
-sobre Produtos Industrializados destinadas aos estados e ao Distri-
-to Federal, proporcionalmente ao valor das respectivas exportações
+sobre Produtos Industrializados destinadas aos estados e ao Distrito Federal, proporcionalmente ao valor das respectivas exportações
 de produtos industrializados, de que tratam o inciso II do art. 159 e
 o parágrafo único do art. 161 da Constituição Federal;
-
 XII – emitir, nos termos do § 2º do art. 33 da Constituição Federal,
 parecer prévio sobre as contas do governo de território federal, no
 prazo de sessenta dias, a contar de seu recebimento;
-
 XIII – fiscalizar, no âmbito de suas atribuições, o cumprimento, por
-parte dos órgãos e entidades da União, das normas da Lei Comple-
-mentar n° 101, de 4 de maio de 2000 – Lei de Responsabilidade Fiscal;
-XIV – processar e julgar as infrações administrativas contra as fi-
-nanças públicas e a responsabilidade fiscal tipificadas na legislação
-vigente, com vistas à aplicação de penalidades;
+parte dos órgãos e entidades da União, das normas da Lei Complementar n° 101, de 4 de maio de 2000 – Lei de Responsabilidade Fiscal;
 
-XV – acompanhar, fiscalizar e avaliar os processos de desestatiza-
-ção realizados pela administração pública federal, compreendendo
+XIV – processar e julgar as infrações administrativas contra as finanças públicas e a responsabilidade fiscal tipificadas na legislação
+vigente, com vistas à aplicação de penalidades;
+XV – acompanhar, fiscalizar e avaliar os processos de desestatização realizados pela administração pública federal, compreendendo
 as privatizações de empresas, incluindo instituições financeiras, e as
 concessões, permissões e autorizações de serviço público, nos termos
 do art. 175 da Constituição Federal e das normas legais pertinentes;
-
 XVI – representar ao Poder competente sobre irregularidades ou
-abusos apurados, indicando o ato inquinado e definindo respon-
-sabilidades, mesmo as de ministro de Estado ou de autoridade de
+abusos apurados, indicando o ato inquinado e definindo responsabilidades, mesmo as de ministro de Estado ou de autoridade de
 nível hierárquico equivalente;
-
-XVII – aplicar aos responsáveis as sanções e adotar as medidas cau-
-telares previstas neste Regimento;
-
+XVII – aplicar aos responsáveis as sanções e adotar as medidas cautelares previstas neste Regimento;
 XVIII – fiscalizar as contas nacionais das empresas supranacionais
 de cujo capital social a União participe, de forma direta ou indireta,
 nos termos do tratado constitutivo;
-
 XIX – fiscalizar a aplicação de quaisquer recursos repassados pela
 União, mediante convênio, acordo, ajuste ou outros instrumentos
 congêneres, a estado, ao Distrito Federal, a município, e a qualquer
 outra pessoa, física ou jurídica, pública ou privada;
-
 XX – acompanhar e fiscalizar, conforme o caso, o cálculo, a entrega
 e a aplicação de recursos repassados pela União, por determinação
-legal, a estado, ao Distrito Federal ou a município, conforme dis-
-puser a legislação específica e os respectivos normativos internos;
-
+legal, a estado, ao Distrito Federal ou a município, conforme dispuser a legislação específica e os respectivos normativos internos;
 XXI – assinar prazo para que o órgão ou entidade adote as providências
 necessárias ao exato cumprimento da lei, se verificada ilegalidade;
+XXII – sustar, se não atendido, a execução do ato impugnado, comunicando a decisão à Câmara dos Deputados e ao Senado Federal;
 
-XXII – sustar, se não atendido, a execução do ato impugnado, co-
-municando a decisão à Câmara dos Deputados e ao Senado Federal;
-XXIII – fiscalizar as declarações de bens e rendas apresentadas pe-
-las autoridades e servidores públicos;
-
-XXIV – decidir sobre denúncia que lhe seja encaminhada por qual-
-quer cidadão, partido político, associação ou sindicato, bem como
+XXIII – fiscalizar as declarações de bens e rendas apresentadas pelas autoridades e servidores públicos;
+XXIV – decidir sobre denúncia que lhe seja encaminhada por qualquer cidadão, partido político, associação ou sindicato, bem como
 sobre representações em geral;
-
-XXV – decidir sobre consulta que lhe seja formulada por autori-
-dade competente, a respeito de dúvida suscitada na aplicação de
+XXV – decidir sobre consulta que lhe seja formulada por autoridade competente, a respeito de dúvida suscitada na aplicação de
 dispositivos legais e regulamentares concernentes a matéria de
 sua competência;
-
-XXVI – decidir sobre representações relativas a licitações e con-
-tratos administrativos e ao descumprimento da obrigatoriedade
+XXVI – decidir sobre representações relativas a licitações e contratos administrativos e ao descumprimento da obrigatoriedade
 de que as câmaras municipais, os partidos políticos, os sindicatos
 de trabalhadores e as entidades empresariais sejam notificados da
 liberação de recursos federais para os respectivos municípios, nos
 termos da legislação vigente;
-
 XXVII – fiscalizar a aplicação dos recursos repassados ao Comitê
 Olímpico Brasileiro e ao Comitê Paraolímpico Brasileiro por força
 da legislação vigente;
-
-XXVIII – implementar e manter na Internet a página Contas Públi-
-cas, na forma definida em ato normativo;
-
+XXVIII – implementar e manter na Internet a página Contas Públicas, na forma definida em ato normativo;
 XXIX – realizar outras fiscalizações ou exercer outras atribuições
 previstas em lei;
-
 XXX – alterar este Regimento;
-
 XXXI – eleger seu Presidente e seu Vice‑Presidente, e dar‑lhes posse;
-
-XXXII – conceder licença, férias e outros afastamentos aos minis-
-tros, ministros‑substitutos e membros do Ministério Público junto
+XXXII – conceder licença, férias e outros afastamentos aos ministros, ministros‑substitutos e membros do Ministério Público junto
 ao Tribunal, dependendo de inspeção por junta médica a licença
 para tratamento de saúde por prazo superior a seis meses;
+
 XXXIII – organizar sua Secretaria e prover‑lhe os cargos, observada
 a legislação pertinente;
-
 XXXIV – propor ao Congresso Nacional a criação, transformação e
-extinção de cargos e funções do quadro de pessoal de sua Secreta-
-ria, bem como a fixação da respectiva remuneração.
-
+extinção de cargos e funções do quadro de pessoal de sua Secretaria, bem como a fixação da respectiva remuneração.
 § 1º. No julgamento de contas e na fiscalização que lhe compete, o
-Tribunal decidirá sobre a legalidade, a legitimidade e a economici-
-dade dos atos de gestão e das despesas deles decorrentes, bem como
+Tribunal decidirá sobre a legalidade, a legitimidade e a economicidade dos atos de gestão e das despesas deles decorrentes, bem como
 sobre a aplicação de subvenções e a renúncia de receitas.
-
-§ 2º. Todas as menções a ministro‑substituto constantes deste Re-
-gimento Interno referem‑se ao cargo de que trata o art. 73, § 4º, da
-Constituição Federal, cujos titulares, nos termos do texto consti-
-tucional, substituem os ministros e exercem as demais atribuições
+§ 2º. Todas as menções a ministro‑substituto constantes deste Regimento Interno referem‑se ao cargo de que trata o art. 73, § 4º, da
+Constituição Federal, cujos titulares, nos termos do texto constitucional, substituem os ministros e exercem as demais atribuições
 da judicatura, presidindo processos e relatando‑os com proposta de
 decisão, segundo o que dispõe o art. 78, parágrafo único, da Lei nº
 8.443/1992.
-
-Art. 2º Ao Tribunal de Contas da União assiste o poder regulamen-
-tar, podendo, em consequência, expedir atos normativos sobre ma-
-térias de sua competência e sobre a organização dos processos que
+Art. 2º Ao Tribunal de Contas da União assiste o poder regulamentar, podendo, em consequência, expedir atos normativos sobre matérias de sua competência e sobre a organização dos processos que
 lhe devam ser submetidos, obrigando ao seu cumprimento aqueles
 que lhe estão jurisdicionados, sob pena de responsabilidade, nos
 termos do art. 3º da Lei nº 8.443, de 1992.
-
 Art. 3º No exercício de sua competência, o Tribunal terá irrestrito
-acesso a todas as fontes de informações disponíveis em órgãos e en-
-tidades jurisdicionados, inclusive às armazenadas em meio eletrô-
-nico, bem como àquelas que tratem de despesas de caráter sigiloso.
-                           CAPÍTULO II
-                            JURISDIÇÃO
+acesso a todas as fontes de informações disponíveis em órgãos e entidades jurisdicionados, inclusive às armazenadas em meio eletrônico, bem como àquelas que tratem de despesas de caráter sigiloso.
 
-Art. 4º O Tribunal de Contas da União tem jurisdição própria e pri-
-vativa, em todo o território nacional, sobre as pessoas e matérias
+CAPÍTULO II
+JURISDIÇÃO
+Art. 4º O Tribunal de Contas da União tem jurisdição própria e privativa, em todo o território nacional, sobre as pessoas e matérias
 sujeitas à sua competência.
-
 Art. 5º A jurisdição do Tribunal abrange:
-
-I – qualquer pessoa física ou jurídica, pública ou privada, que utili-
-ze, arrecade, guarde, gerencie ou administre dinheiros, bens e va-
-lores públicos ou pelos quais a União responda, ou que, em nome
+I – qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a União responda, ou que, em nome
 desta, assuma obrigações de natureza pecuniária;
-
-II – aqueles que derem causa a perda, extravio ou outra irregulari-
-dade de que resulte dano ao erário;
-
+II – aqueles que derem causa a perda, extravio ou outra irregularidade de que resulte dano ao erário;
 III – os dirigentes de empresas públicas e sociedades de economia
 mista constituídas com recursos da União;
-
 IV – os dirigentes ou liquidantes das empresas encampadas ou sob
-intervenção ou que, de qualquer modo, venham a integrar, provisó-
-ria ou permanentemente, o patrimônio da União ou de outra enti-
-dade federal;
-
-V – os responsáveis pelas contas nacionais das empresas suprana-
-cionais de cujo capital social a União participe, de forma direta ou
+intervenção ou que, de qualquer modo, venham a integrar, provisória ou permanentemente, o patrimônio da União ou de outra entidade federal;
+V – os responsáveis pelas contas nacionais das empresas supranacionais de cujo capital social a União participe, de forma direta ou
 indireta, nos termos do tratado constitutivo;
+VI – os responsáveis por entidades dotadas de personalidade jurídica de direito privado que recebam contribuições parafiscais e prestem serviço de interesse público ou social;
+VII – todos aqueles que lhe devam prestar contas ou cujos atos estejam sujeitos à sua fiscalização por expressa disposição de lei;
 
-VI – os responsáveis por entidades dotadas de personalidade jurídi-
-ca de direito privado que recebam contribuições parafiscais e pres-
-tem serviço de interesse público ou social;
-
-VII – todos aqueles que lhe devam prestar contas ou cujos atos este-
-jam sujeitos à sua fiscalização por expressa disposição de lei;
-VIII – os responsáveis pela aplicação de quaisquer recursos repas-
-sados pela União, mediante convênio, acordo, ajuste ou outros ins-
-trumentos congêneres, a estado, ao Distrito Federal, a município, e
+VIII – os responsáveis pela aplicação de quaisquer recursos repassados pela União, mediante convênio, acordo, ajuste ou outros instrumentos congêneres, a estado, ao Distrito Federal, a município, e
 a qualquer outra pessoa, física ou jurídica, pública ou privada;
-
-IX – os sucessores dos administradores e responsáveis a que se re-
-fere este artigo, até o limite do valor do patrimônio transferido, nos
+IX – os sucessores dos administradores e responsáveis a que se refere este artigo, até o limite do valor do patrimônio transferido, nos
 termos do inciso XLV do art. 5º da Constituição Federal;
-
-X – os representantes da União ou do poder público federal na as-
-sembleia geral das empresas estatais e sociedades anônimas de cujo
+X – os representantes da União ou do poder público federal na assembleia geral das empresas estatais e sociedades anônimas de cujo
 capital as referidas pessoas jurídicas participem, solidariamente
-com os membros dos conselhos fiscal e de administração, pela prá-
-tica de atos de gestão ruinosa ou liberalidade à custa das respecti-
-vas sociedades.
-                       TÍTULO II – ORGANIZAÇÃO
+com os membros dos conselhos fiscal e de administração, pela prática de atos de gestão ruinosa ou liberalidade à custa das respectivas sociedades.
 
+TÍTULO II – ORGANIZAÇÃO
 
-
-                           CAPÍTULO I
-                      SEDE E COMPOSIÇÃO
-
+CAPÍTULO I
+SEDE E COMPOSIÇÃO
 Art. 6º O Tribunal de Contas da União tem sede no Distrito Federal
 e compõe‑se de nove ministros.
-
-Art. 7º São órgãos do Tribunal o Plenário, a Primeira e a Segun-
-da câmaras, o Presidente, as comissões, de caráter permanente ou
+Art. 7º São órgãos do Tribunal o Plenário, a Primeira e a Segunda câmaras, o Presidente, as comissões, de caráter permanente ou
 temporário, e a Corregedoria, que colaborarão no desempenho de
 suas atribuições.
-
-Art. 8º O Presidente, em suas ausências e impedimentos, por mo-
-tivo de licença, férias ou outro afastamento legal, será substituído
+Art. 8º O Presidente, em suas ausências e impedimentos, por motivo de licença, férias ou outro afastamento legal, será substituído
 pelo Vice‑Presidente.
-
-§ 1º. Na ausência ou impedimento do Vice‑Presidente, o Presiden-
-te será substituído pelo ministro mais antigo em exercício no cargo.
-
+§ 1º. Na ausência ou impedimento do Vice‑Presidente, o Presidente será substituído pelo ministro mais antigo em exercício no cargo.
 § 2º. O Vice‑Presidente, em suas ausências e impedimentos, por
-motivo de licença, férias ou outro afastamento legal, será substituí-
-do nas funções de Corregedor pelo ministro mais antigo em exercí-
-cio no cargo.
-
+motivo de licença, férias ou outro afastamento legal, será substituído nas funções de Corregedor pelo ministro mais antigo em exercício no cargo.
 Art. 9º Funciona junto ao Tribunal o Ministério Público, na forma
 estabelecida nos arts. 58 a 64.
-
 Art. 10. O Tribunal disporá de Secretaria para atender às atividades
 de apoio técnico e administrativo, na forma estabelecida nos arts.
 65 e 66.
-                    TÍTULO V – PROCESSO EM GERAL
 
+TÍTULO V – PROCESSO EM GERAL
 
-
-                          CAPÍTULO III
-                          DISTRIBUIÇÃO
-
-Art. 147. A distribuição de processos aos ministros e ministros-subs-
-titutos obedecerá aos princípios da publicidade, da alternatividade e
+CAPÍTULO III
+DISTRIBUIÇÃO
+Art. 147. A distribuição de processos aos ministros e ministros-substitutos obedecerá aos princípios da publicidade, da alternatividade e
 do sorteio, e será disciplinada em ato normativo. (NR)(Resolução-TCU
-                          CAPÍTULO VI
-                              PROVAS
+nº 345, de 30/11/2022, BTCU Deliberações nº 228/2022)
 
+CAPÍTULO VI
+PROVAS
 Art. 162. As provas que a parte quiser produzir perante o Tribunal
 devem sempre ser apresentadas de forma documental, mesmo as
 declarações pessoais de terceiros.
-
 § 1º. São inadmissíveis no processo provas obtidas por meios ilícitos.
+§ 2º. O relator, em decisão fundamentada, negará a juntada de provas ilícitas, impertinentes, desnecessárias ou protelatórias.
 
-§ 2º. O relator, em decisão fundamentada, negará a juntada de pro-
-vas ilícitas, impertinentes, desnecessárias ou protelatórias.
-                          CAPÍTULO X
-                           NULIDADES
-
+CAPÍTULO X
+NULIDADES
 Art. 171. Nenhum ato será declarado nulo se do vício não resultar
 prejuízo para a parte, para o erário, para a apuração dos fatos pelo
 Tribunal ou para a deliberação adotada.
-
 Parágrafo único. Quando puder decidir do mérito a favor da parte a
-quem aproveitaria a declaração de nulidade, o Tribunal não a pro-
-nunciará nem mandará repetir o ato ou suprir‑lhe a falta.
-
-Art. 172. Não se tratando de nulidade absoluta, considerar‑se‑á vá-
-lido o ato que, praticado de outra forma, tiver atingido o seu fim.
-
-Parágrafo único. O disposto neste artigo não impede o suprimen-
-to da nulidade absoluta, nas hipóteses previstas neste Regimento
+quem aproveitaria a declaração de nulidade, o Tribunal não a pronunciará nem mandará repetir o ato ou suprir‑lhe a falta.
+Art. 172. Não se tratando de nulidade absoluta, considerar‑se‑á válido o ato que, praticado de outra forma, tiver atingido o seu fim.
+Parágrafo único. O disposto neste artigo não impede o suprimento da nulidade absoluta, nas hipóteses previstas neste Regimento
 e nas leis processuais aplicáveis subsidiariamente aos processos
 do Tribunal.
-
 Art. 173. A parte não poderá arguir nulidade a que haja dado causa
 ou para a qual tenha, de qualquer modo, concorrido.
-
-Art. 174. Conforme a competência para a prática do ato, o Tribu-
-nal ou o relator declarará a nulidade de ofício, se absoluta, ou por
+Art. 174. Conforme a competência para a prática do ato, o Tribunal ou o relator declarará a nulidade de ofício, se absoluta, ou por
 provocação da parte ou do Ministério Público junto ao Tribunal, em
 qualquer caso.
-
 Art. 175. A nulidade do ato, uma vez declarada, causará a dos atos
 subsequentes que dele dependam ou sejam consequência.
-
-Parágrafo único. A nulidade de uma parte do ato, porém, não preju-
-dicará as outras que dela sejam independentes.
-
-Art. 176. O relator ou o Tribunal, ao pronunciar a nulidade, decla-
-rará os atos a que ela se estende, ordenando as providências ne-
-cessárias, a fim de que sejam repetidos ou retificados, ressalvado o
+Parágrafo único. A nulidade de uma parte do ato, porém, não prejudicará as outras que dela sejam independentes.
+Art. 176. O relator ou o Tribunal, ao pronunciar a nulidade, declarará os atos a que ela se estende, ordenando as providências necessárias, a fim de que sejam repetidos ou retificados, ressalvado o
 disposto no art. 171.
-Parágrafo único. Pronunciada a nulidade na fase recursal, compete:
 
+Parágrafo único. Pronunciada a nulidade na fase recursal, compete:
 I – ao relator do recurso ou ao Tribunal declarar os atos a que ela
 se estende;
-
-II – ao ministro ou ministro‑substituto, sob cuja relatoria o ato de-
-clarado nulo foi praticado, ou ao seu sucessor, ordenar as providên-
-cias necessárias para a repetição ou retificação do ato.
-
-Art. 177. Eventual incompetência do relator não é causa de nulida-
-de dos atos por ele praticados.
-
-Art. 178. Nos processos em que deva intervir, a falta de manifesta-
-ção do Ministério Público implica a nulidade do processo a partir do
+II – ao ministro ou ministro‑substituto, sob cuja relatoria o ato declarado nulo foi praticado, ou ao seu sucessor, ordenar as providências necessárias para a repetição ou retificação do ato.
+Art. 177. Eventual incompetência do relator não é causa de nulidade dos atos por ele praticados.
+Art. 178. Nos processos em que deva intervir, a falta de manifestação do Ministério Público implica a nulidade do processo a partir do
 momento em que esse órgão deveria ter‑se pronunciado.
-
 Parágrafo único. A manifestação posterior do Ministério Público
 sana a nulidade do processo, se ocorrer antes da decisão definitiva
 de mérito do Tribunal, nas hipóteses em que expressamente anuir
 aos atos praticados anteriormente ao seu pronunciamento.
-             TÍTULO VI – ATIVIDADE DE CONTROLE EXTERNO
 
+TÍTULO VI – ATIVIDADE DE CONTROLE EXTERNO
 
-
-                         CAPÍTULO I‑A
-               PLANO DE CONTROLE EXTERNO
-
+CAPÍTULO I‑A
+PLANO DE CONTROLE EXTERNO
 Art. 188‑A. As ações de controle externo obedecerão a plano de
 controle externo, proposto pela Presidência, de acordo com o plano
 estratégico e as diretrizes do Tribunal e das Contas do Presidente
 da República.
-
 Parágrafo único. O plano será elaborado em consulta aos Ministros
 e ao relator das Contas do Presidente da República, e será aprovado
 pelo Plenário em sessão de caráter reservado. (NR)(Resolução-TCU
 nº 345, de 30/11/2022, BTCU Deliberações nº 228/2022)
-                           CAPÍTULO I
-                   JULGAMENTO DE CONTAS
 
-
+CAPÍTULO I
+JULGAMENTO DE CONTAS
 SEÇÃO I
 TOMADA E PRESTAÇÃO DE CONTAS
-
 Art. 188. Têm o dever de prestar contas e, ressalvado o disposto
 no inciso XXXV do art. 5º da Constituição Federal, só por decisão
-do Tribunal de Contas da União podem ser liberadas dessa respon-
-sabilidade, as pessoas indicadas nos incisos I e III a VII do art. 5º
+do Tribunal de Contas da União podem ser liberadas dessa responsabilidade, as pessoas indicadas nos incisos I e III a VII do art. 5º
 deste Regimento.
-
 Art. 189. As contas dos administradores e responsáveis a que se
 refere o artigo anterior serão submetidas a julgamento do Tribunal,
-sob forma de tomada ou prestação de contas, que poderão ser ordi-
-nárias, extraordinárias ou especiais.
-
+sob forma de tomada ou prestação de contas, que poderão ser ordinárias, extraordinárias ou especiais.
 Parágrafo único. Atos normativos próprios do Tribunal disporão
 acerca da organização, recebimento e tratamento dos processos de
 tomadas e prestações de contas a que se refere este artigo.
-
 Art. 190. O órgão de controle interno competente encaminhará ou
 colocará à disposição do Tribunal, em cada exercício, por meio de
 acesso a banco de dados informatizado, o rol de responsáveis e suas
 alterações, com a indicação da natureza da responsabilidade de
 cada um, além de outros documentos ou informações necessários,
 na forma prescrita em ato normativo.
-
-Art. 191. As contas dos órgãos e fundos indicados no art. 257 deve-
-rão ser acompanhadas de demonstrativos que expressem as situa-
-ções dos projetos e instituições beneficiadas por renúncia de recei-
-tas, bem como do impacto socioeconômico de suas atividades.
-
+Art. 191. As contas dos órgãos e fundos indicados no art. 257 deverão ser acompanhadas de demonstrativos que expressem as situações dos projetos e instituições beneficiadas por renúncia de receitas, bem como do impacto socioeconômico de suas atividades.
 Art. 192. Salvo disposição legal ou regulamentar em contrário, os
 processos de tomada ou prestação de contas ordinária deverão ser
-apresentados ao Tribunal dentro dos prazos definidos no ato nor-
-mativo de que trata o art. 194.
+apresentados ao Tribunal dentro dos prazos definidos no ato normativo de que trata o art. 194.
+
 Art. 193. (Revogado)
-
-Art. 194. Os processos de tomada ou prestação de contas ordiná-
-ria conterão os elementos e demonstrativos especificados em ato
+Art. 194. Os processos de tomada ou prestação de contas ordinária conterão os elementos e demonstrativos especificados em ato
 normativo, que evidenciem a boa e regular aplicação dos recursos
-públicos e, ainda, a observância aos dispositivos legais e regula-
-mentares aplicáveis.
-
+públicos e, ainda, a observância aos dispositivos legais e regulamentares aplicáveis.
 Parágrafo único. O ato normativo mencionado no caput, tendo em
-vista a racionalização e a simplificação do exame e do julgamen-
-to das tomadas e prestações de contas pelo Tribunal, estabelecerá
+vista a racionalização e a simplificação do exame e do julgamento das tomadas e prestações de contas pelo Tribunal, estabelecerá
 também critérios de formalização dos respectivos processos, tendo
 em vista a materialidade dos recursos públicos geridos, a natureza e
 a importância socioeconômica dos órgãos e entidades.
-
 Art. 195. O Tribunal disciplinará, em ato normativo, procedimentos de
 análise técnica simplificada, entre os quais o diferimento da instrução
 de processos de tomada e prestação de contas que contenham parecer
 do controle interno pela regularidade ou regularidade com ressalva,
 observados, ainda, critérios de materialidade, relevância e risco.
-
 Parágrafo único. Entende‑se por diferimento o sobrestamento da
-análise do processo na unidade técnica por prazo determinado, fin-
-do o qual, inexistindo elementos supervenientes que infirmem o
-parecer do controle interno, será encaminhado ao relator, após ou-
-vido o Ministério Público, para julgamento por Relação, observado
+análise do processo na unidade técnica por prazo determinado, findo o qual, inexistindo elementos supervenientes que infirmem o
+parecer do controle interno, será encaminhado ao relator, após ouvido o Ministério Público, para julgamento por Relação, observado
 o prazo fixado no § 6º do art. 143.
-
-Art. 196. O Tribunal disciplinará, em ato normativo, a forma de apre-
-sentação das contas a serem prestadas pelo governo de território federal.
-
+Art. 196. O Tribunal disciplinará, em ato normativo, a forma de apresentação das contas a serem prestadas pelo governo de território federal.
 
 SEÇÃO II
 TOMADA DE CONTAS ESPECIAL
-
-Art. 197. Diante da omissão no dever de prestar contas, da não‑com-
-provação da aplicação dos recursos repassados pela União na forma
+Art. 197. Diante da omissão no dever de prestar contas, da não‑comprovação da aplicação dos recursos repassados pela União na forma
 prevista no inciso VIII do art. 5º, da ocorrência de desfalque ou desvio
-de dinheiros, bens ou valores públicos, ou, ainda, da prática de qual-
-quer ato ilegal, ilegítimo ou antieconômico de que resulte dano ao
-erário, a autoridade administrativa competente, sob pena de respon-
-sabilidade solidária, deverá imediatamente adotar providências com
+de dinheiros, bens ou valores públicos, ou, ainda, da prática de qualquer ato ilegal, ilegítimo ou antieconômico de que resulte dano ao
+erário, a autoridade administrativa competente, sob pena de responsabilidade solidária, deverá imediatamente adotar providências com
 vistas à instauração de tomada de contas especial para apuração dos
 fatos, identificação dos responsáveis e quantificação do dano.
-
-§ 1º. Não providenciado o disposto no caput, o Tribunal determi-
-nará a instauração de tomada de contas especial, fixando prazo para
+§ 1º. Não providenciado o disposto no caput, o Tribunal determinará a instauração de tomada de contas especial, fixando prazo para
 cumprimento dessa decisão.
-
-§ 2º. Esgotadas todas as medidas ao alcance da autoridade adminis-
-trativa e do órgão do controle interno, visando à apuração dos fatos
-irregulares, à perfeita identificação dos responsáveis e ao ressarci-
-mento do erário, a tomada de contas especial será encaminhada ao
+§ 2º. Esgotadas todas as medidas ao alcance da autoridade administrativa e do órgão do controle interno, visando à apuração dos fatos
+irregulares, à perfeita identificação dos responsáveis e ao ressarcimento do erário, a tomada de contas especial será encaminhada ao
 Tribunal para julgamento, observado, quando couber, o art. 206.
-
 § 3º. Na ocorrência de perda, extravio ou outra irregularidade sem
 que se caracterize a má‑fé de quem lhe deu causa, se o dano for
 imediatamente ressarcido, a autoridade administrativa competente
 deverá, em sua tomada ou prestação de contas ordinária, comunicar
 o fato ao Tribunal, ficando dispensada desde logo a instauração de
 tomada de contas especial.
-
-Art. 198. Os processos de tomadas de contas especiais instaura-
-das por determinação da autoridade administrativa ou do Tribunal
+Art. 198. Os processos de tomadas de contas especiais instauradas por determinação da autoridade administrativa ou do Tribunal
 deverão conter os elementos especificados em ato normativo, sem
-prejuízo de outras peças que permitam ajuizamento acerca da res-
-ponsabilidade ou não pelo dano verificado.
-
+prejuízo de outras peças que permitam ajuizamento acerca da responsabilidade ou não pelo dano verificado.
 Parágrafo único. O disposto no caput não se aplica aos processos
 convertidos em tomada de contas especial pelo Tribunal, sendo
 nesse caso obrigatória, entretanto, a cientificação do ministro de
 Estado supervisor da área ou autoridade equivalente.
-
 Art. 199. A tomada de contas especial prevista no caput e no § 1º
-do art. 197 será, desde logo, encaminhada ao Tribunal para julga-
-mento, se o dano ao erário for de valor igual ou superior à quantia
+do art. 197 será, desde logo, encaminhada ao Tribunal para julgamento, se o dano ao erário for de valor igual ou superior à quantia
 fixada em cada ano civil, até a última sessão ordinária do Plenário,
 para vigorar no exercício subsequente.
-§ 1º. A proposta de fixação da quantia a que se refere o caput será
-submetida ao Plenário pelo Presidente do Tribunal, mediante pro-
-jeto de ato normativo.
 
+§ 1º. A proposta de fixação da quantia a que se refere o caput será
+submetida ao Plenário pelo Presidente do Tribunal, mediante projeto de ato normativo.
 § 2º. Havendo majoração do limite a que se refere o caput, as tomadas
 de contas especiais de exercícios anteriores já presentes no Tribunal,
-cujo dano ao erário seja inferior ao novo valor fixado, poderão ser ar-
-quivadas, sem cancelamento do débito, na forma indicada no art. 213,
+cujo dano ao erário seja inferior ao novo valor fixado, poderão ser arquivadas, sem cancelamento do débito, na forma indicada no art. 213,
 desde que ainda não tenha sido efetivada a citação dos responsáveis.
-
-§ 3º. Na hipótese do parágrafo anterior, o responsável poderá soli-
-citar ao Tribunal o desarquivamento do processo para julgamento.
-
+§ 3º. Na hipótese do parágrafo anterior, o responsável poderá solicitar ao Tribunal o desarquivamento do processo para julgamento.
 § 4º. Se o dano for de valor inferior à quantia a que alude o caput, a
 tomada de contas especial será anexada ao processo da respectiva
-tomada ou prestação de contas ordinária do administrador ou orde-
-nador de despesa, para julgamento em conjunto.
-
-Art. 200. O Tribunal poderá baixar ato normativo visando simplifi-
-car a formalização e o trâmite e agilizar o julgamento das tomadas
+tomada ou prestação de contas ordinária do administrador ou ordenador de despesa, para julgamento em conjunto.
+Art. 200. O Tribunal poderá baixar ato normativo visando simplificar a formalização e o trâmite e agilizar o julgamento das tomadas
 de contas especiais.
-
-
 
 SEÇÃO III
 DECISÕES
-
-Art. 201. A decisão em processo de prestação ou de tomada de con-
-tas, mesmo especial, pode ser preliminar, definitiva ou terminativa.
-
+Art. 201. A decisão em processo de prestação ou de tomada de contas, mesmo especial, pode ser preliminar, definitiva ou terminativa.
 § 1º. Preliminar é a decisão pela qual o relator ou o Tribunal, antes
 de pronunciar‑se quanto ao mérito das contas, resolve sobrestar o
-julgamento, ordenar a citação ou a audiência dos responsáveis, re-
-jeitar as alegações de defesa e fixar novo e improrrogável prazo para
-recolhimento do débito ou, ainda, determinar outras diligências ne-
-cessárias ao saneamento do processo.
+julgamento, ordenar a citação ou a audiência dos responsáveis, rejeitar as alegações de defesa e fixar novo e improrrogável prazo para
+recolhimento do débito ou, ainda, determinar outras diligências necessárias ao saneamento do processo.
+§ 2º. Definitiva é a decisão pela qual o Tribunal julga as contas regulares, regulares com ressalva ou irregulares.
 
-§ 2º. Definitiva é a decisão pela qual o Tribunal julga as contas re-
-gulares, regulares com ressalva ou irregulares.
-§ 3º. Terminativa é a decisão pela qual o Tribunal ordena o tran-
-camento das contas que forem consideradas iliquidáveis, ou deter-
-mina o seu arquivamento pela ausência de pressupostos de cons-
-tituição e de desenvolvimento válido e regular do processo ou por
+§ 3º. Terminativa é a decisão pela qual o Tribunal ordena o trancamento das contas que forem consideradas iliquidáveis, ou determina o seu arquivamento pela ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo ou por
 racionalização administrativa e economia processual, nos termos
 dos arts. 211 a 213.
-
 Art. 202. Verificada irregularidade nas contas, o relator ou o Tribunal:
-
 I – definirá a responsabilidade individual ou solidária pelo ato de
 gestão inquinado;
-
 II – se houver débito, ordenará a citação do responsável para que,
 no prazo de quinze dias, apresente alegações de defesa ou recolha a
 quantia devida, ou ainda, a seu critério, adote ambas as providências;
-
 III – se não houver débito, determinará a audiência do responsável
 para que, no prazo de quinze dias, apresente razões de justificativa;
-
 IV – adotará outras medidas cabíveis.
-
-§ 1º. Os débitos serão atualizados monetariamente e, caso o res-
-ponsável venha a ser condenado pelo Tribunal, serão acrescidos de
-juros de mora, nos termos da legislação vigente, devendo‑se regis-
-trar expressamente essas informações no expediente citatório.
-
+§ 1º. Os débitos serão atualizados monetariamente e, caso o responsável venha a ser condenado pelo Tribunal, serão acrescidos de
+juros de mora, nos termos da legislação vigente, devendo‑se registrar expressamente essas informações no expediente citatório.
 § 2º. Na oportunidade da resposta à citação, será examinada a
 ocorrência de boa‑fé na conduta do responsável e a inexistência de
 outra irregularidade nas contas.
-
-§ 3º. Comprovados esses requisitos e subsistindo o débito, o Tri-
-bunal proferirá, mediante acórdão, deliberação de rejeição das ale-
-gações de defesa e dará ciência ao responsável para que, em novo e
+§ 3º. Comprovados esses requisitos e subsistindo o débito, o Tribunal proferirá, mediante acórdão, deliberação de rejeição das alegações de defesa e dará ciência ao responsável para que, em novo e
 improrrogável prazo de quinze dias, recolha a importância devida.
-
 § 4º. Na hipótese do parágrafo anterior, a liquidação tempestiva do
-débito atualizado monetariamente saneará o processo e o Tribunal jul-
-gará as contas regulares com ressalva e dará quitação ao responsável.
-§ 5º. O ofício que der ciência ao responsável da rejeição das ale-
-gações de defesa deverá conter expressamente informação sobre o
+débito atualizado monetariamente saneará o processo e o Tribunal julgará as contas regulares com ressalva e dará quitação ao responsável.
+
+§ 5º. O ofício que der ciência ao responsável da rejeição das alegações de defesa deverá conter expressamente informação sobre o
 disposto no parágrafo anterior.
-
 § 6º. Não reconhecida a boa‑fé do responsável ou havendo outras
-irregularidades, o Tribunal proferirá, desde logo, o julgamento defi-
-nitivo de mérito pela irregularidade das contas.
-
+irregularidades, o Tribunal proferirá, desde logo, o julgamento definitivo de mérito pela irregularidade das contas.
 § 7º. No caso de rejeição das razões de justificativa, a comunicação
-a que se refere o § 3º do art. 179 será efetivada na mesma oportuni-
-dade em que se fizer a notificação da aplicação das sanções previs-
-tas nos arts. 268 e 270.
-
+a que se refere o § 3º do art. 179 será efetivada na mesma oportunidade em que se fizer a notificação da aplicação das sanções previstas nos arts. 268 e 270.
 § 8º. O responsável que não atender à citação ou à audiência será
 considerado revel pelo Tribunal, para todos os efeitos, dando‑se
 prosseguimento ao processo.
-
 Art. 203. A decisão preliminar do relator a que se refere o § 1º do
 art. 201 poderá, a seu critério, ser publicada nos órgãos oficiais.
-
 Art. 204. O Tribunal julgará as tomadas e prestações de contas até
 o término do exercício seguinte àquele em que lhe tiverem sido
 apresentadas.
-
 Art. 205. Ao julgar as contas, o Tribunal decidirá se são regulares,
 regulares com ressalva ou irregulares.
-
 Art. 206. A decisão definitiva em processo de tomada ou prestação
 de contas ordinária não constituirá fato impeditivo da aplicação de
-multa ou imputação de débito em outros processos, salvo se a ma-
-téria tiver sido examinada de forma expressa e conclusiva, hipótese
-na qual o seu exame dependerá do conhecimento de eventual re-
-curso interposto pelo Ministério Público.
-
+multa ou imputação de débito em outros processos, salvo se a matéria tiver sido examinada de forma expressa e conclusiva, hipótese
+na qual o seu exame dependerá do conhecimento de eventual recurso interposto pelo Ministério Público.
 Art. 207. As contas serão julgadas regulares quando expressarem,
 de forma clara e objetiva, a exatidão dos demonstrativos contábeis,
 a legalidade, a legitimidade e a economicidade dos atos de gestão
 do responsável.
+
 Parágrafo único. Quando julgar as contas regulares, o Tribunal dará
 quitação plena ao responsável.
-
 Art. 208. As contas serão julgadas regulares com ressalva quando
 evidenciarem impropriedade ou qualquer outra falta de natureza
 formal de que não resulte dano ao erário.
-
 § 1º. O acórdão de julgamento deverá indicar, resumidamente, os
 motivos que ensejam a ressalva das contas.
-
-§ 2º. Na hipótese prevista no caput, o Tribunal dará quitação ao res-
-ponsável e lhe determinará, ou a quem lhe haja sucedido, se cabível, a
+§ 2º. Na hipótese prevista no caput, o Tribunal dará quitação ao responsável e lhe determinará, ou a quem lhe haja sucedido, se cabível, a
 adoção de medidas necessárias à correção das impropriedades ou faltas
 identificadas, de modo a prevenir a ocorrência de outras semelhantes.
-
-Art. 209. O Tribunal julgará as contas irregulares quando eviden-
-ciada qualquer das seguintes ocorrências:
-
+Art. 209. O Tribunal julgará as contas irregulares quando evidenciada qualquer das seguintes ocorrências:
 I – omissão no dever de prestar contas;
-
 II – prática de ato de gestão ilegal, ilegítimo ou antieconômico, ou
-infração a norma legal ou regulamentar de natureza contábil, finan-
-ceira, orçamentária, operacional ou patrimonial;
-
+infração a norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional ou patrimonial;
 III – dano ao erário decorrente de ato de gestão ilegítimo ou
 antieconômico;
-
 IV – desfalque ou desvio de dinheiros, bens ou valores públicos.
-
-§ 1º. O Tribunal poderá julgar irregulares as contas no caso de des-
-cumprimento de determinação de que o responsável tenha tido
+§ 1º. O Tribunal poderá julgar irregulares as contas no caso de descumprimento de determinação de que o responsável tenha tido
 ciência, feita em processo de tomada ou prestação de contas.
-
 § 2º. Contas apresentadas em desacordo com as normas legais e
 regulamentares aplicáveis à matéria poderão ser julgadas regulares
-com ressalva, desde que se comprove, por outros meios, a boa e re-
-gular aplicação dos recursos.
+com ressalva, desde que se comprove, por outros meios, a boa e regular aplicação dos recursos.
+
 § 3º. Contas que não consigam demonstrar por outros meios a boa e
 regular aplicação dos recursos poderão ser julgadas irregulares, nos
 termos do inciso II do caput, sem prejuízo da imputação de débito.
-
 § 4º. Citado o responsável pela omissão de que trata o inciso I, bem
 como instado a justificar essa omissão, a apresentação posterior das
-contas, sem justificativa para a falta, não elidirá a respectiva irregu-
-laridade, podendo o débito ser afastado caso a documentação com-
-probatória das despesas esteja de acordo com as normas legais e
+contas, sem justificativa para a falta, não elidirá a respectiva irregularidade, podendo o débito ser afastado caso a documentação comprobatória das despesas esteja de acordo com as normas legais e
 regulamentares e demonstre a boa e regular aplicação dos recursos,
 sem prejuízo de aplicação da multa prevista no inciso I do art. 268.
-
-§ 5º. Nas hipóteses dos incisos II, III e IV, o Tribunal, ao julgar irre-
-gulares as contas, fixará a responsabilidade solidária:
-
+§ 5º. Nas hipóteses dos incisos II, III e IV, o Tribunal, ao julgar irregulares as contas, fixará a responsabilidade solidária:
 I – do agente público que praticou o ato irregular; e
-
-II – do terceiro que, como contratante ou parte interessada na prá-
-tica do mesmo ato, de qualquer modo haja concorrido para o come-
-timento do dano apurado.
-
-§ 6º. A responsabilidade do terceiro de que trata o inciso II do pa-
-rágrafo anterior derivará:
-
+II – do terceiro que, como contratante ou parte interessada na prática do mesmo ato, de qualquer modo haja concorrido para o cometimento do dano apurado.
+§ 6º. A responsabilidade do terceiro de que trata o inciso II do parágrafo anterior derivará:
 I – do cometimento de irregularidade que não se limite ao simples
 descumprimento de obrigações contratuais ou ao não pagamento
 de títulos de crédito ou;
-
-II – da irregularidade no recebimento de benefício indevido ou pa-
-gamento superfaturado.
-
+II – da irregularidade no recebimento de benefício indevido ou pagamento superfaturado.
 § 7º. Verificadas as ocorrências previstas nos incisos III e IV do
-caput, o Tribunal, por ocasião do julgamento, determinará a remes-
-sa de cópia da documentação pertinente ao Ministério Público da
+caput, o Tribunal, por ocasião do julgamento, determinará a remessa de cópia da documentação pertinente ao Ministério Público da
 União, para ajuizamento das ações cabíveis, podendo decidir sobre
 essa mesma providência também nas hipóteses dos incisos I e II.
+
 Art. 210. Quando julgar as contas irregulares, havendo débito, o
-Tribunal condenará o responsável ao pagamento da dívida, atuali-
-zada monetariamente a partir da data da irregularidade, acrescida
-dos juros de mora devidos, podendo, ainda, aplicar‑lhe a multa pre-
-vista no art. 267.
-
+Tribunal condenará o responsável ao pagamento da dívida, atualizada monetariamente a partir da data da irregularidade, acrescida
+dos juros de mora devidos, podendo, ainda, aplicar‑lhe a multa prevista no art. 267.
 § 1º. A apuração do débito far‑se‑á mediante:
-
 I – verificação, quando for possível quantificar com exatidão o real
 valor devido;
-
 II – estimativa, quando, por meios confiáveis, apurar‑se quantia que
 seguramente não excederia o real valor devido.
-
-§ 2º. Não havendo débito, mas evidenciada qualquer das ocorrên-
-cias previstas nos incisos I, II e III do caput e no § 3º do artigo an-
-terior, o Tribunal aplicará ao responsável a multa prevista no inciso
+§ 2º. Não havendo débito, mas evidenciada qualquer das ocorrências previstas nos incisos I, II e III do caput e no § 3º do artigo anterior, o Tribunal aplicará ao responsável a multa prevista no inciso
 I do art. 268.
-
-§ 3º. Quando não for possível precisar a data do débito com exa-
-tidão, far‑se‑á o seu arbitramento por estimativa, desde que essa
+§ 3º. Quando não for possível precisar a data do débito com exatidão, far‑se‑á o seu arbitramento por estimativa, desde que essa
 providência não desfavoreça o responsável.
-
-Art. 211. As contas serão consideradas iliquidáveis quando caso for-
-tuito ou de força maior, comprovadamente alheio à vontade do res-
-ponsável, tornar materialmente impossível o julgamento de mérito.
-
-§ 1º. Na hipótese prevista neste artigo, o Tribunal ordenará o tran-
-camento das contas e o consequente arquivamento do processo.
-
+Art. 211. As contas serão consideradas iliquidáveis quando caso fortuito ou de força maior, comprovadamente alheio à vontade do responsável, tornar materialmente impossível o julgamento de mérito.
+§ 1º. Na hipótese prevista neste artigo, o Tribunal ordenará o trancamento das contas e o consequente arquivamento do processo.
 § 2º. Dentro do prazo de cinco anos contados da publicação, nos
 órgãos oficiais, da decisão terminativa a que se refere o § 3º do art.
 201, o Tribunal poderá, à vista de novos elementos considerados
 suficientes, autorizar o desarquivamento do processo e determinar
 que se ultime a respectiva tomada ou prestação de contas.
-
 § 3º. Transcorrido o prazo referido no parágrafo anterior sem que
-tenha havido nova decisão, as contas serão consideradas encerra-
-das, com baixa na responsabilidade do administrador.
+tenha havido nova decisão, as contas serão consideradas encerradas, com baixa na responsabilidade do administrador.
+
 Art. 212. O Tribunal determinará o arquivamento do processo de
 prestação ou de tomada contas, mesmo especial, sem julgamento
-do mérito, quando verificar a ausência de pressupostos de consti-
-tuição e de desenvolvimento válido e regular do processo.
-
+do mérito, quando verificar a ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo.
 Art. 213. A título de racionalização administrativa e economia
 processual, e com o objetivo de evitar que o custo da cobrança seja
 superior ao valor do ressarcimento, o Tribunal poderá determinar,
-desde logo, nos termos de ato normativo, o arquivamento de pro-
-cesso, sem cancelamento do débito, a cujo pagamento continuará
+desde logo, nos termos de ato normativo, o arquivamento de processo, sem cancelamento do débito, a cujo pagamento continuará
 obrigado o devedor, para que lhe possa ser dada quitação.
-
-
 
 SEÇÃO IV
 EXECUÇÃO DAS DECISÕES
-
 Art. 214. A decisão definitiva publicada nos órgãos oficiais constituirá:
-
 I – no caso de contas regulares, certificado de quitação plena do
 responsável para com o erário;
-
-II – no caso de contas regulares com ressalva, certificado de quita-
-ção com determinação, se cabível, nos termos do § 2º do art. 208;
-
+II – no caso de contas regulares com ressalva, certificado de quitação com determinação, se cabível, nos termos do § 2º do art. 208;
 III – no caso de contas irregulares:
-a) obrigação de o responsável, no prazo de quinze dias, provar, pe-
-   rante o Tribunal, o pagamento da quantia correspondente ao dé-
-   bito que lhe tiver sido imputado ou da multa cominada;
-b) título executivo bastante para a cobrança judicial da dívida de-
-   corrente do débito ou da multa, se não recolhida no prazo pelo
-   responsável;
-c) fundamento para que a autoridade competente proceda à efeti-
-   vação da sanção e da medida cautelar previstas respectivamente
-   nos arts. 270 e 275.
+a) obrigação de o responsável, no prazo de quinze dias, provar, perante o Tribunal, o pagamento da quantia correspondente ao débito que lhe tiver sido imputado ou da multa cominada;
+b) título executivo bastante para a cobrança judicial da dívida decorrente do débito ou da multa, se não recolhida no prazo pelo
+responsável;
+c) fundamento para que a autoridade competente proceda à efetivação da sanção e da medida cautelar previstas respectivamente
+nos arts. 270 e 275.
+
 Art. 215. A decisão do Tribunal, de que resulte imputação de débito
 ou cominação de multa, torna a dívida líquida e certa e tem eficácia
 de título executivo.
-
-Art. 216. O responsável será notificado para efetuar e provar o pa-
-gamento das dívidas decorrentes de imputação de débito ou comi-
-nação de multa.
-
-Art. 217. Em qualquer fase do processo, o Tribunal ou o relator po-
-derá autorizar o pagamento parcelado da importância devida em
-até trinta e seis parcelas, desde que o processo não tenha sido re-
-metido para cobrança judicial.
-
+Art. 216. O responsável será notificado para efetuar e provar o pagamento das dívidas decorrentes de imputação de débito ou cominação de multa.
+Art. 217. Em qualquer fase do processo, o Tribunal ou o relator poderá autorizar o pagamento parcelado da importância devida em
+até trinta e seis parcelas, desde que o processo não tenha sido remetido para cobrança judicial.
 § 1º. Verificada a hipótese prevista neste artigo, incidirão sobre
-cada parcela, corrigida monetariamente, os correspondentes acrés-
-cimos legais.
-
-§ 2º. A falta de pagamento de qualquer parcela importará no venci-
-mento antecipado do saldo devedor.
-
-Art. 218. Provado o pagamento integral, o Tribunal expedirá quita-
-ção do débito ou da multa ao responsável, desde que o processo não
+cada parcela, corrigida monetariamente, os correspondentes acréscimos legais.
+§ 2º. A falta de pagamento de qualquer parcela importará no vencimento antecipado do saldo devedor.
+Art. 218. Provado o pagamento integral, o Tribunal expedirá quitação do débito ou da multa ao responsável, desde que o processo não
 tenha sido remetido para cobrança judicial.
-
 § 1º. O pagamento integral do débito ou da multa não importa em
 modificação do julgamento quanto à irregularidade das contas.
-
-§ 2º. Caso já tenha sido encaminhada a documentação para co-
-brança executiva, a comunicação do pagamento da dívida será en-
-viada ao órgão executor.
-
+§ 2º. Caso já tenha sido encaminhada a documentação para cobrança executiva, a comunicação do pagamento da dívida será enviada ao órgão executor.
 Art. 219. Expirado o prazo a que se refere a alínea a do inciso III do
 art. 214, sem manifestação do responsável, o Tribunal:
+I – determinará o desconto integral ou parcelado da dívida nos vencimentos, subsídio, salário ou proventos do responsável, observados os limites previstos na legislação pertinente;
 
-I – determinará o desconto integral ou parcelado da dívida nos ven-
-cimentos, subsídio, salário ou proventos do responsável, observa-
-dos os limites previstos na legislação pertinente;
 II – autorizará, alternativamente, a cobrança judicial da dívida, por
 intermédio do Ministério Público junto ao Tribunal;
-
 III – providenciará a inclusão do nome do responsável no Cadastro
-Informativo de créditos não quitados do setor público federal – Ca-
-din, na forma estabelecida em ato normativo.
-
+Informativo de créditos não quitados do setor público federal – Cadin, na forma estabelecida em ato normativo.
 Parágrafo único. Caso o ressarcimento deva ser feito a estado ou
 município, o Tribunal remeter‑lhes‑á a documentação necessária à
 cobrança judicial da dívida.
-
 Art. 220. Para os fins previstos no art. 1º, inciso I, alínea g e no art. 3º
 da Lei Complementar nº 64, de 18 de maio de 1990, o Tribunal, com a
-devida antecedência ou quando solicitado, enviará ao Ministério Pú-
-blico Eleitoral, em tempo hábil, o nome dos responsáveis cujas con-
-tas houverem sido julgadas irregulares nos cinco anos imediatamen-
-te anteriores à época em que forem realizadas eleições no âmbito da
+devida antecedência ou quando solicitado, enviará ao Ministério Público Eleitoral, em tempo hábil, o nome dos responsáveis cujas contas houverem sido julgadas irregulares nos cinco anos imediatamente anteriores à época em que forem realizadas eleições no âmbito da
 União, dos estados, do Distrito Federal e dos municípios.
-
 Parágrafo único. Não se aplica o disposto neste artigo aos processos
 em que houver recurso com efeito suspensivo cuja admissibilidade
 tenha sido reconhecida pelo relator.
-                          CAPÍTULO II
- APRECIAÇÃO DAS CONTAS DO PRESIDENTE DA REPÚBLICA
 
+CAPÍTULO II
+APRECIAÇÃO DAS CONTAS DO PRESIDENTE DA REPÚBLICA
 Art. 221. O Tribunal de Contas da União apreciará as Contas
 prestadas anualmente pelo Presidente da República, mediante
 parecer prévio a ser elaborado em sessenta dias a contar da data
 de seu recebimento.
-
 Parágrafo único. As contas prestadas pelo Presidente da República
 consistirão nos balanços gerais da União e no relatório do órgão
 central do sistema de controle interno do Poder Executivo sobre a
-execução dos orçamentos de que trata o § 5º do art. 165 da Consti-
-tuição Federal.
-
+execução dos orçamentos de que trata o § 5º do art. 165 da Constituição Federal.
 Art. 222. O Tribunal estabelecerá em ato normativo específico a
-forma de apresentação do relatório que acompanha as contas pres-
-tadas pelo Presidente da República, elaborado pelo órgão central do
+forma de apresentação do relatório que acompanha as contas prestadas pelo Presidente da República, elaborado pelo órgão central do
 sistema de controle interno do Poder Executivo.
-
 Art. 223. O relatório e o projeto do parecer prévio sobre as Contas
-do Presidente da República serão apresentados ao Plenário pelo re-
-lator dentro do prazo de cinquenta dias a contar do recebimento
+do Presidente da República serão apresentados ao Plenário pelo relator dentro do prazo de cinquenta dias a contar do recebimento
 das contas pelo Tribunal.
-
 Parágrafo único. Esse prazo poderá ser ampliado, por deliberação
 do Plenário, mediante solicitação justificada do relator, observado
 o disposto no art. 226.
-
-Art. 224. O relator, além dos elementos contidos nas contas pres-
-tadas, poderá solicitar esclarecimentos adicionais e efetuar, por in-
-termédio de unidade própria, fiscalizações que entenda necessárias
+Art. 224. O relator, além dos elementos contidos nas contas prestadas, poderá solicitar esclarecimentos adicionais e efetuar, por intermédio de unidade própria, fiscalizações que entenda necessárias
 à elaboração do seu relatório.
-
-Art. 225. Os trabalhos voltados à instrução das contas a que se re-
-fere este capítulo observarão as diretrizes propostas pelo relator e
+Art. 225. Os trabalhos voltados à instrução das contas a que se refere este capítulo observarão as diretrizes propostas pelo relator e
 aprovadas pelo Plenário, bem como o plano de controle externo.
-Art. 226. A apreciação das contas tratadas neste capítulo pelo Tri-
-bunal far‑se‑á em sessão extraordinária a ser realizada com antece-
-dência mínima de setenta e duas horas do término do prazo para a
-remessa do relatório e pareceres ao Congresso Nacional.
 
+Art. 226. A apreciação das contas tratadas neste capítulo pelo Tribunal far‑se‑á em sessão extraordinária a ser realizada com antecedência mínima de setenta e duas horas do término do prazo para a
+remessa do relatório e pareceres ao Congresso Nacional.
 Art. 227. O relator, até cinco dias antes da data da sessão a que
 se refere o artigo anterior, fará distribuir cópia do relatório e do
 parecer prévio ao Presidente, ministros, ministros‑substitutos e ao
 representante do Ministério Público junto ao Tribunal.
-
 Art. 228. O parecer prévio a que se refere o caput do art. 221 será
-conclusivo no sentido de exprimir se as contas prestadas pelo Pre-
-sidente da República representam adequadamente as posições fi-
-nanceira, orçamentária, contábil e patrimonial, em 31 de dezembro,
-bem como sobre a observância dos princípios constitucionais e le-
-gais que regem a administração pública federal.
-
-§ 1º. O parecer prévio conterá registros sobre a observância às nor-
-mas constitucionais, legais e regulamentares na execução dos orça-
-mentos da União e nas demais operações realizadas com recursos
-públicos federais, em especial quanto ao que estabelece a lei orça-
-mentária anual.
-
-§ 2º. O relatório, que acompanhará o parecer prévio, conterá infor-
-mações sobre:
-
+conclusivo no sentido de exprimir se as contas prestadas pelo Presidente da República representam adequadamente as posições financeira, orçamentária, contábil e patrimonial, em 31 de dezembro,
+bem como sobre a observância dos princípios constitucionais e legais que regem a administração pública federal.
+§ 1º. O parecer prévio conterá registros sobre a observância às normas constitucionais, legais e regulamentares na execução dos orçamentos da União e nas demais operações realizadas com recursos
+públicos federais, em especial quanto ao que estabelece a lei orçamentária anual.
+§ 2º. O relatório, que acompanhará o parecer prévio, conterá informações sobre:
 I – o cumprimento dos programas previstos na lei orçamentária
 anual quanto à legitimidade, eficiência e economicidade, bem como
-o atingimento de metas e a consonância destes com o plano pluria-
-nual e com a lei de diretrizes orçamentárias;
-
+o atingimento de metas e a consonância destes com o plano plurianual e com a lei de diretrizes orçamentárias;
 II – o reflexo da administração financeira e orçamentária federal no
 desenvolvimento econômico e social do País.
-
 III – o cumprimento dos limites e parâmetros estabelecidos pela Lei
 Complementar nº 101, de 4/5/2000 – Lei de Responsabilidade Fiscal.
+
 Art. 229. O Tribunal restituirá ao Congresso Nacional as Contas do
 Presidente da República acompanhadas do parecer prévio aprovado
-pelo Plenário, do relatório apresentado pelo relator e das declara-
-ções de voto emitidas pelos demais ministros e ministros‑substitu-
-tos convocados.
-
-Parágrafo único. Os elementos a que se refere o caput serão publi-
-cados em separata da Revista do Tribunal de Contas da União, para
+pelo Plenário, do relatório apresentado pelo relator e das declarações de voto emitidas pelos demais ministros e ministros‑substitutos convocados.
+Parágrafo único. Os elementos a que se refere o caput serão publicados em separata da Revista do Tribunal de Contas da União, para
 ampla divulgação.
-                           CAPÍTULO III
-                           FISCALIZAÇÃO
 
-
+CAPÍTULO III
+FISCALIZAÇÃO
 SEÇÃO I
 INICIATIVA DA FISCALIZAÇÃO
-
 SUBSEÇÃO I
 FISCALIZAÇÃO EXERCIDA POR INICIATIVA PRÓPRIA
-
-Art. 230. O Tribunal, no exercício de suas atribuições, poderá reali-
-zar, por iniciativa própria, fiscalizações nos órgãos e entidades sob
+Art. 230. O Tribunal, no exercício de suas atribuições, poderá realizar, por iniciativa própria, fiscalizações nos órgãos e entidades sob
 sua jurisdição, com vistas a verificar a legalidade, a economicidade,
-a legitimidade, a eficiência, a eficácia e a efetividade de atos, con-
-tratos e fatos administrativos.
+a legitimidade, a eficiência, a eficácia e a efetividade de atos, contratos e fatos administrativos.
 
 SUBSEÇÃO II
 FISCALIZAÇÃO EXERCIDA POR INICIATIVA DO CONGRESSO NACIONAL
-
 Art. 231. O Tribunal apreciará, em caráter de urgência, os pedidos
 de informação e as solicitações previstas nos incisos II a V do art. 1º,
 que lhe forem endereçados pelo Congresso Nacional, por qualquer
 de suas casas ou pelas respectivas comissões.
-
 Art. 232. Nos termos dos incisos IV e VII do art. 71 e § 1º do art. 72
 da Constituição Federal, são competentes para solicitar ao Tribunal
 a prestação de informações e a realização de auditorias e inspeções:
-
 I – Presidente do Senado Federal;
-
 II – Presidente da Câmara dos Deputados; e
+III – presidentes de comissões do Congresso Nacional, do Senado Federal ou da Câmara dos Deputados, quando por aquelas aprovadas.
 
-III – presidentes de comissões do Congresso Nacional, do Senado Fe-
-deral ou da Câmara dos Deputados, quando por aquelas aprovadas.
-§ 1º O Tribunal regulamentará as formas de atendimento às solici-
-tações de que trata este artigo, bem como aos pedidos de cópia e de
+§ 1º O Tribunal regulamentará as formas de atendimento às solicitações de que trata este artigo, bem como aos pedidos de cópia e de
 vista de processo oriundos do Congresso Nacional, além de definir
 os legitimados a efetuar esses pedidos.
-
-§ 2º O Plenário ou o relator não conhecerá de solicitações encami-
-nhadas ao Tribunal por quem não seja legitimado.
-
-Art. 233. Se a solicitação implicar a realização de auditoria, o rela-
-tor submeterá à deliberação do Plenário sua inclusão no plano de
+§ 2º O Plenário ou o relator não conhecerá de solicitações encaminhadas ao Tribunal por quem não seja legitimado.
+Art. 233. Se a solicitação implicar a realização de auditoria, o relator submeterá à deliberação do Plenário sua inclusão no plano de
 fiscalização do Tribunal.
 
 SUBSEÇÃO III
 DENÚNCIA
-
-Art. 234. Qualquer cidadão, partido político, associação ou sindica-
-to é parte legítima para denunciar irregularidades ou ilegalidades
+Art. 234. Qualquer cidadão, partido político, associação ou sindicato é parte legítima para denunciar irregularidades ou ilegalidades
 perante o Tribunal de Contas da União.
-
-§ 1º. (Revogado)(Resolução-TCU nº 339, de 29/06/2022, BTCU Deli-
-berações nº 123/2022, de 06/07/2022)
-
+§ 1º. (Revogado)(Resolução-TCU nº 339, de 29/06/2022, BTCU Deliberações nº 123/2022, de 06/07/2022)
 § 2º. A denúncia que preencha os requisitos de admissibilidade será
 apurada em caráter sigiloso, até que se comprove a sua procedência,
-e somente poderá ser arquivada após efetuadas as diligências perti-
-nentes, mediante despacho fundamentado do relator.
-
-§ 3º. Reunidas as provas que indiquem a existência de irregularida-
-de ou ilegalidade, serão públicos os demais atos do processo, obser-
-vado o disposto no art. 236, assegurando‑se aos acusados oportuni-
-dade de ampla defesa.
-
+e somente poderá ser arquivada após efetuadas as diligências pertinentes, mediante despacho fundamentado do relator.
+§ 3º. Reunidas as provas que indiquem a existência de irregularidade ou ilegalidade, serão públicos os demais atos do processo, observado o disposto no art. 236, assegurando‑se aos acusados oportunidade de ampla defesa.
 § 4º. Os processos concernentes a denúncia observarão, no que
 couber, os procedimentos prescritos nos arts. 250 a 252.
+Art. 235. A denúncia sobre matéria de competência do Tribunal deverá referir‑se a administrador ou responsável sujeito à sua jurisdição, ser redigida em linguagem clara e objetiva, conter o nome legível
 
-Art. 235. A denúncia sobre matéria de competência do Tribunal de-
-verá referir‑se a administrador ou responsável sujeito à sua jurisdi-
-ção, ser redigida em linguagem clara e objetiva, conter o nome legível
 do denunciante, sua qualificação e endereço, e estar acompanhada de
 indício concernente à irregularidade ou ilegalidade denunciada.
-
-Parágrafo único. O relator ou o Tribunal não conhecerá de denún-
-cia que não observe os requisitos e formalidades prescritos no
-caput, devendo o respectivo processo ser arquivado após comuni-
-cação ao denunciante.
-
-Art. 236. No resguardo dos direitos e garantias individuais, o Tribu-
-nal dará tratamento sigiloso às denúncias formuladas, até decisão
+Parágrafo único. O relator ou o Tribunal não conhecerá de denúncia que não observe os requisitos e formalidades prescritos no
+caput, devendo o respectivo processo ser arquivado após comunicação ao denunciante.
+Art. 236. No resguardo dos direitos e garantias individuais, o Tribunal dará tratamento sigiloso às denúncias formuladas, até decisão
 definitiva sobre a matéria.
-
-§ 1º. Salvo expressa manifestação em contrário, o processo de de-
-núncia tornar‑se‑á público após a decisão definitiva sobre a matéria.
-
-§ 2º. O denunciante não se sujeitará a nenhuma sanção adminis-
-trativa, cível ou penal em decorrência da denúncia, salvo em caso
+§ 1º. Salvo expressa manifestação em contrário, o processo de denúncia tornar‑se‑á público após a decisão definitiva sobre a matéria.
+§ 2º. O denunciante não se sujeitará a nenhuma sanção administrativa, cível ou penal em decorrência da denúncia, salvo em caso
 de comprovada má‑fé.
 
 SUBSEÇÃO IV
 REPRESENTAÇÃO
-
 Art. 237. Têm legitimidade para representar ao Tribunal de Contas
 da União:
-
 I – o Ministério Público da União, nos termos do art. 6º, inciso XVIII,
 alínea c, da Lei Complementar nº 75/93;
-
 II – os órgãos de controle interno, em cumprimento ao § 1º do art.
 74 da Constituição Federal;
-
-III – os senadores da República, deputados federais, estaduais e dis-
-tritais, juízes, servidores públicos e outras autoridades que comuni-
-quem a ocorrência de irregularidades de que tenham conhecimento
+III – os senadores da República, deputados federais, estaduais e distritais, juízes, servidores públicos e outras autoridades que comuniquem a ocorrência de irregularidades de que tenham conhecimento
 em virtude do cargo que ocupem;
-IV – os tribunais de contas dos estados, do Distrito Federal e dos mu-
-nicípios, as câmaras municipais e os ministérios públicos estaduais;
 
+IV – os tribunais de contas dos estados, do Distrito Federal e dos municípios, as câmaras municipais e os ministérios públicos estaduais;
 V – as equipes de inspeção ou de auditoria, nos termos do art. 246;
-
 VI – as unidades técnicas do Tribunal; e
-
-VII – outros órgãos, entidades ou pessoas que detenham essa prer-
-rogativa por força de lei específica.
-
+VII – outros órgãos, entidades ou pessoas que detenham essa prerrogativa por força de lei específica.
 Parágrafo único. Aplicam‑se às representações os dispositivos
 constantes do § 1º e da segunda parte do § 2º do art. 234, do caput e
 do parágrafo único do art. 235 e dos arts. 250 a 252.
 
-
 SEÇÃO II
 INSTRUMENTOS DA FISCALIZAÇÃO
-
 SUBSEÇÃO I
 LEVANTAMENTOS
-
 Art. 238. Levantamento é o instrumento de fiscalização utilizado
 pelo Tribunal para:
-
-I – conhecer a organização e o funcionamento dos órgãos e enti-
-dades da administração direta, indireta e fundacional dos Poderes
-da União, incluindo fundos e demais instituições que lhe sejam ju-
-risdicionadas, assim como dos sistemas, programas, projetos e ati-
-vidades governamentais no que se refere aos aspectos contábeis,
+I – conhecer a organização e o funcionamento dos órgãos e entidades da administração direta, indireta e fundacional dos Poderes
+da União, incluindo fundos e demais instituições que lhe sejam jurisdicionadas, assim como dos sistemas, programas, projetos e atividades governamentais no que se refere aos aspectos contábeis,
 financeiros, orçamentários, operacionais e patrimoniais;
-
 II – identificar objetos e instrumentos de fiscalização; e
-
 III – avaliar a viabilidade da realização de fiscalizações.
+
 SUBSEÇÃO II
 AUDITORIAS
-
 Art. 239. Auditoria é o instrumento de fiscalização utilizado pelo
 Tribunal para:
-
 I – examinar a legalidade e a legitimidade dos atos de gestão dos
 responsáveis sujeitos a sua jurisdição, quanto ao aspecto contábil,
 financeiro, orçamentário e patrimonial;
-
 II – avaliar o desempenho dos órgãos e entidades jurisdicionados,
-assim como dos sistemas, programas, projetos e atividades gover-
-namentais, quanto aos aspectos de economicidade, eficiência e efi-
-cácia dos atos praticados;
-
+assim como dos sistemas, programas, projetos e atividades governamentais, quanto aos aspectos de economicidade, eficiência e eficácia dos atos praticados;
 III – subsidiar a apreciação dos atos sujeitos a registro.
 
 SUBSEÇÃO III
 INSPEÇÕES
-
 Art. 240. Inspeção é o instrumento de fiscalização utilizado pelo
 Tribunal para suprir omissões e lacunas de informações, esclarecer
-dúvidas ou apurar denúncias ou representações quanto à legalida-
-de, à legitimidade e à economicidade de fatos da administração e de
+dúvidas ou apurar denúncias ou representações quanto à legalidade, à legitimidade e à economicidade de fatos da administração e de
 atos administrativos praticados por qualquer responsável sujeito à
 sua jurisdição.
 
 SUBSEÇÃO IV
 ACOMPANHAMENTOS
-
-Art. 241. Acompanhamento é o instrumento de fiscalização utiliza-
-do pelo Tribunal para:
-
+Art. 241. Acompanhamento é o instrumento de fiscalização utilizado pelo Tribunal para:
 I – examinar, ao longo de um período predeterminado, a legalidade
 e a legitimidade dos atos de gestão dos responsáveis sujeitos a sua
 jurisdição, quanto ao aspecto contábil, financeiro, orçamentário e
 patrimonial; e
+
 II – avaliar, ao longo de um período predeterminado, o desempenho
 dos órgãos e entidades jurisdicionadas, assim como dos sistemas,
-programas, projetos e atividades governamentais, quanto aos as-
-pectos de economicidade, eficiência e eficácia dos atos praticados.
-
+programas, projetos e atividades governamentais, quanto aos aspectos de economicidade, eficiência e eficácia dos atos praticados.
 Art. 242. As atividades dos órgãos e entidades jurisdicionadas ao
 Tribunal serão acompanhadas de forma seletiva e concomitante,
 mediante informações obtidas:
-
-I – pela publicação nos órgãos of﻿iciais e mediante consulta a siste-
-mas informatizados adotados pela administração pública federal:
-a) da lei relativa ao plano plurianual, da lei de diretrizes orçamentá-
-   rias, da lei orçamentária anual e da abertura de créditos adicionais;
+I – pela publicação nos órgãos oficiais e mediante consulta a sistemas informatizados adotados pela administração pública federal:
+a) da lei relativa ao plano plurianual, da lei de diretrizes orçamentárias, da lei orçamentária anual e da abertura de créditos adicionais;
 b) dos editais de licitação, dos extratos de contratos e de convênios,
-   acordos, ajustes, termos de parceria ou outros instrumentos con-
-   gêneres, bem como dos atos referidos no art. 259;
-
-II – por meio de expedientes e documentos solicitados pelo Tribu-
-nal ou colocados à sua disposição;
-
-III – por meio de visitas técnicas ou participações em eventos pro-
-movidos por órgãos e entidades da administração pública.
-
+acordos, ajustes, termos de parceria ou outros instrumentos congêneres, bem como dos atos referidos no art. 259;
+II – por meio de expedientes e documentos solicitados pelo Tribunal ou colocados à sua disposição;
+III – por meio de visitas técnicas ou participações em eventos promovidos por órgãos e entidades da administração pública.
 IV – pelo acesso a informações publicadas em sítio eletrônico do
 órgão ou entidade.
-
-Parágrafo único. As informações obtidas pelos procedimentos pre-
-vistos neste artigo independem da existência de processo autuado,
+Parágrafo único. As informações obtidas pelos procedimentos previstos neste artigo independem da existência de processo autuado,
 podendo ser objeto de delegação de competência.
 
 SUBSEÇÃO V
 MONITORAMENTOS
-
 Art. 243. Monitoramento é o instrumento de fiscalização utilizado
 pelo Tribunal para verificar o cumprimento de suas deliberações e
 os resultados delas advindos.
+
 SEÇÃO III
 PLANO DE FISCALIZAÇÃO
-
-Art. 244. As auditorias, acompanhamentos e monitoramentos obe-
-decerão a plano de fiscalização elaborado pela Presidência, em con-
-sulta aos Ministros, e aprovado pelo Plenário em sessão de caráter
-reservado. (NR)(Resolução-TCU nº 345, de 30/11/2022, BTCU Delibe-
-rações nº 228/2022)
-
-§ 1º. A periodicidade do plano de fiscalização, bem como os crité-
-rios e procedimentos para sua elaboração, serão estabelecidos em
+Art. 244. As auditorias, acompanhamentos e monitoramentos obedecerão a plano de fiscalização elaborado pela Presidência, em consulta aos Ministros, e aprovado pelo Plenário em sessão de caráter
+reservado. (NR)(Resolução-TCU nº 345, de 30/11/2022, BTCU Deliberações nº 228/2022)
+§ 1º. A periodicidade do plano de fiscalização, bem como os critérios e procedimentos para sua elaboração, serão estabelecidos em
 ato próprio do Tribunal.
-
 § 2º. Os levantamentos e inspeções serão realizados por determinação
 do Plenário, da câmara, do relator ou, na hipótese do art. 28, inciso XVI,
-do Presidente, independentemente de programação, observada a dis-
-ponibilidade dos recursos humanos e materiais necessários.
-
+do Presidente, independentemente de programação, observada a disponibilidade dos recursos humanos e materiais necessários.
 
 SEÇÃO IV
 EXECUÇÃO DAS FISCALIZAÇÕES
-
 Art. 245. Ao servidor que exerce função específica de controle
 externo, quando credenciado pelo Presidente do Tribunal, ou por
-delegação deste, pelos dirigentes das unidades técnicas da Secre-
-taria, para desempenhar funções de fiscalização, são asseguradas
+delegação deste, pelos dirigentes das unidades técnicas da Secretaria, para desempenhar funções de fiscalização, são asseguradas
 as seguintes prerrogativas:
-
 I – livre ingresso em órgãos e entidades sujeitos à jurisdição do
 Tribunal;
-
-II – acesso a todos os processos, documentos e informações neces-
-sários à realização de seu trabalho, mesmo a sistemas eletrônicos
+II – acesso a todos os processos, documentos e informações necessários à realização de seu trabalho, mesmo a sistemas eletrônicos
 de processamento de dados, que não poderão ser sonegados, sob
 qualquer pretexto;
-
 III – competência para requerer, por escrito, aos responsáveis pelos
-órgãos e entidades, os documentos e informações desejados, fixan-
-do prazo razoável para atendimento.
-§ 1º. No caso de obstrução ao livre exercício de auditorias e ins-
-peções, ou de sonegação de processo, documento ou informação,
-o Tribunal ou o relator assinará prazo improrrogável de até quin-
-ze dias para apresentação de documentos, informações e esclare-
-cimentos julgados necessários, fazendo‑se a comunicação do fato
+órgãos e entidades, os documentos e informações desejados, fixando prazo razoável para atendimento.
+
+§ 1º. No caso de obstrução ao livre exercício de auditorias e inspeções, ou de sonegação de processo, documento ou informação,
+o Tribunal ou o relator assinará prazo improrrogável de até quinze dias para apresentação de documentos, informações e esclarecimentos julgados necessários, fazendo‑se a comunicação do fato
 ao ministro de Estado supervisor da área ou à autoridade de nível
 hierárquico equivalente, para as medidas cabíveis.
-
-§ 2º. Vencido o prazo e não cumprida a exigência, o Tribunal apli-
-cará a sanção prescrita no inciso V ou VI do art. 268, observado o
+§ 2º. Vencido o prazo e não cumprida a exigência, o Tribunal aplicará a sanção prescrita no inciso V ou VI do art. 268, observado o
 disposto no § 3º do mesmo artigo, e representará ao Presidente do
 Congresso Nacional sobre o fato, para as medidas cabíveis.
-
 § 3º. Sem prejuízo da sanção referida no parágrafo anterior, poderá
 o Plenário adotar a medida prevista no art. 273.
-
 Art. 246. No curso de fiscalização, se verificado procedimento de
 que possa resultar dano ao erário ou irregularidade grave, a equipe
 representará, desde logo, com suporte em elementos concretos e
 convincentes, ao dirigente da unidade técnica, o qual submeterá a
 matéria ao respectivo relator, com parecer conclusivo.
-
 § 1º. O relator, considerando a urgência requerida, fixará prazo de
 até cinco dias úteis para que o responsável se pronuncie sobre os
 fatos apontados.
-
 § 2º. A fixação de prazo para pronunciamento não impede que o
 Tribunal ou o relator adote, desde logo, medida cautelar, de acordo
 com o disposto no art. 276, independentemente do recebimento ou
 da análise prévia das justificativas da parte.
-
 Art. 247. As modalidades e procedimentos a serem observados na
 realização de fiscalizações serão definidos em ato normativo.
-
-Art. 248. O Tribunal comunicará às autoridades competentes o re-
-sultado das fiscalizações que realizar, para as medidas saneadoras
+Art. 248. O Tribunal comunicará às autoridades competentes o resultado das fiscalizações que realizar, para as medidas saneadoras
 das impropriedades e faltas identificadas.
+
 SEÇÃO V
 OBJETO DA FISCALIZAÇÃO
-
 SUBSEÇÃO I
 DISPOSIÇÕES GERAIS SOBRE A FISCALIZAÇÃO DE ATOS E CONTRATOS
-
-Art. 249. Para assegurar a eficácia do controle e para instruir o jul-
-gamento das contas, o Tribunal efetuará a fiscalização dos atos de
-que resulte receita ou despesa, praticados pelos responsáveis sujei-
-tos à sua jurisdição, competindo‑lhe, para tanto, em especial:
-
+Art. 249. Para assegurar a eficácia do controle e para instruir o julgamento das contas, o Tribunal efetuará a fiscalização dos atos de
+que resulte receita ou despesa, praticados pelos responsáveis sujeitos à sua jurisdição, competindo‑lhe, para tanto, em especial:
 I – realizar fiscalizações, na forma estabelecida nos arts. 238 a 243;
-
 II – fiscalizar as contas nacionais das empresas supranacionais a
 que se refere o inciso XVIII do art. 1º, na forma estabelecida em
 ato normativo;
-
 III – fiscalizar, na forma estabelecida no art. 254, a aplicação de
-quaisquer recursos repassados pela União mediante convênio, acor-
-do, ajuste ou outros instrumentos congêneres, a estado, ao Distrito
+quaisquer recursos repassados pela União mediante convênio, acordo, ajuste ou outros instrumentos congêneres, a estado, ao Distrito
 Federal, a município, e a qualquer outra pessoa, física ou jurídica,
 pública ou privada;
-
-Art. 250. Ao apreciar processo relativo à fiscalização de atos e con-
-tratos, o relator ou o Tribunal:
-
+Art. 250. Ao apreciar processo relativo à fiscalização de atos e contratos, o relator ou o Tribunal:
 I – determinará o arquivamento do processo, ou o seu apensamento
 às contas correspondentes, se útil à apreciação destas, quando não
 apurada transgressão a norma legal ou regulamentar de natureza
 contábil, financeira, orçamentária, operacional ou patrimonial;
-
 II – determinará a adoção de providências corretivas por parte do
 responsável ou de quem lhe haja sucedido quando verificadas tão
 somente falhas de natureza formal ou outras impropriedades que
-não ensejem a aplicação de multa aos responsáveis ou que não con-
-figurem indícios de débito e o arquivamento ou apensamento do
+não ensejem a aplicação de multa aos responsáveis ou que não configurem indícios de débito e o arquivamento ou apensamento do
 processo às respectivas contas, sem prejuízo do monitoramento do
 cumprimento das determinações;
-III – recomendará a adoção de providências quando verificadas
-oportunidades de melhoria de desempenho, encaminhando os au-
-tos à unidade técnica competente, para fins de monitoramento do
-cumprimento das determinações;
 
+III – recomendará a adoção de providências quando verificadas
+oportunidades de melhoria de desempenho, encaminhando os autos à unidade técnica competente, para fins de monitoramento do
+cumprimento das determinações;
 IV – determinará a audiência do responsável para, no prazo de
 quinze dias, apresentar razões de justificativa, quando verificada a
 ocorrência de irregularidades decorrentes de ato ilegal, ilegítimo ou
 antieconômico, bem como infração a norma legal ou regulamentar
 de natureza contábil, financeira, orçamentária ou patrimonial.
-
-V – determinará a oitiva da entidade fiscalizada e do terceiro in-
-teressado para, no prazo de quinze dias, manifestarem‑se sobre
+V – determinará a oitiva da entidade fiscalizada e do terceiro interessado para, no prazo de quinze dias, manifestarem‑se sobre
 fatos que possam resultar em decisão do Tribunal no sentido de
 desconstituir ato ou processo administrativo ou alterar contrato
 em seu desfavor.
-
 § 1º. Acolhidas as razões de justificativa, o Tribunal declarará esse
-fato mediante acórdão e, conforme o caso, adotará uma das provi-
-dências previstas no inciso I.
-
-§ 2º. Não elidido o fundamento da impugnação, o Tribunal aplica-
-rá ao responsável, no próprio processo de fiscalização, ressalvado o
+fato mediante acórdão e, conforme o caso, adotará uma das providências previstas no inciso I.
+§ 2º. Não elidido o fundamento da impugnação, o Tribunal aplicará ao responsável, no próprio processo de fiscalização, ressalvado o
 disposto no art. 206, a multa prevista no inciso II ou III do art. 268 e
 determinará o apensamento do processo às contas correspondentes.
-
-§ 3º. Na oportunidade do exame das contas, será verificada a con-
-veniência da renovação da determinação das providências de que
+§ 3º. Na oportunidade do exame das contas, será verificada a conveniência da renovação da determinação das providências de que
 trata o inciso II do caput, com vistas a aplicar oportunamente, se for
 o caso, o disposto no § 1º do art. 209.
-
-§ 4º. O apensamento, às respectivas contas, de processos referen-
-tes a atos de admissão de pessoal e concessão de aposentadoria,
+§ 4º. O apensamento, às respectivas contas, de processos referentes a atos de admissão de pessoal e concessão de aposentadoria,
 pensão e reforma será regulamentado em ato normativo.
+§ 5º. A aplicação de multa em processo de fiscalização não implicará prejulgamento das contas ordinárias da unidade jurisdicionada,
+devendo o fato ser considerado no contexto dos demais atos de gestão do período envolvido.
 
-§ 5º. A aplicação de multa em processo de fiscalização não implica-
-rá prejulgamento das contas ordinárias da unidade jurisdicionada,
-devendo o fato ser considerado no contexto dos demais atos de ges-
-tão do período envolvido.
-§ 6º. Caso as matérias objeto da oitiva de que trata o inciso V deman-
-dem urgente decisão de mérito, a unidade técnica responsável pela
+§ 6º. Caso as matérias objeto da oitiva de que trata o inciso V demandem urgente decisão de mérito, a unidade técnica responsável pela
 fiscalização dará a elas prioridade na instrução processual, deixando
-para propor as medidas constantes dos incisos II, III e IV em momen-
-to posterior à deliberação do Tribunal sobre aquelas questões.
-
+para propor as medidas constantes dos incisos II, III e IV em momento posterior à deliberação do Tribunal sobre aquelas questões.
 § 7º. Observar‑se‑ão em relação à oitiva prevista no inciso V as
 normas aplicáveis à audiência, no que couber.
-
 Art. 251. Verificada a ilegalidade de ato ou contrato em execução,
 o Tribunal assinará prazo de até quinze dias para que o responsável
 adote as providências necessárias ao exato cumprimento da lei, com
 indicação expressa dos dispositivos a serem observados, sem prejuízo
 do disposto no inciso IV do caput e nos §§ 1º e 2º do artigo anterior.
-
 § 1º. No caso de ato administrativo, o Tribunal, se não atendido:
-
 I – sustará a execução do ato impugnado;
-
 II – comunicará a decisão à Câmara dos Deputados e ao Senado Federal;
-
 III – aplicará ao responsável, no próprio processo de fiscalização, a
 multa prevista no inciso VII do art. 268.
-
-§ 2º. No caso de contrato, o Tribunal, se não atendido, adotará a pro-
-vidência prevista no inciso III do parágrafo anterior e comunicará o
-fato ao Congresso Nacional, a quem compete adotar o ato de susta-
-ção e solicitar, de imediato, ao Poder Executivo, as medidas cabíveis.
-
+§ 2º. No caso de contrato, o Tribunal, se não atendido, adotará a providência prevista no inciso III do parágrafo anterior e comunicará o
+fato ao Congresso Nacional, a quem compete adotar o ato de sustação e solicitar, de imediato, ao Poder Executivo, as medidas cabíveis.
 § 3º. Se o Congresso Nacional ou o Poder Executivo, no prazo de
-noventa dias, não efetivar as medidas previstas no parágrafo ante-
-rior, o Tribunal decidirá a respeito da sustação do contrato.
-
+noventa dias, não efetivar as medidas previstas no parágrafo anterior, o Tribunal decidirá a respeito da sustação do contrato.
 § 4º. Verificada a hipótese do parágrafo anterior, e se decidir sustar
 o contrato, o Tribunal:
-
 I – determinará ao responsável que, no prazo de quinze dias, adote
 as medidas necessárias ao cumprimento da decisão;
+
 II – comunicará o decidido ao Congresso Nacional e à autoridade de
 nível ministerial competente.
-
 Art. 252. Se configurada a ocorrência de desfalque, desvio de bens
 ou outra irregularidade de que resulte dano ao erário, o Tribunal
 ordenará, desde logo, a conversão do processo em tomada de contas
 especial, salvo na hipótese prevista no art. 213.
-
-Parágrafo único. Caso a tomada de contas especial envolva responsá-
-vel por contas ordinárias, deverá ser observado o disposto no art. 206.
+Parágrafo único. Caso a tomada de contas especial envolva responsável por contas ordinárias, deverá ser observado o disposto no art. 206.
 
 SUBSEÇÃO II
 FISCALIZAÇÃO DAS TRANSFERÊNCIAS CONSTITUCIONAIS E LEGAIS
-
 Art. 253. O Tribunal fiscalizará, na forma estabelecida em ato normativo:
-
 I – a entrega das parcelas devidas aos estados, ao Distrito Federal
 e aos municípios à conta dos recursos dos fundos de participação
 a que alude o parágrafo único do art. 161 da Constituição Federal;
-
 II – a aplicação dos recursos dos fundos constitucionais do Norte,
 Nordeste e Centro‑Oeste administrados por instituições federais;
-
 III – a aplicação dos recursos transferidos ao Distrito Federal com
 base no inciso XIV do art. 21 da Constituição Federal;
-
-IV – o cálculo, a entrega e a aplicação, conforme o caso, de quais-
-quer recursos repassados pela União por determinação legal a esta-
-do, ao Distrito Federal ou a município, consoante dispuser a legis-
-lação específica.
+IV – o cálculo, a entrega e a aplicação, conforme o caso, de quaisquer recursos repassados pela União por determinação legal a estado, ao Distrito Federal ou a município, consoante dispuser a legislação específica.
 
 SUBSEÇÃO III
 FISCALIZAÇÃO DE CONVÊNIOS, ACORDOS, AJUSTES E OUTROS INSTRU‑
 MENTOS CONGÊNERES
+Art. 254. A fiscalização da aplicação de quaisquer recursos repassados pela União, autarquias, fundações instituídas e mantidas pelo
 
-Art. 254. A fiscalização da aplicação de quaisquer recursos repas-
-sados pela União, autarquias, fundações instituídas e mantidas pelo
 poder público e demais órgãos e entidades da administração pública
 federal mediante convênio, acordo, ajuste ou outros instrumentos
 congêneres, a estado, ao Distrito Federal, a município, e a qualquer
 outra pessoa, física ou jurídica, pública ou privada, será feita pelo
-Tribunal por meio de levantamentos, auditorias, inspeções, acom-
-panhamentos ou monitoramentos, bem como por ocasião do exame
+Tribunal por meio de levantamentos, auditorias, inspeções, acompanhamentos ou monitoramentos, bem como por ocasião do exame
 dos processos de tomadas ou prestações de contas da unidade ou
 entidade transferidora dos recursos.
-
-§ 1º. Para o cumprimento do disposto neste artigo deverão ser veri-
-ficados, entre outros aspectos, o atingimento dos objetivos acorda-
-dos, a correção da aplicação dos recursos, a observância às normas
+§ 1º. Para o cumprimento do disposto neste artigo deverão ser verificados, entre outros aspectos, o atingimento dos objetivos acordados, a correção da aplicação dos recursos, a observância às normas
 legais e regulamentares pertinentes e às cláusulas pactuadas.
-
 § 2º. Ficará sujeito à multa prevista no inciso II ou III do art. 268 a
-autoridade administrativa que transferir, mediante convênio, acor-
-do, ajuste ou outros instrumentos congêneres, recursos federais a
+autoridade administrativa que transferir, mediante convênio, acordo, ajuste ou outros instrumentos congêneres, recursos federais a
 gestores omissos na prestação de contas de recursos anteriormente
-recebidos ou que tenham dado causa a perda, extravio ou outra irre-
-gularidade que resulte dano ao erário, ainda não ressarcido.
-
-§ 3º. A autoridade administrativa competente deverá adotar ime-
-diatas providências com vistas à instauração de tomada de con-
-tas especial no caso de omissão na prestação de contas ou quando
-constatar irregularidade na aplicação dos recursos federais trans-
-feridos, sob pena de responsabilidade solidária, na forma prescrita
+recebidos ou que tenham dado causa a perda, extravio ou outra irregularidade que resulte dano ao erário, ainda não ressarcido.
+§ 3º. A autoridade administrativa competente deverá adotar imediatas providências com vistas à instauração de tomada de contas especial no caso de omissão na prestação de contas ou quando
+constatar irregularidade na aplicação dos recursos federais transferidos, sob pena de responsabilidade solidária, na forma prescrita
 em ato normativo.
 
 SUBSEÇÃO IV
 FISCALIZAÇÃO DA APLICAÇÃO DE SUBVENÇÕES, AUXÍLIOS E CONTRIBUIÇÕES
-
 Art. 255. A fiscalização pelo Tribunal da aplicação de recursos
-transferidos sob as modalidades de subvenção, auxílio e contri-
-buição compreenderá as fases de concessão, utilização e prestação
+transferidos sob as modalidades de subvenção, auxílio e contribuição compreenderá as fases de concessão, utilização e prestação
 de contas e será realizada, no que couber, na forma estabelecida
 no art. 254.
+
 SUBSEÇÃO V
 FISCALIZAÇÃO DA ARRECADAÇÃO DA RECEITA
-
-Art. 256. A fiscalização da arrecadação da receita a cargo dos ór-
-gãos e entidades da administração direta, indireta e fundacional
+Art. 256. A fiscalização da arrecadação da receita a cargo dos órgãos e entidades da administração direta, indireta e fundacional
 dos Poderes da União, bem como dos fundos e demais instituições
 sob jurisdição do Tribunal, far‑se‑á em todas as etapas da receita
 e processar‑se‑á mediante levantamentos, auditorias, inspeções,
-acompanhamentos ou monitoramentos, incluindo a análise de de-
-monstrativos próprios, com a identificação dos respectivos respon-
-sáveis, na forma estabelecida em ato normativo.
+acompanhamentos ou monitoramentos, incluindo a análise de demonstrativos próprios, com a identificação dos respectivos responsáveis, na forma estabelecida em ato normativo.
 
 SUBSEÇÃO VI
 FISCALIZAÇÃO DA RENÚNCIA DE RECEITAS
-
 Art. 257. A fiscalização pelo Tribunal da renúncia de receitas será
-feita, preferentemente, mediante auditorias, inspeções ou acompa-
-nhamentos nos órgãos supervisores, bancos operadores e fundos
+feita, preferentemente, mediante auditorias, inspeções ou acompanhamentos nos órgãos supervisores, bancos operadores e fundos
 que tenham atribuição administrativa de conceder, gerenciar ou
-utilizar os recursos decorrentes das aludidas renúncias, sem prejuí-
-zo do julgamento das tomadas e prestações de contas apresentadas
+utilizar os recursos decorrentes das aludidas renúncias, sem prejuízo do julgamento das tomadas e prestações de contas apresentadas
 pelos referidos órgãos, entidades e fundos, quando couber, na forma
 estabelecida em ato normativo.
-
 Parágrafo único. A fiscalização terá como objetivos, entre outros,
-verificar a legalidade, legitimidade, eficiência, eficácia e economici-
-dade das ações dos órgãos e entidades mencionados no caput, bem
+verificar a legalidade, legitimidade, eficiência, eficácia e economicidade das ações dos órgãos e entidades mencionados no caput, bem
 como o real benefício socioeconômico dessas renúncias.
 
 SUBSEÇÃO VII
 OUTRAS FISCALIZAÇÕES
-
 Art. 258. O Tribunal realizará, ainda, na forma definida em atos
 normativos específicos:
-
 I – a fiscalização, no âmbito de suas atribuições, do cumprimento, por
-parte dos órgãos e entidades da União, das normas da Lei Complemen-
-tar nº 101, de 4 de maio de 2000 – Lei de Responsabilidade Fiscal;
+parte dos órgãos e entidades da União, das normas da Lei Complementar nº 101, de 4 de maio de 2000 – Lei de Responsabilidade Fiscal;
+
 II – o acompanhamento, a fiscalização e a avaliação dos processos
 de desestatização realizados pela administração pública federal,
-compreendendo as privatizações de empresas, incluindo institui-
-ções financeiras, e as concessões, permissões e autorizações de
+compreendendo as privatizações de empresas, incluindo instituições financeiras, e as concessões, permissões e autorizações de
 serviço público, previstas no art. 175 da Constituição Federal e nas
 normas legais pertinentes, conforme disposto em ato normativo;
-
 III – a fiscalização das declarações de bens e rendas apresentadas
 pelas autoridades e servidores públicos, nos termos da legislação
 em vigor;
-
 IV – a fiscalização da aplicação dos recursos repassados ao Comitê
 Olímpico Brasileiro e ao Comitê Paraolímpico Brasileiro por força
 da legislação vigente;
-
 V – outras fiscalizações determinadas em lei.
-                          CAPÍTULO IV
-         APRECIAÇÃO DE ATOS SUJEITOS A REGISTRO
 
-Art. 259. O Tribunal apreciará, para fins de registro, mediante pro-
-cedimentos de fiscalização ou processo específico, na forma estabe-
-lecida em normativos específicos, os atos de:
-
+CAPÍTULO IV
+APRECIAÇÃO DE ATOS SUJEITOS A REGISTRO
+Art. 259. O Tribunal apreciará, para fins de registro, mediante procedimentos de fiscalização ou processo específico, na forma estabelecida em normativos específicos, os atos de:
 I – admissão de pessoal, a qualquer título, na administração direta
 e indireta, incluídas as fundações instituídas e mantidas pelo poder
 público federal, excetuadas as nomeações para cargo de provimento
 em comissão;
-
 II – concessão de aposentadorias, reformas e pensões a servidores
-públicos federais civis e militares ou a seus beneficiários, ressalva-
-das as melhorias posteriores que não alterem o fundamento legal
+públicos federais civis e militares ou a seus beneficiários, ressalvadas as melhorias posteriores que não alterem o fundamento legal
 do ato concessório inicial.
-
 Art. 260. Para o exercício da competência atribuída ao Tribunal,
-nos termos do inciso III do art. 71 da Constituição Federal, a autori-
-dade administrativa responsável por ato de admissão de pessoal ou
+nos termos do inciso III do art. 71 da Constituição Federal, a autoridade administrativa responsável por ato de admissão de pessoal ou
 de concessão de aposentadoria, reforma ou pensão, a que se refere
 o artigo anterior, submeterá os dados e informações necessários ao
-respectivo órgão de controle interno, que deverá emitir parecer so-
-bre a legalidade dos referidos atos e torná‑los disponíveis à aprecia-
-ção do Tribunal, na forma estabelecida em ato normativo.
-
-§ 1º. O Tribunal determinará o registro dos atos que considerar le-
-gais e recusará o registro dos atos considerados ilegais.
-
-§ 2º. O acórdão que considerar legal o ato e determinar o seu re-
-gistro não faz coisa julgada administrativa e poderá ser revisto de
-ofício pelo Tribunal, com a oitiva do Ministério Público e do be-
-neficiário do ato, dentro do prazo de cinco anos da apreciação, se
+respectivo órgão de controle interno, que deverá emitir parecer sobre a legalidade dos referidos atos e torná‑los disponíveis à apreciação do Tribunal, na forma estabelecida em ato normativo.
+§ 1º. O Tribunal determinará o registro dos atos que considerar legais e recusará o registro dos atos considerados ilegais.
+§ 2º. O acórdão que considerar legal o ato e determinar o seu registro não faz coisa julgada administrativa e poderá ser revisto de
+ofício pelo Tribunal, com a oitiva do Ministério Público e do beneficiário do ato, dentro do prazo de cinco anos da apreciação, se
 verificado que o ato viola a ordem jurídica, ou a qualquer tempo, no
 caso de comprovada má‑fé.
+
 § 3º. Identificada irregularidade em ato de concessão já cadastrado
 nos sistemas informatizados do TCU, poderá o Tribunal proceder ao
 exame do respectivo ato, dispensando a manifestação do órgão de
 controle interno respectivo.
-
-§ 4º. Os atos que, a despeito de apresentarem algum tipo de incon-
-sistência em sua versão submetida ao exame do Tribunal, não esti-
-verem dando ensejo, no momento de sua apreciação, a pagamentos
-irregulares, serão considerados legais, para fins de registro, deven-
-do ser consignada no julgamento a ressalva em relação à falha que
+§ 4º. Os atos que, a despeito de apresentarem algum tipo de inconsistência em sua versão submetida ao exame do Tribunal, não estiverem dando ensejo, no momento de sua apreciação, a pagamentos
+irregulares, serão considerados legais, para fins de registro, devendo ser consignada no julgamento a ressalva em relação à falha que
 deixou de existir.
-
-§ 5º. O Tribunal poderá considerar prejudicado, por perda de obje-
-to, o exame dos atos de admissão e concessão cujos efeitos financei-
-ros tenham se exaurido antes de sua apreciação.
-
+§ 5º. O Tribunal poderá considerar prejudicado, por perda de objeto, o exame dos atos de admissão e concessão cujos efeitos financeiros tenham se exaurido antes de sua apreciação.
 § 6º. Será considerado prejudicado, por inépcia, o ato de admissão
-ou concessão que apresentar inconsistências nas informações pres-
-tadas pelo órgão de pessoal que impossibilitem sua análise, deven-
-do ser determinado o encaminhamento de novo ato, livre de falhas.
-
+ou concessão que apresentar inconsistências nas informações prestadas pelo órgão de pessoal que impossibilitem sua análise, devendo ser determinado o encaminhamento de novo ato, livre de falhas.
 Art. 261. Quando o Tribunal considerar ilegal ato de admissão de
-pessoal, o órgão de origem deverá, observada a legislação pertinen-
-te, adotar as medidas regularizadoras cabíveis, fazendo cessar todo
+pessoal, o órgão de origem deverá, observada a legislação pertinente, adotar as medidas regularizadoras cabíveis, fazendo cessar todo
 e qualquer pagamento decorrente do ato impugnado.
-
-§ 1º. O responsável que injustificadamente deixar de adotar as me-
-didas de que trata o caput, no prazo de quinze dias, contados da
-ciência da decisão deste Tribunal, ficará sujeito a multa e ao ressar-
-cimento das quantias pagas após essa data.
-
-§ 2º. Se houver indício de procedimento culposo ou doloso na admis-
-são de pessoal, o Tribunal determinará a instauração ou conversão do
+§ 1º. O responsável que injustificadamente deixar de adotar as medidas de que trata o caput, no prazo de quinze dias, contados da
+ciência da decisão deste Tribunal, ficará sujeito a multa e ao ressarcimento das quantias pagas após essa data.
+§ 2º. Se houver indício de procedimento culposo ou doloso na admissão de pessoal, o Tribunal determinará a instauração ou conversão do
 processo em tomada de contas especial, para apurar responsabilidades
 e promover o ressarcimento das despesas irregularmente efetuadas.
-
 Art. 262. Quando o ato de concessão de aposentadoria, reforma ou
-pensão for considerado ilegal, o órgão de origem fará cessar o paga-
-mento dos proventos ou benefícios no prazo de quinze dias, conta-
+pensão for considerado ilegal, o órgão de origem fará cessar o pagamento dos proventos ou benefícios no prazo de quinze dias, conta-
+
 dos da ciência da decisão do Tribunal, sob pena de responsabilidade
 solidária da autoridade administrativa omissa.
-
 § 1º. Caso não seja suspenso o pagamento, ou havendo indício de
 procedimento culposo ou doloso na concessão de benefício sem
-fundamento legal, o Tribunal determinará a instauração ou a con-
-versão do processo em tomada de contas especial, para apurar res-
-ponsabilidades e promover o ressarcimento das despesas irregular-
-mente efetuadas.
-
-§ 2º. Recusado o registro do ato, por ser considerado ilegal, a auto-
-ridade administrativa responsável poderá emitir novo ato, se for o
+fundamento legal, o Tribunal determinará a instauração ou a conversão do processo em tomada de contas especial, para apurar responsabilidades e promover o ressarcimento das despesas irregularmente efetuadas.
+§ 2º. Recusado o registro do ato, por ser considerado ilegal, a autoridade administrativa responsável poderá emitir novo ato, se for o
 caso, escoimado das irregularidades verificadas.
-
 § 3º. Verificada a omissão total ou parcial de vantagens a que faz jus
-o interessado, o Tribunal poderá considerar o ato legal, independen-
-temente das comunicações que entender oportunas para cada caso.
-
+o interessado, o Tribunal poderá considerar o ato legal, independentemente das comunicações que entender oportunas para cada caso.
 Art. 263. O relator ou o Tribunal não conhecerá de requerimento
 que lhe seja diretamente dirigido por interessado na obtenção de
 quaisquer benefícios ou vantagens de caráter pessoal, devendo a
 solicitação ser arquivada após comunicação ao requerente.
-                         TÍTULO VII – SANÇÕES
 
+TÍTULO VII – SANÇÕES
 
-
-                           CAPÍTULO I
-                      DISPOSIÇÕES GERAIS
-
-Art. 266. O Tribunal de Contas da União poderá aplicar aos adminis-
-tradores ou responsáveis que lhe são jurisdicionados as sanções pres-
-critas na Lei nº 8.443, de 1992, na forma estabelecida neste título.
-
-Parágrafo único. Às mesmas sanções previstas neste título ficarão su-
-jeitos, por responsabilidade solidária, na forma prevista no § 1º do
+CAPÍTULO I
+DISPOSIÇÕES GERAIS
+Art. 266. O Tribunal de Contas da União poderá aplicar aos administradores ou responsáveis que lhe são jurisdicionados as sanções prescritas na Lei nº 8.443, de 1992, na forma estabelecida neste título.
+Parágrafo único. Às mesmas sanções previstas neste título ficarão sujeitos, por responsabilidade solidária, na forma prevista no § 1º do
 art. 74 da Constituição Federal, os responsáveis pelo controle interno
 que, comprovadamente, tomarem conhecimento de irregularidade
 ou ilegalidade e delas deixarem de dar imediata ciência ao Tribunal.
-                           CAPÍTULO II
-                              MULTAS
 
+CAPÍTULO II
+MULTAS
 Art. 267. Quando o responsável for julgado em débito, poderá ainda
-o Tribunal aplicar‑lhe multa de até cem por cento do valor atualiza-
-do do dano causado ao erário, conforme estabelecido no art. 57 da
+o Tribunal aplicar‑lhe multa de até cem por cento do valor atualizado do dano causado ao erário, conforme estabelecido no art. 57 da
 Lei nº 8.443, de 1992.
-
 Art. 268. O Tribunal poderá aplicar multa, nos termos do caput do
 art. 58 da Lei nº 8.443, de 1992, atualizada na forma prescrita no §
-1º deste artigo, aos responsáveis por contas e atos adiante indica-
-dos, observada a seguinte gradação:
-
-I – contas julgadas irregulares, não havendo débito, mas comprova-
-da qualquer das ocorrências previstas nos incisos I, II e III do caput
+1º deste artigo, aos responsáveis por contas e atos adiante indicados, observada a seguinte gradação:
+I – contas julgadas irregulares, não havendo débito, mas comprovada qualquer das ocorrências previstas nos incisos I, II e III do caput
 do art. 209, no valor compreendido entre cinco e cem por cento do
 montante definido no caput deste artigo;
-
-II – ato praticado com grave infração a norma legal ou regulamen-
-tar de natureza contábil, financeira, orçamentária, operacional ou
+II – ato praticado com grave infração a norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional ou
 patrimonial, no valor compreendido entre cinco e cem por cento do
 montante a que se refere o caput;
-
-III – ato de gestão ilegítimo ou antieconômico de que resulte injus-
-tificado dano ao erário, no valor compreendido entre cinco e cem
+III – ato de gestão ilegítimo ou antieconômico de que resulte injustificado dano ao erário, no valor compreendido entre cinco e cem
 por cento do montante referido no caput;
-
-IV – descumprimento, no prazo fixado, sem causa justificada, à dili-
-gência determinada pelo relator, no valor compreendido entre cin-
-co e cinquenta por cento do montante a que se refere o caput;
-
-V – obstrução ao livre exercício das auditorias e inspeções deter-
-minadas, no valor compreendido entre cinco e oitenta por cento do
+IV – descumprimento, no prazo fixado, sem causa justificada, à diligência determinada pelo relator, no valor compreendido entre cinco e cinquenta por cento do montante a que se refere o caput;
+V – obstrução ao livre exercício das auditorias e inspeções determinadas, no valor compreendido entre cinco e oitenta por cento do
 montante a que se refere o caput;
-
-VI – sonegação de processo, documento ou informação, em audi-
-toria ou inspeção, no valor compreendido entre cinco e oitenta por
+VI – sonegação de processo, documento ou informação, em auditoria ou inspeção, no valor compreendido entre cinco e oitenta por
 cento do montante a que se refere o caput;
-VII – descumprimento de decisão do Tribunal, salvo motivo justifi-
-cado, no valor compreendido entre cinco e cinquenta por cento do
-montante a que se refere o caput;
 
+VII – descumprimento de decisão do Tribunal, salvo motivo justificado, no valor compreendido entre cinco e cinquenta por cento do
+montante a que se refere o caput;
 VIII – reincidência no descumprimento de decisão do Tribunal, no
 valor compreendido entre cinquenta e cem por cento do montante
 a que se refere o caput.
-
 § 1º. A multa de que trata o caput será atualizada, periodicamente,
 mediante portaria da Presidência do Tribunal, com base na variação
 acumulada no período, pelo índice utilizado para atualização dos
 créditos tributários da União.
-
 § 2º. Nos casos em que ficar demonstrada a inadequação da multa
-aplicada com fundamento nos incisos IV, V, VI ou VII, o Tribunal po-
-derá revê‑la, de ofício, diminuindo seu valor ou tornando‑a sem efeito.
-
+aplicada com fundamento nos incisos IV, V, VI ou VII, o Tribunal poderá revê‑la, de ofício, diminuindo seu valor ou tornando‑a sem efeito.
 § 3º. A multa aplicada com fundamento nos incisos IV, V, VI, VII ou
 VIII prescinde de prévia audiência dos responsáveis, desde que a
 possibilidade de sua aplicação conste da comunicação do despacho
 ou da decisão descumprida ou do ofício de apresentação da equipe
 de fiscalização.
-
 Art. 269. O débito decorrente de multa aplicada pelo Tribunal, nos
 termos do artigo anterior, quando pago após o seu vencimento, será
 atualizado monetariamente desde a data do acórdão condenatório
 até a data do efetivo pagamento.
-                          CAPÍTULO III
-                       OUTRAS SANÇÕES
 
+CAPÍTULO III
+OUTRAS SANÇÕES
 Art. 270. Sem prejuízo das sanções previstas nos arts. 267 e 268 e
-das penalidades administrativas aplicáveis pelas autoridades com-
-petentes, por irregularidades constatadas pelo Tribunal, sempre
+das penalidades administrativas aplicáveis pelas autoridades competentes, por irregularidades constatadas pelo Tribunal, sempre
 que este, por maioria absoluta de seus membros, considerar grave a
 infração cometida, o responsável ficará inabilitado, por um período
-que variará de cinco a oito anos, para o exercício de cargo em co-
-missão ou função de confiança no âmbito da administração pública
+que variará de cinco a oito anos, para o exercício de cargo em comissão ou função de confiança no âmbito da administração pública
 federal, nos termos do art. 60 da Lei nº 8.443, de 1992.
-
 § 1º. O Tribunal deliberará primeiramente sobre a gravidade da
 infração.
-
 § 2º. Se considerada grave a infração, por maioria absoluta de seus
 membros, o Tribunal decidirá sobre o período de inabilitação a que
 ficará sujeito o responsável.
-
 § 3º. Aplicada a sanção referida no caput, o Tribunal comunicará
-a decisão ao responsável e à autoridade competente para cumpri-
-mento dessa medida.
-
+a decisão ao responsável e à autoridade competente para cumprimento dessa medida.
 Art. 271. Verificada a ocorrência de fraude comprovada a licitação,
-o Plenário declarará a inidoneidade do licitante fraudador para par-
-ticipar, por até cinco anos, de licitação na administração pública
+o Plenário declarará a inidoneidade do licitante fraudador para participar, por até cinco anos, de licitação na administração pública
 federal, nos termos do art. 46 da Lei nº 8.443, de 1992.
+Art. 272. O Tribunal manterá cadastro específico das sanções aplicadas com fundamento nos arts. 270 e 271, observadas as prescrições legais a esse respeito.
 
-Art. 272. O Tribunal manterá cadastro específico das sanções apli-
-cadas com fundamento nos arts. 270 e 271, observadas as prescri-
-ções legais a esse respeito.
-                           TÍTULO IX – RECURSOS
+TÍTULO IX – RECURSOS
 
-
-
-                             CAPÍTULO I
-                       DISPOSIÇÕES GERAIS
-
+CAPÍTULO I
+DISPOSIÇÕES GERAIS
 Art. 277. Cabem os seguintes recursos nos processos do Tribunal:
-
 I – recurso de reconsideração;
-
 II – pedido de reexame;
-
 III – embargos de declaração;
-
 IV – recurso de revisão;
-
 V – agravo.
-
 Art. 278. O relator do recurso apreciará sua admissibilidade e fixará
 os itens do acórdão sobre os quais ele incide, na hipótese e para os
 fins do § 1º do art. 285, em prazo a ser definido em ato normativo,
 após exame preliminar da unidade técnica.
-
 § 1º. Se o relator entender admissível o recurso, determinará as
 providências para sua instrução, saneamento e apreciação, bem
 como para comunicação aos órgãos ou entidades pertinentes, se
 houver efeito suspensivo.
-
-§ 2º. Entendendo não ser admissível, mesmo que por motivo de-
-corrente de erro grosseiro, má‑fé ou atitude meramente protela-
-tória, ou por estar prejudicado em razão da manifesta perda de seu
+§ 2º. Entendendo não ser admissível, mesmo que por motivo decorrente de erro grosseiro, má‑fé ou atitude meramente protelatória, ou por estar prejudicado em razão da manifesta perda de seu
 objeto, o relator, ouvido o Ministério Público, quando cabível, não
 conhecerá do recurso mediante despacho fundamentado ou, a seu
 critério, submetê‑lo‑á ao colegiado.
-
-§ 3º. A interposição de recurso, ainda que venha a não ser conheci-
-do, gera preclusão consumativa.
-
+§ 3º. A interposição de recurso, ainda que venha a não ser conhecido, gera preclusão consumativa.
 § 4º. Não se conhecerá de recurso da mesma espécie, exceto embargos
-de declaração, pela parte ou pelo Ministério Público junto ao TCU, con-
-tra deliberação que apreciou o primeiro recurso interposto.
-§ 5º. Não se conhecerá de recurso contra deliberação proferida em sede
-de monitoramento de acórdão do Tribunal em que não tenham sido re-
-discutidas questões de mérito, nem imposto nenhum tipo de sanção.
+de declaração, pela parte ou pelo Ministério Público junto ao TCU, contra deliberação que apreciou o primeiro recurso interposto.
 
+§ 5º. Não se conhecerá de recurso contra deliberação proferida em sede
+de monitoramento de acórdão do Tribunal em que não tenham sido rediscutidas questões de mérito, nem imposto nenhum tipo de sanção.
 Art. 279. Ressalvada a hipótese de embargos de declaração, não
 cabe recurso de decisão que rejeitar alegações de defesa, converter
-processo em tomada de contas especial ou determinar sua instau-
-ração, ou ainda que determinar a realização de citação, audiência,
+processo em tomada de contas especial ou determinar sua instauração, ou ainda que determinar a realização de citação, audiência,
 diligência ou fiscalização.
-
-Parágrafo único. Se a parte intentar o recurso, a documentação enca-
-minhada será aproveitada como defesa, sempre que possível, sem pre-
-juízo da realização da citação ou da audiência, quando for obrigatória.
-
-Art. 280. Exceto nos embargos de declaração, no agravo e no pe-
-dido de reexame em processo de fiscalização de ato ou contrato, é
+Parágrafo único. Se a parte intentar o recurso, a documentação encaminhada será aproveitada como defesa, sempre que possível, sem prejuízo da realização da citação ou da audiência, quando for obrigatória.
+Art. 280. Exceto nos embargos de declaração, no agravo e no pedido de reexame em processo de fiscalização de ato ou contrato, é
 obrigatória a audiência do Ministério Público em todos os recursos,
 ainda que o recorrente tenha sido ele próprio.
-
 § 1º. O relator poderá deixar de encaminhar os autos ao Ministério
 Público, solicitando sua manifestação oral na sessão de julgamento
 quando, nos recursos, apresentar ao colegiado proposta de:
-
 I – não conhecimento;
-
 II – correção de erro material;
-
 III – evidente conteúdo de baixa complexidade que não envolva o
 mérito.
-
 § 2º. Entendendo conveniente, o representante do Ministério Público
 pedirá vista dos autos, que poderá ser em mesa, para oferecimento de
 manifestação na própria sessão de julgamento, ou em seu gabinete,
 para apresentação de parecer ao relator, no prazo de cinco dias úteis.
-
-§ 3º. A manifestação oral do Ministério Público, nas hipóteses tra-
-tadas nos parágrafos anteriores, deverá ser reduzida a termo, as-
-sinada por seu representante e, no prazo de quarenta e oito horas
+§ 3º. A manifestação oral do Ministério Público, nas hipóteses tratadas nos parágrafos anteriores, deverá ser reduzida a termo, assinada por seu representante e, no prazo de quarenta e oito horas
 após o encerramento da sessão, juntada aos autos.
-Art. 281. Havendo mais de um responsável pelo mesmo fato, o re-
-curso apresentado por um deles aproveitará a todos, mesmo àquele
-que houver sido julgado à revelia, no que concerne às circunstân-
-cias objetivas, não aproveitando no tocante aos fundamentos de
+
+Art. 281. Havendo mais de um responsável pelo mesmo fato, o recurso apresentado por um deles aproveitará a todos, mesmo àquele
+que houver sido julgado à revelia, no que concerne às circunstâncias objetivas, não aproveitando no tocante aos fundamentos de
 natureza exclusivamente pessoal.
-
-Art. 282. Cabe ao interessado demonstrar, na peça recursal, em preli-
-minar, o seu interesse em intervir no processo, nos termos do § 1º do
+Art. 282. Cabe ao interessado demonstrar, na peça recursal, em preliminar, o seu interesse em intervir no processo, nos termos do § 1º do
 art. 146, devendo a questão ser avaliada no juízo de admissibilidade.
-
-Art. 283. Nos recursos interpostos pelo Ministério Público, é neces-
-sária a instauração do contraditório, mediante concessão de opor-
-tunidade para oferecimento de contrarrazões recursais, quando se
+Art. 283. Nos recursos interpostos pelo Ministério Público, é necessária a instauração do contraditório, mediante concessão de oportunidade para oferecimento de contrarrazões recursais, quando se
 tratar de recurso tendente a agravar a situação do responsável.
-
 Parágrafo único. O Tribunal regulamentará os recursos interpostos
 pelo Ministério Público, com observância ao disposto neste artigo.
-
 Art. 284. Havendo partes com interesses opostos, a interposição de
-recurso por uma delas enseja à outra a apresentação de contrarra-
-zões, no mesmo prazo dado ao recurso.
-                          CAPÍTULO II
-                RECURSO DE RECONSIDERAÇÃO
+recurso por uma delas enseja à outra a apresentação de contrarrazões, no mesmo prazo dado ao recurso.
 
+CAPÍTULO II
+RECURSO DE RECONSIDERAÇÃO
 Art. 285. De decisão definitiva em processo de prestação ou tomada
 de contas, inclusive especial, cabe recurso de reconsideração, com
-efeito suspensivo, para apreciação do colegiado que houver proferi-
-do a decisão recorrida, podendo ser formulado uma só vez e por es-
-crito, pela parte ou pelo Ministério Público junto ao Tribunal, den-
-tro do prazo de quinze dias, contados na forma prevista no art. 183.
-
-§ 1º. Se o recurso versar sobre item específico do acórdão, os de-
-mais itens não recorridos não sofrem o efeito suspensivo, caso em
+efeito suspensivo, para apreciação do colegiado que houver proferido a decisão recorrida, podendo ser formulado uma só vez e por escrito, pela parte ou pelo Ministério Público junto ao Tribunal, dentro do prazo de quinze dias, contados na forma prevista no art. 183.
+§ 1º. Se o recurso versar sobre item específico do acórdão, os demais itens não recorridos não sofrem o efeito suspensivo, caso em
 que deverá ser constituído processo apartado para prosseguimento
 da execução das decisões.
-
-§ 2º. Não se conhecerá de recurso de reconsideração quando in-
-tempestivo, salvo em razão de superveniência de fatos novos e den-
-tro do período de cento e oitenta dias contados do término do prazo
+§ 2º. Não se conhecerá de recurso de reconsideração quando intempestivo, salvo em razão de superveniência de fatos novos e dentro do período de cento e oitenta dias contados do término do prazo
 indicado no caput, caso em que não terá efeito suspensivo.
-                          CAPÍTULO III
-                     PEDIDO DE REEXAME
 
+CAPÍTULO III
+PEDIDO DE REEXAME
 Art. 286. Cabe pedido de reexame de decisão de mérito proferida
 em processo concernente a ato sujeito a registro e a fiscalização de
 atos e contratos.
-
 Parágrafo único. Ao pedido de reexame aplicam‑se as disposições
 do caput e dos parágrafos do art. 285.
-                          CAPÍTULO IV
-                 EMBARGOS DE DECLARAÇÃO
 
-Art. 287. Cabem embargos de declaração quando houver obscuri-
-dade, omissão ou contradição em acórdão do Tribunal.
-
+CAPÍTULO IV
+EMBARGOS DE DECLARAÇÃO
+Art. 287. Cabem embargos de declaração quando houver obscuridade, omissão ou contradição em acórdão do Tribunal.
 § 1º. Os embargos de declaração poderão ser opostos por escrito
 pela parte ou pelo Ministério Público junto ao Tribunal, dentro do
-prazo de dez dias, contados na forma prevista no art. 183, com indi-
-cação do ponto obscuro, contraditório ou omisso.
-
+prazo de dez dias, contados na forma prevista no art. 183, com indicação do ponto obscuro, contraditório ou omisso.
 § 2º. Os embargos de declaração serão submetidos à deliberação do
 colegiado competente pelo relator ou pelo redator, conforme o caso.
-
-§ 3º. Os embargos de declaração suspendem os prazos para cum-
-primento do acórdão embargado e para interposição dos demais re-
-cursos previstos neste Regimento, aplicando‑se, entretanto, o dis-
-posto no § 1º do art. 285.
-
+§ 3º. Os embargos de declaração suspendem os prazos para cumprimento do acórdão embargado e para interposição dos demais recursos previstos neste Regimento, aplicando‑se, entretanto, o disposto no § 1º do art. 285.
 § 4º. Interpostos embargos de declaração contra acórdão proferido
-em processo relatado por ministro‑substituto convocado, este per-
-manece vinculado ao respectivo processo.
-
-§ 5º. Ao apreciar embargos de declaração opostos contra decisão pro-
-ferida por câmara que deixou de integrar, o ministro, excepcionalmen-
-te, relatará o processo e proferirá o seu voto na câmara de origem.
-
-§ 6º. Os embargos de declaração meramente protelatórios serão re-
-cebidos como petição, por meio de despacho do relator, não se lhes
+em processo relatado por ministro‑substituto convocado, este permanece vinculado ao respectivo processo.
+§ 5º. Ao apreciar embargos de declaração opostos contra decisão proferida por câmara que deixou de integrar, o ministro, excepcionalmente, relatará o processo e proferirá o seu voto na câmara de origem.
+§ 6º. Os embargos de declaração meramente protelatórios serão recebidos como petição, por meio de despacho do relator, não se lhes
 aplicando o disposto no § 3º deste artigo.
+§ 7º. Conferidos efeitos infringentes aos embargos, serão devolvidos os prazos a todos os interessados.
 
-§ 7º. Conferidos efeitos infringentes aos embargos, serão devolvi-
-dos os prazos a todos os interessados.
-                           CAPÍTULO V
-                      RECURSO DE REVISÃO
-
+CAPÍTULO V
+RECURSO DE REVISÃO
 Art. 288. De decisão definitiva em processo de prestação ou tomada
 de contas, inclusive especial, cabe recurso de revisão ao Plenário, de
-natureza similar à da ação rescisória, sem efeito suspensivo, interpos-
-to uma só vez e por escrito pelo responsável, seus sucessores, ou pelo
+natureza similar à da ação rescisória, sem efeito suspensivo, interposto uma só vez e por escrito pelo responsável, seus sucessores, ou pelo
 Ministério Público junto ao Tribunal, dentro do prazo de cinco anos,
 contados na forma prevista no inciso IV do art. 183, e fundar‑se‑á:
-
 I – em erro de cálculo nas contas;
-
 II – em falsidade ou insuficiência de documentos em que se tenha
 fundamentado o acórdão recorrido;
-
 III – na superveniência de documentos novos com eficácia sobre a
 prova produzida.
-
 § 1º. O acórdão que der provimento a recurso de revisão ensejará a
 correção de todo e qualquer erro ou engano apurado.
-
-§ 2º. Em face de indícios de elementos eventualmente não exami-
-nados pelo Tribunal, o Ministério Público poderá interpor recurso
+§ 2º. Em face de indícios de elementos eventualmente não examinados pelo Tribunal, o Ministério Público poderá interpor recurso
 de revisão, compreendendo o pedido de reabertura das contas e o
 pedido de mérito.
-
-§ 3º. Admitido o pedido de reabertura das contas pelo relator sortea-
-do para o recurso de revisão, este ordenará, por despacho, sua instru-
-ção pela unidade técnica competente e a conseguinte instauração de
+§ 3º. Admitido o pedido de reabertura das contas pelo relator sorteado para o recurso de revisão, este ordenará, por despacho, sua instrução pela unidade técnica competente e a conseguinte instauração de
 contraditório, se apurados elementos que conduzam ao agravamento
 da situação do responsável ou à inclusão de novos responsáveis.
-
 § 4º. A instrução do recurso de revisão abrange o reexame de todos
 os elementos constantes dos autos.
-
-§ 5º. A interposição de recurso de revisão pelo Ministério Públi-
-co dar‑se‑á em petição autônoma para cada processo de contas
+§ 5º. A interposição de recurso de revisão pelo Ministério Público dar‑se‑á em petição autônoma para cada processo de contas
 a ser reaberto.
-§ 6º. Se os elementos que deram ensejo ao recurso de revisão re-
-ferirem‑se a mais de um exercício, os respectivos processos serão
-conduzidos por um único relator, sorteado para o recurso.
-                          CAPÍTULO VI
-                             AGRAVO
 
-Art. 289. De despacho decisório do Presidente do Tribunal, de pre-
-sidente de câmara ou do relator, desfavorável à parte, e da medida
+§ 6º. Se os elementos que deram ensejo ao recurso de revisão referirem‑se a mais de um exercício, os respectivos processos serão
+conduzidos por um único relator, sorteado para o recurso.
+
+CAPÍTULO VI
+AGRAVO
+Art. 289. De despacho decisório do Presidente do Tribunal, de presidente de câmara ou do relator, desfavorável à parte, e da medida
 cautelar adotada com fundamento no art. 276 cabe agravo, no prazo
 de cinco dias, contados na forma do art. 183.
-
 § 1º. Interposto o agravo, o Presidente do Tribunal, o presidente de
 câmara ou o relator poderá reformar o seu despacho ou submeter
 o feito à apreciação do colegiado competente para o julgamento de
 mérito do processo.
-
 § 2º. Se o despacho agravado for do Presidente do Tribunal ou de
-presidente de câmara, o julgamento será, nos termos deste Regi-
-mento, presidido por seu substituto, computando‑se o voto do pre-
-sidente agravado.
-
+presidente de câmara, o julgamento será, nos termos deste Regimento, presidido por seu substituto, computando‑se o voto do presidente agravado.
 § 3º. Caso a decisão agravada seja do Tribunal, o relator do agravo
-será o mesmo que já atuava no processo ou o redator do acórdão re-
-corrido, se este houver sido o autor da proposta de medida cautelar.
-
+será o mesmo que já atuava no processo ou o redator do acórdão recorrido, se este houver sido o autor da proposta de medida cautelar.
 § 4º. A critério do Presidente do Tribunal, do presidente de câmara
-ou do relator, conforme o caso, poderá ser conferido efeito suspen-
-sivo ao agravo.
-
-§ 5º. Interposto agravo contra acórdão proferido em processo rela-
-tado por ministro‑substituto convocado, este permanece vinculado
+ou do relator, conforme o caso, poderá ser conferido efeito suspensivo ao agravo.
+§ 5º. Interposto agravo contra acórdão proferido em processo relatado por ministro‑substituto convocado, este permanece vinculado
 ao respectivo processo.
-                  TÍTULO XI – DISPOSIÇÕES GERAIS
 
-
-
+TÍTULO XI – DISPOSIÇÕES GERAIS
 
 Art. 293. O Tribunal de Contas da União encaminhará ao Congresso
 Nacional, trimestral e anualmente, relatório de suas atividades.
-
 § 1º. Os relatórios trimestrais e anuais serão encaminhados pelo
 Tribunal ao Congresso Nacional nos prazos de até sessenta dias
 e de até noventa dias, respectivamente, após o vencimento dos
 períodos correspondentes.
-
 § 2º. Os relatórios conterão, além de outros elementos, a resenha
 das atividades específicas no tocante ao julgamento de contas e à
 apreciação de processos de fiscalização a cargo do Tribunal.
+
