@@ -1,9 +1,79 @@
-TCP, UDP, SCTP, ARP, TLS, SSL, OSPF, BGP, DNS, DHCP, ICMP, FTP, SFTP, SSH, HTTP, HTTPS, SMTP, IMAP, POP3
+Protocols.
 
-VLANs
+TCP (Transmission Control Protocol): provides reliable, ordered, and error-checked delivery of a stream of octets (bytes) between applications running on hosts communicating via an IP network.
 
-SAN, NAS, DAS: arquiteturas e protocolos (iSCSI, NFS, SMB)
+UDP (User Datagram Protocol): UDP is a connectionless protocol, meaning that messages are sent without negotiating a connection and that UDP does not keep track of what it has sent. UDP does not require prior communication to set up communication channels or data paths and there is no guarantee of delivery, ordering, or duplicate protection.
 
-RPO, RTO
+SCTP (Stream Control Transmission Protocol): SCTP is a computer networking communications protocol in the transport layer of the Internet protocol suite. The protocol provides the message-oriented feature of the UDP while ensuring reliable, in-sequence transport of messages with congestion control like the TCP. Unlike UDP and TCP, the protocol supports multihoming and redundant paths to increase resilience and reliability.
 
-LDAP
+ARP (Address Resolution Protocol): is a communication protocol for discovering the link layer address, such as a MAC address, associated with an internet layer address, typically an IPv4 address. The host broadcasts a request containing the target node's IP address, and the node with that IP address replies with its MAC address.
+
+TLS (Transport Layer Security): is a cryptographic protocol designed to provide communications security over a computer network, such as the Internet. The TLS protocol aims primarily to provide security, including privacy (confidentiality), integrity, and authenticity through the use of cryptography, such as the use of certificates, between two or more communicating computer applications. It is newer than the SSL protocol.
+
+SSL (Secure Sockets Layer): same use as the TLS protocol.
+
+OSPF (Open Shortest Path First): it is a routing protocol for Internet Protocol (IP) networks. It uses a link state routing (LSR) algorithm and falls into the group of interior gateway protocols (IGPs), operating within a single autonomous system (AS).
+
+BGP (Border Gateway Protocol): it is a standardized exterior gateway protocol designed to exchange routing and reachability information among autonomous systems (AS) on the Internet.[2] BGP is classified as a path-vector routing protocol,[3] and it makes routing decisions based on paths, network policies, or rule-sets configured by a network administrator. BGP uses port 179.
+
+DNS (Domain Name System): it is a hierarchical and distributed name service that provides a naming system for computers, services, and other resources on the Internet or other Internet Protocol (IP) networks. It translates readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. DNS uses port 53.
+
+DNS recursor - The recursor can be thought of as a librarian who is asked to go find a particular book somewhere in a library. The DNS recursor is a server designed to receive queries from client machines through applications such as web browsers.
+
+(DNS) Root nameserver - The root server is the first step in translating (resolving) human readable host names into IP addresses. It can be thought of like an index in a library that points to different racks of books - typically it serves as a reference to other more specific locations.
+
+(DNS) TLD nameserver - The top level domain server (TLD) can be thought of as a specific rack of books in a library. This nameserver is the next step in the search for a specific IP address, and it hosts the last portion of a hostname (In example.com, the TLD server is “com”).
+
+(DNS) Authoritative nameserver - This final nameserver can be thought of as a dictionary on a rack of books, in which a specific name can be translated into its definition. The authoritative nameserver is the last stop in the nameserver query. If the authoritative name server has access to the requested record, it will return the IP address for the requested hostname back to the DNS Recursor (the librarian) that made the initial request.
+
+DHCP (Dynamic Host Configuration Protocol): IT is a network management protocol used on Internet Protocol (IP) networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
+
+ICMP (Internet Control Message Protocol): IT is used to diagnose network issues over the Internet. The primary purpose of ICMP is for error reporting. A secondary use of ICMP protocol is to perform network diagnostics; the commonly used terminal utilities traceroute and ping both operate using ICMP. The ICMP is a connectionless protocol: one device does not need to open a connection with another device before sending an ICMP message. It is portless.
+
+FTP (File Transfer Protocol): it is a standard communication protocol used for the transfer of computer files from a server to a client on a computer network. FTP is built on a client–server model architecture using separate control and data connections between the client and the server. FTP users may authenticate themselves with a plain-text sign-in protocol, normally in the form of a username and password, but can connect anonymously if the server is configured to allow it. The FTP server uses port 21 for the control commands and port 20 for data transfers in active mode.
+
+FTPS (FTP-SSL and FTP Secure): it is an extension to the commonly used File Transfer Protocol (FTP) that adds support for the Transport Layer Security (TLS) and, formerly, the Secure Sockets Layer cryptographic protocols.
+
+FTPS should not be confused with the SSH File Transfer Protocol (SFTP), a secure file transfer subsystem for the Secure Shell (SSH) protocol with which it is not compatible. It is also different from FTP over SSH, which is the practice of tunneling FTP through an SSH connection.
+
+SFTP (SSH File Transfer Protocol or Secure File Transfer Protocol): is a network protocol that provides file access, file transfer, and file management over any reliable data stream. It was designed by the Internet Engineering Task Force (IETF) as an extension of the Secure Shell protocol (SSH) version 2.0 to provide secure file transfer capabilities, and is seen as a replacement of File Transfer Protocol (FTP) due to superior security. The SFTP server uses port 22.
+
+SSH (Secure Shell): is a cryptographic network protocol for operating network services securely over an unsecured network. Its most notable applications are remote login and command-line execution. SSH operates as a layered protocol suite comprising three principal hierarchical components: 1. the transport layer provides server authentication, confidentiality, and integrity; 2. the user authentication protocol validates the user to the server; and 3. the connection protocol multiplexes the encrypted tunnel into multiple logical communication channels. The server uses the port TCP 22.
+
+HTTP (Hypertext Transfer Protocol): It s an application layer protocol in the Internet protocol. HTTP is the foundation of data communication for the World Wide Web, where hypertext documents include hyperlinks to other resources that the user can easily access. HTTP is as a request–response protocol in the client–server model. The server uses the port 80 (for unencrypted connections).
+
+HTTPS (HyperText Transfer Protocol Secure): The server uses port 443 (this one uses an encrypted connection). In HTTPS, the communication protocol is encrypted using Transport Layer Security (TLS) or, formerly, Secure Sockets Layer (SSL).
+
+SMTP (Simple Mail Transfer Protocol): is an Internet standard communication protocol for electronic mail transmission (usually send only). User-level email clients typically use SMTP only for sending messages to a mail server. SMTP servers commonly use the Transmission Control Protocol on port number 25 (between servers) and 587 (for submission from authenticated clients), both with or without encryption, and 465 with encryption for submission.
+
+IMAP (Internet Message Access Protocol): is an Internet standard protocol used by email clients to retrieve email messages from a mail server over a TCP/IP connection and replaced the older POP3. An IMAP server typically listens on port number 143. IMAP over SSL/TLS (IMAPS) is assigned the port number 993.
+
+POP3 (Post Office Protocol 3): is an application-layer Internet standard protocol used by e-mail clients to retrieve e-mail from a mail server. A POP3 server listens on TCP well-known port number 110 for service requests. Encrypted communication for POP3 connects to the server using Transport Layer Security (TLS) or Secure Sockets Layer (SSL) on well-known TCP port number 995.
+
+VLANs (virtual local area network): is a local area network broadcast domain that is partitioned and isolated in a virtual network at the data link layer (OSI layer 2). VLANs work by applying tags to network frames that are forwarded within the broadcast domain, creating the appearance and functionality of network traffic that behaves as if it were split between separate networks.
+
+STP (Spanning-Tree Protocol): prevents loops from being formed when switches or bridges are interconnected via multiple paths. Spanning-Tree Protocol implements the 802.1D IEEE algorithm by exchanging BPDU messages with other switches to detect loops, and then removes the loop
+
+.................................................................................................
+
+iSCSI (Internet Small Computer Systems Interface): is an Internet Protocol-based storage networking standard for linking data storage facilities. iSCSI provides block-level access to storage devices by carrying SCSI commands over a TCP/IP network.
+
+NFS (Network File System):  is a distributed file system protocol originally developed by Sun Microsystems (Sun) in 1984, allowing a user on a client computer to access files over a computer network much like local storage is accessed. One UDP or TCP port, at 2049, is used to run the service.
+
+SMB (Server Message Block): is a communication protocol used to share files, printers, serial ports, and miscellaneous communications between nodes on a network. The SMB server component uses TCP port 445. Microsoft published a version of SMB 1.0 with minor modifications under the Common Internet File System (CIFS).
+
+SAN (storage area network): or storage network is a computer network which provides access to consolidated, block-level data storage. SANs are primarily used to access data storage devices, such as disk arrays and tape libraries from servers so that the devices appear to the operating system as direct-attached storage.
+
+NAS (Network-attached storage): is a file-level computer data storage server connected to a computer network providing data access to a heterogeneous group of clients. In this context, the term "NAS" can refer to both the technology and systems involved, or a specialized computer appliance device unit built for such functionality – a NAS appliance or NAS box.
+
+DAS (Direct-attached storage): is digital storage directly attached to the computer accessing it, as opposed to storage accessed over a computer network (i.e. network-attached storage). DAS consists of one or more storage units such as hard drives, solid-state drives, optical disc drives within an external enclosure.
+
+.................................................................................................
+
+RPO (Recovery Point Objective): is the maximum acceptable interval during which transactional data is lost from an IT service.
+
+RTO (Recovery Time Objective): is the targeted duration of time and a service level within which a business process must be restored after a disruption in order to avoid a break in business continuity. A.k.a. the time to restore the service after an interruption
+
+LDAP (Lightweight Directory Access Protocol): is an open, vendor-neutral, industry standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network. Directory services play an important role in developing intranet and Internet applications by allowing the sharing of information about users, systems, networks, services, and applications throughout the network. LDAP server (called a Directory System Agent (DSA)) uses by default the port 389 on TCP and UDP, or port 636 for LDAPS (LDAP over TLS/SSL)
+
+AD (Active Directory): is a directory service developed by Microsoft for Windows domain networks. Windows Server operating systems include it as a set of processes and services. Active Directory uses Lightweight Directory Access Protocol (LDAP) versions 2 and 3, Microsoft's version of Kerberos, and DNS.

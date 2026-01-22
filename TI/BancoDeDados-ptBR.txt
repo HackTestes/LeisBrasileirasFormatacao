@@ -12,10 +12,47 @@ NoSQL.
 - Baseados em grafos (como o Neo4j).
 - Baseados em chave-valor (como o Redis).
 
+Os bancos de dados NoSQL podem ser definidos como bancos de dados que não seguem o modelo relacional de dados e possuem seis propriedades:
+
+(1) escalabilidade horizontal;
+
+(2) armazenamento de dados complexos de maneira distribuída;
+
+(3) interface/protocolo de acesso simples para manipulação de dados;
+
+(4) sem suporte – ou relaxamento – das propriedades ACID;
+
+(5) alta disponibilidade;
+
+(6) esquema flexível ou até ausência de esquema.
+
 - Dependência parcial: ocorre quando um atributo não principal (coluna que não faz parte de nenhuma chave candidata) depende apenas de parte de uma chave composta em vez de toda a chave. 
+
+- A arquitetura de três níveis (Three-Schema Architecture ou ANSI/SPARC). O esquema de banco de dados refere-se à estrutura lógica que define tabelas, atributos e restrições, conceito que se alinha, em parte, ao nível conceitual/lógico da arquitetura de três níveis, composta pelos níveis externo, conceitual/lógico e interno.
+
+- Esquema: O esquema representa a estrutura lógica e a configuração de um banco de dados. É a definição do design do banco, incluindo tabelas, colunas, tipos de dados e restrições que governam como os dados podem ser armazenados e relacionados. O esquema é geralmente estático e raramente sofre alterações, sendo responsável por definir quais informações e restrições são necessárias. É a "intenção" do banco de dados e é representado por diagramas que ilustram as entidades e suas relações.
+
+- Instância: A instância refere-se ao conteúdo atual de um banco de dados em um determinado instante de tempo. Em outras palavras, é o conjunto de dados que preenche o esquema. A instância é dinâmica, mudando com operações de inserção, exclusão ou atualização.
+
+- Catálogo: O catálogo é a área do SGBD onde as informações sobre o esquema e outras propriedades do banco são armazenadas, como metadados. Esse catálogo é essencial para que o SGBD acesse e gerencie os dados de acordo com as restrições e estruturas definidas no esquema. O catálogo armazena as "descrições do esquema" (como tabelas, colunas, e índices) e informações adicionais, como direitos de acesso. Assim, ele permite que o SGBD valide a integridade e mantenha a consistência dos dados.
+
+- Surrogate key ou Chave Substituta: é uma chave que não é derivada dos dados da aplicação, diferentemente de uma chave natural.
 
 Normalização.
 
 1ª. Forma normal: todos os atributos do modelo sejam atômicos, indivisíveis.
 2ª. Forma normal: os atributos que não são chave dependem unicamente e totalmente da chave primária da tabela. Não pode haver dependência parcial. O atributo só pode ser obtido usando toda a chave, não só parte dela.
 3ª. Forma normal: elimina as dependências transitivas, onde um atributo não-chave depende de outro atributo não-chave, que por sua vez depende da chave primária. Garante que os atributos não-chave sejam independentes entre si e dependam apenas da chave primária.
+
+As propriedades ACID (Atomicidade, Consistência, Isolamento, Durabilidade)
+
+Teorema CAP: Um sistema distribuído pode entregar apenas duas das três características desejadas
+
+Consistência:
+todos os clientes veem o mesmo dado ao mesmo tempo
+
+Disponibilidade:  
+qualquer cliente que fizer uma solicitação obterá uma resposta mesmo que alguns nós estejam desativados
+
+Tolerância de partição: 
+o cluster deve continuar a funcionar mesmo com uma ou mais falhas entre os nós no sistema.

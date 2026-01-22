@@ -2,11 +2,26 @@ Cobit 2019.
 
 Definição: é um framework para a gestão e governança empresarial de Informação e Tecnologia. Ele define os componentes para construir e sustentar um sistema de governança além de definir fatores de projeto que devem ser considerados para realizar a governança sob medida.
 
+- Área de foco: descreve um determinado tópico de governança, domínio ou assunto que pode ser trabalhado por um conjunto de objetivos de gestão e governança e seus componentes.
+
+- Componentes interagem entre si para criar uma forma abrangente e holística de governança que contribua para um sistema de governança.
+
+........................................................
+
+Princípios.
+
+1. Prover valor às partes interessadas;
+2. Abordagem holística;
+3. Sistema Dinâmico;
+4. Distinção entre governança e gestão;
+5. Sistema de governança de ponta a ponta;
+6. Adaptado às necessidades da empresa.
+
 ........................................................
 
 Domínios.
 
-1. Avaliar, Dirigir e Monitorar (A.D.M.);
+1. Avaliar, Dirigir e Monitorar (A.D.M.), o único relacionado a governança;
 2. Alinhar, Planejar e Organizar (A.P.O.);
 3. Construir, Adquirir e Implementar (C.A.I.);
 4. Entregar, Servir e Suportar (E.S.S.);
@@ -14,7 +29,7 @@ Domínios.
 
 Detalhes.
 
-1. Avaliar, Dirigir e Monitorar (A.D.M.): Foco em garantir;
+1. Avaliar, Dirigir e Monitorar (A.D.M.): Foco na governança, o restante é gestão;
 2. Alinhar, Planejar e Organizar (A.P.O.): Visão abrangente da organização; Organização do portfólio, arquitetura, RH;
 3. Construir, Adquirir e Implementar (C.A.I.): Definição, aquisição e implementação de soluções de I e T;
 4. Entregar, Servir e Suportar (E.S.S.): Entrega e suporte operacional de serviços de I e T;
@@ -46,7 +61,7 @@ Alinhar, Planejar e Organizar (A.P.O.). Objetivos.
 9. (A.P.O.) Gerenciar contratos de prestação de serviços;
 10. (A.P.O.) Gerenciar fornecedores;
 11. (A.P.O.) Gerenciar qualidade;
-12. (A.P.O.) Gerenciar riscos (Integrar o gerenciamento de riscos corporativos relacionados a T.I. com o gerenciamento geral de riscos corporativos e equilibrar os custos e benefícios do gerenciamento de riscos corporativos relacionados a T.I.);
+12. (A.P.O.) Gerenciar riscos (Integrar o gerenciamento de riscos com o gerenciamento geral de riscos e equilibrar os custos e benefícios);
 13. (A.P.O.) Gerenciar segurança;
 14. (A.P.O.) Gerenciar dados (novo).
 

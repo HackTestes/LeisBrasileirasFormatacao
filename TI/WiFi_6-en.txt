@@ -1,0 +1,30 @@
+WiFi versions
+
+0: 802.11
+1: 802.11b
+2: 802.11a
+3: 802.11g
+
+WiFi 4: 802.11n
+WiFi 5: 802.11ac
+WiFi 6: 802.11ax
+WiFi 7: 802.11be
+
+
+Frequency of each specification version.
+
+2.4 Giga Hertz: 802.11; 802.11b; 802.11g; WiFi 4 / 802.11n; WiFi 6 / 802.11ax; WiFi 7 / 802.11be (WiFis 0, 1, 3, 4, 6, 7)
+5 Giga Hertz: 802.11a; WiFi 4 / 802.11n; WiFi 6 / 802.11ax; WiFi 7 / 802.11be (WiFis 2 and 4 to 7)
+6 Giga Hertz:  WiFi 6E / 802.11ax and WiFi 7 / 802.11be
+
+Link rate in (Mega bit per second).
+
+0: 802.11 - Link rate: from 1 to 2 Mega bit per second
+1: 802.11b - Link rate: from 1 to 11 Mega bit per second
+2: 802.11a - Link rate: from 6 to 54 Mega bit per second
+3: 802.11g - Link rate: from 6 to 54 Mega bit per second
+
+WiFi 4: 802.11n - Link rate: from 6.5 to 600 Mega bit per second
+WiFi 5: 802.11ac - Link rate: from 6.5 to 6,933 Mega bit per second
+WiFi 6: 802.11ax - Link rate: from 0.4 to 9,608 Mega bit per second
+WiFi 7: 802.11be - Link rate: from 0.4 to 23,059 Mega bit per second

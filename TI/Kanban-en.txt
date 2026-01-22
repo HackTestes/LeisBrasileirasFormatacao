@@ -62,35 +62,17 @@ A chart showing the cumulative number of arrivals and departures of work items f
 Customer
 The person, or more likely group of people making the service request and accepting its delivery. Customers can be internal or external to an organization: When one service makes a request to another service within the same organization, the requesting service can be considered an internal customer of the requested service.
 
-Customer Lead Time
-Customer lead time is the time between receiving the customer’s request and delivering on it.
-
 Delay
 In knowledge work there are a number of potential sources of delay. A work item could be waiting for capacity or it could be blocked due to a defect or a dependency. There are also delays due to switching between different work items in progress, e.g., when a work item has to give way to another work item with higher urgency.
 
-Delivery Rate
-See throughput.
-
-Throughput
-The number of work items exiting from the system or a given part of it; measured in work items delivered per time period. Throughput is often referred to as delivery rate.
-
 Demand
 The work requested by a service’s customers. Kanban systems seek to bring demand and capability into balance.
-
-Experiment
-An intentional design to determine if a hypothesis is valid or not. Observations and evidence from the experiment will be used to determine the validity of the hypothesis and what further experiments should be planned. See: Scientific Method
 
 Explicit Policies
 An explicit description of various agreements that shape how the service delivery works. Policies can reflect how work items move from one activity to another or can include how a team, individuals, and services interact with each other.
 
 Failure Demand
 Demand generated because of previous poor-quality deliverables or demand that never should have been received. Examples can include poor requirements or defects during delivery requiring rework.
-
-Feedback Loop
-One of the 6 general practices described as Establish Feedback Loops in the Kanban Method. A feedback loop starts with feedback information about the existing system and then requires action based on whether the result is in line with the desired goals or must be altered in order to improve or align with those goals. Feedback information without action is not a feedback loop.
-
-Hypothesis
-An idea, based on observations, that lends itself to an experiment using the scientific method to determine if the idea is valid.
 
 Kanban Board
 A kanban board is a visual display of cards that represent the work items in a kanban system. Typically, boards are arranged in vertical columns that represent activities. Some boards use horizontal swimlanes to further enhance the visualization of policies, types of work, classes or service, or other attribute that is important for the management of the work. Additional dimensions may be represented by color or other card attributes. Cards move rightward from column to column as the work items they represent progress through the system. Work in progress limits and other policies may be represented visually.
@@ -116,6 +98,9 @@ One of the 6 general practices in the Kanban Method. The point of a workflow is 
 Make Policies Explicit
 One of the 6 general practices in the Kanban Method. The practice of defining agreements on how the service delivery will be handled. Examples of policies can include agreements on replenishment criteria, pull criteria, class of service, service level expectations, work in progress limits, and completion criteria. Policies are commonly visualized on or near the kanban board. They can also be stored and shared through various digital tools. For a complete list of tools, please visit https://kanban.university/partners/
 
+Feedback Loop
+One of the 6 general practices described as Establish Feedback Loops in the Kanban Method. A feedback loop starts with feedback information about the existing system and then requires action based on whether the result is in line with the desired goals or must be altered in order to improve or align with those goals. Feedback information without action is not a feedback loop.
+
 Evolve Experimentally
 One of the 6 general practices in the Kanban Method. See evolutionary change.
 
@@ -133,12 +118,6 @@ A model of a kanban service delivery workflow. A kanban system is designed using
 
 Knowledge Work
 Developing goods and services through activities that add to knowledge discovery. Examples of Knowledge Work are Marketing, Software Development, all kinds of Product Development. Knowledge work is performed by knowledge workers.
-
-Lead Time
-The difference in time (e.g., minutes, hours, days, etc.) between one point in the workflow to another point in the workflow. See Customer Lead Time and System Lead Time.
-
-Lead Time Distribution
-A chart showing the frequency of the observed lead time of work items. Lead times should be consistent, i.e., all system lead times or all customer lead times. Different work item types or different classes of service may have different lead time distributions. The distribution of the lead time can be an indicator of the predictability of the system.
 
 Meeting
 A type of feedback loop designed to focus on managing the work. Examples include:
@@ -166,6 +145,24 @@ Other metrics such as quality or rework may be quite valuable. Teams should not 
 1. Lead time distribution
 2. Lead time or delivery rate run chart
 3. Cumulative flow diagram
+
+Lead Time
+The difference in time (e.g., minutes, hours, days, etc.) between one point in the workflow to another point in the workflow. See Customer Lead Time and System Lead Time.
+
+System Lead Time
+The elapsed time it takes for a work item to move from the commitment point to the first column on its kanban board that has no work in progress limit.
+
+Customer Lead Time
+Customer lead time is the time between receiving the customer’s request and delivering on it.
+
+Lead Time Distribution
+A chart showing the frequency of the observed lead time of work items. Lead times should be consistent, i.e., all system lead times or all customer lead times. Different work item types or different classes of service may have different lead time distributions. The distribution of the lead time can be an indicator of the predictability of the system.
+
+Delivery Rate
+See throughput.
+
+Throughput
+The number of work items exiting from the system or a given part of it; measured in work items delivered per time period. Throughput is often referred to as delivery rate.
 
 Overburden
 A situation when demand exceeds capacity and demand is not limited by available capacity. Overburdening is commonly observed when work in progress is not limited resulting in work being pushed into the system.
@@ -201,6 +198,12 @@ A feedback loop designed to iterate towards a better understanding of a given si
 6. Accept or Reject hypothesis
 7. Repeat
 
+Hypothesis
+An idea, based on observations, that lends itself to an experiment using the scientific method to determine if the idea is valid.
+
+Experiment
+An intentional design to determine if a hypothesis is valid or not. Observations and evidence from the experiment will be used to determine the validity of the hypothesis and what further experiments should be planned. See: Scientific Method
+
 Service
 A service starts with a customer request, fulfilled through service delivery, which results in acceptance by the customer. From a service perspective, a request can scale from a task to the development of a product, project, or initiative.
 
@@ -224,9 +227,6 @@ An acronym for the Systems Thinking Approach to Introducing Kanban, a recommende
 4. Model the workflow
 5. Identify classes of service
 6. Design the kanban system
-
-System Lead Time
-The elapsed time it takes for a work item to move from the commitment point to the first column on its kanban board that has no work in progress limit.
 
 Workflow
 A series of activities, often performed within a Kanban service, that results in products or services being delivered. Usually, the workflow starts with a request and ends with delivery. The workflow or a selected part of it is represented on a kanban board by a set of sequential columns showing the knowledge discovery activities that the work item passes through. For activities that occur in parallel or in no particular order, workflow-related information can be added to the kanban card.

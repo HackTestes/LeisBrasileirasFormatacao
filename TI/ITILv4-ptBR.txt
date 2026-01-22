@@ -18,6 +18,10 @@ Output: Um resultado tangível ou intangível de uma atividade. São os resultad
 
 Outcome: São os resultados ou impactos mais amplos que ocorrem como consequência dos produtos. Eles refletem como os produtos influenciaram as necessidades ou os objetivos das partes interessadas.
 
+Produtos: tratam-se de configurações de diversos recursos controlados pela organização. Como: pessoas, fluxos de valor, processos, informação e tecnologia, agrupados em um produto que possui valor para os consumidores.
+
+Serviços: meio de gerar cocriação de valor através da facilitação dos objetivos do consumidor, sem que estes tenham que gerenciar custos e riscos.
+
 ........................................................
 
 As Fases do Gerenciamento de Problemas.
