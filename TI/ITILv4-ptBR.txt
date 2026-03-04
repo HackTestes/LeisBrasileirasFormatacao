@@ -22,6 +22,20 @@ Produtos: tratam-se de configurações de diversos recursos controlados pela org
 
 Serviços: meio de gerar cocriação de valor através da facilitação dos objetivos do consumidor, sem que estes tenham que gerenciar custos e riscos.
 
+Item de configuração: Qualquer componente que precise ser gerenciado para fornecer um serviço de TI.
+
+........................................................
+
+7 fatores que podem influenciar na estratégia da organização quando o assunto é fornecedor:
+
+1. foco estratégico;
+2. cultura corporativa;
+3. escassez de recursos;
+4. preocupação com custos;
+5. conhecimento no assunto; 
+6. restrições externas; 
+7. padrões de demanda.
+
 ........................................................
 
 As Fases do Gerenciamento de Problemas.
