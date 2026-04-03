@@ -22,8 +22,12 @@ Foco é formatar leis brasileiras para leitores de texto.
 
 ## Comandos
 
-* Formatar
+* Machine variable
+``` powershell
+$machine = "caiohvm@$(arp -a | Select-String -Pattern "00-15-5d-00-5d-" | %{$_.Line.Split(" ")[2]})"
+```
 
+* Formatar
 ``` powershell
 python.exe .\format.py  D:\code_repo\LeisBrasileiras_Formatacao\Original\*.txt "D:\code_repo\LeisBrasileiras_Formatacao\Modificado\"
 ```
@@ -33,16 +37,48 @@ python.exe .\format.py  D:\code_repo\LeisBrasileiras_Formatacao\Original\*.txt "
 $InputFiles = Get-Item D:\code_repo\LeisBrasileiras_Formatacao\Original\*.txt; $InputFiles | ForEach { python.exe .\src\format.py $_.FullName "D:\code_repo\LeisBrasileiras_Formatacao\Modificado\" }
 ```
 
+---
 
 * Copiar textos para VM
 ``` powershell
 scp.exe D:\code_repo\LeisBrasileiras_Formatacao\Modificado\* caiohvm@$(arp -a | Select-String -Pattern "00-15-5d-00-5d-" | %{$_.Line.Split(" ")[2]}):/home/caiohvm/Dev/edge-tts/texts/
 ```
 
+* Copiar todos os textos para a VM
+``` powershell
+scp.exe -r D:\code_repo\LeisBrasileiras_Formatacao\Modificado ${machine}:/home/caiohvm/Dev/edge-tts/texts/leis;
+
+scp.exe -r D:\code_repo\Study\out\txt_lang ${machine}:/home/caiohvm/Dev/edge-tts/texts/txt_lang;
+
+scp.exe -r D:\code_repo\Study\out\txt_lang_summary ${machine}:/home/caiohvm/Dev/edge-tts/texts/txt_lang_summary
+
+```
+
+---
 
 * Copiar os áudios para o host
 ``` powershell
 scp.exe caiohvm@$(arp -a | Select-String -Pattern "00-15-5d-00-5d-" | %{$_.Line.Split(" ")[2]}):/home/caiohvm/Dev/edge-tts/texts/*.mp3 .\Documents\Leis\Audio\
+```
+
+* Copiar todos os audios para o host
+``` powershell
+New-Item -ItemType Directory -Path C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Date -Format "dd_MM_yyyy");
+
+scp.exe -r ${machine}:/home/caiohvm/Dev/edge-tts/texts/leis C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Date -Format "dd_MM_yyyy")\leis;
+
+scp.exe -r ${machine}:/home/caiohvm/Dev/edge-tts/texts/txt_lang C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Date -Format "dd_MM_yyyy")\txt_lang;
+
+scp.exe -r ${machine}:/home/caiohvm/Dev/edge-tts/texts/txt_lang_summary C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Date -Format "dd_MM_yyyy")\txt_lang_summary
+
+Remove-Item -Path C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Date -Format "dd_MM_yyyy")\*.txt -Recurse -Confirm
+```
+
+---
+
+* Gerar audio (gerenciador)
+``` bash
+cd /home/$USER && python /home/$USER/audio-manager/src/main.py --text-path texts/ --hash-path text_hash --retry 5
 ```
 
 * Gerar audio em português brasileiro
