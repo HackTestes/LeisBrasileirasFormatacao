@@ -145,9 +145,10 @@ def main():
     formatted_text = formatted_text.replace("Vigência\n", "")
     formatted_text = formatted_text.replace("(Regulamento)", "")
     formatted_text = formatted_text.replace("(NR)", "")
+    formatted_text = formatted_text.replace("Produção de efeitos\n", "\n")
 
     # \( ou \) : são os parêntes literais já que é uma caracter especial
-    # [\n\)] : representa uma bquebra de linha OU o fechamento de parênteses
+    # [\n\)] : representa uma quebra de linha OU o fechamento de parênteses
     # ^ : negação (faz match com o oposto)
     # [^\n\)]* : faz match com 0 ou mais caracteres que não são uma quebra de linha OU fechamento de parênteses (isso permmite subtituir todo o texto dentro)
     # A ideia é substituir todo o texto dentro do parêntes e se ele não estiver fechado, parar na quebra de linha
@@ -168,7 +169,7 @@ def main():
     formatted_text = re.sub(r'\((Artigo|Inciso|Parágrafo|Alínea|Capítulo|Seção) adaptado [^\)]*\)', "", formatted_text, flags=re.IGNORECASE)
 
     # Regimento Interno TCU
-    formatted_text = re.sub(r'\(Resolução-TCU[^\)]*\)', "", formatted_text, flags=re.IGNORECASE)
+    #formatted_text = re.sub(r'\(Resolução-TCU[^\)]*\)', "", formatted_text, flags=re.IGNORECASE)
 
     # Números romanos
     for i in range(1, 150):
