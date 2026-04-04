@@ -46,11 +46,11 @@ scp.exe D:\code_repo\LeisBrasileiras_Formatacao\Modificado\* caiohvm@$(arp -a | 
 
 * Copiar todos os textos para a VM
 ``` powershell
-scp.exe -r D:\code_repo\LeisBrasileiras_Formatacao\Modificado ${machine}:/home/caiohvm/Dev/edge-tts/texts/leis;
+scp.exe -r D:\code_repo\LeisBrasileiras_Formatacao\Modificado\*.txt ${machine}:/home/caiohvm/Dev/edge-tts/texts/leis;
 
-scp.exe -r D:\code_repo\Study\out\txt_lang ${machine}:/home/caiohvm/Dev/edge-tts/texts/txt_lang;
+scp.exe -r D:\code_repo\Study\out\txt_lang\*.txt ${machine}:/home/caiohvm/Dev/edge-tts/texts/txt_lang;
 
-scp.exe -r D:\code_repo\Study\out\txt_lang_summary ${machine}:/home/caiohvm/Dev/edge-tts/texts/txt_lang_summary
+scp.exe -r D:\code_repo\Study\out\txt_lang_summary\*.txt ${machine}:/home/caiohvm/Dev/edge-tts/texts/txt_lang_summary
 
 ```
 
@@ -65,13 +65,13 @@ scp.exe caiohvm@$(arp -a | Select-String -Pattern "00-15-5d-00-5d-" | %{$_.Line.
 ``` powershell
 New-Item -ItemType Directory -Path C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Date -Format "dd_MM_yyyy");
 
-scp.exe -r ${machine}:/home/caiohvm/Dev/edge-tts/texts/leis C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Date -Format "dd_MM_yyyy")\leis;
+scp.exe -r ${machine}:/home/caiohvm/Dev/edge-tts/texts/leis/* C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Date -Format "dd_MM_yyyy")\leis;
 
-scp.exe -r ${machine}:/home/caiohvm/Dev/edge-tts/texts/txt_lang C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Date -Format "dd_MM_yyyy")\txt_lang;
+scp.exe -r ${machine}:/home/caiohvm/Dev/edge-tts/texts/txt_lang/* C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Date -Format "dd_MM_yyyy")\txt_lang;
 
-scp.exe -r ${machine}:/home/caiohvm/Dev/edge-tts/texts/txt_lang_summary C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Date -Format "dd_MM_yyyy")\txt_lang_summary
+scp.exe -r ${machine}:/home/caiohvm/Dev/edge-tts/texts/txt_lang_summary/* C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Date -Format "dd_MM_yyyy")\txt_lang_summary
 
-Remove-Item -Path C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Date -Format "dd_MM_yyyy")\*.txt -Recurse -Confirm
+Get-ChildItem -Path C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Date -Format "dd_MM_yyyy")\ -Filter "*.txt" -Recurse | Remove-Item -Confirm
 ```
 
 ---
