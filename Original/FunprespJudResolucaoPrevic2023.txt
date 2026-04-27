@@ -1,0 +1,109 @@
+Versão consolidada com retificações, Resolução
+Previc nº 24, de 2023, e Resolução Previc nº 25, de
+2024.
+RESOLUÇÃO PREVIC Nº 23, DE 14 DE AGOSTO DE 2023
+Estabelece procedimentos para aplicação das
+normas relativas às atividades desenvolvidas pela
+Superintendência
+Nacional
+de
+Previdência
+Complementar, bem como normas complementares
+às diretrizes do Conselho Nacional de Previdência
+Complementar e do Conselho Monetário Nacional.
+A DIRETORIA COLEGIADA DA SUPERINTENDÊNCIA NACIONAL DE PREVIDÊNCIA COMPLEMENTAR
+(PREVIC), na sessão 652º, realizada em 14 de agosto de 2023, com fundamento na Lei Complementar nº
+109, de 29 de maio de 2001, na Lei nº 12.154, de 23 de dezembro de 2009, e no Decreto nº 11.241, de 18
+de outubro de 2022,
+RESOLVE:
+CAPÍTULO I
+DAS DISPOSIÇÕES GERAIS
+Art. 1º Esta Resolução estabelece os procedimentos para a aplicação das normas relativas às atividades
+desenvolvidas pela Superintendência Nacional de Previdência Complementar - Previc, bem como normas
+complementares às diretrizes do Conselho Nacional de Previdência Complementar - CNPC e do Conselho
+Monetário Nacional - CMN.
+Art. 2º No desenvolvimento de suas atividades de supervisão e licenciamento, a Previc deverá considerar
+o porte, a diversidade, a complexidade e os riscos atinentes às entidades fechadas de previdência
+complementar - EFPC e aos planos de benefícios por elas administrados.
+Art. 3º Considerando o disposto no art. 1º da Resolução CGPC nº 13, de 1º de outubro de 2004, as EFPC
+serão enquadradas, em decorrência da soma dos fatores de porte e de complexidade, em um dos
+seguintes segmentos:
+I - Segmento 1 (S1), quando o resultado for maior que 7;
+II - Segmento 2 (S2), quando o resultado for maior que 5 e menor ou igual a 7;
+III - Segmento 3 (S3), quando o resultado for maior que 3 e menor ou igual a 5; ou
+IV - Segmento 4 (S4), quando o resultado for menor ou igual a 3.
+§ 1º O fator de porte será definido considerando a soma das provisões matemáticas dos planos de
+benefícios administrados pela EFPC, face ao total das provisões matemáticas de todas as EFPC, atribuindose valor referencial de 1 a 4.
+§ 2º O fator de complexidade, cujo valor referencial será de 1 a 4, constitui uma média ponderada dos
+seguintes critérios:
+a) número total de participantes e assistidos;
+
+b) número de patrocinadores;
+c) número e modalidade de planos de benefícios;
+d) valor do exigível contingencial face ao total de ativos; e
+e) valor total dos fluxos previdenciários.
+Art. 4º A Diretoria de Normas da Previc publicará, até o dia 30 de junho de cada exercício, a fórmula de
+cálculo utilizada para definição dos fatores de porte e de complexidade, assim como a relação de
+entidades enquadradas em cada segmento para o exercício social seguinte.
+Parágrafo único. Para fins de enquadramento serão utilizadas as informações das EFPC relativas ao mês
+de dezembro do exercício anterior.
+CAPÍTULO II
+DAS REGRAS RELATIVAS À GOVERNANÇA
+Seção I
+Estrutura de Governança
+Art. 5º A estrutura organizacional mínima das EFPC é constituída de conselho deliberativo, conselho fiscal
+e diretoria-executiva.
+Parágrafo único. Podem ser criadas outras instâncias de governança de caráter consultivo ou deliberativo,
+desde que vinculadas e subordinadas ou complementares àquelas previstas no caput, considerando,
+entre outros fatores, o porte, a complexidade e o número de planos de benefícios e patrocinadores da
+EFPC.
+Seção II
+Funcionamento dos Órgãos Estatutários
+Art. 6º Os membros dos órgãos estatutários das EFPC devem exercer suas funções nos termos da lei, do
+estatuto e do regimento interno, quando houver.
+Art. 7º O conselho deliberativo, órgão máximo da estrutura organizacional, é responsável pela definição
+da política geral de administração da EFPC e planos de benefícios por ela administrados e sua ação deve
+ser exercida por meio do estabelecimento de diretrizes e normas gerais de organização, funcionamento,
+administração e operação.
+Parágrafo único. O conselho deliberativo, no desempenho de suas funções, deve observar os princípios,
+regras e práticas de governança, a gestão e os controles internos aplicáveis segundo o porte da EFPC e
+dos planos, a complexidade e os riscos inerentes a estes, visando à segurança da situação econômicofinanceira e atuarial.
+Art. 8º O conselho fiscal é o órgão de controle interno, responsável pelo acompanhamento da gestão
+administrativa e econômico-financeira da EFPC e de seus planos de benefícios, e deve exercer suas
+funções nos termos da lei, do estatuto e na forma disciplinada no regimento interno, quando houver.
+§ 1º O conselho fiscal, no desempenho de suas funções, deve zelar pela gestão econômico-financeira da
+EFPC e dos seus planos de benefícios, observando sempre os princípios, regras e práticas de governança,
+gestão e controles internos adequados ao porte, à complexidade e aos riscos inerentes aos planos
+administrados.
+
+§ 2º O conselho fiscal deve pautar sua atuação na análise dos atos e decisões de gestão praticados por
+órgãos de administração ou colegiados, comunicando eventuais irregularidades e recomendando
+providências sem interferência na gestão da EFPC.
+§ 3º O conselho fiscal poderá contratar especialistas ou empresa especializada para a consecução dos
+seus objetivos, observado o disposto no art. 4º da Resolução CGPC nº 13, de 2004.
+Art. 9º A diretoria-executiva é o órgão de administração e gestão da EFPC, cabendo-lhe executar as
+diretrizes e a política de administração estabelecidas pelo conselho deliberativo.
+Parágrafo único. A diretoria-executiva deve zelar pelos interesses da EFPC e pela consecução de seus
+objetivos, observando sempre os princípios, regras e práticas de governança, gestão e controles internos
+adequados ao porte, à complexidade e aos riscos inerentes aos planos administrados, visando à segurança
+da situação econômico-financeira e atuarial.
+Art. 10. O conselho deliberativo da entidade, ou outra instância estatutária competente, deve fixar os
+critérios quantitativos e qualitativos para realização de gastos com pessoal, incluindo a política de
+remuneração da diretoria-executiva, com definição de condicionantes e indicadores de gestão e metas,
+consoante com os objetivos da entidade de previdência, observado o disposto no art. 10, inciso III, da
+Resolução CNPC nº 48, de 2021.
+Art. 11. As reuniões ordinárias e extraordinárias dos órgãos estatutários das EFPC devem seguir o disposto
+no estatuto e no regimento interno, quando houver.
+Art. 12. Os conselheiros suplentes de órgãos estatutários previstos no estatuto ou no regimento interno,
+quando houver, somente devem substituir os respectivos titulares nas hipóteses de impedimentos e
+afastamentos registrados em ata.
+Art. 13. Em acréscimo ao estatuto e aos regulamentos dos planos, as EFPC podem adotar regimento
+interno para disciplinar sobre o funcionamento dos órgãos estatutários e outras unidades organizacionais.
+§ 1º O regimento interno é norma complementar ao estatuto da EFPC, que é a sua norma soberana,
+recomendando-se seja único para todos os órgãos estatutários e aprovado pelo Conselho Deliberativo.
+§ 2º O regimento interno deve dispor, no mínimo, sobre as reuniões ordinárias e extraordinárias dos
+órgãos estatutários, seu sistema de deliberação e de documentação, hipóteses e modo de substituição
+temporária dos seus membros.
+§ 3º O regimento interno não deve ser submetido à análise e aprovação da Diretoria de Licenciamento,
+devendo, contudo, permanecer na EFPC à disposição da Previc.
+
