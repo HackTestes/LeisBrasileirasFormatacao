@@ -78,7 +78,7 @@ Get-ChildItem -Path C:\Users\unprivileged_caioh\Documents\Audios\Audio_$(Get-Dat
 
 * Gerar audio (gerenciador)
 ``` bash
-cd /home/$USER && python /home/$USER/audio-manager/src/main.py --text-path texts/ --hash-path text_hash --retry 10 --poll 15
+cd /home/$USER && python /home/$USER/audio-manager/src/main.py --text-path texts/ --hash-path ./text_hash --retry 10 --poll 15
 ```
 
 * Gerar audio em português brasileiro
