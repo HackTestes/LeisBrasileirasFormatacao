@@ -51,5 +51,5 @@ pdftotext -y 45 -x 0 -W 1000 -H 765 -f 47 -l 47 -nopgbrk /tmp/'ISO IEC 27005-201
 * Final
 ```bash
 echo "ISO/IEC 27005 2018" > ./ISO_27005_2018_en-US.txt &&
-pdftotext -y 45 -x 0 -W 1000 -H 765 -f 47 -l 47 -nopgbrk /tmp/'ISO IEC 27005-2018 English.pdf' - >> ./ISO_27005_2018_en-US.txt
+pdftotext -y 45 -x 0 -W 1000 -H 765 -f 5 -l 58 -nopgbrk /tmp/'ISO IEC 27005-2018 English.pdf' - >> ./ISO_27005_2018_en-US.txt
 ```
