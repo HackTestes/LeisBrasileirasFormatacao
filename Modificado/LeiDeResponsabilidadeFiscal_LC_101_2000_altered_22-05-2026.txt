@@ -40,7 +40,7 @@ Inciso 3 - empresa estatal dependente: empresa controlada que receba do ente con
 Inciso 4 - receita corrente líquida: somatório das receitas tributárias, de contribuições, patrimoniais, industriais, agropecuárias, de serviços, transferências correntes e outras receitas também correntes, deduzidos:
 
 
-a) na União, os valores transferidos aos Estados, Distrito Federal e Municípios por determinação constitucional ou legal, inclusive os valores entregues aos Estados e ao Distrito Federal por meio do Fundo instituído pelo artigo 159-A da Constituição, e as contribuições mencionadas na alínea “a” do inciso 1 e no inciso 2 do artigo 195, e no artigo 239 da Constituição;           Produção de efeitos
+a) na União, os valores transferidos aos Estados, Distrito Federal e Municípios por determinação constitucional ou legal, inclusive os valores entregues aos Estados e ao Distrito Federal por meio do Fundo instituído pelo artigo 159-A da Constituição, e as contribuições mencionadas na alínea “a” do inciso 1 e no inciso 2 do artigo 195, e no artigo 239 da Constituição;           
 
 b) nos Estados, as parcelas entregues aos Municípios por determinação constitucional;
 
@@ -134,9 +134,9 @@ a)  (VETADO)
 
 b) atendimento de passivos contingentes e outros riscos e eventos fiscais imprevistos.
 
-Inciso 4 - conterá a estimativa global de incentivos e benefícios de natureza tributária, financeira e creditícia e para pessoas físicas e jurídicas; e      Produção de efeitos
+Inciso 4 - conterá a estimativa global de incentivos e benefícios de natureza tributária, financeira e creditícia e para pessoas físicas e jurídicas; e      
 
-Inciso 5 - conterá, em anexo, a estimativa das despesas financeiras e das despesas primárias obrigatórias e discricionárias, no exercício de sua elaboração e para os 2 (dois) exercícios subsequentes.      Produção de efeitos
+Inciso 5 - conterá, em anexo, a estimativa das despesas financeiras e das despesas primárias obrigatórias e discricionárias, no exercício de sua elaboração e para os 2 (dois) exercícios subsequentes.      
 
 Parágrafo 1º Todas as despesas relativas à dívida pública, mobiliária ou contratual, e as receitas que as atenderão, constarão da lei orçamentária anual.
 
@@ -152,7 +152,7 @@ Parágrafo 6º Integrarão as despesas da União, e serão incluídas na lei or�
 
  Parágrafo 7º  (VETADO)
 
-Parágrafo 8º As estimativas de que trata o inciso 4 do caput deste artigo serão organizadas em anexos específicos com estimativa das renúncias no exercício de referência e nos 2 (dois) exercícios subsequentes.       Produção de efeitos
+Parágrafo 8º As estimativas de que trata o inciso 4 do caput deste artigo serão organizadas em anexos específicos com estimativa das renúncias no exercício de referência e nos 2 (dois) exercícios subsequentes.       
 
 Artigo 6º  (VETADO)
 
@@ -230,35 +230,35 @@ Inciso 1 - às alterações das alíquotas dos impostos previstos nos incisos 1,
 
 Inciso 2 - ao cancelamento de débito cujo montante seja inferior ao dos respectivos custos de cobrança.
 
-Artigo 14-A. A proposição legislativa que trate de concessão, ampliação ou prorrogação de qualquer incentivo ou benefício de natureza tributária que implique renúncia de receita e cujo beneficiário seja pessoa jurídica deverá estar acompanhada de:      Produção de efeitos
+Artigo 14-A. A proposição legislativa que trate de concessão, ampliação ou prorrogação de qualquer incentivo ou benefício de natureza tributária que implique renúncia de receita e cujo beneficiário seja pessoa jurídica deverá estar acompanhada de:      
 
-Inciso 1 - estimativa de quantitativo de beneficiários;      Produção de efeitos
+Inciso 1 - estimativa de quantitativo de beneficiários;      
 
-Inciso 2 - prazo de vigência, que não poderá ser superior a 5 (cinco) anos;      Produção de efeitos
+Inciso 2 - prazo de vigência, que não poderá ser superior a 5 (cinco) anos;      
 
-Inciso 3 - metas de desempenho, que deverão ser objetivas e quantificáveis, em dimensões econômicas, sociais e ambientais;      Produção de efeitos
+Inciso 3 - metas de desempenho, que deverão ser objetivas e quantificáveis, em dimensões econômicas, sociais e ambientais;      
 
-Inciso 4 - impacto previsto na redução das desigualdades regionais, se for o caso; e      Produção de efeitos
+Inciso 4 - impacto previsto na redução das desigualdades regionais, se for o caso; e      
 
-Inciso 5 - mecanismos de transparência e de monitoramento e avaliação de resultados em relação às metas de que trata o inciso 3 deste caput.      Produção de efeitos
+Inciso 5 - mecanismos de transparência e de monitoramento e avaliação de resultados em relação às metas de que trata o inciso 3 deste caput.      
 
-Parágrafo 1º O prazo de que trata o inciso 2 do caput poderá ser superior a 5 (cinco) anos na hipótese de benefícios tributários associados a investimentos de longo prazo, nos termos estabelecidos em regulamento e desde que a proposição legislativa esteja acompanhada de estimativa dos investimentos durante o período em que vigorar o benefício, sem prejuízo de outras metas previstas na forma do inciso 3 do caput deste artigo.      Produção de efeitos
+Parágrafo 1º O prazo de que trata o inciso 2 do caput poderá ser superior a 5 (cinco) anos na hipótese de benefícios tributários associados a investimentos de longo prazo, nos termos estabelecidos em regulamento e desde que a proposição legislativa esteja acompanhada de estimativa dos investimentos durante o período em que vigorar o benefício, sem prejuízo de outras metas previstas na forma do inciso 3 do caput deste artigo.      
 
-Parágrafo 2º É vedada a prorrogação de benefícios tributários cujas metas de resultados definidas na forma do inciso 3 do caput deste artigo não tenham sido atingidas ou cuja avaliação de resultados não tenha sido realizada.      Produção de efeitos
+Parágrafo 2º É vedada a prorrogação de benefícios tributários cujas metas de resultados definidas na forma do inciso 3 do caput deste artigo não tenham sido atingidas ou cuja avaliação de resultados não tenha sido realizada.      
 
-Parágrafo 3º Na hipótese de que trata o Parágrafo 1º deste artigo, a vigência do benefício tributário fica condicionada à realização periódica de avaliação e ao atingimento de metas de resultados definidas na forma do inciso 3 do caput deste artigo, a cada 5 (cinco) anos.      Produção de efeitos
+Parágrafo 3º Na hipótese de que trata o Parágrafo 1º deste artigo, a vigência do benefício tributário fica condicionada à realização periódica de avaliação e ao atingimento de metas de resultados definidas na forma do inciso 3 do caput deste artigo, a cada 5 (cinco) anos.      
 
-Parágrafo 4º A avaliação de resultados em relação às metas de que trata o inciso 3 do caput deste artigo será realizada por órgão do Poder Executivo multidisciplinar e especializado no monitoramento e avaliação de políticas públicas, nos termos de regulamento.      Produção de efeitos
+Parágrafo 4º A avaliação de resultados em relação às metas de que trata o inciso 3 do caput deste artigo será realizada por órgão do Poder Executivo multidisciplinar e especializado no monitoramento e avaliação de políticas públicas, nos termos de regulamento.      
 
-Parágrafo 5º O disposto neste artigo:      Produção de efeitos
+Parágrafo 5º O disposto neste artigo:      
 
-Inciso 1 - aplica-se também a proposição legislativa que conceda diferimento de tributos, ressalvado o diferimento que implique postergação do pagamento do tributo:      Produção de efeitos
+Inciso 1 - aplica-se também a proposição legislativa que conceda diferimento de tributos, ressalvado o diferimento que implique postergação do pagamento do tributo:      
 
-a) por prazo igual ou inferior a 60 (sessenta) meses, para pagamento de forma parcelada, contado daquele em que seria devido o tributo; ou   (Incluída pela Lei Complementar número 224, de 2025)   Produção de efeitos
+a) por prazo igual ou inferior a 60 (sessenta) meses, para pagamento de forma parcelada, contado daquele em que seria devido o tributo; ou   (Incluída pela Lei Complementar número 224, de 2025)   
 
-b) que, mesmo que concedido por prazo superior ao previsto na alínea “a” deste inciso, abranja a totalidade dos contribuintes de determinada região e seja destinado ao combate aos efeitos de situação de emergência ou estado de calamidade pública reconhecidos na forma da legislação; e   (Incluída pela Lei Complementar número 224, de 2025)   Produção de efeitos
+b) que, mesmo que concedido por prazo superior ao previsto na alínea “a” deste inciso, abranja a totalidade dos contribuintes de determinada região e seja destinado ao combate aos efeitos de situação de emergência ou estado de calamidade pública reconhecidos na forma da legislação; e   (Incluída pela Lei Complementar número 224, de 2025)   
 
-Inciso 2 - não se aplica às alterações das alíquotas dos impostos previstos nos incisos 1, 2, 4 e 5 do caput do artigo 153 da Constituição Federal, na forma do Parágrafo 1º do referido artigo.      Produção de efeitos
+Inciso 2 - não se aplica às alterações das alíquotas dos impostos previstos nos incisos 1, 2, 4 e 5 do caput do artigo 153 da Constituição Federal, na forma do Parágrafo 1º do referido artigo.      
 
 CAPÍTULO 4
 
@@ -489,13 +489,13 @@ Inciso 3 - contratar operações de crédito, ressalvadas as destinadas ao pagam
 
 Parágrafo 4º As restrições do Parágrafo 3º aplicam-se imediatamente se a despesa total com pessoal exceder o limite no primeiro quadrimestre do último ano do mandato dos titulares de Poder ou órgão referidos no artigo 20.
 
-Parágrafo 5º As restrições previstas no Parágrafo 3º deste artigo não se aplicam ao Município em caso de queda de receita real superior a 10% (dez por cento), em comparação ao correspondente quadrimestre do exercício financeiro anterior, devido a:                    Produção de efeitos
+Parágrafo 5º As restrições previstas no Parágrafo 3º deste artigo não se aplicam ao Município em caso de queda de receita real superior a 10% (dez por cento), em comparação ao correspondente quadrimestre do exercício financeiro anterior, devido a:                    
 
- 1 – diminuição das transferências recebidas do Fundo de Participação dos Municípios decorrente de concessão de isenções tributárias pela União; e                    Produção de efeitos
+ 1 – diminuição das transferências recebidas do Fundo de Participação dos Municípios decorrente de concessão de isenções tributárias pela União; e                    
 
- 2 – diminuição das receitas recebidas de royalties e participações especiais.                    Produção de efeitos
+ 2 – diminuição das receitas recebidas de royalties e participações especiais.                    
 
- Parágrafo 6º O disposto no Parágrafo 5º deste artigo só se aplica caso a despesa total com pessoal do quadrimestre vigente não ultrapasse o limite percentual previsto no artigo 19 desta Lei Complementar, considerada, para este cálculo, a receita corrente líquida do quadrimestre correspondente do ano anterior atualizada monetariamente.                    Produção de efeitos
+ Parágrafo 6º O disposto no Parágrafo 5º deste artigo só se aplica caso a despesa total com pessoal do quadrimestre vigente não ultrapasse o limite percentual previsto no artigo 19 desta Lei Complementar, considerada, para este cálculo, a receita corrente líquida do quadrimestre correspondente do ano anterior atualizada monetariamente.                    
 
 Seção 3
 
@@ -551,7 +551,7 @@ Parágrafo 1º O disposto no caput aplica-se a toda a administração indireta, 
 
 Parágrafo 2º Compreende-se incluída a concessão de empréstimos, financiamentos e refinanciamentos, inclusive as respectivas prorrogações e a composição de dívidas, a concessão de subvenções e a participação em constituição ou aumento de capital.
 
-Artigo 26-A. (VETADO).      Produção de efeitos
+Artigo 26-A. (VETADO).      
 
 Artigo 27. Na concessão de crédito por ente da Federação a pessoa física, ou jurídica que não esteja sob seu controle direto ou indireto, os encargos financeiros, comissões e despesas congêneres não serão inferiores aos definidos em lei ou ao custo de captação.
 
@@ -897,7 +897,7 @@ Inciso 2 - liberação ao pleno conhecimento e acompanhamento da sociedade, em t
 
 3 – adoção de sistema integrado de administração financeira e controle, que atenda a padrão mínimo de qualidade estabelecido pelo Poder Executivo da União e ao disposto no artigo 48-A.                               
 
-Inciso 4 - divulgação no Portal de Transparência, em formato aberto e padronizado, de dados atualizados sobre benefícios de natureza tributária, financeira e creditícia concedidos.      Produção de efeitos
+Inciso 4 - divulgação no Portal de Transparência, em formato aberto e padronizado, de dados atualizados sobre benefícios de natureza tributária, financeira e creditícia concedidos.      
 
 Parágrafo 2º  A União, os Estados, o Distrito Federal e os Municípios disponibilizarão suas informações e dados contábeis, orçamentários e fiscais conforme periodicidade, formato e sistema estabelecidos pelo órgão central de contabilidade da União, os quais deverão ser divulgados em meio eletrônico de amplo acesso público.                
 
