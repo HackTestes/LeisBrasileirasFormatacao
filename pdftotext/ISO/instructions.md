@@ -1,5 +1,25 @@
 # ISO
 
+## ISO 27000
+
+* URL
+```bash
+wget ??? -P /tmp/
+```
+
+* Debug
+```bash
+pdftotext -y 50 -x 0 -W 1000 -H 760 -f 5 -l 5 -nopgbrk /tmp/'iso_iec_27000_2018-en.pdf' - | less
+```
+
+* Final
+```bash
+echo "ISO/IEC 27000 2018" > ./ISO_27000_2018_en-US.txt &&
+pdftotext -y 50 -x 0 -W 1000 -H 760 -f 5 -l 24 -nopgbrk /tmp/'iso_iec_27000_2018-en.pdf' - >> ./ISO_27000_2018_en-US.txt
+pdftotext -y 350 -x 0 -W 1000 -H 460 -f 25 -l 25 -nopgbrk /tmp/'iso_iec_27000_2018-en.pdf' - >> ./ISO_27000_2018_en-US.txt
+pdftotext -y 50 -x 0 -W 1000 -H 760 -f 26 -l 31 -nopgbrk /tmp/'iso_iec_27000_2018-en.pdf' - >> ./ISO_27000_2018_en-US.txt
+```
+
 ## ISO 27001 (ABNT NBR)
 
 * URL
