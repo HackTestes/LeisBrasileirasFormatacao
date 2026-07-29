@@ -1,4 +1,4 @@
-CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988
+CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL DE 1988 Resumo
 
 PREÂMBULO
 
@@ -12,7 +12,7 @@ Artigo 1º A República Federativa do Brasil, formada pela união indissolúvel 
 
 Inciso 1 - a soberania;
 
-Inciso 2 - a cidadania
+Inciso 2 - a cidadania;
 
 Inciso 3 - a dignidade da pessoa humana;
 
@@ -288,7 +288,7 @@ DOS DIREITOS SOCIAIS
 
 Artigo 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.                
 
-Parágrafo único. Todo brasileiro em situação de vulnerabilidade social terá direito a uma renda básica familiar, garantida pelo poder público em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão determinados em lei, observada a legislação fiscal e orçamentária             
+Parágrafo único. Todo brasileiro em situação de vulnerabilidade social terá direito a uma renda básica familiar, garantida pelo poder público em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão determinados em lei, observada a legislação fiscal e orçamentária.             
 
 Artigo 7º São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:
 
@@ -434,7 +434,7 @@ Inciso 5 - da carreira diplomática;
 
 Inciso 6 - de oficial das Forças Armadas.
 
-Inciso 7 - de Ministro de Estado da Defesa                 
+Inciso 7 - de Ministro de Estado da Defesa.                 
 
 Parágrafo 4º - Será declarada a perda da nacionalidade do brasileiro que:
 
@@ -592,7 +592,7 @@ Parágrafo 2º Os Territórios Federais integram a União, e sua criação, tran
 
 Parágrafo 3º Os Estados podem incorporar-se entre si, subdividir-se ou desmembrar-se para se anexarem a outros, ou formarem novos Estados ou Territórios Federais, mediante aprovação da população diretamente interessada, através de plebiscito, e do Congresso Nacional, por lei complementar.
 
-Parágrafo 4º A criação, a incorporação, a fusão e o desmembramento de Municípios, far-se-ão por lei estadual, dentro do período determinado por Lei Complementar Federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.                    Vide artigo 96 - ADCT
+Parágrafo 4º A criação, a incorporação, a fusão e o desmembramento de Municípios, far-se-ão por lei estadual, dentro do período determinado por Lei Complementar Federal, e dependerão de consulta prévia, mediante plebiscito, às populações dos Municípios envolvidos, após divulgação dos Estudos de Viabilidade Municipal, apresentados e publicados na forma da lei.                    Vide artigo 96 - ADCT     
 
 Artigo 19. É vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
 
@@ -1022,7 +1022,7 @@ Inciso 9 - promover a proteção do patrimônio histórico-cultural local, obser
 
 Artigo 31. A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei.
 
-Parágrafo 1º O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver.
+Parágrafo 1º O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver, vedada sua extinção, criação ou instalação.   
 
 Parágrafo 2º O parecer prévio, emitido pelo órgão competente sobre as contas que o Prefeito deve anualmente prestar, só deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal.
 
@@ -1244,9 +1244,7 @@ DOS SERVIDORES PÚBLICOS
 
 
 
-Artigo 39. A União, os Estados, o Distrito Federal e os Municípios instituirão, no âmbito de sua competência, regime jurídico único e planos de carreira para os servidores da administração pública direta, das autarquias e das fundações públicas.          
-
-Artigo 39. A União, os Estados, o Distrito Federal e os Municípios instituirão conselho de política de administração e remuneração de pessoal, integrado por servidores designados pelos respectivos Poderes                       
+Artigo 39. A União, os Estados, o Distrito Federal e os Municípios instituirão conselho de política de administração e remuneração de pessoal, integrado por servidores designados pelos respectivos Poderes.                       
 
 Parágrafo 1º A fixação dos padrões de vencimento e dos demais componentes do sistema remuneratório observará:                 
 
@@ -1944,7 +1942,7 @@ Parágrafo 1º Não prestados os esclarecimentos, ou considerados estes insufici
 
 Parágrafo 2º Entendendo o Tribunal irregular a despesa, a Comissão, se julgar que o gasto possa causar dano irreparável ou grave lesão à economia pública, proporá ao Congresso Nacional sua sustação.
 
-Artigo 73. O Tribunal de Contas da União, integrado por nove Ministros, tem sede no Distrito Federal, quadro próprio de pessoal e jurisdição em todo o território nacional, exercendo, no que couber, as atribuições previstas no artigo 96. .
+Artigo 73. O Tribunal de Contas da União, integrado por nove Ministros, tem sede no Distrito Federal, quadro próprio de pessoal e jurisdição em todo o território nacional, exercendo, no que couber, as atribuições previstas no artigo 96.
 
 Parágrafo 1º Os Ministros do Tribunal de Contas da União serão nomeados dentre brasileiros que satisfaçam os seguintes requisitos:
 
@@ -1980,7 +1978,7 @@ Parágrafo 1º Os responsáveis pelo controle interno, ao tomarem conhecimento d
 
 Parágrafo 2º Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União.
 
-Artigo 75. As normas estabelecidas nesta seção aplicam-se, no que couber, à organização, composição e fiscalização dos Tribunais de Contas dos Estados e do Distrito Federal, bem como dos Tribunais e Conselhos de Contas dos Municípios.
+Artigo 75. Os Tribunais de Contas são instituições permanentes, essenciais ao exercício do controle externo, e as normas estabelecidas nesta Seção aplicam-se, no que couber, à organização, composição e fiscalização dos Tribunais de Contas dos Estados e do Distrito Federal, bem como dos Tribunais e Conselhos de Contas dos Municípios, vedada sua extinção, criação ou instalação.   
 
 Parágrafo único. As Constituições estaduais disporão sobre os Tribunais de Contas respectivos, que serão integrados por sete Conselheiros.
 
@@ -2754,7 +2752,7 @@ Parágrafo 1º A lei disciplinará a remoção ou a permuta de juízes dos Tribu
 
 Parágrafo 2º Os Tribunais Regionais Federais instalarão a justiça itinerante, com a realização de audiências e demais funções da atividade jurisdicional, nos limites territoriais da respectiva jurisdição, servindo-se de equipamentos públicos e comunitários.                      
 
-Parágrafo 3º Os Tribunais Regionais Federais poderão funcionar descentralizadamente, constituindo Câmaras regionais, a fim de assegurar o pleno acesso do jurisdicionado à justiça em todas as fases do processo.                  )
+Parágrafo 3º Os Tribunais Regionais Federais poderão funcionar descentralizadamente, constituindo Câmaras regionais, a fim de assegurar o pleno acesso do jurisdicionado à justiça em todas as fases do processo.                 
 
 Artigo 108. Compete aos Tribunais Regionais Federais:
 
@@ -2826,7 +2824,7 @@ Inciso 2 - os Tribunais Regionais do Trabalho;
 
 Inciso 3 - Juizes do Trabalho.                 
 
-Parágrafos  1º a 3º              (Revogados pela Emenda Constitucional número 45, de 2004)
+Parágrafos  1º a 3º.              (Revogados pela Emenda Constitucional número 45, de 2004)
 
 Artigo 111-A. O Tribunal Superior do Trabalho compõe-se de vinte e sete Ministros, escolhidos dentre brasileiros com mais de trinta e cinco e menos de setenta anos de idade, de notável saber jurídico e reputação ilibada, nomeados pelo Presidente da República após aprovação pela maioria absoluta do Senado Federal, sendo:       
 
@@ -2844,7 +2842,7 @@ Parágrafo 2º Funcionarão junto ao Tribunal Superior do Trabalho:
 
 Parágrafo 3º  Compete ao Tribunal Superior do Trabalho processar e julgar, originariamente, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões.                 
 
-Artigo 112. A lei criará varas da Justiça do Trabalho, podendo, nas comarcas não abrangidas por sua jurisdição, atribuí-la aos juízes de direito, com recurso para o respectivo Tribunal Regional do T rabalho.                   
+Artigo 112. A lei criará varas da Justiça do Trabalho, podendo, nas comarcas não abrangidas por sua jurisdição, atribuí-la aos juízes de direito, com recurso para o respectivo Tribunal Regional do Trabalho.                   
 
 Artigo 113. A lei disporá sobre a constituição, investidura, jurisdição, competência, garantias e condições de exercício dos órgãos da Justiça do Trabalho.                   
 
@@ -2936,7 +2934,7 @@ Artigo 121. Lei complementar disporá sobre a organização e competência dos t
 
 Parágrafo 1º Os membros dos tribunais, os juízes de direito e os integrantes das juntas eleitorais, no exercício de suas funções, e no que lhes for aplicável, gozarão de plenas garantias e serão inamovíveis.
 
-Parágrafo 2º Os juízes dos tribunais eleitorais, salvo motivo justificado, servirão por dois anos, no mínimo, e nunca por mais de dois biênios consecutivos, sendo os substitutos escolhidos na mesma ocasião e pelo mesmo processo, em número igual para cada     categoria.
+Parágrafo 2º Os juízes dos tribunais eleitorais, salvo motivo justificado, servirão por dois anos, no mínimo, e nunca por mais de dois biênios consecutivos, sendo os substitutos escolhidos na mesma ocasião e pelo mesmo processo, em número igual para cada categoria.
 
 Parágrafo 3º São irrecorríveis as decisões do Tribunal Superior Eleitoral, salvo as que contrariarem esta Constituição e as denegatórias de habeas corpus ou mandado de segurança.
 
@@ -3336,7 +3334,7 @@ Inciso 5 - polícias militares e corpos de bombeiros militares.
 
 Inciso 6 - polícias penais federal, estaduais e distrital.           
 
-Parágrafo 1º A polícia federal, instituída por lei como órgão permanente, organizado e mantido pela União e estruturado em carreira, destina-se a:"         
+Parágrafo 1º A polícia federal, instituída por lei como órgão permanente, organizado e mantido pela União e estruturado em carreira, destina-se a:         
 
 Inciso 1 - apurar infrações penais contra a ordem política e social ou em detrimento de bens, serviços e interesses da União ou de suas entidades autárquicas e empresas públicas, assim como outras infrações cuja prática tenha repercussão interestadual ou internacional e exija repressão uniforme, segundo se dispuser em lei;
 
@@ -3639,7 +3637,7 @@ Inciso 3 - propriedade de veículos automotores.
 
 Parágrafo 1º O imposto previsto no inciso I:         
 
-Inciso 1 - relativamente a bens imóveis e respectivos direitos, compete ao Estado da situação do bem, ou ao Distrito Federal
+Inciso 1 - relativamente a bens imóveis e respectivos direitos, compete ao Estado da situação do bem, ou ao Distrito Federal;
 
 Inciso 2 - relativamente a bens móveis, títulos e créditos, compete ao Estado onde era domiciliado ode cujus, ou tiver domicílio o doador, ou ao Distrito Federal;      
 
@@ -4646,7 +4644,7 @@ Parágrafo 2º A propriedade urbana cumpre sua função social quando atende às
 
 Parágrafo 3º As desapropriações de imóveis urbanos serão feitas com prévia e justa indenização em dinheiro.
 
-Parágrafo 4º É facultado ao Poder Público municipal, mediante lei específica para área incluída no plano diretor, exigir, nos termos da lei federal, do proprietário do solo urbano não edificado, subutilizado ou não utilizado, que promova seu adequado aproveitamento,      sob pena, sucessivamente, de:
+Parágrafo 4º É facultado ao Poder Público municipal, mediante lei específica para área incluída no plano diretor, exigir, nos termos da lei federal, do proprietário do solo urbano não edificado, subutilizado ou não utilizado, que promova seu adequado aproveitamento, sob pena, sucessivamente, de:
 
 Inciso 1 - parcelamento ou edificação compulsórios;
 
@@ -4818,7 +4816,7 @@ Inciso 2 - do trabalhador e dos demais segurados da previdência social, podendo
 Inciso 3 - sobre a receita de concursos de prognósticos.
 
 Inciso 4 - do importador de bens ou serviços do exterior, ou de quem a lei a ele equiparar.                  
-Inciso 5 - sobre bens e serviços, nos termos de lei complementar.      
+Inciso 5 - sobre bens e serviços, nos termos de lei complementar.         
 
 Parágrafo 1º - As receitas dos Estados, do Distrito Federal e dos Municípios destinadas à seguridade social constarão dos respectivos orçamentos, não integrando o orçamento da União.
 
@@ -5221,7 +5219,7 @@ Inciso 3 - complementação da União transferida a Estados, ao Distrito Federal
 
 Parágrafo 2º Além das ponderações previstas na alínea "a" do inciso 10 do caput deste artigo, a lei definirá outras relativas ao nível socioeconômico dos educandos e aos indicadores de disponibilidade de recursos vinculados à educação e de potencial de arrecadação tributária de cada ente federado, bem como seus prazos de implementação.        
 
-Parágrafo 3º Será destinada à educação infantil a proporção de 50% (cinquenta por cento) dos recursos globais a que se refere a alínea "b" do inciso 5 do caput deste artigo, nos termos da lei."     
+Parágrafo 3º Será destinada à educação infantil a proporção de 50% (cinquenta por cento) dos recursos globais a que se refere a alínea "b" do inciso 5 do caput deste artigo, nos termos da lei.     
 
 Artigo 213. Os recursos públicos serão destinados às escolas públicas, podendo ser dirigidos a escolas comunitárias, confessionais ou filantrópicas, definidas em lei, que:
 
@@ -5403,7 +5401,7 @@ Parágrafo único. O Estado estimulará a formação e o fortalecimento da inova
 
         Parágrafo 1º Lei federal disporá sobre as normas gerais do SNCTI.          
 
-Parágrafo 2º Os Estados, o Distrito Federal e os Municípios legislarão concorrentemente sobre suas peculiaridades.           
+Parágrafo 2º Os Estados, o Distrito Federal e os Municípios legislarão concorrentemente sobre suas peculiaridades.    
 
 CAPÍTULO 5
 
@@ -5693,4 +5691,4 @@ Artigo 250. Com o objetivo de assegurar recursos para o pagamento dos benefício
 
 Brasília, 5 de outubro de 1988.
 
-Ulysses Guimarães 
+Ulysses Guimarães

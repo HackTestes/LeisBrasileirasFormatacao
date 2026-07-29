@@ -154,7 +154,7 @@ a) serviço comum de engenharia: todo serviço de engenharia que tem por objeto 
 
 b) serviço especial de engenharia: aquele que, por sua alta heterogeneidade ou complexidade, não pode se enquadrar na definição constante da alínea “a” deste inciso;
 
-Inciso 22 - obras, serviços e fornecimentos de grande vulto: aqueles cujo valor estimado supera R$ 200.000.000,00 (duzentos milhões de reais);                          
+Inciso 22 - obras, serviços e fornecimentos de grande vulto: aqueles cujo valor estimado supera R$ 200.000.000,00 (duzentos milhões de reais);                          Vigência       
 Inciso 23 - termo de referência: documento necessário para a contratação de bens e serviços, que deve conter os seguintes parâmetros e elementos descritivos:
 
 a) definição do objeto, incluídos sua natureza, os quantitativos, o prazo do contrato e, se for o caso, a possibilidade de sua prorrogação;
@@ -876,7 +876,7 @@ Inciso 1 - servidores efetivos ou empregados públicos pertencentes aos quadros 
 Inciso 2 - profissionais contratados por conhecimento técnico, experiência ou renome na avaliação dos quesitos especificados em edital, desde que seus trabalhos sejam supervisionados por profissionais designados conforme o disposto no artigo 7º desta Lei.
 
 
-Parágrafo 2º  Ressalvados os casos de inexigibilidade de licitação, na licitação para contratação dos serviços técnicos especializados de natureza predominantemente intelectual previstos nas alíneas “a”, “d” e “h” do inciso 18 do caput do artigo 6º desta Lei cujo valor estimado da contratação seja superior a R$ 300.000,00 (trezentos mil reais), o julgamento será por:                         
+Parágrafo 2º  Ressalvados os casos de inexigibilidade de licitação, na licitação para contratação dos serviços técnicos especializados de natureza predominantemente intelectual previstos nas alíneas “a”, “d” e “h” do inciso 18 do caput do artigo 6º desta Lei cujo valor estimado da contratação seja superior a R$ 300.000,00 (trezentos mil reais), o julgamento será por:                         Vigência          
 Inciso 1 - melhor técnica; ou
 
 Inciso 2 - técnica e preço, na proporção de 70% (setenta por cento) de valoração da proposta técnica.”
@@ -1005,6 +1005,12 @@ Parágrafo 2º As contratações de soluções baseadas em software de uso disse
 
 Artigo 44. Quando houver a possibilidade de compra ou de locação de bens, o estudo técnico preliminar deverá considerar os custos e os benefícios de cada opção, com indicação da alternativa mais vantajosa.
 
+Artigo 44-A. O processo licitatório para compra de equipamento destinado a procedimento diagnóstico ou terapêutico no âmbito do Sistema Único de Saúde (SUS) que tenha valor superior ao previsto no inciso 2 do artigo 75 desta Lei deve levar em consideração o seu adequado aproveitamento ao longo de sua vida útil.    
+Parágrafo 1º No edital de licitação, deve constar a demonstração da capacidade instalada para operação do equipamento ou o plano de atendimento aos requisitos necessários à operação.        
+Parágrafo 2º (VETADO).         
+Parágrafo 3º (VETADO).        
+Parágrafo 4º (VETADO).        
+Parágrafo 5º (VETADO).       
 Subseção 2
 
 Das Obras e Serviços de Engenharia
@@ -1431,7 +1437,7 @@ Inciso 1 - apresentada em original, por cópia ou por qualquer outro meio expres
 
 Inciso 2 - substituída por registro cadastral emitido por órgão ou entidade pública, desde que previsto no edital e que o registro tenha sido feito em obediência ao disposto nesta Lei;
 
-Inciso 3 - dispensada, total ou parcialmente, nas contratações para entrega imediata, nas contratações em valores inferiores a 1/4 (um quarto) do limite para dispensa de licitação para compras em geral e nas contratações de produto para pesquisa e desenvolvimento até o valor de R$ 300.000,00 (trezentos mil reais).                      
+Inciso 3 - dispensada, total ou parcialmente, nas contratações para entrega imediata, nas contratações em valores inferiores a 1/4 (um quarto) do limite para dispensa de licitação para compras em geral e nas contratações de produto para pesquisa e desenvolvimento até o valor de R$ 300.000,00 (trezentos mil reais).                      Vigência          
 Parágrafo único. As empresas estrangeiras que não funcionem no País deverão apresentar documentos equivalentes, na forma de regulamento emitido pelo Poder Executivo federal.
 
 CAPÍTULO 7
@@ -1540,8 +1546,8 @@ Da Dispensa de Licitação
 
 Artigo 75. É dispensável a licitação:
 
-Inciso 1 - para contratação que envolva valores inferiores a R$ 100.000,00 (cem mil reais), no caso de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores;                     
-Inciso 2 - para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras;                       
+Inciso 1 - para contratação que envolva valores inferiores a R$ 100.000,00 (cem mil reais), no caso de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores;                     Vigência           
+Inciso 2 - para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras;                       Vigência           
 Inciso 3 - para contratação que mantenha todas as condições definidas em edital de licitação realizada há menos de 1 (um) ano, quando se verificar que naquela licitação:
 
 a) não surgiram licitantes interessados ou não foram apresentadas propostas válidas;
@@ -1554,7 +1560,7 @@ a) bens, componentes ou peças de origem nacional ou estrangeira necessários à
 
 b) bens, serviços, alienações ou obras, nos termos de acordo internacional específico aprovado pelo Congresso Nacional, quando as condições ofertadas forem manifestamente vantajosas para a Administração;
 
-c) produtos para pesquisa e desenvolvimento, limitada a contratação, no caso de obras e serviços de engenharia, ao valor de R$ 300.000,00 (trezentos mil reais);                      
+c) produtos para pesquisa e desenvolvimento, limitada a contratação, no caso de obras e serviços de engenharia, ao valor de R$ 300.000,00 (trezentos mil reais);                      Vigência            
 d) transferência de tecnologia ou licenciamento de direito de uso ou de exploração de criação protegida, nas contratações realizadas por instituição científica, tecnológica e de inovação (ICT) pública ou por agência de fomento, desde que demonstrada vantagem para a Administração;
 
 e) hortifrutigranjeiros, pães e outros gêneros perecíveis, no período necessário para a realização dos processos licitatórios correspondentes, hipótese em que a contratação será realizada diretamente com base no preço do dia;
@@ -1598,7 +1604,9 @@ Inciso 14 - para contratação de associação de pessoas com deficiência, sem 
 Inciso 15 - para contratação de instituição brasileira que tenha por finalidade estatutária apoiar, captar e executar atividades de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação, inclusive para gerir administrativa e financeiramente essas atividades, ou para contratação de instituição dedicada à recuperação social da pessoa presa, desde que o contratado tenha inquestionável reputação ética e profissional e não tenha fins lucrativos;
 
 
-Inciso 16 - para aquisição, por pessoa jurídica de direito público interno, de insumos estratégicos para a saúde produzidos por fundação que, regimental ou estatutariamente, tenha por finalidade apoiar órgão da Administração Pública direta, sua autarquia ou fundação em projetos de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e de estímulo à inovação, inclusive na gestão administrativa e financeira necessária à execução desses projetos, ou em parcerias que envolvam transferência de tecnologia de produtos estratégicos para o SUS, nos termos do inciso 12 deste caput, e que tenha sido criada para esse fim específico em data anterior à entrada em vigor desta Lei, desde que o preço contratado seja compatível com o praticado no mercado;    
+Inciso 16 - para aquisição, por pessoa jurídica de direito público interno, de produtos estratégicos para a saúde fornecidos por produtores públicos por intermédio de fundação que, regimental ou estatutariamente, tenha por finalidade apoiar órgão da Administração Pública direta, sua autarquia ou fundação em projetos de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e de estímulo à inovação, inclusive na gestão administrativa e financeira necessária à execução desses projetos, ou em parcerias que envolvam transferência de tecnologia de produtos estratégicos para o SUS, nos termos do inciso 12 deste caput, e que tenha sido criada para esse fim específico em data anterior à entrada em vigor desta Lei, desde que o preço contratado seja compatível com o praticado no mercado;   
+
+Vigência encerrada
 
 Inciso 17 - para contratação de entidades privadas sem fins lucrativos para a implementação de cisternas ou outras tecnologias sociais de acesso à água para consumo humano e produção de alimentos, a fim de beneficiar as famílias rurais de baixa renda atingidas pela seca ou pela falta regular de água; e       
 
@@ -1620,7 +1628,7 @@ Parágrafo 5º A dispensa prevista na alínea “c” do inciso 4 do caput deste
 
 Parágrafo 6º Para os fins do inciso 8 do caput deste artigo, considera-se emergencial a contratação por dispensa com objetivo de manter a continuidade do serviço público, e deverão ser observados os valores praticados pelo mercado na forma do artigo 23 desta Lei e adotadas as providências necessárias para a conclusão do processo licitatório, sem prejuízo de apuração de responsabilidade dos agentes públicos que deram causa à situação emergencial.
 
-Parágrafo 7º Não se aplica o disposto no Parágrafo 1º deste artigo às contratações de até R$ 8.000,00 (oito mil reais) de serviços de manutenção de veículos automotores de propriedade do órgão ou entidade contratante, incluído o fornecimento de peças.                      
+Parágrafo 7º Não se aplica o disposto no Parágrafo 1º deste artigo às contratações de até R$ 8.000,00 (oito mil reais) de serviços de manutenção de veículos automotores de propriedade do órgão ou entidade contratante, incluído o fornecimento de peças.                      Vigência           
 CAPÍTULO 9
 
 DAS ALIENAÇÕES
@@ -1737,7 +1745,10 @@ Inciso 2 - com seleção a critério de terceiros: caso em que a seleção do co
 
 Inciso 3 - em mercados fluidos: caso em que a flutuação constante do valor da prestação e das condições de contratação inviabiliza a seleção de agente por meio de processo de licitação.
 
-Parágrafo único. Os procedimentos de credenciamento serão definidos em regulamento, observadas as seguintes regras:
+Inciso 4 - comércio eletrônico: caso em que a Administração visa a contratar bens e serviços comuns padronizados ofertados no Sistema de Compras Expressas (Sicx).     
+
+
+Parágrafo 1º Os procedimentos de credenciamento serão definidos em regulamento, observadas as seguintes regras:    
 
 Inciso 1 - a Administração deverá divulgar e manter à disposição do público, em sítio eletrônico oficial, edital de chamamento de interessados, de modo a permitir o cadastramento permanente de novos interessados;
 
@@ -1750,6 +1761,22 @@ Inciso 4 - na hipótese do inciso 3 do caput deste artigo, a Administração dev
 Inciso 5 - não será permitido o cometimento a terceiros do objeto contratado sem autorização expressa da Administração;
 
 Inciso 6 - será admitida a denúncia por qualquer das partes nos prazos fixados no edital.
+
+Inciso 7 - na hipótese do inciso 4 do caput deste artigo, regulamento do Poder Executivo federal disporá sobre:    
+
+a) as condições de admissão e de permanência dos fornecedores, observado o disposto no artigo 87 desta Lei;     
+
+b) as regras para inclusão de bens e serviços e para formação e alteração dos preços;     
+
+c) os prazos e os métodos para entrega e recebimento dos bens e serviços;    
+
+d) as regras de instrução processual e de uso da plataforma;    
+
+e) as condições de pagamento, com prazo não superior a 30 (trinta) dias, contado do recebimento do bem ou serviço;    
+
+f) as sanções aplicáveis ao responsável por infrações, observado o disposto nos artigos 155 a 163 desta Lei.    
+
+Parágrafo 2º O Sicx poderá ser disponibilizado para os órgãos e entidades de que trata o caput do artigo 1º desta Lei, para empresas públicas, para sociedades de economia mista e suas subsidiárias e para entidades privadas sem fins lucrativos.    
 
 Seção 3
 
@@ -1922,7 +1949,8 @@ Seção 6
 
 Do Registro Cadastral
 
-Artigo 87. Para os fins desta Lei, os órgãos e entidades da Administração Pública deverão utilizar o sistema de registro cadastral unificado disponível no Portal Nacional de Contratações Públicas (PNCP), para efeito de cadastro unificado de licitantes, na forma disposta em regulamento.
+
+Artigo 87. Para os fins desta Lei, os órgãos e entidades da Administração Pública deverão utilizar o sistema de registro cadastral unificado disponível no Portal Nacional de Contratações Públicas (PNCP), para efeito de cadastro unificado de licitantes e de contratados, na forma estabelecida em regulamento do Poder Executivo federal.    
 
 Parágrafo 1º O sistema de registro cadastral unificado será público e deverá ser amplamente divulgado e estar permanentemente aberto aos interessados, e será obrigatória a realização de chamamento público pela internet, no mínimo anualmente, para atualização dos registros existentes e para ingresso de novos interessados.
 
@@ -2090,7 +2118,7 @@ Inciso 2 - compras com entrega imediata e integral dos bens adquiridos e dos qua
 
 Parágrafo 1º Às hipóteses de substituição do instrumento de contrato, aplica-se, no que couber, o disposto no artigo 92 desta Lei.
 
-Parágrafo 2º É nulo e de nenhum efeito o contrato verbal com a Administração, salvo o de pequenas compras ou o de prestação de serviços de pronto pagamento, assim entendidos aqueles de valor não superior a R$ 10.000,00 (dez mil reais).                    
+Parágrafo 2º É nulo e de nenhum efeito o contrato verbal com a Administração, salvo o de pequenas compras ou o de prestação de serviços de pronto pagamento, assim entendidos aqueles de valor não superior a R$ 10.000,00 (dez mil reais).                    Vigência           
 CAPÍTULO 2
 
 DAS GARANTIAS
@@ -2918,13 +2946,18 @@ c) comunicação entre a população e representantes da Administração e do co
 
 d) divulgação, na forma de regulamento, de relatório final com informações sobre a consecução dos objetivos que tenham justificado a contratação e eventuais condutas a serem adotadas para o aprimoramento das atividades da Administração.
 
+7 – o Sicx.    
+
+Parágrafo 3º-A. As funcionalidades a que se refere o Parágrafo 3º deste artigo serão os sistemas adotados e oferecidos pelo Poder Executivo federal.    
+
 Parágrafo 4º O PNCP adotará o formato de dados abertos e observará as exigências previstas na Lei número 12.527, de 18 de novembro de 2011.
 
 Parágrafo 5º (VETADO).
 
 Artigo 175. Sem prejuízo do disposto no artigo 174 desta Lei, os entes federativos poderão instituir sítio eletrônico oficial para divulgação complementar e realização das respectivas contratações.
 
-Parágrafo 1º Desde que mantida a integração com o PNCP, as contratações poderão ser realizadas por meio de sistema eletrônico fornecido por pessoa jurídica de direito privado, na forma de regulamento.
+
+Parágrafo 1º Desde que mantida a integração com o PNCP, as contratações poderão ser realizadas por meio de sistema eletrônico fornecido por pessoa jurídica de direito público ou privado, na forma de regulamento do Poder Executivo federal.    
 
 
 Parágrafo 2º Até 31 de dezembro de 2023, os Municípios deverão realizar divulgação complementar de suas contratações mediante publicação de extrato de edital de licitação em jornal diário de grande circulação local.     
@@ -3121,7 +3154,7 @@ Inciso 3 - quando se tratar de obra, seja mantido o que foi pactuado quanto a su
 
 Parágrafo 4º Os saldos remanescentes e os rendimentos financeiros auferidos na forma do Parágrafo 1º deste artigo serão obrigatoriamente computados a crédito do convênio e aplicados no objeto de sua finalidade e na ampliação de meta, quando possível, sem prejuízo da funcionalidade do objeto pactuado, devendo constar de demonstrativo específico que integrará as prestações de contas do ajuste.    
 
-Artigo 184-A. À celebração, à execução, ao acompanhamento e à prestação de contas dos convênios, contratos de repasse e instrumentos congêneres em que for parte a União, com valor global de até R$ 1.500.000,00 (um milhão e quinhentos mil reais), aplicar-se-á o seguinte regime simplificado:            
+Artigo 184-A. À celebração, à execução, ao acompanhamento e à prestação de contas dos convênios, contratos de repasse e instrumentos congêneres em que for parte a União, com valor global de até R$ 1.500.000,00 (um milhão e quinhentos mil reais), aplicar-se-á o seguinte regime simplificado:            Vigência           
 Inciso 1 - o plano de trabalho aprovado conterá parâmetros objetivos para caracterizar o cumprimento do objeto;   
 
 Inciso 2 - a minuta dos instrumentos deverá ser simplificada;   
@@ -3150,6 +3183,19 @@ Artigo 189. Aplica-se esta Lei às hipóteses previstas na legislação que faç
 
 Artigo 190. O contrato cujo instrumento tenha sido assinado antes da entrada em vigor desta Lei continuará a ser regido de acordo com as regras previstas na legislação revogada.
 
+
+Vigência encerrada
+
+Vigência encerrada
+
+Vigência encerrada
+
+Vigência encerrada
+
+Vigência encerrada
+
+Vigência encerrada
+
 Artigo 191. Até o decurso do prazo de que trata o inciso 2 do caput do artigo 193, a Administração poderá optar por licitar ou contratar diretamente de acordo com esta Lei ou de acordo com as leis citadas no referido inciso, e a opção escolhida deverá ser indicada expressamente no edital ou no aviso ou instrumento de contratação direta, vedada a aplicação combinada desta Lei com as citadas no referido inciso.
 
 Parágrafo único. Na hipótese do caput deste artigo, se a Administração optar por licitar de acordo com as leis citadas no inciso 2 do caput do artigo 193 desta Lei, o contrato respectivo será regido pelas regras nelas previstas durante toda a sua vigência.
@@ -3159,6 +3205,15 @@ Artigo 192. O contrato relativo a imóvel do patrimônio da União ou de suas au
 Artigo 193. Revogam-se:
 
 Inciso 1 - os artigos 89 a 108 da Lei número 8.666, de 21 de junho de 1993, na data de publicação desta Lei;
+
+
+Vigência encerrada
+
+Vigência encerrada
+
+Vigência encerrada
+
+Vigência encerrada
 
 Inciso 2 - em 30 de dezembro de 2023:       
 
@@ -3173,3 +3228,4 @@ Artigo 194. Esta Lei entra em vigor na data de sua publicação.
 Brasília, 1º de abril de 2021; 200o da Independência e 133º da República.
 
 JAIR MESSIAS BOLSONARO
+
