@@ -1,14 +1,17 @@
-LEI ORGÂNICA, DE 06 DE JUNHO DE 2005, DO MARANHÃO
-Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Maranhão, e dá outras providências
+LEI Nº 8.258, DE 6 DE JUNHO DE 2005
+
+Dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado do Maranhão, e dá outras providências.
 
 O GOVERNADOR DO ESTADO DO MARANHÃO.
 
 Faço saber a todos os seus habitantes que a Assembleia Legislativa do Estado decretou e eu sanciono a seguinte Lei:
 
 TÍTULO I
+
 NATUREZA, COMPETÊNCIA E JURISDIÇÃO
 
 CAPÍTULO I
+
 Natureza e Competência
 
 Art. 1º Ao Tribunal de Contas do Estado, órgão de controle externo, compete, nos termos da Constituição Estadual e na forma estabelecida nesta lei:
@@ -96,6 +99,7 @@ Art. 4º No exercício de sua competência, o Tribunal terá irrestrito acesso a
 Art. 5º Constitui recesso do Tribunal de Contas, sem prejuízo dos serviços de sua Secretaria, o período de 21 de dezembro a 4 de janeiro.
 
 CAPÍTULO II
+
 Jurisdição
 
 Art. 6º O Tribunal de Contas do Estado tem jurisdição própria e privativa, em todo o território estadual, sobre as pessoas e matérias sujeitas à sua competência.
@@ -121,9 +125,11 @@ VIII - os representantes do Estado, dos Municípios ou do Poder Público na Asse
 IX - os sucessores dos administradores e responsáveis a que se refere este artigo, até o limite do valor do patrimônio transferido, nos termos do inciso XLV do art. 5º da Constituição Federal.
 
 TÍTULO II
+
 EXERCÍCIO DAS COMPETÊNCIAS
 
 CAPÍTULO I
+
 Contas do Governador do Estado
 
 Art. 8º O Tribunal apreciará as Contas do Governador do Estado, mediante parecer prévio a ser emitido em sessenta dias a contar da data de seu recebimento.
@@ -147,29 +153,31 @@ IV - com abstenção de opinião.
 § 5º As contas de que trata este artigo poderão ser prestadas em meio eletrônico e disponibilizadas em ambiente de rede, conforme estabelecido em ato normativo do Tribunal, observado o disposto no § 2º do art. 36 desta Lei. (Incluído pela Lei nº 9.519, de 2011)
 
 CAPÍTULO II
+
 Contas do Prefeito Municipal
 
-Art. 9º O Prefeito deverá apresentar ao Tribunal de Contas do Estado, dentro de sessenta dias após a abertura da sessão legislativa municipal, a prestação de contas de governo do Município referente ao exercício financeiro anterior. (Redação dada pela Lei nº 8.569, de 2007)
+Art. 9º O Prefeito deverá apresentar ao Tribunal de Contas do Estado, dentro de  sessenta dias após a abertura da sessão legislativa municipal, a prestação de contas de governo do Município referente ao exercício financeiro anterior. (Redação dada pela Lei nº 8.569, de 2007)
 
 § 1º As contas prestadas pelo Prefeito consistirão nos balanços gerais do Município e no relatório do órgão central do sistema de controle interno do Poder Executivo sobre a execução dos orçamentos de que trata o § 5º do art. 136 da Constituição Estadual.
 
 § 2º Ato normativo do Tribunal estabelecerá a forma e o conteúdo da prestação de contas do Prefeito, que poderá ser feita em meio eletrônico e disponibilizada em ambiente de rede, observado o disposto no § 2º do art. 36 desta Lei. (Redação dada pela Lei nº 9.519, de 2011)
 
-§ 3º As contas anuais prestadas pelo Prefeito deverão refletir a execução orçamentária do Município, sem prejuízo da definição das responsabilidades individuais ou solidárias quando da apreciação e julgamento pelo Tribunal.
+§ 3º As contas anuais prestadas pelo Prefeito deverão refletir a execução orçamentária  do Município, sem prejuízo da definição das responsabilidades individuais ou solidárias quando da apreciação e julgamento pelo Tribunal.
 
 § 4º O Tribunal de Contas, no exercício da competência de que trata o inciso IV do art. 1º e para assegurar a eficácia do controle externo, procederá à tomada de contas do Prefeito Municipal, quando não apresentadas no prazo estabelecido no caput.
 
-Art. 10. O Tribunal, ao apreciar a prestação de contas anual apresentada pelo Prefeito, na data e forma previstas no regimento interno:
+Art. 10. O Tribunal, ao apreciar a prestação de contas anual apresentada pelo Prefeito,  na data e forma previstas no regimento interno:
 
-I - emitirá parecer prévio sobre as contas de governo do Prefeito, no prazo de sessenta dias, a ser contado da data de seu recebimento, ou até o último mês do exercício financeiro, com fundamento no art. 172, inciso I, § 3º, da Constituição Estadual, e observado o disposto no § 3ºe § 4º do art. 8º desta lei;
+I - emitirá parecer prévio sobre as contas de governo do Prefeito, no prazo de sessenta dias, a ser contado da data de seu recebimento, ou até o último mês do exercício financeiro, com fundamento no art. 172, inciso I, § 3º, da Constituição Estadual, e observado o disposto no §3ºe § 4º do art. 8º desta lei;
 
-II - julgará as contas dos gestores responsáveis pelos atos de que resultem receita e despesa, com fundamento no art. 172, incisos IV e IX, da Constituição Estadual, mediante acórdão.
+II - julgará as contas dos gestores responsáveis pelos atos de que resultem receita e despesa, com fundamento no art.172, incisos IV e IX, da Constituição Estadual, mediante acórdão.
 
 § 1º O Tribunal encaminhará, após o trânsito em julgado, à Câmara Municipal, as contas de governo do Prefeito, acompanhadas do respectivo parecer prévio.
 
 § 2º Ao julgar as contas de que cuida o inciso II deste artigo, o Tribunal decidirá pela regularidade, regularidade com ressalva ou irregularidade, não cabendo sobre elas deliberação da Câmara Municipal.
 
 CAPÍTULO III
+
 Contas dos Gestores
 
 SEÇÃO I
@@ -310,11 +318,11 @@ Art. 30. Em qualquer fase do processo, o Tribunal poderá autorizar o pagamento 
 
 § 2º A falta de pagamento de qualquer parcela importará no vencimento antecipado do saldo devedor.
 
-Art. 31. Provado o pagamento integral, o Tribunal expedirá quitação do débito ou da multa ao responsável.
+Art. 31. Provado o pagamento integral, o Tribunal expedirá quitação do débito ou da  multa ao responsável.
 
 Parágrafo único. O pagamento integral do débito ou da multa, após decisão definitiva, não importa em modificação do julgamento quanto à irregularidade das contas, salvo em caso de recurso provido.
 
-Art. 32. Expirado o prazo a que se refere a alínea a do inciso III do art. 27, sem manifestação do responsável, o Tribunal:
+Art. 32. Expirado o prazo a que se refere a alínea “a” do inciso III do art. 27, sem manifestação do responsável, o Tribunal:
 
 I - determinará o desconto integral ou parcelado da dívida nos vencimentos, subsídio, salário ou proventos do responsável, observados os limites previstos na legislação pertinente;
 
@@ -324,11 +332,12 @@ III - providenciará a inclusão do nome do responsável no cadastro informativo
 
 Parágrafo único. Caso o ressarcimento deva ser feito ao Estado ou ao Município, o Tribunal remeter-lhes-á a documentação necessária à cobrança judicial da dívida.
 
-Art. 33. Para os fins previstos no art. 1º, inciso I, alínea g e no art. 3º da Lei Complementar nº 64, de 18 de maio de 1990, o Tribunal, com a devida antecedência ou quando solicitado, enviará ao Ministério Público Eleitoral, em tempo hábil, o nome dos responsáveis cujas contas houverem recebido parecer prévio pela desaprovação e/ou sido julgadas irregulares nos cinco anos imediatamente anteriores à época em que forem realizadas eleições no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.
+Art. 33. Para os fins previstos no art. 1º, inciso I, alínea “g” e no art. 3º da Lei Complementar nº 64, de 18 de maio de 1990, o Tribunal, com a devida antecedência ou quando solicitado, enviará ao Ministério Público Eleitoral, em tempo hábil, o nome dos responsáveis cujas contas houverem recebido parecer prévio pela desaprovação e/ou sido julgadas irregulares nos cinco anos imediatamente anteriores à época em que forem realizadas eleições no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.
 
 Parágrafo único. Não se aplica o disposto neste artigo aos processos em que houver recurso com efeito suspensivo cuja admissibilidade tenha sido reconhecida pelo relator do processo.
 
 CAPÍTULO IV
+
 Contas do Presidente da Câmara Municipal
 
 Art. 34. O Presidente da Câmara deverá apresentar ao Tribunal de Contas do Estado, dentro de sessenta dias após a abertura da sessão legislativa municipal, a prestação de contas anual de gestão da Câmara de Vereadores, referente ao exercício financeiro anterior. (Redação dada pela Lei nº 8.569, de 2007)
@@ -346,6 +355,7 @@ Art. 35. O julgamento das contas do Presidente da Câmara será realizado com fu
 § 2º Aplicar-se-ão, no que couber, no processamento das contas do Presidente da Câmara, as normas do Capítulo III, do Título II,desta lei.
 
 CAPÍTULO V
+
 Fiscalização
 
 SEÇÃO I
@@ -424,13 +434,13 @@ Art. 43. Têm legitimidade para representar ao Tribunal de Contas do Estado:
 
 I - o Ministério Público Federal e Estadual;
 
-II - os órgãos de controle interno, em cumprimento ao § 1º do art. 74 da Constituição Federal;
+II - os órgãos de controle interno, em cumprimento ao §1º do art. 74 da Constituição Federal;
 
 III - os Senadores da República, Deputados Federais e Estaduais, Vereadores, Magistrados, servidores públicos e outras autoridades que comuniquem a ocorrência de irregularidades de que tenham conhecimento em virtude do cargo que ocupem;
 
 IV - os Tribunais de Contas dos Estados, do Distrito Federal e dos Municípios, e as Câmaras Municipais;
 
-V - as equipes de inspeção ou de auditoria, nos termos do art. 46;
+V - as equipes de inspeção ou de auditoria, nos termos do art.46;
 
 VI - as unidades técnicas do Tribunal e;
 
@@ -496,7 +506,7 @@ Atos e Contratos
 
 Art. 49. Para assegurar a eficácia do controle e para instruir o julgamento das contas, o Tribunal efetuará a fiscalização dos atos de que resulte receita ou despesa, praticados pelos responsáveis sujeitos à sua jurisdição, competindo-lhe, para tanto, em especial:
 
-I - realizar fiscalizações, na forma estabelecida no parágrafo único do art. 44;
+I - realizar fiscalizações, na forma estabelecida no parágrafo único do art.44;
 
 II - fiscalizar, na forma estabelecida no inciso II do art. 53, a aplicação de quaisquer recursos repassados pelo Estado ou pelo Município mediante convênio, acordo, ajuste ou outros instrumentos congêneres.
 
@@ -520,7 +530,7 @@ IV - citará o responsável para, no prazo de trinta dias, prorrogável por até
 
 § 5º A aplicação de multa em processo de fiscalização não implicará prejulgamento das contas ordinárias da unidade jurisdicionada, devendo o fato ser considerado no contexto dos demais atos de gestão do período envolvido.
 
-Art. 51. Verificada a ilegalidade de ato ou contrato em execução, o Tribunal, na forma estabelecida no regimento interno, assinará prazo para que o responsável adote as providências necessárias ao exato cumprimento da lei, com indicação expressa dos dispositivos a serem observados, sem prejuízo do disposto no inciso IV do caput e nos §§ 1º e 2ºdo artigoo anterior.
+Art. 51. Verificada a ilegalidade de ato ou contrato em execução, o Tribunal, na forma estabelecida no regimento interno, assinará prazo para que o responsável adote as providências necessárias ao exato cumprimento da lei, com indicação expressa dos dispositivos a serem observados, sem prejuízo do disposto no inciso IV do caput e nos §§ 1º e 2º do artigo anterior.
 
 § 1º No caso de ato administrativo, o Tribunal, se não atendido:
 
@@ -528,7 +538,7 @@ I - sustará a execução do ato impugnado;
 
 II - comunicará a decisão à Assembleia Legislativa ou à Câmara Municipal;
 
-III - aplicará ao responsável, no próprio processo de fiscalização, ressalvado o disposto no art. 19, a multa prevista no inciso VIII do art. 67.
+III - aplicará ao responsável, no próprio processo de fiscalização, ressalvado o disposto no art. 19, a multa prevista no inciso VIII do art.67.
 
 § 2º No caso de contrato, o Tribunal, se não atendido, adotará a providência prevista no inciso III do parágrafo anterior e comunicará o fato à Assembleia Legislativa ou à Câmara Municipal, a quem compete adotar o ato de sustação e solicitar, de imediato, ao Poder Executivo, as medidas cabíveis.
 
@@ -562,7 +572,7 @@ V - da renúncia de receitas;
 
 VI - do cumprimento, por parte dos órgãos e entidades do Estado e do Município, das normas da Lei Complementar nº 101, de 4 de maio de 2000 - Lei de Responsabilidade Fiscal;
 
-VII - o acompanhamento, a fiscalização e a avaliação dos processos de desestatização realizados pela Administração Pública estadual e municipal, compreendendo as privatizações de empresas, incluindo instituições financeiras, e as concessões, permissões e autorizações de serviço público, previstas no art. 175 da Constituição Federal e nas normas legais pertinentes;
+VII - o acompanhamento, a fiscalização e a avaliação dos processos de desestatização realizados pela Administração Pública estadual e municipal, compreendendo as privatizações de empresas, incluindo instituições financeiras, e as concessões, permissões e autorizações de serviço público, previstas no art.175 da Constituição Federal e nas normas legais pertinentes;
 
 VIII - a fiscalização das declarações de bens e rendas apresentadas pelas autoridades e servidores públicos, nos termos da legislação em vigor;
 
@@ -571,6 +581,7 @@ IX - das parcerias público-privadas celebradas pela Administração Pública es
 Parágrafo único. O Relatório Resumido da Execução Orçamentária e o Relatório de Gestão Fiscal, de que tratam os arts. 52, 53, 54 e 55 da Lei Complementar nº 101, de 4 de maio de 2000, deverão ser elaborados, publicados e encaminhados ao Tribunal de Contas até trinta dias após o encerramento dos períodos a que corresponderem, com amplo acesso ao público, inclusive por meio eletrônico. (Incluído pela Lei nº 8.569, de 2007)
 
 CAPÍTULO VI
+
 Atos Sujeitos a Registro
 
 Art. 54. O Tribunal apreciará, para fins de registro, os atos de:
@@ -591,7 +602,7 @@ Art. 56. Quando o Tribunal considerar ilegal ato de admissão de pessoal, o órg
 
 § 2º Se houver indício de procedimento culposo ou doloso na admissão de pessoal, o Tribunal determinará a instauração ou conversão do processo em tomada de contas especial, para apurar responsabilidades e promover o ressarcimento das despesas irregularmente efetuadas.
 
-Art. 57. Quando o ato de concessão de aposentadoria, reforma ou pensão for considerado ilegal, o órgão de origem fará cessar o pagamento dos proventos ou benefícios no prazo de quinze dias, contados da ciência da decisão do Tribunal, sob pena de responsabilidade solidária da autoridade administrativa omissa.
+Art. 57. Quando o ato de concessão de aposentadoria, reforma ou pensão for  considerado ilegal, o órgão de origem fará cessar o pagamento dos proventos ou benefícios no prazo de quinze dias, contados da ciência da decisão do Tribunal, sob pena de responsabilidade solidária da autoridade administrativa omissa.
 
 § 1º Caso não seja suspenso o pagamento, ou havendo indício de procedimento culposo ou doloso na concessão de benefício sem fundamento legal, o Tribunal determinará a instauração ou a conversão do processo em tomada de contas especial, para apurar responsabilidades e promover o ressarcimento das despesas irregularmente efetuadas.
 
@@ -600,13 +611,14 @@ Art. 57. Quando o ato de concessão de aposentadoria, reforma ou pensão for con
 Art. 58. O relator ou o Tribunal não conhecerá de requerimento que lhe seja diretamente dirigido por interessado na obtenção dos benefícios de que trata este capítulo, devendo a solicitação ser arquivada após comunicação ao requerente, exceto quando se tratar de Recurso de Reconsideração, nos termos do art. 129, inciso I, e 136.
 
 CAPÍTULO VII
+
 Resposta a Consultas
 
 Art. 59. O Tribunal decidirá sobre consultas quanto à dúvida suscitada na aplicação de dispositivos legais e regulamentares concernentes à matéria de sua competência, que lhe forem formuladas pelas seguintes autoridades:
 
 I - Governador do Estado, Presidente da Assembleia Legislativa, Presidente do Tribunal de Justiça, Prefeito ou Presidente da Câmara Municipal;
 
-II - Chefe do Ministério Público Estadual;
+II - Chefe do Ministério Público Estadual; 
 
 III - Procurador-geral do Estado;
 
@@ -623,6 +635,7 @@ V - Secretário de Estado ou autoridades do Poder Executivo Estadual de nível h
 Art. 60. O relator ou o Tribunal não conhecerá de consulta que não atenda aos requisitos do artigo anterior ou verse apenas sobre caso concreto, devendo o processo ser arquivado após comunicação ao consulente.
 
 CAPÍTULO VIII
+
 Coeficientes de Participações Constitucionais
 
 Art. 61. Para o exercício da competência estabelecida no art. 1º, inciso IX, o Tribunal receberá da Secretaria de Estado da Fazenda, ou órgão equivalente, até dez dias após a publicação dos índices definitivos, as informações e documentos utilizados pelo Estado no cálculo dos coeficientes individuais de participação dos Municípios nos recursos provenientes do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação.
@@ -630,6 +643,7 @@ Art. 61. Para o exercício da competência estabelecida no art. 1º, inciso IX, 
 Art. 62. O regimento interno regulamentará os demais procedimentos para instauração, instrução e decisão do processo que trata o artigo 61, observado, no que couber, o disposto no art. 51, § 1º.
 
 CAPÍTULO IX
+
 Elaboração, Aprovação e Alteração de Atos Normativos
 
 Art. 63. O regimento interno do Tribunal somente poderá ser aprovado ou alterado por maioria absoluta de seus Conselheiros.
@@ -641,6 +655,7 @@ I - a forma, o conteúdo e a finalidade dos atos deliberativos do Tribunal;
 II - o procedimento para elaboração, aprovação e alteração dos atos normativos de competência do Tribunal;
 
 CAPÍTULO X
+
 Sanções e Medidas Cautelares
 
 SEÇÃO I
@@ -661,7 +676,7 @@ Art. 67. O Tribunal poderá aplicar multa de até R$ 100.000,00 (cem mil reais),
 
 I - contas julgadas regulares com ressalva, quando for ocaso;
 
-II - contas julgadas irregulares, não havendo débito, mas comprovada qualquer das ocorrências previstas nos incisos I, II e III do caput do art. 22;
+II - contas julgadas irregulares, não havendo débito, mas comprovada qualquer das ocorrências previstas nos incisos I, II e III do caput do art.22;
 
 III - ato praticado, ou omitido, com grave infração à norma legal ou regulamentar de natureza contábil, financeira, orçamentária, operacional ou patrimonial; (Redação dada pela lei nº 8.569, de 2007)
 
@@ -697,7 +712,7 @@ Art. 69. Sem prejuízo das sanções previstas nos arts. 66 e 67 e das penalidad
 
 § 2º Se considerada grave a infração, por maioria absoluta de seus membros, o Tribunal decidirá sobre o período de inabilitação a que ficará sujeito o responsável.
 
-§ 3º Aplicada a sanção referida no caput, o Tribunal comunicará a decisão ao responsável e à autoridade competente para cumprimento dessa medida.
+§ 3º Aplicada a sanção referida no caput, o Tribunal comunicará a decisão ao  responsável e à autoridade competente para cumprimento dessa medida.
 
 Art. 70. Verificada a ocorrência de fraude comprovada à licitação, o Tribunal declarará a inidoneidade do licitante fraudador para participar, por até cinco anos, de licitação na Administração Pública estadual ou municipal.
 
@@ -732,9 +747,11 @@ Art. 75. O Pleno do Tribunal ou o relator, em caso de urgência, de fundado rece
 § 6º Para assegurar a eficácia da medida cautelar de que trata o caput, o Tribunal poderá estabelecer multa diária pelo descumprimento da decisão, observado o disposto no art. 67, inciso VIII, desta Lei. (Incluído pela Lei nº 9.519, de 2011)
 
 TÍTULO III
+
 ORGANIZAÇÃO DO TRIBUNAL
 
 CAPÍTULO I
+
 Sede e Composição
 
 Art. 76. O Tribunal de Contas do Estado tem sede na Capital e compõe-se de sete Conselheiros.
@@ -750,6 +767,7 @@ Art. 78. Funciona junto ao Tribunal de Contas do Estado o Ministério Público, 
 Art. 79. O Tribunal de Contas do Estado disporá de secretaria para atender às atividades de apoio técnico e administrativo necessárias ao exercício de sua competência.
 
 CAPÍTULO II
+
 Plenário e Câmaras
 
 Art. 80. O Plenário do Tribunal de Contas do Estado, dirigido por seu Presidente, terá a competência e o funcionamento regulados nesta lei e no seu regimento interno.
@@ -763,13 +781,14 @@ Art. 81. O Tribunal de Contas do Estado poderá dividir-se em Câmaras, mediante
 Art. 82. O Tribunal fixará, no regimento interno, os períodos de funcionamento das sessões do Plenário e das Câmaras e o recesso que entender conveniente, sem ocasionar a interrupção de seus trabalhos.
 
 CAPÍTULO III
+
 Presidente, Vice-presidente e Corregedor
 
 Art. 83. O Presidente, o Vice-presidente e o Corregedor do Tribunal de Contas do Estado serão eleitos, por seus pares, para um mandato correspondente a dois anos civil, permitida a reeleição apenas por um período.
 
 § 1º Proceder-se-á à eleição em escrutínio secreto, na última sessão ordinária do mês de dezembro, ou, em caso de vaga eventual, até a segunda sessão ordinária após a vacância.
 
-§ 2º Não se procederá a nova eleição se ocorrer vaga dentro dos sessenta dias anteriores ao término do mandato, observado o disposto no § 7º deste artigo.
+§ 2º Não se procederá a nova eleição se ocorrer vaga dentro dos sessenta dias anteriores ao término do mandato, observado o disposto no §7º deste artigo.
 
 § 3º O quórum para eleição será de, pelo menos, quatro Conselheiros, incluindo o que presidir o ato.
 
@@ -817,7 +836,7 @@ Parágrafo Único. Serão fixadas, no Regimento Interno, as demais atribuições
 
 Art. 86. A Corregedoria contribuirá para o cumprimento das metas estabelecidas nos planos e programas institucionais e para o regular funcionamento e desempenho organizacional das Unidades da Secretaria do Tribunal de Contas do Estado. (Redação dada pela Lei Estadual nº 12.437, de 2024)
 
-§ 1º Compete ao corregedor:
+§ 1º Compete ao corregedor: 
 
 I - exercer os encargos de inspeção e correição;
 
@@ -829,7 +848,7 @@ IV - propor ao Pleno do Tribunal de Contas, em sessão extraordinária de carát
 
 V - relatar o processo administrativo disciplinar e a sindicância em face dos servidores da Secretaria do Tribunal de Contas e, após conclusão dos trabalhos da comissão processante, propor ao presidente a aplicação das penalidades e medidas corretivas, na forma da lei;
 
-VI - relatar no Plano do Tribunal de Contas, em sessão extraordinária de caráter reservado, assim convocada, processo de sindicância referente a deveres dos conselheiros e conselheiros-substitutos;
+VI - relatar no Plano do Tribunal de Contas, em sessão extraordinária de caráter reservado, assim convocada, processo de sindicância referente a deveres dos conselheiros e conselheiros-substitutos; 
 
 VII - designar os membros das comissões processantes disciplinares e correicionais, solicitando ao presidente do Tribunal de Contas, caso necessário, a disponibilização desses servidores;
 
@@ -842,6 +861,7 @@ IX - apresentar ao Pleno do Tribunal de Contas, até a segunda sessão do ano su
 § 3º Demais competências e normas de funcionamento da Corregedoria poderão ser fixadas no Regimento Interno do Tribunal de Contas do Estado ou em Ato normativo específico.
 
 CAPÍTULO IV
+
 Ouvidoria
 
 Art. 87. A Ouvidoria do Tribunal de Contas do Estado tem a finalidade de:
@@ -854,7 +874,10 @@ II - atuar na defesa da legalidade, legitimidade, economicidade, moralidade, imp
 
 § 2º As competências e normas de funcionamento da Ouvidoria serão estabelecidas no regimento interno. (Regulamento) (Vide Resolução TCE/MA nº 241, de 2015)
 
-CAPÍTULO V <strike>Instituto de Estudos e Pesquisa</strike> Escola Superior de Controle Externo (Redação dada pela Lei nº 9.936, de 2013)
+CAPÍTULO V
+
+Escola Superior de Controle Externo (Redação dada pela Lei nº 9.936, de 2013)
+
 Art. 88. O Instituto de Estudos e Pesquisas do Tribunal de Contas do Estado tem a finalidade de:
 
 I - planejar e controlar cursos de treinamento e de aperfeiçoamento para Conselheiros,Auditores, membros do Ministério Público e para os servidores do quadro de pessoal do Tribunal;
@@ -894,6 +917,7 @@ IX - desenvolver outras atividades inerentes à sua finalidade definidas em ato 
 Art. 90. A organização e as normas de funcionamento da Escola Superior de Controle Externo serão definidas mediante ato normativo do Tribunal de Contas do Estado. (Redação dada pela Lei nº 9.936, de 2013)
 
 CAPÍTULO VI
+
 Conselheiros
 
 Art. 91. Os Conselheiros do Tribunal de Contas do Estado serão nomeados dentre brasileiros que satisfaçam os seguintes requisitos:
@@ -967,6 +991,7 @@ Art. 100. Os Conselheiros tomam posse em sessão extraordinária do Plenário do
 Art. 101. O Conselheiro do Tribunal de Contas será aposentado por ato do Governador do Estado.
 
 CAPÍTULO VII
+
 Auditores
 
 Art. 102. Os auditores, em número de três, serão nomeados pelo Governador do Estado, dentre os cidadãos que satisfaçam os requisitos exigidos para o cargo de Conselheiro do Tribunal de Contas do Estado, mediante concurso público de provas e títulos realizado perante o Tribunal e por este homologado, observada a ordem de classificação.
@@ -984,6 +1009,7 @@ Art. 104. O Auditor, quando em substituição a Conselheiro, terá os mesmos dir
 Art. 105. Aplicam-se ao Auditor as vedações e restrições previstas nos arts. 96 e 97 desta lei.
 
 CAPÍTULO VIII
+
 Ministério Público Junto ao Tribunal
 
 Art. 106 - O Ministério Público de Contas do Estado do Maranhão, essencial à função de controle externo exercida pelo Tribunal de Contas do Estado do Maranhão, ao qual se aplicam os princípios institucionais da unidade, da indivisibilidade e da independência funcional e demais garantias inerentes as suas funções, compõe-se de quatro Procuradores de Contas. (Redação dada pela Lei nº 11.614, de 2021)
@@ -996,7 +1022,7 @@ Art. 106 - O Ministério Público de Contas do Estado do Maranhão, essencial à
 
 § 4º O Ministério Público de Contas, por meio do seu Procurador-Geral, definirá, em ato administrativo aplicável em seu âmbito, as atribuições próprias de procurador-geral substituto, corregedoria e de coordenação de execuções de acórdãos prolatados pelo Tribunal de Contas, e designará, para o exercício dessas funções, os respectivos Procuradores de Contas. (Redação dada pela Lei nº 11.614, de 2021)
 
-§ 5º Caberá ao Procurador-Geral baixar o edital do concurso de que trata o § 1º deste artigo e homologar seu resultado. (Redação dada pela Lei nº 11.614, de 2021)
+§ 5º Caberá ao Procurador-Geral baixar o edital do concurso de que trata o §1º deste artigo e homologar seu resultado. (Redação dada pela Lei nº 11.614, de 2021)
 
 Art. 107. O Procurador-geral toma posse em sessão extraordinária do Tribunal, podendo fazê-lo perante o Presidente, em período de recesso.
 
@@ -1004,7 +1030,7 @@ Art. 107. O Procurador-geral toma posse em sessão extraordinária do Tribunal, 
 
 § 2º Será lavrado pelo dirigente da unidade administrativa competente da Secretaria do Tribunal, em livro próprio, o termo de posse do Procurador-geral e dos Procuradores.
 
-Art. 108. Em caso de vacância e em suas ausências e impedimentos por motivo de licença, férias ou outro afastamento legal, o Procurador-Geral do Ministério Público de Contas será substituído pelo procurador-geral substituto, designado na forma do § 4º do art. 106 desta lei, e, na ausência deste, pelos Procuradores de Contas, observado o critério da antiguidade da posse, da nomeação e da classificação no concurso público de ingresso na carreira, sucessivamente. (Redação dada pela Lei nº 11.614, de 2021)
+Art. 108. Em caso de vacância e em suas ausências e impedimentos por motivo de licença, férias ou outro afastamento legal, o Procurador-Geral do Ministério Público de Contas será substituído pelo procurador-geral substituto, designado na forma do §4º do art. 106 desta lei, e, na ausência deste, pelos Procuradores de Contas, observado o critério da antiguidade da posse, da nomeação e da classificação no concurso público de ingresso na carreira, sucessivamente. (Redação dada pela Lei nº 11.614, de 2021)
 
 Parágrafo único. Nessas substituições, os Procuradores farão jus ao subsídio do cargo substituído. (Redação dada pela Lei nº 8.569, de 2007)
 
@@ -1039,6 +1065,7 @@ Art. 114. Aos membros do Ministério Público junto ao Tribunal de Contas do Est
 Parágrafo único. Observado o artigo 102-A da Constituição Estadual, são devidas aos membros do Ministério Público junto ao Tribunal de Contas do Estado, cumulativamente com os subsídios, as verbas e vantagens previstas no parágrafo único do artigo 148 desta Lei. (Incluído pela Lei nº 9.519, de 2011)
 
 CAPÍTULO IX
+
 Secretaria
 
 Art. 115. À Secretaria incumbe a prestação de apoio técnico e a execução dos serviços administrativos do Tribunal de Contas do Estado.
@@ -1075,10 +1102,12 @@ I - que sejam conflitantes, direta ou indiretamente, com as competências estabe
 
 II - no interesse de pessoas sujeitas à jurisdição do Tribunal.
 
-TÍTULO IV
+TÍTULO IV 
+
 PROCESSO NO TRIBUNAL
 
 CAPÍTULO I
+
 Estrutura do Processo
 
 Art. 118. São sujeitos do processo que se desenvolve no âmbito do Tribunal de Contas:
@@ -1119,17 +1148,18 @@ Parágrafo único. São inadmissíveis no processo provas obtidas por meios ilí
 
 Art. 122. Atos normativos do Tribunal regulamentarão, dentre outros, os procedimentos relativos: (Redação dada pela Lei nº 9.519, de 2011)
 
-I - a instauração, à instrução e à tramitação processual;
+I - à instauração, à instrução e à tramitação processual;
 
 II - ao pedido de vista e de cópia dos autos;
 
 III - às nulidades e às comunicações de atos processuais;
 
-IV - a emissão de certidões e à prestação de informações;
+IV - à emissão de certidões e à prestação de informações;
 
 V - ao arquivamento de processo.
 
 CAPÍTULO II
+
 Prazos
 
 Art. 123. Os prazos referidos nesta lei são contínuos, não se interrompendo nos feriados, e contam-se a partir do dia:
@@ -1159,6 +1189,7 @@ Art. 126. Os prazos para interposição de recursos e para apresentação de def
 Parágrafo único. Decorrido o prazo fixado para a prática do ato, extingue-se, independentemente de declaração, o direito do jurisdicionado de praticá-lo ou alterá-lo, se já praticado, salvo comprovado justo motivo.
 
 CAPÍTULO III
+
 Contraditório e Ampla Defesa
 
 SEÇÃO I
@@ -1175,7 +1206,7 @@ Art. 127. Na instrução dos processos, constitui formalidade essencial a ciênc
 
 § 4º O responsável, para o exercício da faculdade processual de que trata este artigo, terá o prazo de trinta dias, prorrogável por até trinta dias, a critério do relator,contado:
 
-I - da data da assinatura ou rubrica do aviso de recebimento, na hipótese do § 1º;
+I - da data da assinatura ou rubrica do aviso de recebimento, na hipótese do §1º;
 
 II - da data da publicação do edital na forma do § 2º.
 
@@ -1247,7 +1278,7 @@ Art. 138. Cabem embargos de declaração quando houver obscuridade, omissão ou 
 
 § 2º Os embargos de declaração serão submetidos à deliberação do colegiado competente pelo relator ou pelo redator, conforme o caso.
 
-§ 3º Os embargos de declaração interrompem os prazos para cumprimento do acórdão ou parecer prévio embargados e para interposição dos demais recursos previstos nesta Lei, aplicando- se, entretanto, o disposto no parágrafo único do art. 136. (Redação dada pela Lei nº 9.519, de 2011)
+§ 3º Os embargos de declaração interrompem os prazos para  cumprimento do acórdão ou parecer prévio embargados e para interposição dos demais recursos previstos nesta Lei, aplicando- se, entretanto, o disposto no parágrafo único do art. 136. (Redação dada pela Lei nº 9.519, de 2011)
 
 § 4º O Tribunal condenará o embargante a pagar multa, nos termos do art. 67, inciso X, desta Lei, quando os embargos forem manifestamente protelatórios; e, caso haja reiteração destes, o valor da multa deverá ser dobrado, ficando condicionada a interposição de qualquer outro recurso ao pagamento da quantia respectiva. (Redação dada pela Lei nº 9.519, de 2011)
 
@@ -1284,6 +1315,7 @@ III - na superveniência de documentos novos com eficácia sobre a prova produzi
 § 10. A parte ou seu sucessor, ao interpuser o recurso de que trata o caput deste artigo, deverá instruí-lo com a documentação necessária à sua tramitação e julgamento, sob pena de não conhecimento. (Incluído pela Lei nº 9.519, de 2011)
 
 TÍTULO V
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 140. O Tribunal de Contas do Estado encaminhará à Assembleia Legislativa, trimestral e anualmente, relatório de suas atividades.
@@ -1332,9 +1364,9 @@ Art. 147. O Tribunal de Contas do Estado ajustará o exame dos processos em curs
 
 Art. 148. Observado o art. 6º da Lei Complementar nº 79, de 6 de dezembro de 2004, aplica-se, no exercício das funções de Presidente, de Vice-presidente, de Corregedor, de Presidente de Câmara, de Ouvidor, de Presidente do Instituto de Estudos e Pesquisa, de Decano e de Direção da Escola de Contas, respectivamente, no que couber, o disposto no art. 80 da Lei Complementar nº 14, de 17 de dezembro de1991.
 
-Parágrafo Único. Observados o art. 52, § 4º e § 5º, da Constituição do Estado do Maranhao, e os arts. 95 e 104 desta Lei, são devidas aos conselheiros e conselheiros-substitutos, no que couber, além dos subsídios e vantagens de que tratam os arts. 77, 78, 78- A, 79, 80, 81, 82 e 83, da Lei Complementar nº 14, de 17 de dezembro de 1991, o auxílio de transporte, regulamentado em ato normativo do Tribunal de Contas. (Redação dada pela Lei Estadual nº 12.437, de 2024)
+Parágrafo Único. Observados o art. 52, §4º e §5º, da Constituição do Estado do Maranhão, e os arts. 95 e 104 desta Lei, são devidas aos conselheiros e conselheiros-substitutos, no que couber, além dos subsídios e vantagens de que tratam os arts. 77, 78, 78- A, 79, 80, 81, 82 e 83, da Lei Complementar nº 14, de 17 de dezembro de 1991, o auxílio de transporte, regulamentado em ato normativo do Tribunal de Contas. (Redação dada pela Lei Estadual nº 12.437, de 2024)
 
-Art. 149. Ao Tribunal de Contas do Estado aplicar-se-ão, subsidiariamente, no que couber, os dispositivos da Lei Orgânica e do Regimento Interno do Tribunal de Contas da União, da Lei de Organização Judiciária do Estado do Maranhão, bem como do Estatuto dos Funcionários Públicos Civis do Estado do Maranhão,atualizados.
+Art. 149. Ao Tribunal de Contas do Estado aplicar-se-ão, subsidiariamente, no que  couber, os dispositivos da Lei Orgânica e do Regimento Interno do Tribunal de Contas da União, da Lei de Organização Judiciária do Estado do Maranhão, bem como do Estatuto dos Funcionários Públicos Civis do Estado do Maranhão,atualizados.
 
 Art. 150. Caberá ao Presidente do Tribunal de Contas do Estado baixar o edital do concurso e homologar o seu resultado final, de que trata o § 3º do art. 106, na hipótese de vacância do Procurador-geral do Ministério Público junto ao Tribunal.
 
@@ -1345,3 +1377,5 @@ Mando, portanto, a todas as autoridades a quem o conhecimento e a execução da 
 PALÁCIO DO GOVERNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 06 DE JUNHO DE 2005, 184º DA INDEPENDÊNCIA E 117º DA REPÚBLICA.
 
 JOSÉ REINALDO CARNEIRO TAVARES
+
+Governador do Estado do Maranhão
