@@ -10,6 +10,14 @@ Foco é formatar leis brasileiras para leitores de texto.
     * `text-decoration:line-through` -> `display:none`
     * `<style>strike{display: none;};</style>`
 
+## Texto TI
+
+* Clicar em todos os botões para liberar o texto adicional. Exemplo principal: Glossário Kubernetes
+
+```
+document.querySelectorAll('.your-class-name').forEach(button => button.click());
+```
+
 ## Encoding
 
 * Algumas leis não usam UTF-8 e podem quebrar ao salvar como UTF-8 em um editor de texto. É necessário descobrir o encoding correto da página web e depois abrir com ele no editor. Muitas leis usam o: `windows-1252`
