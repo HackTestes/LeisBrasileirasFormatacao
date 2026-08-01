@@ -150,14 +150,14 @@ def main():
     # \( ou \) : são os parêntes literais já que é uma caracter especial
     # [\n\)] : representa uma quebra de linha OU o fechamento de parênteses
     # ^ : negação (faz match com o oposto)
-    # [^\n\)]* : faz match com 0 ou mais caracteres que não são uma quebra de linha OU fechamento de parênteses (isso permmite subtituir todo o texto dentro)
+    # [^\n\)]* : faz match com 0 ou mais caracteres que não são uma quebra de linha OU fechamento de parênteses (isso permmite subtituir todo o texto dentro) -> agora só está o parênteses, ou seja, algumas leis podem necessitar correções
     # A ideia é substituir todo o texto dentro do parêntes e se ele não estiver fechado, parar na quebra de linha
-    formatted_text = re.sub(r'\(Incluído[ ]*pel[^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
-    formatted_text = re.sub(r'\(Redação dada pel[^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
-    formatted_text = re.sub(r'\(Vide [^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
-    formatted_text = re.sub(r'\(Regulamento Dec. [^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
-    formatted_text = re.sub(r'\(Alterad[oa] pel[^\n\)]*[\n\)]', "", formatted_text, flags=re.IGNORECASE)
-    formatted_text = re.sub(r'\(Revogad[oa] pel[^\n\)]*[\n\)]', "Revogado", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Incluído[ ]*pel[^\)]*[\)]', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Redação dada pel[^\)]*[\)]', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Vide [^\)]*[\)]', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Regulamento Dec. [^\)]*[\)]', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Alterad[oa] pel[^\)]*[\)]', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Revogad[oa] pel[^\)]*[\)]', "Revogado", formatted_text, flags=re.IGNORECASE)
 
     # Regras específicas para o Regimento Interno da Câmara dos Deputados
     formatted_text = re.sub(r'\(“Caput” do artigo com redação dada[^\)]*\)', "", formatted_text, flags=re.IGNORECASE)

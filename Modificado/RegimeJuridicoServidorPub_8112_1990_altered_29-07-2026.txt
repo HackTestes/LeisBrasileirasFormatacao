@@ -176,6 +176,7 @@ Da Posse e do Exercício
         5 - responsabilidade.
 
         Parágrafo 1º  4 (quatro) meses antes de findo o período do estágio probatório, será submetida à homologação da autoridade competente a avaliação do desempenho do servidor, realizada por comissão constituída para essa finalidade, de acordo com o que dispuser a lei ou o regulamento da respectiva carreira ou cargo, sem prejuízo da continuidade de apuração dos fatores enumerados nos incisos 1 a 5 do caput deste artigo.             
+
         Parágrafo 2º  O servidor não aprovado no estágio probatório será exonerado ou, se estável, reconduzido ao cargo anteriormente ocupado, observado o disposto no parágrafo único do artigo 29.
 
         Parágrafo 3º  O servidor em estágio probatório poderá exercer quaisquer cargos de provimento em comissão ou funções de direção, chefia ou assessoramento no órgão ou entidade de lotação, e somente poderá ser cedido a outro órgão ou entidade para ocupar cargos de Natureza Especial, cargos de provimento em comissão do Grupo-Direção e Assessoramento Superiores - DAS, de níveis 6, 5 e 4, ou equivalentes.               
@@ -404,6 +405,7 @@ Do Vencimento e da Remuneração
         Parágrafo 4º  É assegurada a isonomia de vencimentos para cargos de atribuições iguais ou assemelhadas do mesmo Poder, ou entre servidores dos três Poderes, ressalvadas as vantagens de caráter individual e as relativas à natureza ou ao local de trabalho.
 
         Parágrafo 5º  Nenhum servidor receberá remuneração inferior ao salário mínimo.         
+
         Artigo 42.  Nenhum servidor poderá perceber, mensalmente, a título de remuneração, importância superior à soma dos valores percebidos como remuneração, em espécie, a qualquer título, no âmbito dos respectivos Poderes, pelos Ministros de Estado, por membros do Congresso Nacional e Ministros do Supremo Tribunal Federal.
 
         Parágrafo único.  Excluem-se do teto de remuneração as vantagens previstas nos incisos 2 a 7 do artigo 61.
@@ -548,8 +550,11 @@ Do Auxílio-Moradia
          Artigo 60-C.                 Revogado
 
         Artigo 60-D.  O valor mensal do auxílio-moradia é limitado a 25% (vinte e cinco por cento) do valor do cargo em comissão, função comissionada ou cargo de Ministro de Estado ocupado.                  
+
         Parágrafo 1º  O valor do auxílio-moradia não poderá superar 25% (vinte e cinco por cento) da remuneração de Ministro de Estado.             
+
 Parágrafo 2º  Independentemente do valor do cargo em comissão ou função comissionada, fica garantido a todos os que preencherem os requisitos o ressarcimento até o valor de R$ 1.800,00 (mil e oitocentos reais).                 
+
 Parágrafo 3º                            (Vigência encerrada)
 
 Parágrafo 4º                           (Vigência encerrada)
@@ -1133,6 +1138,7 @@ Das Proibições
         9 - valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública (penalidade demissão);
 
         10 - participar de gerência ou administração de sociedade privada, personificada ou não personificada, exercer o comércio, exceto na qualidade de acionista, cotista ou comanditário (penalidade demissão);                
+
         11 - atuar, como procurador ou intermediário, junto a repartições públicas, salvo quando se tratar de benefícios previdenciários ou assistenciais de parentes até o segundo grau, e de cônjuge ou companheiro (penalidade demissão);
 
         12 - receber propina, comissão, presente ou vantagem de qualquer espécie, em razão de suas atribuições (penalidade demissão);
@@ -1152,8 +1158,11 @@ Das Proibições
         19 - recusar-se a atualizar seus dados cadastrais quando solicitado (penalidade advertência).                
 
         Parágrafo único.  A vedação de que trata o inciso 10 do caput deste artigo não se aplica nos seguintes casos:             
+
         1 - participação nos conselhos de administração e fiscal de empresas ou entidades em que a União detenha, direta ou indiretamente, participação no capital social ou em sociedade cooperativa constituída para prestar serviços a seus membros; e                
+
         2 - gozo de licença para o trato de interesses particulares, na forma do artigo 91 desta Lei, observada a legislação sobre conflito de interesses.             
+
 Capítulo 3
 
 Da Acumulação
