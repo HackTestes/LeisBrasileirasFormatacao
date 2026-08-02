@@ -1,0 +1,714 @@
+Normas Brasileiras de Auditoria do Setor Público (NBASP) - ISSAI 200 - Princípios de auditoria financeira
+
+                                   NBASP 200 – PRINCÍPIOS DE AUDITORIA
+                                                           FINANCEIRA
+
+NOTAS INTRODUTÓRIAS DO INSTITUTO RUI BARBOSA
+1)    As Normas de Auditoria do Setor Público (NBASP) são uma
+      iniciativa do Instituto Rui Barbosa (IRB) que tem por objetivo
+      alinhar os trabalhos de fiscalização dos Tribunais de Contas
+      brasileiros a um padrão metodológico internacionalmente aceito:
+      os pronunciamentos profissionais da Organização Internacional
+      das Instituições Superiores de Controle (INTOSAI). Nesta
+      oportunidade, o IRB apresenta a NBASP 200 - Princípios de
+      Auditoria Financeira, que é a tradução realizada pelo Tribunal de
+      Contas da União para o português da ISSAI 200 – Financial Audit
+      Principles, que foi incorporada à estrutura das NBASP em 2017.
+2)    De acordo com a Resolução IRB nº 03/2020, as NBASP estão
+      organizadas em três grupos:
+     a) Grupo 1 – Princípios institucionais: correspondem
+        aos INTOSAI-P da nova Estrutura de Pronunciamentos
+        Profissionais da INTOSAI (IFPP), são as normas com os
+        princípios fundantes e basilares desta organização e que se
+        aplicam à estruturação das entidades fiscalizadoras, em geral,
+        e dos Tribunais de Contas, em particular;
+     b) Grupo 2 – Princípios e requisitos aplicáveis às atividades
+        de controle: correspondem às ISSAI da nova IFPP, são
+        as normas com os princípios e requisitos mandatórios que
+        obrigatoriamente devem ser observados no planejamento e
+        na execução das diversas ações de controle e na elaboração
+        dos respectivos relatórios (e eventual monitoramento das
+        recomendações) pelos Tribunais de Contas;
+     c) Grupo 3 – Orientações aplicáveis às atividades de controle:
+        correspondem às GUID da nova IFPP, são as normas com
+        orientações, baseadas e hierarquicamente subordinadas aos
+        princípios e aos requisitos das normas do grupo 2, que podem
+        ser observadas no planejamento e na execução das diversas
+        ações de controle e na elaboração de seus respectivos
+        relatórios (e eventual monitoramento das recomendações)
+        pelos Tribunais de Contas, quando apropriado.
+3)   Dentro desta organização, a NBASP 200 - Princípios de Auditoria
+     Financeira, situa-se no grupo 2, subgrupo 200-299 (princípios
+     de auditoria financeira). Deste modo, ela traz os princípios e
+     padrões para a auditoria das demonstrações contábeis das
+     entidades do setor público. O detalhamento dos padrões de
+     auditoria aplicáveis às auditorias de demonstrações contábeis
+     ou outras formas de apresentação de informações financeiras
+     são fornecidos pelas ISSAI 2000-2899.
+4)   A definição de auditoria financeira é dada no parágrafo 7 da
+     NBASP 200, ao estabelecer que “envolve determinar, por meio
+     da coleta de evidência de auditoria, se as informações financeiras
+     de uma entidade são apresentadas em suas demonstrações
+     contábeis de acordo com a estrutura de relatório financeiro e
+     regulatória aplicáveis”.
+5)   A auditoria financeira tem o objetivo de “fornecer, por meio da
+     coleta de evidência suficiente e apropriada, uma asseguração
+     razoável aos usuários, na forma de uma opinião e/ou relatório
+     de auditoria, se as demonstrações contábeis ou outras formas
+     de apresentação de informações financeiras estão apresentadas
+     adequadamente, em todos os aspectos relevantes, de acordo
+     com a estrutura de relatório financeiro e o marco regulatórios
+     aplicáveis”. Se uma ação de controle tem um objetivo que se
+     encaixa neste escopo, então deve-se observar obrigatoriamente
+     os princípios da NBASP 200 – Princípios de Auditoria Financeira.
+6)   O idioma original desta norma é o inglês. Assim, há termos e
+     expressões no idioma original com um determinado significado
+     que, por melhor que seja a tradução, podem levar a conclusões
+     equivocadas se forem tomadas literalmente, em razão de
+     diferentes contextos institucionais. Recomenda-se que, havendo
+     dúvidas quanto à interpretação de algum trecho da norma,
+     recorra-se ao original em inglês.
+7)   A norma faz menção às Instituições Superiores de Controle
+     (ISC), denominação genérica que a INTOSAI utiliza para todas as
+     suas organizações filiadas, que têm os mais diversos mandatos
+     e responsabilidades atribuídas em cada contexto nacional. No
+     entanto, a aplicabilidade dos seus pronunciamentos profissionais
+     não é extensiva apenas às suas ISC afiliadas (no Brasil, o
+     Tribunal de Contas da União), mas sim a todas as entidades cuja
+     missão seja o controle externo da administração pública, o que
+     inclui os Tribunais de Contas estaduais e municipais.
+1
+                                                           INTRODUÇÃO
+
+1)   O auditor financeiro do setor público trabalha em prol do interesse
+     público ao realizar serviços de auditoria financeira. Isso envolve
+     fornecer asseguração sobre a informação financeira preparada
+     pelas autoridades ou entidades do setor público e sobre o uso
+     e gestão que fazem dos recursos e ativos públicos. O resultado
+     – na forma de opiniões e/ou relatórios de auditoria – pode ser
+     usado como base para responsabilizar os responsáveis. Como
+     tal, a auditoria financeira constitui um elemento importante
+     do processo de prestação de contas e responsabilização
+     (accountability) das finanças públicas.
+2)   Normas e orientações profissionais levam à qualidade e ao
+     profissionalismo da auditoria do setor público e, desse modo,
+     sustentam a credibilidade da profissão e do seu trabalho. As
+     Normas Brasileiras de Auditoria do Setor Público (NBASP),
+     desenvolvidas pela Organização Internacional das Instituições
+     Superiores de Controle (INTOSAI), visam promover auditorias
+     independentes e eficazes e servir de base para os membros
+     da INTOSAI no desenvolvimento de suas próprias abordagens
+     profissionais, de acordo com seus mandatos e com leis e
+     regulamentos nacionais. Os princípios constantes dessas
+     normas não se sobrepõem às leis, aos regulamentos ou
+     mandatos nacionais.
+3)   A NBASP 100 – Princípios Fundamentais de Auditoria do Setor
+     Público estabelece os princípios fundamentais que são aplicáveis
+     a todos os trabalhos de auditoria do setor público. A NBASP 200
+     complementa os princípios fundamentais da NBASP 100 com
+     o contexto específico para as auditorias de demonstrações
+     contábeis. Juntas, elas constituem a base para o conjunto
+         completo dos pronunciamentos profissionais da INTOSAI nessa
+         área, e ambas devem ser cumpridas.
+4)       O principal objetivo das NBASP sobre auditoria financeira é
+         oferecer aos membros da INTOSAI um conjunto abrangente de
+         princípios e padrões para a auditoria de demonstrações contábeis
+         (ou de outras formas de informação financeira) das entidades do
+         setor público. Consequentemente, os princípios estabelecidos
+         na NBASP 200 formam a base para as normas mais específicas
+         de auditoria financeira (NBASP 2000-2899), bem como para
+         as orientações sobre como aplicá-las (NBASP 2900-2999). As
+         NBASP contêm material de aplicação emitido pela INTOSAI para
+         fornecer orientação sobre a aplicação das Normas Internacionais
+         de Auditoria (ISA) pertinentes, desenvolvidas pelo Conselho
+         Internacional de Normas de Auditoria e Asseguração (IAASB).
+         As Instituições Superiores de Controle (ISC) podem às vezes
+         combinar auditorias financeiras com elementos de auditorias de
+         conformidade e/ou operacionais, casos em que os princípios
+         relacionados se aplicam aos tipos específicos de auditoria
+         conforme aplicável.
+5)       A NBASP 200 fornece os princípios-chave para a auditoria de
+         demonstrações contábeis individuais ou consolidadas, ou de
+         elementos específicos destas. Esta norma abrange:
+     •    a aplicabilidade da NBASP 200;
+     •    o marco referencial para auditoria financeira;
+     •    os elementos de auditoria financeira; e
+     •    os princípios de auditoria financeira.
+2
+                                       APLICABILIDADE DA NBASP 200
+
+6)   A NBASP 200 fornece os princípios para uma auditoria de
+     demonstrações contábeis ou outras formas de apresentação de
+     informações financeiras. Os princípios estabelecem os requisitos
+     mínimos para as normas de auditoria pública estabelecidas em
+     nível nacional, ou normas aplicadas por uma ISC, desenvolvidas
+     por ela mesma ou por outros. A aplicabilidade das NBASP é
+     tratada pela NBASP 100.
+3
+                                      MARCO REFERENCIAL PARA AUDITORIA
+                                                           FINANCEIRA
+
+
+DEFINIÇÃO E OBJETIVOS DA AUDITORIA FINANCEIRA
+7)       A auditoria financeira envolve determinar, por meio da coleta de
+         evidência de auditoria, se as informações financeiras de uma
+         entidade são apresentadas em suas demonstrações contábeis
+         de acordo com a estrutura de relatório financeiro e regulatória
+         aplicáveis. No caso de estruturas de apresentação adequada, o
+         auditor avalia se a informação é apresentada adequadamente.
+         No caso de estruturas de conformidade, o auditor avalia a
+         extensão na qual a conformidade é alcançada.
+8)       O objetivo da auditoria financeira é fornecer, por meio da
+         coleta de evidência suficiente e apropriada, uma asseguração
+         razoável aos usuários, na forma de uma opinião e/ou relatório
+         de auditoria, se as demonstrações contábeis ou outras formas
+         de apresentação de informações financeiras estão apresentadas
+         adequadamente, em todos os aspectos relevantes, de acordo
+         com a estrutura de relatório financeiro e o marco regulatório
+         aplicáveis.
+
+PRECONDIÇÕES PARA UMA AUDITORIA DE DEMONSTRAÇÕES CONTÁBEIS DE ACORDO
+COM AS NBASP
+9)       Antes de iniciar uma auditoria financeira, o auditor deve:
+     •    avaliar a aceitabilidade da estrutura de relatório financeiro da
+          entidade auditada; e
+     •    assegurar que a administração da entidade reconheça e
+          compreenda sua responsabilidade:
+      »   pela elaboração das demonstrações contábeis de acordo
+          com a estrutura relatório financeiro aplicável;
+      »   pelo controle interno que a administração considere
+          necessário para a elaboração de demonstrações contábeis
+          livres de distorção relevante, independentemente e causada
+          fraude ou erro; e
+      »   por fornecer ao auditor acesso a todas as informações e
+          pessoas necessárias para concluir a auditoria.
+
+ESTRUTURA DE RELATÓRIO FINANCEIRO
+10) Estruturas de relatório financeiro podem ser classificadas como:
+  •   de propósito geral: elaborados para atender às necessidades
+      de informação de uma ampla gama de usuários; ou
+  •   de propósito especial: elaborados para atender às necessidades
+      de um usuário ou grupo de usuários específico (por exemplo,
+      disposições sobre relatório financeiro estabelecidas por
+      uma organização internacional de financiamento, um órgão
+      governamental, pelo Poder Legislativo ou por um contrato).
+11) Os princípios da NBASP 200 são relevantes para auditorias
+    de diferentes tipos de demonstrações contábeis, sejam elas
+    elaboradas de acordo com uma estrutura de propósito geral
+    (por exemplo, IPSAS, IFRS ou estruturas de relatório financeiro
+    nacionais) ou de propósito especial.
+12) Adicionalmente, as estruturas de relatórios financeiros podem
+    ser:
+  •   Estrutura de conformidade: estabelece regras e requisitos a
+      serem seguidos rigidamente em todos os casos; ou
+  •   Estrutura de apresentação adequada: reconhece que, para
+      alcançar uma apresentação adequada das demonstrações
+      contábeis da entidade, pode ser necessário que quem as
+      elabore tenha que se desviar dos requisitos da estrutura ou
+      fazer divulgações adicionais.
+13) Os princípios da NBASP 200 também são aplicáveis a auditorias
+    de entidades do setor público que preparam informações
+    financeiras (incluindo demonstrações contábeis individuais ou
+    de elementos, contas ou itens específicos de uma demonstração
+     contábil) para outras partes, como órgãos governamentais, do
+     Poder Legislativo ou ainda outras partes com função fiscalizadora.
+14) Quando o auditor é obrigado realizar auditorias da execução
+    orçamentária, que pode incluir o exame da regularidade das
+    transações orçamentárias e a comparação entre o real e o
+    orçado. Isso frequentemente envolve estruturas de relatório
+    financeiro específicas ou individuais. Para esse tipo de auditoria,
+    as precondições estabelecidas pelas NBASP de auditoria
+    financeira podem não ser aplicáveis, mas os princípios que elas
+    contêm devem ser aplicados na medida do possível.
+
+AVALIAÇÃO DA ESTRUTURA DE RELATÓRIO FINANCEIRO
+15) A estrutura de relatório financeiro devem ser aplicável às
+    circunstâncias da entidade auditada, notadamente em termos
+    proporcionar uma apresentação adequada dos resultados
+    e da posição financeira, quando apropriado. A estrutura de
+    relatório financeiro aplicável normalmente é prevista em
+    lei, regulamento ou outra norma pertinente. Se não, é uma
+    discricionariedade da administração.
+16) O auditor deve avaliar a aceitabilidade da estrutura de relatório
+    financeiro aplicável. Atualmente, não há uma base objetiva ou
+    mandatória reconhecida globalmente para julgar a aceitabilidade
+    das estruturas de propósito gerais. Na ausência de tal base,
+    presume-se que as normas de relato financeiro estabelecidas
+    por organizações que estão autorizadas ou são reconhecidas a
+    promulgar normas (e.g., IPSAS, IFRS), a serem utilizadas por
+    certos tipos de entidades, são aceitáveis para as demonstrações
+    contábeis de propósito geral elaboradas por tais entidades,
+    desde que as organizações sigam um processo estabelecido
+    e transparente, que envolva a deliberação e a consideração de
+    pontos de vista de uma ampla gama de partes interessadas.
+    Para ser aceitável, uma estrutura de relatório financeiro deve
+    assegurar que a informação fornecida nas demonstrações
+    contábeis tenha valor para os usuários, ou seja, ela deve ser
+    relevante, completa, confiável, objetiva e compreensível.
+17) Se a estrutura não for considerada aceitável, o auditor deve
+    avaliar o efeito sobre as demonstrações contábeis em termos
+    de informação ausente ou o seu impacto nos resultados e na
+    posição financeira.
+  •   quando a escolha da estrutura de relatório for uma
+      discricionariedade da administração, o auditor deve sugerir que
+      a estrutura seja substituída; ou
+  •   quando uma substituição de estrutura não for possível, como
+      quando é o caso de ser prescrita por lei ou regulamento,
+      o auditor deve informar ao auditado sobre as divulgações
+      adicionais necessárias nas demonstrações contábeis, para
+      evitar que elas se tornem enganosas.
+18) O auditor deve, levando em conta a resposta do auditado,
+    determinar o impacto na opinião de auditoria ou considerar a
+    elaboração de um parágrafo de ênfase fazendo referência para
+    a nota explicativa que divulga o impacto da estrutura de relatório
+    financeiro sobre os resultados, ativos e passivos, ou outros
+    aspectos. O auditor pode ainda considerar outras ações, como
+    informar o Poder Legislativo ou se retirar da auditoria, se a ISC
+    puder fazê-lo.
+4
+                                    ELEMENTOS DA AUDITORIA FINANCEIRA
+
+19) Em uma auditoria financeira do setor público, os elementos
+    definidos na NBASP 100 (objeto, auditor, parte responsável,
+    usuários e critérios) podem variar de uma entidade auditada para
+    outra. Os auditores devem identificar explicitamente tais elementos
+    para cada auditoria, bem como analisar suas implicações.
+
+OBJETO DA AUDITORIA FINANCEIRA
+20) O objeto de uma auditoria financeira são os dados contábeis
+    relacionados a uma entidade, normalmente apresentados
+    na forma de demonstrações contábeis (sendo estas últimas
+    conhecidas como informação do objeto).
+
+AS TRÊS PARTES DA AUDITORIA FINANCEIRA
+21) A responsabilidade do auditor é planejar e executar a auditoria
+    de acordo com as normas de auditoria aplicáveis e o mandato da
+    ISC, e comunicar os resultados.
+22) A parte responsável é a responsável pela elaboração da
+    informação do objeto e pelas transações subjacentes.
+23) O “usuário” das demonstrações contábeis no setor público é
+    primariamente o Poder Legislativo, que é o representante dos
+    cidadãos (os usuários finais). O Poder Legislativo responsabiliza
+    o governo pelo uso dos recursos públicos, baseando-
+    se amplamente na informação fornecida pelo governo. A
+    asseguração quanto à confiabilidade da informação, por meio
+    da auditoria financeira é, portanto, uma parte essencial desse
+    processo. Outros usuários podem incluir ministérios, no caso
+    de demonstrações contábeis de entidades do setor público que
+    trabalham em nome destes.
+CRITÉRIOS UTILIZADOS NA AUDITORIA FINANCEIRA
+24) Os critérios são as referências, medidas ou atributos com base
+    nos quais o objeto é mensurado para se chegar a uma conclusão
+    quanto aos objetivos da auditoria. Os critérios utilizados na
+    auditoria de demonstrações contábeis geralmente se baseiam
+    na estrutura de relatório financeiro usada pela parte responsável
+    na sua elaboração.
+
+TRABALHO DE ASSEGURAÇÃO RAZOÁVEL
+25) As auditorias de demonstrações contábeis conduzidas de acordo
+    com as NBASP são trabalhos de asseguração, que visam
+    fornecer asseguração razoável. Asseguração razoável é um alto
+    nível de asseguração, mas não absoluto, o que significa não é
+    uma garantia de que a auditoria irá detectar todos os casos de
+    distorção relevante.
+26) Em geral, as auditorias com asseguração razoável são
+    planejadas para resultar numa conclusão que seja expressa de
+    forma positiva, tal como “em nossa opinião, as demonstrações
+    contábeis apresentam adequadamente, em todos os aspectos
+    relevantes (ou apresentam uma visão verdadeira e justa da) a
+    posição patrimonial e financeira de, o desempenho financeiro de
+    suas operações e os seus fluxos de caixa” ou, no caso de uma
+    estrutura de conformidade, “em nossa opinião, as demonstrações
+    contábeis são elaboradas, em todos os aspectos relevantes, de
+    acordo com”.
+27) Trabalhos de asseguração limitada, tais como os de revisão,
+    não são abrangidos pelas NBASP atuais que tratam de
+    auditoria financeira.
+5
+                                   PRINCÍPIOS DE AUDITORIA FINANCEIRA
+
+28) Os princípios gerais da auditoria do setor público são
+    estabelecidos na NBASP 100 (parágrafos 34 a 43) e em normas sobre ética, controle
+    de qualidade e responsabilidades gerais de um auditor em uma
+    auditoria de demonstrações contábeis. Eles abrangem:
+  •   ética e independência;
+  •   comportamento profissional, devido zelo e ceticismo;
+  •   controle de qualidade;
+  •   gestão de equipes de auditoria e habilidades;
+  •   risco de auditoria;
+  •   materialidade;
+  •   documentação;
+  •   relatório e monitoramento; e
+  •   comunicação.
+29) Os parágrafos seguintes estabelecem os princípios específicos
+    relacionados à auditoria financeira do setor público.
+
+ACORDO SOBRE OS TERMOS DO TRABALHO DE AUDITORIA
+30) Os termos de um trabalho de auditoria no setor público são
+    geralmente definidos pela legislação. O auditor do setor público
+    deve chegar a um entendimento comum com a administração ou
+    com os responsáveis pela governança sobre seus respectivos
+    papéis e responsabilidades para cada trabalho de auditoria,
+    preferencialmente por escrito. Quando um trabalho surge de um
+    pedido da administração, dos responsáveis pela governança ou
+     do Poder Legislativo, então todas as partes devem acordar os
+     termos desse trabalho.
+
+PLANEJAMENTO
+31) O auditor deve planejar a auditoria para assegurar que ela seja
+    conduzida de maneira eficiente e eficaz, determinando o escopo,
+    a época e a abordagem, bem como as etapas práticas a serem
+    seguidas.
+32) Um planejamento detalhado é essencial para uma auditoria
+    eficiente e eficaz. A natureza e a extensão do planejamento
+    necessário dependerão de se tratar da primeira auditoria da
+    entidade ou de uma auditoria recorrente, do tamanho e da
+    complexidade da entidade, bem como da experiência anterior
+    dos membros da equipe com a entidade. O planejamento deve
+    ser atualizado à medida em que o trabalho avança, a fim de
+    levar em conta questões ou eventos inesperados, que afetem a
+    avaliação de riscos ou a implementação de respostas aos riscos
+    de auditoria.
+
+MATERIALIDADE
+33) O auditor deve aplicar o conceito de materialidade em termos
+    quantitativos (pelo valor) e, quando pertinente, em termos
+    qualitativos (pela natureza), ao planejar e executar a auditoria, e
+    ao avaliar os achados e relatar os resultados.
+34) Ao planejar a auditoria, o auditor deve determinar um nível de
+    materialidade global para as demonstrações contábeis como
+    um todo, levando em conta o nível de distorções que poderiam
+    influenciar as decisões dos usuários dessas demonstrações.
+    O auditor deve ainda estabelecer um nível de materialidade,
+    inferior à materialidade global, para a execução do trabalho, a
+    fim de reduzir a um nível aceitável o risco de que, no agregado,
+    as distorções não detectadas e não corrigidas excedam a
+    materialidade global.
+35) Esse nível mais baixo de materialidade (às vezes chamado de
+    materialidade para execução) deve ser usado para ajudar a
+    determinar a natureza, a época e a extensão dos procedimentos
+    de auditoria, e para avaliar os resultados da execução de tais
+    procedimentos. O valor total das distorções não corrigidas
+     nas demonstrações contábeis deve ser comparado com a
+     materialidade global, tendo em conta o seu efeito quantitativo
+     e natureza, ao formar a opinião no relatório do auditor. A
+     materialidade aplicada para o relatório pode precisar ser revisada
+     e comparada com aquela estabelecida para o planejamento,
+     dependendo dos resultados finais da entidade ou de outros
+     fatores.
+
+ENTENDIMENTO DA ENTIDADE AUDITADA
+36) O auditor deve obter um entendimento suficiente da entidade
+    auditada e do ambiente no qual ela opera, da estrutura de relatório
+    financeiro aplicável e do sistema de controle interno da entidade,
+    a fim de identificar e avaliar os riscos de distorção relevante.
+    Um sistema de controle interno de uma entidade envolve cinco
+    componentes: o ambiente de controle, o processo de avalição
+    de riscos da entidade, o processo de monitoramento do sistema
+    de controle interno, o sistema de informação da entidade e as
+    atividades de controle (incluindo controles de TI).
+
+IDENTIFICAÇÃO E AVALIAÇÃO DE RISCOS
+37) A identificação e avaliação do risco de distorção relevante realizadas
+    pelo auditor leva em conta tanto o risco inerente (o risco de que um
+    determinado saldo de conta ou classe de transações esteja sujeito
+    a erros ou distorções) quanto o risco de controle (o risco de que os
+    controles internos não previnam ou detectem e corrijam erros ou
+    distorções).
+38) O auditor deve identificar e avaliar o risco inerente sem levar em
+    conta o efeito de quaisquer controles relacionados, e determinar
+    se quaisquer dos riscos inerentes é significativo. Deve, ainda,
+    avaliar o desenho dos controles relevantes para a auditoria
+    (especialmente em relação aos riscos inerentes significativos) e
+    avaliar se eles estão implementados na prática.
+39) O auditor deve identificar e avaliar os riscos de distorção relevante
+    no nível das demonstrações contábeis como um todo, e no nível
+    das afirmações, a fim de determinar os procedimentos adicionais
+    de auditoria mais apropriados para responder a esses riscos.
+40) Procedimentos de avaliação de riscos ajudam a identificar
+    a natureza e a extensão do trabalho de auditoria que deve
+     ser realizado, porém não fornecem, por si só, evidência de
+     auditoria apropriada e suficiente, que sirva de base para uma
+     opinião de auditoria.
+
+RESPOSTA AOS RISCOS AVALIADOS
+41) O auditor deve obter evidência de auditoria apropriada e
+    suficiente relativamente aos riscos avaliados de distorção
+    relevante, concebendo e implementando respostas adequadas
+    a esses riscos. Quanto maior for o risco, mais extensos tendem
+    a ser os procedimentos de auditoria exigidos, e mais persuasiva
+    deve ser a evidência.
+42) O auditor deve definir e implementar respostas gerais para
+    responder aos riscos de distorção relevante no nível das
+    demonstrações contábeis, bem como procedimentos adicionais
+    de auditoria cuja natureza, época e extensão levem em conta
+    os riscos de distorção relevante no nível das afirmações.
+    Tais procedimentos de auditoria incluem testes de controle e
+    procedimentos substantivos (procedimentos analíticos e/ou
+    testes de detalhes).
+43) Caso os controles sejam eficazes, o auditor deve considerar
+    testá-los. Se o teste demonstrar que os controles estão operando
+    de forma eficaz, isso poderá reduzir a quantidade de testes
+    substantivos necessários para responder ao risco identificado.
+    Os controles devem também ser testados em circunstâncias nas
+    quais os procedimentos substantivos isoladamente não sejam
+    suficientes.
+
+CONSIDERAÇÕES SOBRE FRAUDE
+44) Como parte da identificação e avaliação dos riscos de distorção
+    relevante, o auditor deve considerar se as distorções relevantes
+    podem surgir devido a fraude e, assim, responder de forma
+    apropriada a esses riscos.
+45) A responsabilidade primária pela prevenção e detecção de
+    fraudes é da administração da entidade e dos responsáveis pela
+    governança. O auditor é responsável por fornecer asseguração
+    razoável sobre se as demonstrações contábeis estão livres de
+    distorções relevantes. Distorções relevantes podem surgir de
+    erro ou fraude. Entretanto, a natureza da fraude torna muito
+     difícil a sua identificação pelo auditor, portanto não há garantia
+     de que todas as distorções relevantes causadas por fraude
+     serão identificadas. Dessa forma, o auditor deve considerar
+     quais procedimentos de auditoria devem ser adotados, conforme
+     apropriado, quando o risco de fraude for relevante. O auditor deve
+     considerar levar quaisquer casos de fraude ou suspeita de fraude
+     identificados durante à auditoria às autoridades competentes.
+
+CONSIDERAÇÕES SOBRE CONTINUIDADE OPERACIONAL
+46) O auditor deve considerar e concluir se existem eventos
+    ou condições que representam uma incerteza significativa
+    sobre a intenção e a capacidade de a entidade auditada
+    continuar em operação.
+47) A continuidade operacional de uma entidade auditada é
+    um princípio fundamental com impacto na elaboração das
+    demonstrações contábeis, visto que afeta a base contábil que
+    deve ser usada, principalmente o valor contábil de ativos e
+    passivos.
+48) O auditor deve obter evidência de auditoria apropriada e suficiente
+    para concluir sobre o uso, pela administração, da premissa
+    de continuidade operacional ao elaborar as demonstrações
+    contábeis, e relatar o quando necessário.
+
+CONSIDERAÇÕES DE LEIS E REGULAMENTOS NA AUDITORIA DE
+DEMONSTRAÇÕES CONTÁBEIS
+49) O auditor deve identificar os riscos de distorção relevante devido
+    a não conformidade com leis e regulamentos e responder
+    apropriadamente.
+50) O auditor deve obter evidência de auditoria apropriada e
+    suficiente relativamente à conformidade com as disposições de
+    leis e regulamentos que tenham efeito direto na determinação de
+    valores e divulgações relevantes das demonstrações contábeis.
+    O auditor deve, ainda, realizar procedimentos de auditoria para
+    ajudar a identificar casos de não conformidade com outras leis e
+    regulamentos que indiretamente possam ter um efeito relevante
+    nas demonstrações contábeis.
+51) No setor público, podem existir responsabilidades adicionais de
+    auditoria no que diz respeito à consideração quaisquer leis e
+     regulamentos relacionados com a auditoria de demonstrações
+     contábeis ou outros aspectos das operações da entidade.
+     Nesses casos, o auditor deve distinguir entre o escopo do
+     trabalho de auditoria executado para verificar a conformidade
+     com leis e regulamentos, para fins de emissão de opinião das
+     demonstrações contábeis, e o trabalho executado para verificar
+     outras questões de conformidade, para a necessidade de
+     emissão de opinião e/ou relatório sobre a conformidade.
+52) O auditor deve obter adequado entendimento da estrutura legal e
+    regulamentar aplicável ao ambiente específico no qual a entidade
+    auditada opera, incluindo como ela mantém conformidade com
+    essa estrutura.
+53) As disposições de algumas leis e regulamentos têm um efeito
+    direto nas demonstrações contábeis, pois determinam valores
+    e divulgações a serem nelas relatados. Há outras leis e
+    regulamentos que devem ser cumpridos pela entidade ou que
+    estabelecem as disposições sob as quais a entidade opera, mas
+    estes têm apenas um efeito indireto sobre as demonstrações
+    contábeis.
+
+EVIDÊNCIA DE AUDITORIA
+54) O auditor deve planejar e executar procedimentos de auditoria a
+    fim de obter evidência de auditoria apropriada e suficiente (em
+    termos quantitativos e qualitativos) para formar uma base para
+    as conclusões e a sua opinião de auditoria.
+55) A quantidade de evidência de auditoria necessária para
+    fundamentar a conclusão depende da avaliação do auditor faz
+    dos riscos de distorção e também da qualidade dessa evidência.
+    A qualidade da evidência de auditoria refere-se à sua relevância
+    e confiabilidade. A confiabilidade da evidência é influenciada
+    pela sua fonte, natureza e as circunstâncias em que é obtida.
+AVALIAÇÃO DE DISTORÇÕES
+56) O auditor deve registrar as distorções identificadas durante
+    a auditoria, levando-as à atenção da administração ou aos
+    responsáveis pela governança.
+O auditor deve avaliar se as distorções significam que trabalho adicional
+de auditoria é requerido, bem como seu impacto nas demonstrações
+contábeis caso não sejam corrigidas.
+57) O auditor deve avaliar se as distorções não corrigidas são
+    relevantes, individualmente ou em conjunto, para determinar
+    qual efeito elas podem ter na opinião de auditoria.
+
+FORMAÇÃO DE OPINIÃO E RELATÓRIO DO AUDITOR SOBRE AS
+DEMONSTRAÇÕES CONTÁBEIS
+58) Com base na evidência de auditoria, o auditor deve formar uma
+    opinião sobre se as demonstrações contábeis foram elaboradas
+    de acordo com a estrutura de relatório financeiro aplicável, e se
+    estão livres de distorções relevantes.
+59) Para formar uma opinião, o auditor deve primeiramente concluir
+    se obteve segurança razoável sobre se as demonstrações
+    contábeis como um todo estão livres de distorções relevantes.
+60) O auditor deve expressar uma opinião não modificada caso a
+    evidência de auditoria revele que as demonstrações contábeis
+    foram elaboradas, em todos os aspectos relevantes, de acordo
+    com a estrutura de relatório financeiro aplicável.
+61) Se o auditor concluir que, com base na evidência de auditoria
+    obtida, que as demonstrações contábeis como um todo
+    contêm distorções relevantes, ou caso não seja possível obter
+    evidência de auditoria apropriada e suficiente para concluir se
+    as demonstrações contábeis como um todo estão ou não livres
+    de distorções relevantes, o auditor deve modificar a opinião no
+    relatório do auditor, de acordo com a seção “Modificação de
+    opinião no relatório do auditor”, a seguir.
+62) Adicionalmente à opinião sobre as demonstrações contábeis,
+    o auditor pode ser obrigado por lei ou regulamento a relatar
+    observações e achados que não afetaram a sua opinião, e
+    quaisquer recomendações feitas como resultado deles. Esses
+    elementos devem ser claramente diferenciados da opinião.
+MODIFICAÇÕES DE OPINIÃO NO RELATÓRIO DO AUDITOR
+63) O auditor deve modificar a opinião no relatório do auditor quando
+    concluir, com base na evidência de auditoria obtida, que as
+    demonstrações contábeis como um todo contêm distorções
+    relevantes ou, ainda, se o auditor foi impossibilitado de obter
+    evidência de auditoria apropriada e suficiente para concluir.
+64) Os auditores podem emitir três tipos de opinião modificada:
+  •   opinião com ressalvas – quando o auditor conclui que, ou foi
+      impossibilitado de evidência de auditoria suficiente apropriada,
+      as distorções, individualmente ou no conjunto, são ou poderiam
+      ser, relevantes, mas não são generalizadas.
+  •   opinião adversa – quando o auditor, tendo obtido evidência de
+      auditoria apropriada e suficiente, conclui que as distorções,
+      individualmente ou no conjunto, são relevantes e generalizadas;
+      ou
+  •   abstenção de opinião – quando o auditor não consegue obter
+      evidência de auditoria apropriada e suficiente, devido a uma
+      incerteza ou limitação de escopo, conclui que os efeitos de
+      quaisquer distorções não detectadas podem ser relevantes e
+      generalizados nas demonstrações contábeis.
+65) A decisão sobre qual tipo de opinião modificada é apropriada
+    depende:
+  •   Da natureza do assunto que deu origem à modificação – ou
+      seja, se as demonstrações contábeis apresentam distorções
+      relevantes ou, no caso em que não foi possível obter evidência
+      de auditoria apropriada e suficiente, podem apresentar
+      distorções relevantes; e
+  •   Do julgamento do auditor sobre a disseminação dos efeitos ou
+      possíveis efeitos do assunto nas demonstrações contábeis.
+PARÁGRAFOS DE ÊNFASE E PARÁGRAFOS DE OUTROS ASSUNTOS
+NO RELATÓRIO DO AUDITOR
+66) Se o auditor considera necessário chamar a atenção do usuário
+    para um assunto apresentado ou divulgado nas demonstrações
+    contábeis que é de tal importância que é fundamental para a
+    compreensão das demonstrações, desde que tenha obtido
+    evidência apropriada e suficiente de que não houve distorção
+    relevante sobre o assunto nas demonstrações contábeis, o
+    auditor deve incluir um parágrafo de ênfase no seu relatório.
+67) Se o auditor considera necessário comunicar um assunto, além
+    daqueles apresentados ou divulgados nas demonstrações
+    contábeis, que, no seu julgamento, é relevante para o entendimento
+    dos usuários sobre a auditoria e as responsabilidades do auditor,
+    bem como sobre o seu relatório, o auditor deverá fazê-lo em um
+    parágrafo com o título “Outros assuntos” ou outro título apropriado,
+    contanto que não seja proibido por lei ou regulamento.
+
+CONSIDERAÇÃO DE EVENTOS SUBSEQUENTES
+68) O auditor deve obter evidência de auditoria apropriada e
+    suficiente de que todos os eventos ocorridos entre a data das
+    demonstrações contábeis e a data do relatório do auditor, e que
+    requeiram ajustes ou divulgações nas demonstrações contábeis,
+    foram identificados e devidamente refletidos nas demonstrações
+    contábeis.
+69) O auditor deve também responder apropriadamente aos fatos
+    que se tornaram conhecidos após a data do relatório do auditor e
+    que, se fossem conhecidos naquela data, poderiam tê-lo levado
+    a alterar o seu relatório.
+
+INFORMAÇÕES COMPARATIVAS – VALORES CORRESPONDENTES E DEMONSTRAÇÕES
+CONTÁBEIS COMPARATIVAS
+70) O auditor deve obter evidência de auditoria apropriada e
+    suficiente sobre se qualquer informação comparativa incluída nas
+    demonstrações contábeis foi apresentada, em todos os aspectos
+    relevantes, de acordo com os requisitos para informações
+    comparativas da estrutura de relatório financeiro aplicável e
+    relatar de acordo com as responsabilidades de relatório do
+    auditor.
+71) Informações comparativas compreendem valores e outras
+    divulgações incluídas nas demonstrações contábeis referentes
+    a um ou mais períodos anteriores. Valores correspondentes são
+    valores e outras divulgações do período anterior são parte
+    integrante das demonstrações contábeis do período corrente.
+    Demonstrações contábeis comparativas são informações onde os
+    valores e outras divulgações do período anterior estão incluídas
+    para fins de comparação com as demonstrações contábeis do
+    período corrente, com o mesmo nível da informação do período
+    corrente.
+72) O auditor deve avaliar se a informação comparativa corresponde
+    aos valores e outras divulgações apresentadas no período
+    anterior ou, quando apropriado, se estes foram retificados. O
+    auditor deve, também, avaliar se as políticas contábeis refletidas
+    nas informações comparativas são consistentes com aquelas
+    aplicadas no período corrente ou, no caso de mudanças nas
+    políticas contábeis, se tais mudanças foram devidamente
+    contabilizadas e adequadamente apresentadas e divulgadas.
+73) Para os valores correspondentes, a opinião do auditor sobre as
+    demonstrações contábeis refere-se apenas ao período corrente.
+    Para demonstrações contábeis comparativas, a opinião do
+    auditor refere-se a cada período para o qual as demonstrações
+    contábeis são apresentadas.
+
+AS RESPONSABILIDADES DO AUDITOR EM RELAÇÃO A OUTRAS INFORMAÇÕES EM
+DOCUMENTOS QUE CONTENHAM DEMONSTRAÇÕES CONTÁBEIS AUDITADAS
+74) O auditor deve ler todas as outras informações constantes do
+    relatório anual da entidade e considerar se existem quaisquer
+    inconsistências relevantes ou distorções relevantes de fatos em
+    relação às demonstrações contábeis ou com o conhecimento
+    obtido pelo auditor durante a auditoria. Se, ao considerar as
+    outras informações, o auditor identificar inconsistência ou
+    distorção relevante dos fatos, o auditor deve determinar se as
+    demonstrações contábeis auditadas ou as outras informações
+    precisam ser revisadas.
+75) Outras informações referem-se a informações financeiras ou
+    não-financeiras (que não sejam as demonstrações contábeis
+    ou o relatório do auditor sobre elas) incluídas no relatório anual
+     da entidade. Geralmente essas informações correspondem a
+     um documento, ou um conjunto de documentos, preparado
+     tipicamente de forma anual pela administração ou pelos
+     responsáveis pela governança, de acordo com lei, regulamento
+     ou costume, cujo propósito é fornecer informações às partes
+     interessadas sobre as operações da entidade, sobre os seus
+     resultados financeiros e a sua posição financeira, conforme
+     disposto nas demonstrações contábeis.
+76) No caso de inconsistência relevante, a ação que o auditor pode
+    tomar pode incluir modificar a sua opinião, reter o seu relatório,
+    retirar-se do trabalho de auditoria (nos raros casos nos quais isso
+    é possível no âmbito do setor público), notificar os responsáveis
+    pela governança ou incluindo um parágrafo de Outros Assuntos
+    no relatório do auditor.
+77) Caso o auditor identifique uma inconsistência relevante que
+    a administração da entidade auditada se recuse a corrigir, o
+    auditor deve notificar os responsáveis pela governança. Além
+    dos responsáveis pela governança, os auditores também podem
+    ser requisitados a notificar, ou decidirem eles mesmos fazê-lo,
+    outras partes, como o Poder Legislativo, por exemplo.
+
+CONSIDERAÇÕES RELEVANTES PARA AUDITORIAS DE
+DEMONSTRAÇÕES CONTÁBEIS CONSOLIDADAS
+78) Os auditores incumbidos de auditar demonstrações contábeis
+    consolidadas devem obter evidência de auditoria apropriada e
+    suficiente sobre a confiabilidade da informação financeira dos
+    componentes e do processo de consolidação, a fim de expressar
+    uma opinião sobre se as demonstrações contábeis consolidadas
+    foram elaboradas, em todos os aspectos relevantes, de acordo a
+    estrutura de relatório financeiro aplicável.
+79) Esses princípios aplicam-se a todas as auditorias de demonstrações
+    contábeis consolidadas do setor público. Nas situações em que
+    o auditor estiver incumbido de auditar demonstrações contábeis
+    consolidadas, requisitos e considerações específicos podem
+    ser aplicáveis, incluindo assegurar a qualidade do trabalho dos
+    auditores de componentes.

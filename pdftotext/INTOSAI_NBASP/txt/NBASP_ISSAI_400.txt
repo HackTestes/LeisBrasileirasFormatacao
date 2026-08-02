@@ -1,0 +1,885 @@
+Normas Brasileiras de Auditoria do Setor Público (NBASP) - ISSAI 400 - Princípios de auditoria de conformidade
+
+                               NBASP 400 – PRINCÍPIOS DE AUDITORIA DE
+                                                       CONFORMIDADE
+
+
+NOTAS INTRODUTÓRIAS DO INSTITUTO RUI BARBOSA
+1)    As Normas de Auditoria do Setor Público (NBASP) são uma
+      iniciativa do Instituto Rui Barbosa (IRB) que tem por objetivo
+      alinhar os trabalhos de fiscalização dos Tribunais de Contas
+      brasileiros a um padrão metodológico internacionalmente aceito:
+      os pronunciamentos profissionais da Organização Internacional
+      das Instituições Superiores de Controle (INTOSAI). Nesta
+      oportunidade, o IRB apresenta a NBASP 400- Princípios de
+      Auditoria de Conformidade, que é a tradução realizada pelo
+      Tribunal de Contas da União para o português da ISSAI 400-
+      Compliance Auditing Principles, que foi incorporada à estrutura
+      das NBASP em 2017.
+2)    De acordo com a Resolução IRB nº 03/2020, as NBASP estão
+      organizadas em três grupos:
+     a) Grupo 1 – Princípios institucionais: correspondem
+        aos INTOSAI-P da nova Estrutura de Pronunciamentos
+        Profissionais da INTOSAI (IFPP), são as normas com os
+        princípios fundantes e basilares desta organização e que se
+        aplicam à estruturação das entidades fiscalizadoras, em geral,
+        e dos Tribunais de Contas, em particular;
+     b) Grupo 2 – Princípios e requisitos aplicáveis às atividades
+        de controle: correspondem às ISSAI da nova IFPP, são
+        as normas com os princípios e requisitos mandatórios que
+        obrigatoriamente devem ser observados no planejamento e
+        na execução das diversas ações de controle e na elaboração
+        dos respectivos relatórios (e eventual monitoramento das
+        recomendações) pelos Tribunais de Contas;
+     c) Grupo 3 – Orientações aplicáveis às atividades de controle:
+        correspondem às GUID da nova IFPP, são as normas com
+        orientações, baseadas e hierarquicamente subordinadas aos
+        princípios e aos requisitos das normas do grupo 2, que podem
+        ser observadas no planejamento e na execução das diversas
+        ações de controle e na elaboração de seus respectivos
+       relatórios (e eventual monitoramento das recomendações)
+       pelos Tribunais de Contas, quando apropriado.
+3)   Dentro desta organização, a NBASP 400- Princípios de Auditoria
+     de Conformidade, situa-se no grupo 2, subgrupo 400-499
+     (princípios de auditoria de conformidade). Deste modo,
+     ela traz os princípios que devem ser observados para a
+     realização de auditorias de conformidade. Estes princípios
+     são adaptações dos princípios da NBASP 100- Princípios
+     Fundamentais de Auditoria do Setor Público para a condução
+     de auditorias de conformidade e se transformam em requisitos
+     mandatórios (grupo 2, subgrupo 4000-4899: Normas de auditoria
+     de conformidade) e orientações (grupo 3, subgrupo 4900-4999:
+     Orientações suplementares para auditoria de conformidade)
+     para a realização de trabalhos deste tipo.
+4)   A definição de auditoria de conformidade é dada no parágrafo
+     12 da NBASP 400, no qual se lê que “a auditoria de conformidade
+     é a avaliação independente para determinar se um dado objeto
+     está em conformidade com normas aplicáveis como critérios”.
+     Se uma ação de controle tem um objetivo que se encaixa
+     nesta definição, então deve-se observar obrigatoriamente os
+     princípios da NBASP 100- Princípios Fundamentais de Auditoria
+     do Setor Público e da NBASP 400- Princípios de Auditoria de
+     Conformidade.
+5)   As formas de observação dos princípios das normas acima
+     mencionadas variam de acordo com as características do objeto
+     que será analisado e os recursos (físicos, de força de trabalho
+     e de tempo) disponíveis. A sua observância pode ser explicitada
+     nos relatórios das ações de controle nos termos do parágrafo 9
+     da NBASP 400.
+6)   O idioma original desta norma é o inglês. Assim, há termos e
+     expressões no idioma original com um determinado significado
+     que, por melhor que seja a tradução, podem levar a conclusões
+     equivocadas se forem tomadas literalmente, em razão de
+     diferentes contextos institucionais. Recomenda-se que, havendo
+     dúvidas quanto à interpretação de algum trecho da norma,
+     recorra-se ao original em inglês.
+7)   A norma faz menção às Instituições Superiores de Controle
+     (ISC), denominação genérica que a INTOSAI utiliza para todas as
+suas organizações filiadas, que têm os mais diversos mandatos
+e responsabilidades atribuídas em cada contexto nacional. No
+entanto, a aplicabilidade dos seus pronunciamentos profissionais
+não é extensiva apenas às suas ISC afiliadas (no Brasil, o Tribunal
+de Contas da União), mas sim a todas as entidades cuja missão
+seja o controle externo da administração pública, o que inclui
+os Tribunais de Contas estaduais e municipais.
+1
+                                                                INTRODUÇÃO
+
+1)   Normas e orientações profissionais são essenciais para a
+     credibilidade, a qualidade e o profissionalismo da auditoria
+     do setor público. As Normas Internacionais das Instituições
+     Superiores de Controle (ISSAI), desenvolvidas pela Organização
+     Internacional das Instituições Superiores de Controle (INTOSAI),
+     visam promover auditorias independentes e eficazes e apoiar
+     os membros da INTOSAI no desenvolvimento de suas próprias
+     abordagens profissionais, de acordo com seus mandatos e com
+     leis e regulamentos nacionais.
+2)   A “ISSAI 100 – Princípios Fundamentais de Auditoria do Setor
+     Público” apresenta os princípios fundamentais para a auditoria
+     no setor público em geral e define a aplicabilidade das ISSAI. A
+     “ISSAI 400 – Princípios de Auditoria de Conformidade” baseia-
+     se nos princípios fundamentais da ISSAI 100 e adicionalmente
+     os desenvolve visando adequá-los para o contexto específico da
+     auditoria de conformidade. A ISSAI 400 deve ser lida e compreendida
+     em conjunto com a ISSAI 100, que também se aplica às auditorias de
+     conformidade.
+3)   A ISSAI 400, portanto, constitui a base para normas de auditorias
+     de conformidade de acordo com as ISSAI. Esse documento
+     fornece informações detalhadas sobre:
+      *o propósito e a aplicabilidade das ISSAI em auditorias de conformidade;
+      *o marco referencial da auditoria de conformidade e as diferentes
+      maneiras em que as auditorias são realizadas;
+      *os elementos da auditoria de conformidade;
+      *os princípios da auditoria de conformidade.
+2
+                       PROPÓSITO E APLICABILIDADE DOS PRINCÍPIOS DE
+                                        AUDITORIA DE CONFORMIDADE
+
+4)   O propósito das ISSAI sobre auditorias de conformidade é
+     fornecer um conjunto abrangente de princípios, normas e diretrizes
+     para a auditoria de conformidade de um objeto de auditoria,
+     tanto qualitativo como quantitativo, que varia amplamente em
+     termos de escopo e pode ser aplicado mediante de uma série de
+     abordagens de auditoria e formatos de relatórios.
+5)   A ISSAI 400 fornece às ISC uma base para a adoção ou
+     o desenvolvimento de normas e diretrizes de auditoria de
+     conformidade. Os princípios da ISSAI 400 podem ser usados de
+     três formas:
+      *como base para o desenvolvimento de normas próprias;
+      *como base para a adoção de normas nacionais consistentes com
+      esses princípios;
+      *como base para a adoção das ISSAI como as normas aplicáveis a
+      auditorias de conformidade.
+6)   As ISC somente devem fazer referência aos Princípios de
+     Auditoria de Conformidade nos relatórios de auditoria – seja no
+     relatório do auditor ou em outros formatos de comunicação –
+     se as normas que tenham desenvolvido ou adotado cumprirem
+     integralmente todos os princípios relevantes da ISSAI 400.
+     Esses princípios de maneira nenhuma se sobrepõem às leis, aos
+     regulamentos ou mandatos.
+7)   Como as Normas de Auditoria de Conformidade (ISSAI 4000-
+     4899) foram desenvolvidas para refletirem as melhores práticas,
+     as ISC são encorajadas a se esforçar para adotá-las na íntegra
+     como suas normas oficiais. A INTOSAI reconhece que, em alguns
+     ambientes, isso talvez não seja possível devido à ausência de
+     estruturas administrativas básicas ou porque leis ou regulamentos
+     não estabelecem as premissas para a realização de auditorias de
+     acordo com as Normas de Auditoria de Conformidade. Quando
+     esse for o caso, as ISC têm a opção de desenvolver normas
+     baseadas nos Princípios de Auditoria de Conformidade ou adotar
+     normas nacionais consistentes com eles.
+8)   Quando as normas de auditoria de uma ISC são baseadas ou
+     consistentes com os Princípios Fundamentais de Auditoria
+     da INTOSAI, estes podem ser referenciados nos relatórios de
+     auditoria declarando-se:
+
+      [...] Conduzimos nossa auditoria em conformidade com [normas],
+      que são baseadas em [ou consistentes com] a “ISSAI 100- Princípios
+      Fundamentais de Auditoria (ISSAI 100)” e a “ISSAI 400 - Princípios de
+      Auditoria de Conformidade” das Normas Internacionais das Instituições
+      Superiores de Controle.
+
+9)   Em algumas jurisdições, as ISC podem decidir adotar as
+     Diretrizes de Auditoria de Conformidade como normas oficiais
+     para seu trabalho. Nesse caso, a referência pode ser feita desta
+     forma:
+
+      [...] Conduzimos nossa(s) auditoria(s) (de conformidade) em acordo
+      com as Normas Internacionais das Entidades Fiscalizadores
+      Superiores [sobre auditorias de conformidade].
+
+A referência pode ser incluída no relatório de auditoria ou comunicada
+pela ISC de uma forma mais geral, abrangendo uma gama definida
+de trabalhos.
+Dependendo de seu mandato, as ISC podem conduzir auditorias
+combinadas incorporando aspectos financeiros, operacionais e de
+conformidade. Nesses casos, as normas adequadas para cada tipo de
+auditoria devem ser obedecidas. A declaração das normas aplicadas
+na auditoria (parágrafo 8 ou 9, acima) pode necessitar ajuste em
+acordo com a ISSAI 100, parágrafo 9 ou 10.
+10) A “ISSAI 100 – Princípios Fundamentais de Auditoria no Setor
+    Público” fornece maiores informações sobre as exigências
+    relacionadas aos Princípios Fundamentais da INTOSAI.
+11) Quando as ISSAI são usadas como normas oficiais para
+    auditorias de conformidade conduzidas em conjunto com uma
+    auditoria de demonstrações financeiras, os auditores do setor
+    público devem respeitar as exigências tanto das Normas de
+    Auditoria de Conformidade (ISSAI 4000-4899) como das Normas
+    de Auditoria Financeira (ISSAI 1000-2999).
+3
+                                 MARCO REFERENCIAL PARA AUDITORIA DE
+                                                      CONFORMIDADE
+
+
+O OBJETIVO DA AUDITORIA DE CONFORMIDADE
+12) A auditoria de conformidade é a avaliação independente para
+    determinar se um dado objeto está em conformidade com
+    normas (Ver parágrafos 28-29 sobre o conceito de “normas”) aplicáveis identificadas como critérios. As auditorias
+    de conformidade são realizadas para avaliar se atividades,
+    transações financeiras e informações cumprem, em todos os
+    aspectos relevantes, as normas que regem a entidade auditada.
+13) O objetivo da auditoria de conformidade do setor público, portanto,
+    é permitir que as ISC avaliem se as atividades das entidades do
+    setor público estão de acordo com as normas que as regem.
+    Isso envolve relatar o grau em que a entidade auditada cumpre
+    com os critérios estabelecidos. O relatório pode variar entre
+    breves opiniões padronizadas e vários formatos de conclusões,
+    apresentadas de forma curta ou de forma longa. A auditoria de
+    conformidade pode ser relacionada com a legalidade (Nota de tradução do IRB: tradução adotada para “regularity”) (aderência
+    a critérios formais tais como leis, regulamentos e acordos
+    aplicáveis) ou com a legitimidade ( tradução adotada para o termo “propriety”, no sentido do que é apropriado com base em princípios superiores do direito, da boa gestão e da ética, não necessariamente codificados em lei, e que atende ao interesse público, o bem comum.) (observância aos princípios
+    gerais que regem a gestão financeira responsável e a conduta
+    de agentes públicos). Enquanto a legalidade é o foco principal
+    da auditoria de conformidade, a legitimidade pode também ser
+    pertinente dado o contexto do setor público, no qual existem
+    certas expectativas relacionadas à gestão financeira e à conduta
+     dos agentes públicos. Dependendo do mandato da ISC, o escopo
+     da auditoria pode, portanto, incluir aspectos de legitimidade (Ver parágrafo 32).
+14) A auditoria de conformidade pode também levar as ISC com
+    poderes jurisdicionais a proferir julgamentos e aplicar sanções
+    aos responsáveis pela gestão de recursos públicos. Algumas
+    ISC são obrigadas a encaminhar os fatos passíveis de processo
+    criminal às autoridades judiciais. Nesse contexto, o objetivo da
+    auditoria de conformidade pode ser estendido e o auditor deve
+    levar em consideração os requisitos específicos relevantes ao
+    definir a estratégia e o planejamento da auditoria, e ao longo de
+    todo o processo de auditoria.
+
+CARACTERÍSTICAS DA AUDITORIA DE CONFORMIDADE
+15) A auditoria de conformidade pode cobrir uma ampla variedade de
+    objetos e pode ser realizada para fornecer asseguração razoável
+    ou limitada, utilizando diversos tipos de critérios, procedimentos
+    de obtenção de evidências e formatos de relatório. As auditorias de
+    conformidade podem ser trabalhos de certificação ou de relatório
+    direto, ou ambos ao mesmo tempo. O relatório de auditoria pode
+    ser apresentado em forma longa ou curta e as conclusões podem
+    ser expressas de várias formas: como uma declaração escrita,
+    simples e clara, de opinião sobre a conformidade, ou como uma
+    resposta mais elaborada a questões específicas de auditoria.
+16) A auditoria de conformidade é frequentemente parte integrante
+    do mandato de uma ISC para a auditoria de entidades do setor
+    público. Isso ocorre porque a legislação e outras normas são
+    o principal meio pelo qual o poder legislativo exerce o controle
+    das receitas e despesas, da gestão e dos direitos dos cidadãos
+    ao devido processo nas suas relações com o setor público. Às
+    entidades do setor público é confiada a boa gestão dos recursos
+    públicos. É responsabilidade dos órgãos públicos e de seus
+    servidores nomeados ser transparente quanto a suas ações e
+    responsável perante os cidadãos pelos recursos que lhes são
+    confiados, e exercer a boa governança desses recursos.
+17) A auditoria de conformidade promove a transparência ao fornece
+    relatórios confiáveis sobre se os recursos foram administrados,
+    a gestão exercida e os direitos dos cidadãos ao devido processo
+     atendidos, conforme exigido pelas normas aplicáveis. Promove a
+     accountability ao reportar desvios e violações a normas, de modo
+     que ações corretivas possam ser tomadas e os responsáveis
+     possam ser responsabilizados por suas ações. Promove a boa
+     governança tanto ao identificar fragilidades e desvios de leis e
+     regulamentos como ao avaliar a legitimidade onde há insuficiência
+     ou inadequação de leis e regulamentos. Fraude e corrupção são,
+     pela própria natureza, elementos que contrariam a transparência, a
+     accountability e a boa gestão. Auditoria de conformidade, portanto,
+     promove a boa governança no setor público ao considerar o risco
+     de fraude relacionado à conformidade.
+18) Dependendo da estrutura organizacional do setor público e
+    do mandato da ISC, a auditoria de conformidade pode cobrir
+    todos os níveis de governo: central, regional e local. Auditorias
+    de conformidade em entidades privadas também são possíveis,
+    focando, do lado da receita, sobre os contribuintes, e do lado das
+    despesas, sobre aqueles que estão envolvidos na gestão de bens
+    ou serviços públicos, por exemplo, por meio de acordos de parceria
+    ou como beneficiários de subvenções ou subsídios públicos.
+19) Em certos países, a ISC é um tribunal, composto por julgadores,
+    com autoridade sobre os contabilistas do Estado e outros agentes
+    públicos que lhe devem prestar contas. Essa função jurisdicional
+    requer que a ISC garanta que quem quer que seja responsável
+    pela governança sobre recursos públicos responda por eles
+    e, nesse sentido, esteja sujeito à sua jurisdição. Existe uma
+    importante relação de complementaridade entre essa autoridade
+    jurisdicional e as características da auditoria de conformidade. Isso
+    pode implicar requisitos adicionais para os auditores que operam
+    em um ambiente com papel jurisdicional, como um Tribunal de
+    Contas.
+
+AS DIFERENTES PERSPECTIVAS DA AUDITORIA DE CONFORMIDADE
+20) A auditoria de conformidade pode ser parte de uma auditoria
+    combinada que pode também incluir outros aspectos. Apesar
+    de existirem outras possibilidades, a auditoria de conformidade
+    geralmente é conduzida de um ou outro modo a seguir:
+      *relacionada à auditoria de demonstrações financeiras, ou
+      *separadamente, ou
+      *em combinação com a auditoria operacional.
+AUDITORIA DE CONFORMIDADE RELACIONADA À AUDITORIA DE DEMONSTRAÇÕES
+FINANCEIRAS
+21) O poder legislativo, como um elemento do processo democrático
+    público, estabelece as prioridades para receita e despesa
+    do setor público e para o cálculo e a dotação de despesas e
+    receitas. As premissas subjacentes dos órgãos legislativos, e as
+    decisões que tomam, são a fonte das normas que regulam o fluxo
+    de caixa do setor público. A conformidade com essas normas
+    constitui uma perspectiva mais ampla, ao lado da auditoria de
+    demonstrações financeiras da execução orçamentária.
+22) A auditoria de conformidade com normas pertinentes é em
+    geral uma parte importante do mandato de uma ISC, na qual é
+    combinada com a auditoria de demonstrações financeiras como
+    parte do relatório sobre a execução dos orçamentos públicos.
+23) Leis e regulamentos são importantes tanto na auditoria de
+    conformidade quanto na auditoria de demonstrações financeiras.
+    As leis e regulamentos aplicáveis em cada campo dependerão
+    do objetivo da auditoria. A auditoria de conformidade é a
+    avaliação independente para determinar se um dado objeto
+    está em conformidade com as normas aplicáveis identificadas
+    como critérios; centra-se na obtenção de evidência suficiente
+    e apropriada relacionada à conformidade com esses critérios.
+    A auditoria de demonstrações financeiras busca determinar se
+    as demonstrações financeiras da entidade em questão foram
+    elaboradas em conformidade com uma estrutura de relatório
+    financeiro aceitável, bem como obter evidência de auditoria
+    suficiente e apropriada relacionada às leis e regulamentos que têm
+    um efeito direto e relevante sobre as demonstrações financeiras (Ver ISSAI 2250).
+    Enquanto nas auditorias de demonstrações financeiras somente
+    aquelas leis e regulamentos que tenham um efeito direto e
+    relevante sobre essas demonstrações são relevantes, na auditoria
+    de conformidade quaisquer leis e regulamentos pertinentes ao
+    objeto podem ser relevantes para a auditoria.
+24) (Esse parágrafo foi removido).
+AUDITORIA DE CONFORMIDADE CONDUZIDA SEPARADAMENTE
+25) As auditorias de conformidade podem também ser planejadas,
+    realizadas e relatadas separadamente das auditorias de
+    demonstrações financeiras e das auditorias operacionais. As
+    auditorias de conformidade podem ser realizadas separadamente,
+    de maneira regular ou ad hoc, como auditorias distintas e
+    claramente definidas, relacionada a um objeto específico.
+
+AUDITORIA DE CONFORMIDADE COMBINADA COM AUDITORIA OPERACIONAL
+26) Quando a auditoria de conformidade é parte de uma auditoria
+    operacional, a conformidade é vista como um dos aspectos de
+    economicidade, eficiência e efetividade (Ver ISSAI 2250). A não conformidade
+    pode ser a causa de, ou uma explicação para, ou ainda uma
+    consequência do estado das atividades que constituem o objeto
+    da auditoria operacional. Nesse tipo de auditoria combinada, os
+    auditores devem usar seu julgamento profissional para decidir se
+    o foco principal da auditoria é o desempenho ou a conformidade,
+    e se devem aplicar as ISSAI sobre auditoria operacional, de
+    conformidade, ou ambas.
+
+
+
+
+7    Nota do Instituto Rui Barbosa: Tradução de effectiveness. Esse termo em inglês
+    abrange dois conceitos diferentes na língua portuguesa: efetividade (conceito re-
+    lacionado aos efeitos de uma ação) e eficácia (conceito relacionado ao grau de
+    alcance das metas programadas).
+4
+                            ELEMENTOS DA AUDITORIA DE CONFORMIDADE
+
+27) Os elementos de auditoria do setor público são descritos na
+    ISSAI 100. Essa seção descreve aspectos adicionais dos
+    elementos relacionados à auditoria de conformidade, que devem
+    ser identificados pelo auditor, antes de iniciar a auditoria.
+
+NORMAS E CRITÉRIOS
+28) Normas são os elementos mais fundamentais da auditoria
+    de conformidade, uma vez que a estrutura e o conteúdo das
+    normas fornecem os critérios de auditoria e, portanto, formam
+    a base de como a auditoria deve proceder sob um ordenamento
+    constitucional específico.
+29) As normas podem incluir regras, leis e regulamentos, resoluções
+    orçamentárias, políticas, códigos estabelecidos, termos
+    acordados ou os princípios gerais que regem a gestão financeira
+    responsável do setor público e a conduta de agentes públicos.
+    A maioria das normas têm origem nas premissas básicas e
+    decisões do poder legislativo nacional, mas podem ser emitidas
+    em um nível inferior da estrutura organizacional do setor público.
+30) Por causa da variedade de possíveis normas, elas podem ter
+    disposições mutuamente conflitantes e estar sujeitas a diferentes
+    interpretações. Além disso, normas subordinadas podem não
+    ser consistentes com os requisitos ou limites permitidos pela
+    legislação, e pode haver lacunas legislativas. Como resultado,
+    para avaliar a conformidade com normas no setor público, é
+    necessário ter conhecimento suficiente da estrutura e do conteúdo
+    dessas normas. Isso é de particular importância quando se trata
+    de identificar os critérios de auditoria, pois as fontes dos critérios
+    podem, em si, influir na auditoria, tanto na determinação do
+    escopo, quanto no desenvolvimento dos achados de auditoria.
+31) Os critérios são as referências usadas para avaliar ou mensurar
+    consistentemente e razoavelmente o objeto. O auditor identifica
+    os critérios com base nas normas pertinentes. Para serem
+    adequados, os critérios de auditoria de conformidade devem ser
+    relevantes, confiáveis, completos, objetivos, compreensíveis,
+    comparáveis, aceitáveis e disponíveis. Sem um quadro de
+    referência fornecido por critérios adequados, qualquer conclusão
+    fica sujeita a interpretações pessoais e a mal-entendidos.
+32) A auditoria de conformidade geralmente abrange a avaliação
+    da conformidade com critérios formais, tais como a legislação
+    autorizativa, os regulamentos emitidos ao abrigo desta e de
+    outras leis, os regulamentos e acordos pertinentes, incluindo
+    leis orçamentárias (legalidade). Quando inexistirem critérios
+    formais ou existirem deficiências óbvias na legislação no que
+    diz respeito à sua aplicação, as auditorias podem também
+    examinar a conformidade com os princípios gerais que regem a
+    gestão financeira responsável e a conduta de agentes públicos
+    (legitimidade). Critérios adequados são necessários tanto
+    em auditorias com foco na legalidade quanto naquelas com
+    foco em legitimidade. Critérios adequados para uma auditoria
+    de conformidade com foco em legitimidade podem ser tanto
+    princípios geralmente aceitos ou melhores práticas nacionais
+    ou internacionais. Em alguns casos eles podem não estar
+    codificados, estar implícitos ou ser baseados em princípios
+    superiores de direito.
+
+OBJETO
+33) O objeto de uma auditoria de conformidade é definido no escopo
+    da auditoria. Pode assumir a forma de atividades, transações
+    financeiras ou informações. Em trabalhos de certificação sobre
+    conformidade, é mais importante identificar a informação do objeto,
+    que pode ser uma declaração de conformidade preparada de
+    acordo com uma estrutura de relatório estabelecida e padronizada.
+34) O objeto depende do mandato da ISC, das normas pertinentes
+    e do escopo da auditoria. Por isso, o conteúdo e o escopo do
+    objeto da auditoria de conformidade podem variar bastante. O
+    objeto de uma auditoria pode ser geral ou específico. Alguns
+    tipos de objeto são quantitativos e, muitas vezes, facilmente
+    mensuráveis (por exemplo, pagamentos que não satisfazem
+     certas condições), enquanto outros são qualitativos e mais
+     subjetivos por natureza (por exemplo, o comportamento ou a
+     aderência a requisitos processuais).
+
+AS TRÊS PARTES NA AUDITORIA DE CONFORMIDADE
+35) A auditoria de conformidade é baseada em uma relação de três
+    partes, na qual o auditor tem como objetivo obter evidência
+    de auditoria apropriada e suficiente, a fim de expressar uma
+    conclusão com a finalidade de aumentar o grau de confiança
+    dos usuários previstos, que não seja a parte responsável,
+    acerca da mensuração ou avaliação de um objeto de acordo
+    com critérios aplicáveis.
+36) Na auditoria de conformidade, a responsabilidade do auditor é
+    identificar os elementos da auditoria, avaliar se um determinado
+    objeto está em conformidade com os critérios aplicáveis e emitir
+    um relatório de auditoria de conformidade.
+37) A parte responsável é o poder executivo do governo e/ou
+    sua hierarquia subjacente de agentes públicos e entidades
+    responsáveis pela gestão de recursos públicos e pelo exercício
+    de autoridade, sob o controle do poder legislativo. A parte
+    responsável na auditoria de conformidade é responsável pelo
+    objeto da auditoria.
+38) Os usuários previstos são pessoas, organizações ou grupos
+    destas, para quem o auditor elabora o relatório de auditoria.
+    Na auditoria de conformidade, os usuários geralmente incluem
+    o poder legislativo, como representantes do povo, que são os
+    usuários finais dos relatórios de auditorias de conformidade.
+    O poder legislativo toma decisões e estabelece prioridades
+    relacionadas ao cálculo e propósito de despesas e receitas do
+    setor público. O usuário primário em auditorias de conformidade
+    é, frequentemente, a entidade que emitiu as normas identificadas
+    como critérios de auditoria.
+39) A relação entre as três partes deve ser vista no contexto de cada
+    auditoria e pode ser diferente em trabalhos de relatório direto
+    em comparação com trabalhos de certificação. A definição das
+    três partes também pode variar de acordo com as entidades do
+    setor público envolvidas.
+ASSEGURAÇÃO NA AUDITORIA DE CONFORMIDADE
+40) Um auditor executa procedimentos para reduzir ou administrar
+    o risco de fornecer conclusões incorretas, reconhecendo que,
+    devido a limitações inerentes a todas as auditorias, nenhuma
+    delas pode jamais fornecer garantia absoluta quanto à condição do
+    objeto. Isso deve ser comunicado de uma maneira transparente.
+    Na maioria dos casos, uma auditoria de conformidade não
+    cobrirá todos os elementos do objeto, mas se apoiará em algum
+    grau de amostragem qualitativa ou quantitativa.
+41) Auditoria de conformidade realizada para obtenção asseguração
+    aumenta a confiança dos usuários previstos quanto à informação
+    fornecida pelo auditor ou por outra parte.
+Na auditoria de conformidade, existem dois níveis de asseguração:
+asseguração razoável, transmitindo que, na opinião do auditor, o objeto
+está ou não em conformidade, em todos os aspectos relevantes, com
+os critérios estabelecidos; e asseguração limitada, transmitindo que
+nada veio ao conhecimento do auditor para fazê-lo acreditar que o
+objeto não está em conformidade com os critérios. Tanto asseguração
+razoável quanto limitada são possíveis nos trabalhos de relatório
+direto e nos de certificação em auditoria de conformidade.
+5
+                           PRINCÍPIOS DA AUDITORIA DE CONFORMIDADE
+
+42) Uma auditoria de conformidade é um processo sistemático de
+    obter e avaliar objetivamente evidência sobre se um dado objeto
+    está em conformidade com as normas aplicáveis identificadas
+    como critérios. Os princípios a seguir são fundamentais para
+    a condução de uma auditoria de conformidade. A natureza
+    da auditoria é iterativa e cumulativa, no entanto, para fins de
+    apresentação, esta seção está dividida em princípios que
+    o auditor deve considerar antes do início e em mais de um
+    momento durante o processo de auditoria (princípios gerais), e
+    aqueles relacionados a etapas do processo de auditoria em si.
+
+PRINCÍPIOS GERAIS
+Julgamento e ceticismo profissionais
+43) Os auditores devem planejar e conduzir a auditoria com
+    ceticismo profissional e exercer julgamento profissional
+    durante todo o processo de auditoria.
+Os termos “ceticismo profissional” e “julgamento profissional” são
+relevantes na formulação de requisitos relacionados às decisões do
+auditor sobre o curso de ação apropriado. Eles expressam a atitude
+do auditor, que deve incluir uma mente questionadora.
+O auditor deve aplicar julgamento profissional em todos os estágios do
+processo de auditoria. O conceito refere-se à aplicação de treinamento,
+conhecimento e experiência aplicáveis, dentro do contexto fornecido
+pelas normas de auditoria, de modo que decisões informadas sobre
+os cursos de ação apropriados possam ser tomadas, dadas as
+circunstâncias da auditoria.
+O conceito de ceticismo profissional é fundamental para todas
+as auditorias. O auditor deve planejar e conduzir a auditoria com
+uma atitude de ceticismo profissional, reconhecendo que certas
+circunstâncias podem levar o objeto a divergir dos critérios. Uma
+atitude de ceticismo profissional significa que o auditor fará uma
+avaliação crítica, com uma mente questionadora, sobre a suficiência
+e adequação da evidência obtida durante toda a auditoria.
+Julgamento e ceticismo profissionais são usados durante todo o
+processo de auditoria de conformidade para avaliar os elementos da
+auditoria, o objeto, a adequação dos critérios, o escopo da auditoria,
+o risco, a materialidade e os procedimentos de auditoria a serem
+usados em reposta aos riscos definidos. Os dois conceitos são também
+utilizados na avaliação da evidência e dos casos de não conformidade,
+no relatório e na determinação da forma, conteúdo e frequência da
+comunicação durante toda a auditoria. São requisitos específicos
+para manter o julgamento e o ceticismo profissionais na auditoria
+deconformidade a habilidade para analisar a estrutura e o conteúdo
+de normas públicas como base para identificar critérios adequados
+ou lacunas na legislação, no caso de leis e regulamentos serem
+inteiramente ou parcialmente inexistentes, e para aplicar conceitos
+profissionais de auditoria na abordagem de objetos conhecidos e
+desconhecidos. O auditor deve ser capaz de avaliar uma variedade de
+tipos de evidência de auditoria de acordo com sua origem e relevância
+em relação ao escopo da auditoria e ao objeto, e de avaliar a suficiência
+e adequação de todas as evidências obtidas durante a auditoria.
+Controle de qualidade
+44) Os auditores devem assumir a responsabilidade pela
+    qualidade geral da auditoria.
+O auditor é responsável pela realização da auditoria e deve implementar
+procedimentos de controle de qualidade durante todo o processo
+de auditoria, visando assegurar que a auditoria seja realizada em
+conformidade com as normas aplicáveis e que o relatório, a conclusão
+ou a opinião de auditoria sejam apropriados, dadas as circunstâncias.
+Gestão de equipes de auditoria e habilidades
+45) Os auditores devem ter acesso às habilidades necessárias.
+Os membros da equipe de auditoria devem possuir, coletivamente,
+o conhecimento, as habilidades e a competência necessárias para
+concluir a auditoria com êxito. Isso inclui compreensão e experiência
+prática do tipo de auditoria que está sendo realizada, familiaridade
+com as normas e a legislação aplicáveis, um entendimento das
+operações da entidade auditada e habilidade e experiência para
+exercer o julgamento profissional. Comum a todas as auditorias é
+a necessidade de recrutar pessoas com qualificações adequadas,
+oferecer desenvolvimento e treinamento, elaborar manuais e outras
+orientações e instruções escritas, relacionados à condução de
+auditorias, e atribuir recursos suficientes.
+Auditorias podem exigir técnicas especializadas, métodos ou
+habilidades de disciplinas não disponíveis dentro da ISC. Especialistas
+externos podem ser utilizados de diferentes maneiras como,
+por exemplo, para produzir conhecimento ou conduzir trabalhos
+específicos. Auditores devem avaliar se os especialistas possuem a
+competência, a capacidade e a objetividade necessárias e determinar
+se seu trabalho é adequado para os propósitos da auditoria.
+Risco de auditoria
+46) Os auditores devem considerar o risco da auditoria durante
+    todo o processo de auditoria.
+As auditorias devem ser conduzidas de forma a administrar ou reduzir o
+risco de auditoria a um nível aceitável. O risco da auditoria é o risco de
+que o relatório de auditoria – ou especificamente a conclusão ou opinião
+do auditor – possa ser inadequado às circunstâncias da auditoria.
+A consideração do risco da auditoria é pertinente tanto em trabalhos
+de certificação quanto em trabalhos de relatório direto. O auditor
+deve considerar três dimensões diferentes do risco de auditoria –
+risco inerente, risco de controle e risco de detecção – em relação
+ao objeto e ao formato do relatório, isto é, se o objeto é quantitativo
+ou qualitativo e se o relatório de auditoria deve incluir uma opinião
+ou uma conclusão. A importância relativa dessas três dimensões do
+risco de auditoria depende da natureza do objeto, de a auditoria ser
+para fornecer segurança razoável ou limitada e se é um trabalho de
+relatório direto ou de certificação.
+Materialidade
+47) Os auditores devem considerar a materialidade durante todo
+    o processo de auditoria.
+Determinar a materialidade é uma questão de julgamento profissional
+e depende da interpretação do auditor sobre as necessidades
+dos usuários. Uma questão pode ser julgada material se o seu
+conhecimento é suscetível de influenciar as decisões dos usuários
+previstos. Esse julgamento pode se relacionar a um item individual
+ou a um grupo de itens tomados em conjunto. A materialidade é
+frequentemente considerada em termos de valor, mas também
+tem outros aspectos quantitativos e qualitativos. As características
+inerentes a um item ou grupo de itens podem tornar uma questão
+material por sua própria natureza. Uma questão pode também ser
+material por causa do contexto em que ela ocorre.
+Conforme dito acima, a materialidade na auditoria de conformidade
+possui aspectos quantitativos e qualitativos, apesar de os aspectos
+qualitativos geralmente desempenharem um papel maior no
+setor público. A materialidade deve ser considerada para fins de
+planejamento, avaliação da evidência obtida e relatório. Uma parte
+essencial na determinação da materialidade é considerar se existe
+uma expectativa razoável de que os casos relatados de conformidade
+ou não conformidade (potencial ou confirmada) possam influenciar as
+decisões dos usuários previstos. Os fatores a serem considerados
+dentro dessa avaliação de julgamento são os requisitos obrigatórios, o
+interesse ou as expectativas do público, as áreas específicas de foco
+do poder legislativo, as demandas e os financiamentos significativos.
+Questões em um nível de valor ou incidência mais baixos que a
+determinação geral de materialidade, tais como fraude, podem
+também ser consideradas materiais. A avaliação da materialidade
+requer um amplo julgamento profissional por parte do auditor e é
+relacionada com o escopo de auditoria.
+Documentação
+48) Os auditores devem preparar documentação de auditoria
+    suficiente.
+Documentação deve ser preparada no momento apropriado e deve
+fornecer um claro entendimento dos critérios utilizados, do escopo
+da auditoria, dos julgamentos realizados, da evidência obtida e das
+conclusões alcançadas. A documentação deve ser suficientemente
+detalhada para permitir a um auditor experiente, sem nenhum
+conhecimento prévio da auditoria, entender o seguinte: a relação
+entre o objeto, os critérios, o escopo de auditoria, a avaliação do risco,
+a estratégia e o plano de auditoria e a natureza, época, extensão e
+resultados dos procedimentos executados; a evidência obtida para
+sustentar a conclusão ou opinião do auditor; o raciocínio por trás de
+todas as questões relevantes que exigiram o exercício do julgamento
+profissional; e as respectivas conclusões. O auditor deve preparar a
+documentação de auditoria relevante antes da emissão do relatório, a
+qual deve ser conservada por um prazo de tempo apropriado.
+Comunicação
+49) Os auditores devem manter uma comunicação eficaz durante
+    todo o processo de auditoria.
+A comunicação está presente em todos os estágios da auditoria; antes
+do início da auditoria, durante o planejamento inicial, durante a auditoria
+propriamente dita, e na fase de relatório. Quaisquer dificuldades
+significativas encontradas durante a auditoria, assim como os casos
+de não conformidade relevante, devem ser comunicadas ao nível de
+adequado da administração ou aos responsáveis pela governança.
+O auditor deve também informar à parte responsável dos critérios da
+auditoria.
+
+PRINCÍPIOS RELACIONADOS AO PROCESSO DE AUDITORIA
+Planejando e formatando uma auditoria de conformidade
+Escopo de auditoria
+50) Os auditores devem determinar o escopo da auditoria.
+Quando o mandato da ISC ou a legislação aplicável não prescrever o
+escopo da auditoria, este deve ser decidido pelo auditor. O escopo de
+auditoria é uma declaração clara do foco, da extensão e dos limites
+da auditoria em termos da conformidade do objeto com os critérios.
+O escopo de uma auditoria é influenciado pela materialidade e pelo
+risco, e determina quais normas e partes delas serão cobertas. O
+processo de auditoria como um todo deve ser formatado para cobrir o
+escopo completo da auditoria.
+Objeto e critérios
+51) Os auditores devem identificar o objeto e os critérios
+    adequados.
+A determinação do objeto e dos critérios é um dos primeiros passos
+de uma auditoria de conformidade. O objeto e os critérios podem ser
+definidos por lei ou no mandato da ISC. Alternativamente, pode ser
+identificado pelo auditor. Para trabalhos de certificação, pode também
+ser pertinente identificar a informação do objeto, apresentada pela
+parte responsável, no que diz respeito à conformidade de um dado
+objeto com certos critérios.
+O objeto pode assumir várias formas e ter uma variedade de
+características. Ao identificar o objeto, o auditor deve empregar
+julgamento e ceticismo profissionais para analisar a entidade auditada
+e avaliar a materialidade e o risco.
+O objeto deve ser identificável e deve ser possível avaliá-lo em
+relação aos critérios adequados. Deve ser de tal natureza que permita
+que a obtenção de evidência de auditoria suficiente e apropriada para
+fundamentar o relatório, a conclusão ou a opinião de auditoria.
+O auditor deve identificar critérios adequados para fornecer uma base
+para a avaliação da evidência de auditoria e para desenvolver achados
+e conclusões de auditoria. Os critérios devem estar disponíveis para
+os usuários previstos e para outros, conforme o caso. Devem também
+ser comunicados à parte responsável.
+
+Entendendo a entidade
+52) Os auditores devem entender a entidade auditada à luz das
+    normas pertinentes.
+A auditoria de conformidade pode abranger todos os níveis do
+governo e pode incluir vários níveis administrativos, tipos de entidades
+e combinações de entidades. O auditor deve, portanto, estar
+familiarizado com a estrutura e as operações da entidade auditada
+e com seus procedimentos para alcançar a conformidade. O auditor
+usará esse conhecimento para determinar a materialidade e avaliar o
+risco de não conformidade.
+Entendendo controles internos e o ambiente de controle
+53) Os auditores devem entender o ambiente de controle e
+    os controles internos relevantes e considerar se eles são
+    apropriados para assegurar a conformidade.
+O entendimento da entidade auditada e/ou do objeto, relevante
+para o escopo da auditoria, depende do conhecimento do auditor
+sobre ambiente de controle. O ambiente de controle é a cultura de
+honestidade e o comportamento ético que fornece a base para o
+sistema de controle interno para assegurar a conformidade com as
+normas. Nas auditorias de conformidade, um ambiente de controle
+focado no alcance da conformidade é de especial importância.
+Para entender a entidade auditada ou o objeto, o auditor também
+precisa entender o sistema de controle interno. O tipo particular
+de controles sobre o qual o auditor foca dependerá do objeto e da
+natureza específica e do escopo da auditoria. Como o objeto pode
+ser qualitativo ou quantitativo, o auditor irá focar em controles internos
+quantitativos ou qualitativos ou em uma combinação destes, de
+acordo com o escopo de auditoria. Na avaliação de controles internos,
+o auditor avalia o risco de eles não prevenirem ou não detectarem
+casos relevantes de não conformidade. O auditor deve considerar se
+os controles internos estão em harmonia com o ambiente de controle,
+de modo a assegurar a conformidade com as normas em todos os
+aspectos relevantes.
+
+Avaliação de risco
+54) Os auditores devem realizar uma avaliação de risco para
+    identificar riscos de não conformidade.
+À luz dos critérios de auditoria, do escopo de auditoria e das
+características da entidade auditada, o auditor deve realizar uma
+avaliação de risco para determinar a natureza, época e extensão
+dos procedimentos de auditoria a serem realizados. Nisso, o auditor
+deve considerar os riscos de que o objeto não venha a cumprir com
+os critérios. A não conformidade pode surgir devido a fraude, erro,
+a natureza inerente do objeto e/ou a circunstâncias da auditoria. A
+identificação dos riscos de não conformidade e seu potencial impacto
+nos procedimentos de auditoria devem ser considerados durante todo
+o processo de auditoria. Como parte da avaliação de risco, o auditor
+deve avaliar quaisquer casos conhecidos de não conformidade, a fim
+de determinar se são relevantes.
+
+Risco de fraude
+55) Os auditores devem considerar o risco de fraude.
+Se o auditor se deparar com casos de não conformidade que possam
+ser indicativos de fraude, ele deve exercer o devido zelo profissional e
+cautela de modo a não interferir com eventuais procedimentos legais
+ou investigações futuras.
+Fraude em auditoria de conformidade diz respeito, principalmente, ao
+abuso de autoridade pública, mas também a informações fraudulentas
+em questões de conformidade. Casos de não conformidade com
+normas podem constituir abuso deliberado do poder público para
+benefício indevido. O exercício de funções públicas inclui decisões,
+não decisões, trabalhos preparatórios, conselhos, manuseio de
+informações e outros atos no serviço público. Benefícios indevidos
+são vantagens de natureza econômica ou não econômica, obtidas por
+meio de um ato intencional de um ou mais indivíduos da administração,
+dos responsáveis pela governança, dos empregados ou de terceiros.
+Embora a detecção de fraude não seja o principal objetivo da auditoria
+de conformidade, os auditores devem incluir fatores de risco de fraude
+em suas avaliações de risco e manterem-se alertas para indícios de
+fraude na realização de seus trabalhos.
+
+Estratégia de auditoria e plano de auditoria
+56) Os auditores devem desenvolver uma estratégia e um plano
+    de auditoria.
+O planejamento da auditoria deve envolver discussão entre membros
+da equipe de auditoria visando desenvolver uma estratégia global de
+auditoria e um plano de auditoria. O propósito da estratégia de auditoria
+é delinear uma resposta eficaz para o risco de não conformidade. Ela
+deve incluir a consideração das respostas de auditorias planejadas
+para riscos específicos por meio do desenvolvimento de um plano
+de auditoria. Tanto a estratégia como o plano de auditoria devem ser
+documentados por escrito. O planejamento não é uma fase distinta da
+auditoria, mas um processo contínuo e iterativo.
+Evidência de auditoria
+57) Auditores devem reunir evidência de auditoria suficiente e
+    apropriada para cobrir o escopo de auditoria.
+O auditor deve reunir evidência de auditoria suficiente e apropriada
+para fornecer a base para a conclusão ou opinião. Suficiência é
+uma medida da quantidade de evidência, enquanto adequação se
+relaciona com a qualidade da evidência – sua relevância, validade
+e confiabilidade. A quantidade de evidência requerida depende
+do risco de auditoria (quanto maior o risco, provavelmente mais
+evidência será requerida) e da qualidade de tais evidências (quanto
+maior a qualidade, menos evidência será requerida). Dessa forma,
+a suficiência e adequação da evidência estão inter-relacionadas. No
+entanto, a simples obtenção de mais evidência não compensa sua
+baixa qualidade. A confiabilidade da evidência é influenciada por
+sua fonte e natureza, e depende das circunstâncias específicas nas
+quais foi obtida. O auditor deve considerar tanto a relevância quanto a
+confiabilidade da informação a ser usada como evidência de auditoria,
+e deve respeitar a confidencialidade de toda evidência de auditoria e
+informação recebida.
+Os procedimentos de auditoria devem ser apropriados às
+circunstâncias da auditoria e adequados ao propósito de obter
+evidência de auditoria suficiente e apropriada. A natureza e as fontes
+da evidência necessária são determinadas pelos critérios, pelo objeto
+e pelo escopo da auditoria. Como o objeto pode ser qualitativo ou
+quantitativo, o auditor focará na evidência qualitativa, quantitativa
+ou na combinação de ambas, de acordo com o escopo da auditoria.
+A auditoria de conformidade, desse modo, inclui uma variedade
+de procedimentos para a coleta de evidências tanto de natureza
+quantitativa quanto qualitativa.
+O auditor de conformidade frequentemente necessitará combinar e
+comparar evidências de diferentes fontes a fim de atender os requisitos
+de suficiência e adequação.
+Avaliando evidência e formando conclusões
+58) Os auditores devem avaliar se a evidência de auditoria
+    suficiente e apropriada foi obtida e formular conclusões
+    pertinentes.
+Após completar a auditoria propriamente, o auditor revisará a evidência
+de auditoria a fim de chegar a uma conclusão ou emitir uma opinião. O
+auditor deve avaliar se a evidência obtida é suficiente e apropriada para
+reduzir o risco de auditoria a um nível aceitavelmente baixo. O processo
+de avaliação implica considerar tanto a evidência que respalda quanto
+a que parece contradizer o relatório, conclusão ou opinião de auditoria
+sobre conformidade ou não conformidade. Também inclui considerações
+de materialidade. Após avaliar se a evidência é suficiente e apropriada,
+dado o nível de asseguração da auditoria, o auditor deve considerar a
+melhor forma de concluir, à luz da evidência.
+Se a evidência de auditoria obtida de uma fonte for inconsistente com
+a que foi obtida de outra, ou se houver quaisquer dúvidas sobre a
+confiabilidade da informação a ser usada como evidência, o auditor
+deve determinar quais modificações ou adições aos procedimentos
+de auditoria resolveriam a questão, e considerar as implicações, se
+houver, para outros aspectos da auditoria.
+Após completar a auditoria, o auditor revisará a documentação
+de auditoria para determinar se o objeto foi suficientemente e
+apropriadamente examinado. O auditor deve também determinar
+se a avaliação de risco e a determinação inicial da materialidade
+foram apropriadas à luz da evidência coletada, ou se elas
+necessitarão ser revisadas.
+Relatando
+59) Os auditores devem preparar um relatório baseado nos
+    princípios de completude, objetividade, tempestividade e
+    contraditório (Nota de tradução do IRB: a obtenção de comentários e esclarecimentos durante a auditoria não representa abertura do contraditório e, portanto, não significa exercício de direito de defesa, o qual, se necessário, poderá ser exercido nas etapas processuais posteriores - Ver “NBASP 50 - Princípios das Atividades Jurisdicionais dos Tribunais de Contas”).
+O princípio da completude requer que o auditor considere toda
+evidência de auditoria relevante antes de emitir um relatório. O princípio
+da objetividade requer que o auditor aplique julgamento e ceticismo
+profissionais para garantir que todos os fatos relatados estão corretos
+e que os achados ou conclusões são apresentados de uma maneira
+pertinente e equilibrada. O princípio da tempestividade implica a
+preparação do relatório no prazo devido. O princípio do contraditório
+implica verificar a precisão dos fatos junto às entidades auditadas e
+incorporar os esclarecimentos dos responsáveis quando apropriado.
+Tanto na forma quanto no conteúdo, um relatório de auditoria de
+conformidade deve estar de acordo com todos esses princípios.
+Os formatos de relatórios podem estar definidos em lei ou pelo
+mandato da ISC. No entanto, o relatório de auditoria normalmente
+contém uma conclusão baseada no trabalho de auditoria realizado. O
+relatório pode também fornecer recomendações construtivas e práticas
+para melhorias, quando apropriado. Em trabalhos de certificação, o
+relatório é geralmente chamado de Relatório do Auditor.
+O relatório pode variar entre breves opiniões padronizadas e várias
+formas de conclusões e pode ser apresentado de forma longa ou
+curta. Independentemente da apresentação, o relatório deve ser
+completo, preciso, objetivo, convincente e tão claro e conciso quanto
+o objeto permitir. Quaisquer limitações no escopo da auditoria devem
+ser descritas. O relatório deve claramente declarar a relevância dos
+critérios utilizados e o nível de asseguração fornecido.
+A conclusão pode tomar a forma de uma clara declaração escrita de
+opinião sobre a conformidade, frequentemente em adição à opinião
+sobre demonstrações financeiras. Pode também ser expressa como
+uma resposta mais elaborada a questões de auditoria específicas.
+Enquanto uma opinião é comum em trabalhos de certificação, a
+resposta a questões específicas de auditoria é frequentemente
+mais utilizada em trabalhos de relatório direto. Quando uma opinião
+é fornecida, o auditor deve declarar se é não modificada ou se foi
+modificada com base na avaliação de relevância e de abrangência.
+Emitir uma opinião normalmente exigirá uma estratégia e uma
+abordagem de auditoria mais elaboradas.
+Relatórios de auditoria de conformidade devem incluir os seguintes
+elementos (embora não necessariamente nesta ordem):
+1) Título;
+2) Destinatário;
+3) Escopo de auditoria, incluindo o período coberto;
+4) Identificação ou descrição do objeto;
+5) Critérios identificados;
+6) Identificação das normas de auditoria aplicadas na realização do
+   trabalho;
+7) Resumo do trabalho realizado;
+8) Achados;
+9) Conclusão/opinião;
+10) Respostas da entidade auditada (quando apropriado);
+11) Recomendações (quando apropriado);
+12) Data do relatório;
+13) Assinatura.
+Monitorando
+60) Os auditores devem monitorar os casos de não conformidade
+    quando apropriado.
+Um processo de monitoramento facilita a eficaz implementação da
+ação corretiva e fornece um feedback à entidade auditada, aos usuários
+do relatório de auditoria e ao auditor (para futuro planejamento de
+auditoria). A necessidade de monitorar casos de não conformidade
+relatados anteriormente variará conforme a natureza do objeto, a não
+conformidade identificada e as circunstâncias específicas da auditoria.
+Em algumas ISC, incluindo tribunais de contas, o monitoramento
+pode incluir a emissão de relatórios ou decisões judiciais legalmente
+vinculantes. Em auditorias realizadas em bases regulares, os
+procedimentos de monitoramento podem fazer parte da avaliação de
+risco do ano subsequente.

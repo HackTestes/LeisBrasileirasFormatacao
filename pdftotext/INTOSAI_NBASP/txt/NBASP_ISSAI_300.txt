@@ -1,0 +1,1012 @@
+Normas Brasileiras de Auditoria do Setor Público (NBASP) - ISSAI 300 - Princípios de auditoria operacional
+
+                                   NBASP 300 – PRINCÍPIOS DE AUDITORIA
+                                                          OPERACIONAL
+
+
+NOTAS INTRODUTÓRIAS DO INSTITUTO RUI BARBOSA
+1)    As Normas de Auditoria do Setor Público (NBASP) são uma
+      iniciativa do Instituto Rui Barbosa (IRB) que tem por objetivo
+      alinhar os trabalhos de fiscalização dos Tribunais de Contas
+      brasileiros a um padrão metodológico internacionalmente aceito:
+      os pronunciamentos profissionais da Organização Internacional
+      das Instituições Superiores de Controle (INTOSAI). Nesta
+      oportunidade, o IRB apresenta a NBASP 300- Princípios de
+      Auditoria Operacional, que é a tradução realizada pelo Tribunal
+      de Contas da União para o português da ISSAI 300- Performance
+      Auditing Principles, que foi incorporada à estrutura das NBASP
+      em 2017.
+2)    De acordo com a Resolução IRB nº 03/2020, as NBASP estão
+      organizadas em três grupos:
+     a) Grupo 1 – Princípios institucionais: correspondem
+        aos INTOSAI-P da nova Estrutura de Pronunciamentos
+        Profissionais da INTOSAI (IFPP), são as normas com os
+        princípios fundantes e basilares desta organização e que se
+        aplicam à estruturação das entidades fiscalizadoras, em geral,
+        e dos Tribunais de Contas, em particular;
+     b) Grupo 2 – Princípios e requisitos aplicáveis às atividades
+        de controle: correspondem às ISSAI da nova IFPP, são
+        as normas com os princípios e requisitos mandatórios que
+        obrigatoriamente devem ser observados no planejamento e
+        na execução das diversas ações de controle e na elaboração
+        dos respectivos relatórios (e eventual monitoramento das
+        recomendações) pelos Tribunais de Contas;
+     c) Grupo 3 – Orientações aplicáveis às atividades de controle:
+        correspondem às GUID da nova IFPP, são as normas com
+        orientações, baseadas e hierarquicamente subordinadas aos
+        princípios e aos requisitos das normas do grupo 2, que podem
+        ser observadas no planejamento e na execução das diversas
+        ações de controle e na elaboração de seus respectivos
+       relatórios (e eventual monitoramento das recomendações)
+       pelos Tribunais de Contas, quando apropriado.
+3)   Dentro desta organização, a NBASP 300- Princípios de
+     Auditoria Operacional, situa-se no grupo 2, subgrupo 300-399
+     (princípios de auditoria operacional). Deste modo, ela traz os
+     princípios que devem ser observados para a realização de
+     auditorias operacionais. Estes princípios são adaptações dos
+     princípios da NBASP 100- Princípios Fundamentais de Auditoria
+     do Setor Público para a condução de auditorias operacionais e
+     se transformam em requisitos mandatórios (grupo 2, subgrupo
+     3000-3899: Normas de auditoria operacional) e orientações
+     (grupo 3, subgrupo 3900-3999: Orientações suplementares para
+     auditoria operacional) para a realização de trabalhos deste tipo.
+4)   A definição de auditoria operacional é dada no parágrafo
+     9 da NBASP 300, no qual se lê que “a auditoria operacional,
+     como realizada pelas ISC, é o exame independente, objetivo
+     e confiável que analisa se empreendimentos, sistemas,
+     operações, programas, atividades ou organizações do
+     governo estão funcionando de acordo com os princípios de
+     economicidade, eficiência e efetividade [eficácia] e se há espaço
+     para aperfeiçoamento”. Se uma ação de controle tem um
+     objetivo que se encaixa nesta definição, então deve-se observar
+     obrigatoriamente os princípios da NBASP 100- Princípios
+     Fundamentais de Auditoria do Setor Público e da NBASP 300-
+     Princípios de Auditoria Operacional.
+5)   As formas de observação dos princípios das normas acima
+     mencionadas variam de acordo com as características do objeto
+     que será analisado e os recursos (físicos, de força de trabalho
+     e de tempo) disponíveis. A sua observância pode ser explicitada
+     nos relatórios das ações de controle nos termos do parágrafo 8
+     da NBASP 300.
+6)   O idioma original desta norma é o inglês. Assim, há termos e
+     expressões no idioma original com um determinado significado
+     que, por melhor que seja a tradução, podem levar a conclusões
+     equivocadas se forem tomadas literalmente, em razão de
+     diferentes contextos institucionais. Recomenda-se que, havendo
+     dúvidas quanto à interpretação de algum trecho da norma,
+     recorra-se ao original em inglês.
+7)   A norma faz menção às Instituições Superiores de Controle
+     (ISC), denominação genérica que a INTOSAI utiliza para todas as
+     suas organizações filiadas, que têm os mais diversos mandatos
+     e responsabilidades atribuídas em cada contexto nacional. No
+     entanto, a aplicabilidade dos seus pronunciamentos profissionais
+     não é extensiva apenas às suas ISC afiliadas (no Brasil, o Tribunal
+     de Contas da União), mas sim a todas as entidades cuja missão
+     seja o controle externo da administração pública, o que inclui
+     os Tribunais de Contas estaduais e municipais.
+1
+                                                             INTRODUÇÃO
+
+1)    Normas e orientações profissionais são essenciais para a
+      credibilidade, a qualidade e o profissionalismo da auditoria
+      do setor público. As Normas Internacionais das Instituições
+      Superiores de Controle (ISSAI), desenvolvidas pela Organização
+      Internacional das Instituições Superiores de Controle (INTOSAI),
+      visam promover auditorias independentes e eficazes e apoiar
+      os membros da INTOSAI no desenvolvimento de suas próprias
+      abordagens profissionais, de acordo com seus mandatos e com
+      leis e regulamentos nacionais.
+2)    A “ISSAI 100 – Princípios Fundamentais de Auditoria do Setor
+      Público” fornece os princípios fundamentais para a auditoria do
+      setor público em geral e define a aplicabilidade das ISSAI. A “ISSAI
+      300 - Princípios Fundamentais de Auditoria Operacional” baseia-
+      se nos princípios fundamentais da ISSAI 100 e adicionalmente
+      os desenvolve visando adequá-los para o contexto específico da
+      auditoria operacional. A ISSAI 300 deve ser lida e compreendida
+      em conjunto com a ISSAI 100, que também se aplica à auditoria
+      operacional.
+3)    A “ISSAI 300 – Princípios Fundamentais de Auditoria Operacional”
+      está organizada em três seções.
+     a) A primeira seção estabelece o marco referencial da auditoria
+        operacional e para referência às ISSAI relevantes.
+     b) A segunda seção consiste nos princípios gerais de auditoria
+        operacional que devem ser considerados pelo auditor antes e
+        durante o processo de auditoria.
+     c) A terceira seção contém princípios relevantes aos principais
+        estágios do processo de auditoria em si.
+Cada princípio é seguido de uma breve explicação.
+2
+                       PROPÓSITO E APLICABILIDADE DOS PRINCÍPIOS DE
+                                             AUDITORIA OPERACIONAL
+
+4)   Este documento busca estabelecer um entendimento comum
+     da natureza da auditoria operacional, incluindo os princípios
+     aplicáveis para se alcançar um alto padrão de auditoria. Os
+     membros da INTOSAI são encorajados a desenvolver ou adotar
+     normas que sejam consistentes com as ISSAI 100 e 300 e a
+     levar em conta as normas e orientações da INTOSAI em relação
+     à auditoria operacional nas ISSAI 3000-3899 e GUID 3900-3999.
+     A série ISSAI 3000-3899 estabelece um marco referencial geral
+     para a auditoria operacional, contendo diretrizes gerais para a
+     realização de auditorias operacionais, como base para ajudar as
+     ISC a desenvolverem suas próprias normas nacionais.
+5)   Pronunciamentos para auditoria operacional devem refletir a
+     necessidade de flexibilidade no desenho de trabalhos individuais,
+     para que os auditores sejam receptivos e criativos em seu
+     trabalho e exerçam julgamento profissional em todas as fases do
+     processo de auditoria.
+6)   A INTOSAI reconhece que as ISC têm mandatos variados e
+     diferentes condições de trabalho. Devido a variadas situações
+     e arranjos estruturais das ISC, nem todas as normas ou
+     diretrizes de auditoria podem ser aplicadas a todos os aspectos
+     de seu trabalho. Portanto, as ISC têm a opção de desenvolver
+     normas oficiais que sejam baseadas nos ou consistentes com
+     os Princípios Fundamentais de Auditoria Operacional. Se uma
+     ISC escolher basear suas normas nos Princípios Fundamentais,
+     tais normas devem corresponder aos Princípios em todos os
+     aspectos aplicáveis e relevantes.
+7)   Quando as normas de auditoria de uma ISC forem baseadas
+     nos ou consistentes com os Princípios de Auditoria Operacional,
+     estes podem ser referenciados declarando-se:
+
+      […] Conduzimos nossa(s) auditoria(s) em conformidade com (normas),
+      que são baseadas em (ou são consistentes com) a “ISSAI 100-
+      Princípios Fundamentais de Auditoria do Setor Público” e a “ISSAI 300-
+      Princípios Fundamentais de Auditoria Operacional” da Organização
+      Internacional de Instituições Superiores de Controle (INTOSAI).
+
+A referência pode ser incluída no relatório de auditoria ou
+comunicada pela ISC de uma forma mais geral, abrangendo uma
+gama definida de trabalhos.
+8)   As ISC podem decidir adotar as Normas de Auditoria Operacional
+     (ISSAI 3000-3999) como normas oficiais para seu trabalho.
+     Quando uma ISC escolher adotar essas diretrizes, ela deve
+     cumpri-las em todos os aspectos relevantes. Nesse caso,
+     pode-se fazer a referência declarando:
+
+      … Conduzimos nossa(s) auditoria(s) (operacional) de acordo com
+      as Normas Internacionais das Instituições Superiores de Controle
+      (INTOSAI) (sobre auditoria operacional).
+3
+                                            MARCO REFERENCIAL PARA
+                                             AUDITORIA OPERACIONAL
+
+
+DEFINIÇÃO DE AUDITORIA OPERACIONAL
+9)   A auditoria operacional, como realizada pelas ISC, é o
+     exame independente, objetivo e confiável que analisa se
+     empreendimentos, sistemas, operações, programas, atividades
+     ou organizações do governo estão funcionando de acordo com
+     os princípios de economicidade, eficiência e efetividade e se há
+     espaço para aperfeiçoamento.
+1 Nota do Instituto Rui Barbosa: Tradução de effectiveness. Esse termo em inglês
+abrange dois conceitos diferentes na língua portuguesa: efetividade (conceito relacionado aos efeitos de uma ação) e eficácia (conceito relacionado ao grau de
+alcance das metas programadas).
+
+10) A auditoria operacional visa a fornecer novas informações,
+    análises ou percepções e, quando apropriado, recomendações
+    para aperfeiçoamento. As auditorias operacionais oferecem
+    novas informações, conhecimento ou valor ao:
+
+     *proporcionar novas percepções analíticas (análises mais amplas ou
+     profundas ou novas perspectivas);
+
+     *tornar as informações existentes mais acessíveis às várias partes
+     interessadas;
+
+     *proporcionar uma visão independente e autorizada ou uma conclusão
+     baseada em evidência de auditoria;
+
+     *fornecer recomendações baseadas em análises dos achados de
+     auditoria.
+ECONOMICIDADE, EFICIÊNCIA E EFETIVIDADE
+11) Os princípios de economicidade, eficiência e efetividade podem
+    ser definidos como a seguir:
+
+       *O princípio da economicidade significa minimizar os custos
+       dos recursos. Os recursos usados devem estar disponíveis
+       tempestivamente, em quantidade suficiente, na qualidade apropriada
+       e com o melhor preço.
+
+       *O princípio da eficiência significa obter o máximo dos recursos
+       disponíveis. Diz respeito à relação entre recursos empregados
+       e produtos entregues em termos de quantidade, qualidade e
+       tempestividade.
+
+       *O princípio da efetividade diz respeito a atingir os objetivos
+       estabelecidos e alcançar os resultados pretendidos.
+
+As auditorias operacionais frequentemente incluem uma análise
+das condições que são necessárias para garantir que os princípios
+da economicidade, eficiência e efetividade possam ser sustentados.
+Essas condições podem incluir boas práticas de gestão e
+procedimentos para garantir a correta e tempestiva entrega de
+serviços. Quando apropriado, o impacto do marco regulatório ou
+institucional no desempenho da entidade auditada também deve ser
+levado em consideração.
+
+OBJETIVOS DA AUDITORIA OPERACIONAL
+12) O principal objetivo da auditoria operacional é promover,
+    construtivamente, a governança econômica, efetiva e eficaz. Ela
+    também contribui para a accountability e transparência.
+A auditoria operacional promove a accountability ao ajudar aqueles
+com responsabilidades de governança e supervisão a melhorar o
+desempenho. Isso é feito ao examinar se as decisões tomadas pelo
+poder legislativo ou pelo executivo são formuladas e implementadas
+de forma eficiente e eficaz e se os contribuintes ou cidadãos têm
+recebido em retorno o valor justo dos tributos pagos. Não se trata de
+questionar as intenções e decisões do poder legislativo, mas examinar
+se alguma deficiência nas leis e nos regulamentos ou na sua forma
+de implementação esteja impedindo que os objetivos especificados
+sejam alcançados. A auditoria operacional foca em áreas nas quais
+pode agregar valor para os cidadãos e que têm o maior potencial para
+aperfeiçoamento. Ela proporciona incentivos construtivos para que as
+partes responsáveis desenvolvam as ações apropriadas.
+A auditoria operacional promove a transparência ao proporcionar ao
+parlamento, aos contribuintes e a outras fontes de financiamento,
+àqueles que são alvo das políticas de governo e à mídia, uma
+perspectiva sobre a gestão e os resultados de diferentes atividades
+governamentais. Desse modo, contribui diretamente para fornecer ao
+cidadão informações úteis e, ao mesmo tempo, serve de base para
+aprendizado e melhorias. Na auditoria operacional, as ISC são livres
+para decidir, dentro de seu mandato, o quê, quando e como auditar, e
+não devem ser impedidas de publicar seus achados.
+
+APLICABILIDADE DA ISSAI 300
+13) Os Princípios Fundamentais de Auditoria Operacional
+    proporcionam a base para a adoção ou o desenvolvimento de
+    normas pelas ISC. Eles foram formulados tendo em vista a
+    experiência institucional das ISC, incluindo sua independência,
+    mandatos constitucionais dos Princípios Basilares da INTOSAI
+    (INTOSAI-P 10-99) e obrigações éticas e outros requisitos
+    organizacionais das ISC (ISSAI 130-199).
+14) Ao lidar com sobreposições entre tipos de auditoria (ou auditorias
+    combinadas), os seguintes pontos devem ser considerados:
+
+       *A declaração das normas aplicadas na auditoria (parágrafo 7 ou 8,
+       acima) pode precisar de ajuste de acordo com a ISSAI 100, parágrafo
+       9 ou 10;
+       *Elementos da auditoria operacional podem ser parte de uma auditoria
+       mais abrangente que também cubra aspectos de auditoria de
+       conformidade e financeira.
+       *Caso ocorra uma sobreposição, todas as normas relevantes devem
+       ser observadas. Talvez isso não seja viável em todos os casos, já que
+       diferentes normas podem conter prioridades diferentes.
+
+Nesses casos, o objetivo primário da auditoria deve guiar os auditores
+quanto a que normas eles devem aplicar. Ao determinar se considerações
+sobre desempenho formam o objetivo primário do trabalho de auditoria,
+deve-se ter em mente que a auditoria operacional tem seu foco em
+atividades e resultados, em vez de focar relatórios ou contas, e que seu
+principal objetivo é promover economicidade, eficiência e efetividade,
+em vez de produzir um relatório sobre conformidade.
+4
+                                 ELEMENTOS DA AUDITORIA OPERACIONAL
+
+15) Os elementos de auditoria do setor público (auditor, parte
+    responsável, usuários previstos, objeto e critérios), como definidos
+    na ISSAI 100, podem assumir distintas características na auditoria
+    operacional. Os auditores devem identificar explicitamente os
+    elementos de cada auditoria e entender suas implicações, para
+    que possam conduzir a auditoria adequadamente.
+
+AS TRÊS PARTES NA AUDITORIA OPERACIONAL
+16) Auditores frequentemente têm considerável discricionariedade
+    na seleção de objetos e identificação de critérios, o que, por
+    sua vez, influencia em quem são as partes responsáveis e
+    os usuários previstos. Embora os auditores possam fazer
+    recomendações, eles precisam tomar cuidado para não assumir
+    as responsabilidades das partes responsáveis. Nas auditorias
+    operacionais, os auditores tipicamente trabalham em equipe,
+    oferecendo habilidades diferentes e complementares.
+17) O papel de parte responsável pode ser compartilhado por uma
+    gama de indivíduos ou entidades, cada um com responsabilidade
+    por um diferente aspecto do objeto da auditoria. Algumas partes
+    podem ser responsáveis por ações que tenham causado
+    problemas. Outras podem ser capazes de iniciar mudanças
+    para atender às recomendações resultantes de uma auditoria
+    operacional. Outras, ainda, podem ser responsáveis por prover
+    o auditor com informações ou evidências.
+18) Os usuários previstos são as pessoas para quem o auditor
+    elabora o relatório de auditoria operacional. O poder legislativo,
+    as agências governamentais e o público podem todos ser
+    usuários previstos. Uma parte responsável pode também ser
+    usuário previsto, mas, raramente, será o único.
+OBJETO E CRITÉRIOS NA AUDITORIA OPERACIONAL
+19) O objeto da auditoria operacional não precisa estar limitado a
+    programas, entidades ou fundos, mas pode incluir atividades
+    (com seus produtos, resultados e impactos) ou situações
+    existentes (incluindo causas e consequências). Alguns exemplos
+    são prestação de serviços pelas partes responsáveis ou os
+    efeitos da política e regulação do governo sobre a administração,
+    as partes interessadas, os negócios, os cidadãos e a sociedade.
+    O objeto é determinado pelo objetivo e formulado nas questões
+    de auditoria.
+20) Na auditoria operacional, o auditor é, às vezes, envolvido no
+    desenvolvimento ou na seleção dos critérios que são relevantes
+    para a auditoria. O parágrafo 27 descreve quais requisitos
+    específicos decorrem disso para o auditor.
+
+CONFIANÇA E ASSEGURAÇÃO NA AUDITORIA OPERACIONAL
+21) Como em todas as auditorias, os usuários dos relatórios
+    de auditorias operacionais desejam ter segurança sobre a
+    confiabilidade da informação que eles utilizam para a tomada de
+    decisões.
+Logo, eles esperam relatórios confiáveis que apresentem a posição
+da ISC baseada em evidências sobre o assunto examinado.
+Consequentemente, auditores operacionais devem, em todos
+os casos, fornecer achados baseados em evidência suficiente
+e apropriada e administrar de forma ativa o risco de relatórios
+inadequados. Entretanto, normalmente não se espera que auditores
+operacionais apresentem uma opinião geral, comparável à opinião
+sobre demonstrações financeiras, sobre se a entidade auditada
+alcançou economicidade, eficiência e efetividade. Logo, isso não é
+um requisito do marco referencial das ISSAI.
+22) O nível de asseguração proporcionado por uma auditoria
+    operacional deve ser comunicado de uma maneira transparente.
+    O grau de economicidade, eficiência e efetividade atingido
+    pode ser transmitido no relatório de auditoria operacional de
+    diferentes maneiras:
+
+       *por meio de uma visão geral sobre aspectos de economicidade,
+       eficiência e efetividade, quando o objetivo da auditoria, o objeto, a
+       evidência obtida e os achados alcançados permitam tal conclusão; ou;
+      *fornecendo informação específica sobre uma série de pontos, incluindo
+      o objetivo de auditoria, as questões formuladas, a evidência obtida, os
+      critérios utilizados, os achados alcançados e as conclusões específicas.
+
+23) Os relatórios de auditoria só devem incluir achados que sejam
+    suportados por evidência suficiente e apropriada. As decisões
+    tomadas ao elaborar um relatório equilibrado, extrair conclusões
+    e formular recomendações, frequentemente precisam ser feitas
+    de modo a proporcionar informação suficiente ao usuário. Os
+    auditores operacionais devem descrever especificamente a
+    forma como seus achados levaram a um conjunto de conclusões
+    e – quando aplicável – a uma única conclusão geral. Isto significa
+    explicar quais critérios foram desenvolvidos e utilizados e porque,
+    e declarar que todos os pontos de vista relevantes foram levados
+    em consideração para que um relatório equilibrado possa ser
+    apresentado. Os princípios sobre elaboração de relatórios
+    fornecem maiores orientações para esse processo.
+5
+                                PRINCÍPIOS DE AUDITORIA OPERACIONAL
+
+
+PRINCÍPIOS GERAIS
+24) Os princípios gerais enunciados a seguir fornecem orientações
+    sobre os aspectos da auditoria operacional que são relevantes
+    durante todo o processo de auditoria.
+Algumas das áreas às quais esses princípios se aplicam não estão
+cobertas pela ISSAI 100. São elas: a seleção de temas de auditoria, a
+identificação de objetivos de auditoria e a definição de uma abordagem
+de auditoria e critérios.
+Em outras áreas, tais como risco de auditoria, comunicação,
+habilidades, julgamento profissional, controle de qualidade,
+materialidade e documentação, estes princípios gerais remetem-
+se aos princípios da ISSAI 100 e explicam como eles se aplicam
+especificamente à auditoria operacional.
+Finalmente, algumas áreas, tais como ética e independência, são
+atualmente tratadas na ISSAI 100, pelos Princípios Basilares da
+INTOSAI (INTOSAI-P 10- 99) e os requisitos organizacionais das ISC
+(ISSAI 130-199).
+Objetivo de auditoria
+25) Os auditores devem estabelecer um objetivo de auditoria
+    claramente definido que se relacione aos princípios de
+    economicidade, eficiência e efetividade.
+O objetivo de auditoria determina a abordagem e o desenho do
+trabalho. Poderia ser simplesmente descrever uma situação. No
+entanto, objetivos normativos de auditoria (as coisas são como
+deveriam ser?) e objetivos analíticos de auditoria (por que as coisas
+não são como deveriam ser?) são mais propensos a agregar valor.
+Em todos os casos, os auditores precisam considerar a que a auditoria
+diz respeito, que organizações e órgãos estão envolvidos e para
+quem as recomendações finais podem ser relevantes. Objetivos de
+auditoria bem definidos podem se relacionar a uma única entidade ou
+a um grupo identificável de empreendimentos, sistemas, operações,
+programas, atividades ou organizações governamentais.
+Muitos objetivos de auditoria podem ser enquadrados como uma
+questão geral de auditoria que pode ser desdobrada em subquestões
+mais precisas. Subquestões devem ser tematicamente relacionadas,
+complementares, sem sobreposição e coletivamente exaustivas ao
+tratar da questão geral de auditoria. Todos os termos empregados na
+questão devem ser claramente definidos. A formulação de questões de
+auditoria é um processo iterativo no qual as questões são repetidamente
+especificadas e refinadas, levando-se em conta informações relevantes
+conhecidas sobre o assunto bem como a viabilidade.
+Em vez de definir um único objetivo ou uma questão geral de auditoria,
+os auditores podem escolher desenvolver vários objetivos de auditoria,
+que, nem sempre, precisam ser desdobrados em subquestões.
+Abordagem de auditoria
+26) os auditores devem escolher uma abordagem orientada a
+    resultado, problema ou sistema, ou uma combinação destas,
+    para facilitar a solidez do desenho da auditoria.
+A abordagem geral de auditoria é um elemento central de qualquer
+auditoria. Ela determina a natureza do exame que deve ser feito.
+Também define o conhecimento, a informação, os dados e os
+procedimentos de auditoria necessários para obtê-los e analisá-los.
+A auditoria operacional geralmente segue uma das três abordagens:
+      *uma abordagem orientada a sistemas, que examina o adequado
+      funcionamento dos sistemas de gestão, por exemplo, sistemas de
+      gestão financeira;
+      *uma abordagem orientada a resultados, que avalia se os objetivos de
+      impactos ou de produtos foram atingidos como planejados ou se os
+      programas e serviços estão funcionando como pretendido;
+      *uma abordagem orientada a problemas, que examina, verifica
+      e analisa as causas de problemas específicos ou de desvios em
+      relação a critérios.
+As três abordagens podem ser seguidas a partir de uma perspectiva
+de cima para baixo ou de baixo para cima. Auditorias com perspectiva
+de cima para baixo concentram-se, principalmente, em requisitos,
+intenções, objetivos e expectativas do poder legislativo e do governo
+central. Uma perspectiva de baixo para cima focaliza em problemas
+de importância para o povo e a comunidade.
+Critérios
+27) Os auditores devem estabelecer critérios adequados que
+    correspondam às questões de auditoria e sejam relacionados
+    aos princípios de economicidade, eficiência e efetividade.
+Os critérios são as referências usadas para avaliar o objeto. Critérios
+de auditoria operacional são padrões razoáveis e especificados
+de auditoria relacionados a desempenho, com base nos quais a
+economicidade, eficiência e efetividade das operações são avaliadas
+e aferidas.
+Os critérios fornecem uma base para avaliar as evidências, desenvolver
+os achados e chegar a conclusões sobre os objetivos de auditoria.
+Também constituem um importante elemento nas discussões internas
+da equipe de auditoria, com a administração da ISC e na comunicação
+com as entidades auditadas.
+Os critérios podem ser qualitativos ou quantitativos e devem definir o
+que será usado para avaliar a entidade auditada. Os critérios podem
+ser gerais ou específicos, com foco no “dever ser” de acordo com as
+leis, regulamentos ou objetivos; no que é “esperado” de acordo com
+princípios sólidos, conhecimento científico e melhores práticas; ou
+naquilo que “poderia ser” (dadas melhores condições).
+Diversas fontes podem ser usadas para identificar critérios, inclusive
+referenciais de mensuração de desempenho. Os critérios devem
+ser transparentes quanto às fontes que foram usadas, relevantes e
+compreensíveis para os usuários, bem como completos, confiáveis e
+objetivos, no contexto do objeto e dos objetivos de auditoria.
+Os critérios devem ser discutidos com as entidades auditadas, mas, em
+última instância, a seleção de critérios adequados é responsabilidade
+do auditor. Embora a definição e comunicação dos critérios durante a
+fase de planejamento possa aumentar sua confiabilidade e aceitação
+geral, em auditorias que abordam assuntos complexos nem sempre
+é possível estabelecer critérios com antecedência; em vez disso, eles
+serão definidos durante o processo de auditoria.
+Embora em alguns tipos de auditoria existam critérios legislativos
+inequívocos, esse comumente não é o caso nas auditorias
+operacionais. Os objetivos, as questões e a abordagem de auditoria
+determinam a relevância e o tipo de critérios adequados. A confiança
+do usuário nos achados e nas conclusões de uma auditoria operacional
+depende muito dos critérios. Sendo assim, é crucial selecionar critérios
+confiáveis e objetivos.
+Em uma auditoria operacional orientada a problemas, o ponto de
+partida é um desvio conhecido ou suspeitado daquilo que deveria ou
+poderia ser. O objetivo principal não é, portanto, apenas verificar o
+problema (o desvio do critério e suas consequências), mas identificar
+as causas. Isso torna importante a decisão sobre como examinar
+e verificar as causas durante a fase de planejamento da auditoria.
+As conclusões e recomendações baseiam-se, primariamente, no
+processo de análise e confirmação de causas, muito embora elas
+sempre sejam fundamentadas em critérios normativos.
+Risco de auditoria
+28) Os auditores devem gerenciar ativamente o risco de
+    auditoria, que é o risco de obter conclusões incorretas ou
+    incompletas, fornecendo informações desequilibradas ou
+    deixando de agregar valor para os usuários.
+Muitos temas na auditoria operacional são complexos e politicamente
+sensíveis. Embora simplesmente evitar tais temas possa reduzir o risco
+de imprecisão ou incompletude, pode também limitar a possibilidade
+de agregar valor.
+O risco de uma auditoria deixar de agregar valor vai desde a
+probabilidade de não ser capaz de dar novas informações ou
+perspectivas até o risco de negligenciar fatores importantes e,
+consequentemente, não ser capaz de fornecer aos usuários do
+relatório de auditoria conhecimentos ou recomendações que seriam
+uma contribuição real para um melhor desempenho.
+Aspectos importantes de risco podem incluir não possuir a competência
+para realizar análises suficientemente amplas ou profundas, falta de
+acesso a informações de qualidade, obter informações imprecisas
+(por exemplo, devido a fraudes ou práticas irregulares), incapacidade
+de colocar todos os achados em perspectiva, e falhar ao coletar ou
+abordar os argumentos mais relevantes.
+Os auditores devem, portanto, gerenciar riscos ativamente. Lidar
+com riscos de auditoria é parte integrante de todo o processo
+e da metodologia de auditoria operacional. Os documentos de
+planejamento de auditoria devem indicar os possíveis ou conhecidos
+riscos do trabalho pretendido bem como mostrar como tais riscos
+serão tratados.
+Comunicação
+29) Os auditores devem manter uma comunicação eficaz
+    e adequada com as entidades auditadas e as partes
+    interessadas relevantes durante todo o processo de
+    auditoria e definir o conteúdo, o processo e os destinatários
+    da comunicação para cada auditoria.
+Existem várias razões pelas quais o planejamento da comunicação
+com as entidades auditadas e as partes interessadas é de particular
+importância na auditoria operacional.
+      *Como as auditorias operacionais não são normalmente realizadas
+      em uma base regular (por exemplo, anualmente) sobre as mesmas
+      entidades auditadas, os canais de comunicação podem não existir
+      ainda. Enquanto pode haver contatos com o poder legislativo e com
+      órgãos governamentais, outros grupos (tais como comunidades
+      acadêmicas e de negócios ou organizações da sociedade civil) podem
+      não ter sido contatados anteriormente.
+      *Frequentemente, não há critérios predefinidos (como uma estrutura
+      para relatórios financeiros) e, portanto, é necessário haver intensa
+      troca de opiniões com a entidade auditada.
+      *A necessidade de relatórios equilibrados exige um esforço ativo para
+      conhecer os pontos de vista das diversas partes interessadas.
+Os auditores devem identificar os responsáveis e outras partes
+interessadas chave e tomar a iniciativa de estabelecer uma
+comunicação recíproca eficaz. Por meio de uma boa comunicação,
+os auditores podem melhorar o acesso a fontes de informação e a
+dados e opiniões provenientes da entidade auditada. Usar canais de
+comunicação para explicar o objetivo da auditoria operacional para
+as partes interessadas também aumenta a probabilidade de que as
+recomendações de auditoria sejam implementadas. Os auditores
+devem, portanto, procurar manter boas relações profissionais
+com todas as partes interessadas relevantes, promover um fluxo
+de informações livre e franco, na medida em que os requisitos de
+confidencialidade permitam, e conduzir discussões numa atmosfera
+de mútuo respeito e compreensão do papel e das responsabilidades
+de cada parte interessada. No entanto, deve-se tomar cuidado
+para garantir que a comunicação com as partes interessadas não
+comprometa a independência nem a imparcialidade da ISC.
+Os auditores devem comunicar às entidades auditadas os principais
+aspectos da auditoria, incluindo o objetivo, as questões e o objeto da
+auditoria. A comunicação geralmente será feita oficialmente, por meio
+escrito e, durante a auditoria, de forma regular. Os auditores devem
+se comunicar com as entidades auditadas durante todo o processo de
+auditoria, por meio de interações construtivas à medida que diferentes
+achados, argumentos e perspectivas são avaliados.
+As entidades auditadas devem ter a oportunidade de comentar os
+achados de auditoria, as conclusões e as recomendações antes
+que a ISC emita seu relatório de auditoria. Quaisquer discordâncias
+devem ser analisadas e os erros materiais corrigidos. A análise dos
+comentários deve ser registrada em papéis de trabalho de modo que
+as alterações no relatório preliminar de auditoria, ou as razões para
+não fazer alterações, fiquem documentadas.
+Ao final do processo de auditoria, também se pode obter comentários
+das partes interessadas sobre a qualidade dos relatórios de auditoria
+publicados. A percepção das entidades auditadas sobre a qualidade
+da auditoria também pode ser solicitada.
+Habilidades
+30) Coletivamente, a equipe de auditoria deve possuir as
+    competências profissionais necessárias para realizar a
+    auditoria. Isso inclui conhecimento sólido de auditoria,
+    delineamento de pesquisa, métodos de ciências sociais
+    e técnicas de investigação ou avaliação, bem como
+    habilidades pessoais tais como capacidade analítica, de
+    escrita e comunicação.
+Na auditoria operacional, habilidades específicas podem ser
+necessárias, tais como conhecimento de técnicas de avaliação
+e métodos de ciências sociais, e habilidades pessoais tais como
+capacidade de comunicação e escrita, capacidade analítica,
+criatividade e receptividade. Os auditores devem ter um conhecimento
+sólido sobre as organizações, programas e funções governamentais.
+Isso irá garantir que as áreas apropriadas sejam selecionadas para a
+auditoria e que os auditores possam, efetivamente, realizar revisões
+de programas e atividades do governo.
+Pode também haver maneiras específicas de adquirir as habilidades
+necessárias. Para cada auditoria operacional os auditores precisam
+ter um total entendimento das medidas do governo que constituem o
+objeto da auditoria, bem como conhecer as causas de fundo relevantes
+e os possíveis impactos. Esse conhecimento, frequentemente, deve
+ser adquirido ou desenvolvido especificamente para o trabalho. As
+auditorias operacionais muitas vezes envolvem um processo de
+aprendizado e o desenvolvimento de uma metodologia como parte
+da própria auditoria. Formação e aprendizagem no trabalho, portanto,
+devem estar disponíveis para os auditores, que devem manter suas
+habilidades profissionais por meio de desenvolvimento profissional
+continuado. Uma atitude aberta à aprendizagem e uma cultura de
+gestão encorajadora são condições importantes para aprimorar as
+habilidades profissionais dos auditores individualmente.
+Em áreas especializadas, especialistas externos podem ser utilizados
+para complementar o conhecimento da equipe de auditoria. Os
+auditores devem avaliar se e, em que áreas, especialistas externos
+são requeridos e tomar as providências necessárias.
+Julgamento e ceticismo profissionais
+31) Os auditores devem exercer ceticismo profissional, mas
+    também ser receptivos e dispostos a inovar.
+É crucial que os auditores exerçam ceticismo profissional e adotem uma
+abordagem crítica, mantendo uma distância objetiva das informações
+recebidas. Espera-se que os auditores façam avaliações racionais e
+desconsiderem preferências pessoais, próprias ou de outros.
+Ao mesmo tempo, devem ser receptivos a pontos de vista e argumentos.
+Isso é necessário para evitar erros de julgamento ou viés cognitivo.
+Respeito, flexibilidade, curiosidade e disposição para inovar são
+igualmente importantes. A inovação aplica-se não só ao processo de
+auditoria em si, mas também aos processos ou às atividades auditados.
+Espera-se que os auditores analisem as questões a partir de diferentes
+perspectivas e tenham uma atitude aberta e objetiva em relação a
+vários pontos de vista e argumentos. Se não forem receptivos, podem
+perder argumentos importantes ou evidências-chave. Enquanto
+trabalham para desenvolver novos conhecimentos, os auditores
+precisam também ser criativos, reflexivos, flexíveis, engenhosos e
+práticos em seus esforços para coletar, interpretar e analisar dados.
+Um alto padrão de comportamento profissional deve ser mantido
+durante todo o processo de auditoria, desde a seleção do tema e
+planejamento da auditoria, no decorrer da auditoria propriamente
+dita, até a apresentação de relatórios. É importante que os auditores
+trabalhem sistematicamente, com devido zelo e objetividade, e sob
+supervisão apropriada.
+Controle de qualidade
+32) Os auditores devem aplicar procedimentos para salvaguardar
+    a qualidade, garantindo que os requisitos aplicáveis
+    sejam atendidos e dando ênfase a relatórios apropriados,
+    equilibrados e justos que agreguem valor e respondam às
+    questões de auditoria.
+A “ISSAI 140 – Controle de Qualidade para ISC” oferece princípios
+gerais e aplication material sobre o sistema de controle de qualidade
+estabelecido no nível organizacional para cobrir todas as auditorias.
+Na realização de auditorias operacionais, é necessário atentar as
+seguintes questões específicas:
+
+      *A auditoria operacional é um processo no qual a equipe de auditoria
+      reúne uma grande quantidade de informações específicas da auditoria
+      e exerce um alto grau de julgamento profissional e discricionariedade
+      com relação a questões relevantes. Isso deve ser levado em conta
+      no controle de qualidade. A necessidade de estabelecer um ambiente
+      de trabalho de confiança mútua e responsabilidade e de dar apoio
+      às equipes de auditoria deve ser vista como parte da gestão da
+      qualidade. Isso pode implicar o uso de procedimentos de controle de
+      qualidade que sejam relevantes e fáceis de administrar e garantir que
+      os auditores estejam abertos a comentários recebidos do controle
+      de qualidade. No caso de diferença de opinião entre supervisores e
+      a equipe de auditoria, devem- se tomar medidas apropriadas para
+      garantir que a perspectiva da equipe de auditoria receba consideração
+      suficiente e seja consistente com a política da ISC.
+      *Na auditoria operacional, mesmo que o relatório seja baseado em
+      evidências, bem documentado e preciso, ele pode ainda ser inadequado
+      ou insuficiente se não conseguir dar uma visão equilibrada e imparcial,
+      incluir poucos pontos de vista relevantes ou tratar de forma insatisfatória
+      as questões de auditoria. Essas considerações devem, portanto, ser
+      uma parte essencial das medidas para salvaguardar a qualidade.
+      *Como objetivos de auditoria variam muito de um trabalho para outro,
+      é importante definir claramente o que constitui um relatório de alta
+      qualidade no contexto específico de um trabalho de auditoria. Medidas
+      gerais de controle de qualidade devem, portanto, ser complementadas
+      por medidas específicas da auditoria.
+
+Nenhum procedimento de controle de qualidade no nível da auditoria
+individual pode garantir relatórios de auditoria operacional de alta
+qualidade. É igualmente importante que os auditores sejam – e
+continuem sendo – competentes e motivados. Logo, mecanismos
+de controle devem ser complementados por outros tipos de apoio,
+tais como treinamento prático, no trabalho, e orientação para a
+equipe de auditoria.
+Materialidade
+33) Os auditores devem considerar a materialidade em todas
+    as fases do processo de auditoria. Atenção deve ser dada
+    não somente aos aspectos financeiros, mas também aos
+    aspectos sociais e políticos do objeto, com o objetivo de
+    entregar tanto valor agregado quanto seja possível.
+A materialidade pode ser entendida como a importância relativa de
+uma questão dentro do contexto no qual ela está sendo considerada. A
+materialidade de um tema de auditoria deve ter relação com a magnitude
+de seus impactos. Vai depender se a atividade é comparativamente
+menor e se deficiências na área em causa poderiam influenciar
+outras atividades dentro da entidade auditada. Uma questão será
+considerada material quando o tema for considerado de particular
+importância e onde melhorias teriam um impacto significativo. Será
+menos material onde a atividade for de natureza rotineira e o impacto
+do baixo desempenho seja mínimo ou restrito a uma área pequena.
+Na auditoria operacional, a materialidade em valor monetário pode,
+mas não precisa ser uma preocupação primária. Na definição da
+materialidade, o auditor deve considerar também o que é socialmente
+ou politicamente significativo e ter em mente que isso varia ao
+longo do tempo e depende da perspectiva dos usuários relevantes
+e das partes responsáveis. Uma vez que o objeto das auditorias
+operacionais pode variar amplamente e os critérios frequentemente
+não são estabelecidos pela legislação, a perspectiva pode variar
+de uma auditoria para a outra. Essa avaliação exige um julgamento
+cuidadoso por parte do auditor.
+A materialidade diz respeito a todos os aspectos da auditoria
+operacional, tais como a seleção de temas, a definição de critérios,
+a avaliação de evidências, a documentação e o gerenciamento dos
+riscos de produzir achados ou relatórios de auditoria inadequados ou
+de baixo impacto.
+Documentação
+34) Os auditores devem documentar a auditoria de acordo com
+    as circunstâncias particulares desta. A informação deve
+    ser suficientemente completa e detalhada para permitir que
+    um auditor experiente, sem nenhum contato prévio com a
+    auditoria, possa posteriormente determinar qual trabalho
+    foi feito a fim de chegar aos achados, às conclusões e às
+    recomendações da auditoria.
+Como em todas as auditorias, auditores operacionais devem manter
+um registro documental adequado da preparação, dos procedimentos
+e dos achados de cada auditoria. No entanto, o propósito e contexto
+da documentação são um tanto específicos em auditoria operacional.
+      *Frequentemente, o auditor terá adquirido conhecimento especializado
+      sobre o tema da auditoria que não é facilmente reproduzido na
+      ISC. Como a metodologia e os critérios de auditoria podem ter sido
+      desenvolvidos especificamente para um único trabalho, o auditor
+      tem uma responsabilidade especial de justificar seu raciocínio
+      de forma transparente.
+      *Na auditoria operacional, o relatório, além de conter achados e
+      recomendações, descreve o marco referencial, as perspectivas e
+      a estrutura analítica que foram adotados, bem como o processo
+      que foi seguido para se chegar às conclusões. Até certo ponto, o
+      relatório desempenha funções que, em outros tipos de auditoria, são
+      desempenhadas por normas gerais ou pela documentação de auditoria.
+      *A documentação deve não apenas confirmar a exatidão dos fatos,
+      mas também garantir que o relatório apresente um exame equilibrado,
+      justo e completo da questão auditada ou do objeto. Assim, por exemplo,
+      pode ser necessário que a documentação inclua referência aos
+      argumentos não aceitos no relatório ou que descreva como diferentes
+      pontos de vista foram tratados no relatório.
+      *O objetivo do relatório nas auditorias operacionais é, frequentemente,
+      persuadir usuários razoáveis, fornecendo-lhes novas perspectivas
+      em vez de uma declaração formal de asseguração. Do mesmo modo
+      que os objetivos de auditoria determinam a natureza da evidência
+      necessária, eles também determinam a natureza da documentação.
+      *A manutenção de documentação adequada não é apenas parte da
+      salvaguarda da qualidade (por exemplo, ajudando a garantir que
+      trabalhos delegados sejam realizados satisfatoriamente e que os
+      objetivos de auditoria sejam alcançados), mas é também parte do
+      desenvolvimento profissional da ISC e dos auditores individualmente,
+      já que pode modelar boas práticas para auditorias similares no futuro.
+
+
+PRINCÍPIOS RELACIONADOS AO PROCESSO DE AUDITORIA
+35) A auditoria operacional compreende as seguintes fases principais:
+
+
+
+
+      *Planejamento, isto é, seleção de temas, pré-estudo e desenho da
+      auditoria;
+      *Execução, isto é, coleta e análise de dados e informações;
+      *Relatório, isto é, apresentação dos resultados da auditoria: respostas
+      às questões de auditoria, achados, conclusões e recomendações
+      aos usuários;
+      *Monitoramento, isto é, determinar se as ações adotadas em
+      resposta aos achados e recomendações resolveram os problemas e/
+      ou deficiências subjacentes.
+Essas fases podem ser iterativas. Por exemplo, novas perspectivas
+surgidas na fase de execução podem acarretar mudanças no plano
+de auditoria e elementos importantes do relatório (por exemplo, a
+formulação de conclusões) podem ser esboçados ou até mesmo
+concluídos durante essa fase do processo.
+Planejamento
+Seleção de temas
+36) Os auditores devem selecionar temas de auditoria usando
+    o processo de planejamento estratégico da ISC, analisando
+    temas em potencial e realizando pesquisas para identificar
+    riscos e problemas.
+Determinar quais as auditorias que serão realizadas é usualmente
+parte do processo de planejamento estratégico da ISC. Caso
+apropriado, os auditores devem contribuir com esse processo em
+suas respectivas áreas de especialização. Eles podem compartilhar
+conhecimento adquirido em auditorias anteriores e informações do
+processo de planejamento estratégico podem ser relevantes para o
+trabalho subsequente do auditor.
+Nesse processo, os auditores devem considerar que temas de auditoria
+devem ser suficientemente significativos, bem como auditáveis e de
+acordo com o mandato da ISC. O processo de seleção de temas deve
+procurar maximizar o impacto esperado da auditoria, levando em
+conta as capacidades de auditoria (por exemplo, recursos humanos e
+habilidades profissionais).
+Técnicas formais de preparação para o planejamento estratégico,
+como análise de riscos ou avaliação de problemas podem ajudar
+a estruturar o processo, mas devem ser complementadas pelo
+julgamento profissional para evitar avaliações unilaterais.
+
+Desenhando a auditoria
+37) Os auditores devem planejar a auditoria de forma que
+    contribua para uma auditoria de alta qualidade, que será
+    realizada de maneira econômica, eficiente, eficaz e oportuna
+    e de acordo com os princípios da boa gestão de projetos.
+Ao planejar uma auditoria, é importante considerar:
+      *o conjunto de conhecimentos e informações necessários para um
+      entendimento das entidades auditadas, permitindo, assim, uma
+      avaliação de problemas e riscos, possíveis fontes de evidência,
+      auditabilidade e importância da área considerada para ser auditada;
+      *os objetivos, questões, critérios, objeto e metodologia da auditoria
+      (incluindo técnicas a serem usadas para coletar evidências e conduzir
+      análises da auditoria);
+      *as atividades necessárias e requisitos relativos à pessoal e
+      habilidades (incluindo independência da equipe de auditoria, recursos
+      humanos e possível necessidade de especialistas externos), o custo
+      estimado da auditoria, os prazos e metas chave do projeto e os
+      principais pontos de controle.
+Para garantir que a auditoria seja adequadamente planejada, portanto,
+os auditores precisam adquirir conhecimento suficiente do objeto.
+Uma auditoria operacional geralmente requer que o conhecimento
+específico, substantivo e metodológico da auditoria sejam adquiridos
+antes do seu início (“pré-estudo”).
+Ao planejar a auditoria, o auditor deve elaborar os procedimentos
+a serem utilizados para coletar evidência de auditoria suficiente e
+apropriada. Isso pode ser abordado em vários estágios: decidindo
+sobre o desenho geral da auditoria (que perguntas fazer, por
+exemplo, explanatória/descritiva/avaliativa); determinando o nível
+de observação (por exemplo, olhar um processo ou arquivos
+individuais); metodologia (e.g. análises completas ou amostrais);
+técnicas específicas de coleta de dados (por exemplo, entrevista ou
+grupo focal). Métodos de coleta de dados e técnicas de amostragem
+devem ser escolhidos com cuidado. A fase de planejamento deve
+também envolver trabalho de pesquisa com o objetivo de construir
+conhecimento, testar vários desenhos de auditoria e verificar se os
+dados necessários estão disponíveis. Isso torna mais fácil a escolha
+do método mais apropriado de auditoria.
+A alta administração e a gestão operacional da ISC e a equipe de
+auditoria devem estar plenamente conscientes do desenho geral
+da auditoria e o que ele implica. As decisões sobre o desenho
+geral da auditoria e suas consequências em termos de recursos
+frequentemente envolverá a alta administração da ISC, que pode
+garantir que habilidades, recursos e capacidades estejam disponíveis
+para abordar os objetivos e as questões da auditoria.
+O planejamento deve permitir flexibilidade, de modo que os auditores
+possam tirar benefícios de perspectivas obtidas no curso da auditoria.
+Os métodos de auditoria escolhidos devem ser aqueles que melhor
+permitam que os dados de auditoria sejam coletados de uma maneira
+eficiente e eficaz. Embora os auditores devam ter como objetivo
+adotar as melhores práticas, considerações práticas, tais como a
+disponibilidade de dados, podem restringir a escolha de métodos.
+Portanto, é aconselhável ser flexível e pragmático a esse respeito.
+Por essa razão, procedimentos de auditoria operacional não devem
+ser excessivamente padronizados. Prescrição em excesso pode
+prejudicar a flexibilidade, o julgamento profissional e os altos níveis de
+habilidades analíticas que são necessários na auditoria operacional.
+Em certos casos – onde, por exemplo, a auditoria requer que dados
+sejam coletados em regiões ou áreas muito diferentes ou nos quais
+a auditoria seja realizada por um grande número de auditores – pode
+haver a necessidade de um plano de auditoria mais detalhado, no qual
+questões e procedimentos de auditoria são explicitamente definidos.
+Ao planejar uma auditoria, os auditores devem avaliar o risco de
+fraude. Se isto for significativo no contexto dos objetivos de auditoria,
+os auditores devem obter um entendimento dos sistemas relevantes
+de controle interno e examinar se há sinais de irregularidades que
+prejudicam o desempenho. Devem também determinar se as
+entidades envolvidas tomaram medidas apropriadas para atender
+eventuais recomendações de auditorias anteriores ou outros
+exames que sejam de relevância para os objetivos da auditoria. Por
+último, os auditores devem procurar manter contato com as partes
+interessadas, inclusive cientistas ou especialistas na área, a fim de
+construir conhecimento adequado em relação, por exemplo, a boas
+ou melhores práticas. O objetivo geral na fase de planejamento é
+decidir, por meio da construção de conhecimento e considerando uma
+variedade de estratégias, a melhor forma de conduzir a auditoria.
+Execução
+Evidências, achados e conclusões
+38) Os auditores devem obter evidência de auditoria suficiente
+    e apropriada para fundamentar os achados, chegar a
+    conclusões em resposta aos objetivos e questões de
+    auditoria e emitir recomendações.
+Todos os achados e conclusões de auditoria devem estar respaldados
+por evidência suficiente e apropriada. Esta deve ser colocada no
+contexto e todos os argumentos relevantes, prós e contras e diferentes
+perspectivas, devem ser levados em conta antes de se chegar às
+conclusões. A natureza da evidência de auditoria necessária para
+chegar a conclusões na auditoria operacional é determinada pelo
+objeto, pelo objetivo e pelas questões de auditoria.
+O auditor deve avaliar as evidências com vistas a obter os achados de
+auditoria. Com base nos achados, o auditor deve exercer julgamento
+profissional para chegar a uma conclusão. Achados e conclusões são
+resultados de análises em resposta aos objetivos de auditoria. Eles
+devem fornecer respostas para as questões de auditoria. Conclusões
+podem ser baseadas em evidências quantitativas obtidas com o uso de
+métodos científicos ou técnicas de amostragem. Formular conclusões
+pode exigir um grau significativo de julgamento e interpretação para
+responder às questões de auditoria, devido ao fato de que evidências
+podem ser persuasivas (“apontam para a conclusão...”) em vez de
+conclusivas (“certo/errado”). A necessidade de precisão deve ser
+sopesada em face ao que é razoável, econômico e relevante para atingir
+o propósito. O envolvimento da alta administração é recomendado.
+A auditoria operacional envolve uma série de processos analíticos que
+evoluem gradualmente por meio de interação mútua, permitindo que
+as questões e métodos empregados se desenvolvam e fiquem mais
+profundos e sofisticados. Isso pode envolver combinar e comparar
+dados de diferentes fontes, extrair conclusões preliminares e compilar
+achados a fim de construir hipóteses que possam ser testadas, caso
+necessário, com dados adicionais. Todo o processo é estreitamente
+ligado à elaboração do relatório de auditoria, que pode ser visto como
+uma parte essencial do processo analítico que culmina em respostas
+para as questões de auditoria. É importante que os auditores sejam
+orientados pelos objetivos, que trabalhem sistematicamente e com
+devido zelo e objetividade.
+Relatório
+Conteúdo do relatório
+39) Os auditores devem se esforçar para fornecer relatórios de
+    auditoria que sejam completos, convincentes, tempestivos,
+    de fácil leitura e equilibrados.
+Para ser completo, um relatório deve incluir todas as informações
+necessárias para abordar o objetivo e as questões de auditoria, sendo
+suficientemente detalhado para oferecer uma compreensão do objeto,
+dos achados e das conclusões da auditoria. Para ser convincente, deve
+ser logicamente estruturado e apresentar uma clara relação entre o
+objetivo, os critérios, os achados, as conclusões e as recomendações
+da auditoria. Todos os argumentos relevantes devem ser abordados.
+Em uma auditoria operacional, os auditores relatam seus achados
+sobre a economicidade e eficiência com que os recursos são
+adquiridos e usados e a eficácia com que os objetivos são alcançados.
+Os relatórios podem variar consideravelmente em escopo e natureza,
+por exemplo, avaliando se os recursos foram aplicados de uma boa
+maneira, comentando sobre o impacto de políticas e programas e
+recomendando mudanças destinadas a resultar em melhorias.
+O relatório deve incluir informações sobre o objetivo, as questões de
+auditoria e as respostas a essas questões, o objeto, os critérios, a
+metodologia, as fontes dos dados, quaisquer limitações referentes aos
+dados utilizados e os achados de auditoria. Deve responder claramente
+as questões de auditoria ou explicar porque não foi possível respondê-
+las. Alternativamente, os auditores devem considerar reformular as
+questões de auditoria para ajustá-las às evidências obtidas e, assim,
+chegar a uma posição onde as questões possam ser respondidas. Os
+achados de auditoria devem ser colocados em perspectiva e deve-se
+garantir congruência entre o objetivo, as questões, os achados e as
+conclusões da auditoria. O relatório deve explicar porque e como os
+problemas mencionados nos achados prejudicam o desempenho, a
+fim de encorajar a entidade auditada ou o usuário do relatório a iniciar
+as ações corretivas. Deve, quando apropriado, incluir recomendações
+para melhorar o desempenho.
+O relatório deve ser tão claro e conciso quanto permita o objeto da
+auditoria e redigido em linguagem que não dê margem a ambiguidade.
+Como um todo, deve ser construtivo, contribuir para melhorar
+conhecimento e destacar quaisquer melhorias necessárias.
+
+Recomendações
+40) Se relevante e permitido pelo mandato da ISC, os auditores
+    devem procurar fornecer recomendações construtivas que
+    possam contribuir significativamente para enfrentar as
+    deficiências e os problemas identificados pela auditoria.
+As recomendações devem ser bem fundamentadas e agregar valor.
+Devem tratar as causas dos problemas e/ou deficiências. No entanto,
+devem ser redigidas de forma a evitar banalidades ou simplesmente
+contradizer as conclusões da auditoria, e não devem invadir as
+responsabilidades da administração. Deve ficar claro de quem e sobre
+o que se está falando em cada recomendação, quem é responsável
+por tomar qualquer iniciativa e o que as recomendações significam –
+isto é, como contribuirão para melhorar o desempenho.
+As recomendações devem ser práticas e devem ser dirigidas às
+entidades que têm responsabilidade e competência para implementá-
+las. As recomendações devem ser claras e apresentadas de maneira
+lógica e fundamentada. Devem ter conexão com os objetivos, os
+achados e as conclusões de auditoria. Juntamente com o texto
+completo do relatório, as recomendações devem convencer o leitor
+de que provavelmente contribuirão para uma melhora significativa na
+condução de ações e programas do governo, por exemplo, baixando
+custos, simplificando a administração, melhorando a qualidade e
+o volume dos serviços ou aprimorando a eficácia, o impacto ou os
+benefícios para a sociedade.
+
+Distribuição do relatório
+41) Os auditores devem procurar tornar seus relatórios
+    amplamente acessíveis, de acordo com o mandato da ISC.
+Os auditores devem ter em mente que a ampla distribuição dos
+relatórios de auditoria pode promover a credibilidade da função
+de auditoria. Relatórios devem, portanto, ser distribuídos para as
+entidades auditadas, os poderes executivo e/ou legislativo e, quando
+pertinente, tornados acessíveis ao público em geral diretamente e
+através da mídia e de outras partes interessadas.
+Monitoramento
+42) Os auditores devem monitorar achados e recomendações
+    de auditorias anteriores sempre que apropriado. O
+    monitoramento deve ser relatado adequadamente para dar
+    um retorno ao poder legislativo, se possível, juntamente com
+    as conclusões e os impactos de todas as ações corretivas
+    relevantes.
+O monitoramento refere-se à análise feita pelo auditor das
+ações corretivas adotadas pela entidade auditada ou outra parte
+responsável, com base nos resultados da auditoria operacional. É
+uma atividade independente que aumenta o valor do processo de
+auditoria ao fortalecer o impacto da auditoria e lançar as bases para
+o aprimoramento de futuros trabalhos de auditoria. O monitoramento
+também encoraja as entidades auditadas e outros usuários dos
+relatórios a levar isso a sério e fornece aos auditores lições úteis e
+indicadores de desempenho. O monitoramento não se restringe à
+implantação das recomendações;
+concentra-se também em verificar se a entidade auditada tratou de
+forma adequada os problemas e se remediou a situação subjacente
+após um período razoável de tempo.
+Ao fazer o monitoramento de um relatório de auditoria, o auditor deve
+se concentrar nos achados e nas recomendações que ainda sejam
+relevantes por ocasião do monitoramento e fazer uma abordagem
+neutra e independente.
+Os resultados do monitoramento podem ser relatados individualmente
+ou como um relatório consolidado, o que, por sua vez, pode incluir uma
+análise de auditorias diferentes, possivelmente destacando tendências
+e temas comuns em várias áreas relatadas. O monitoramento pode
+contribuir para uma melhor compreensão do valor agregado pela
+auditoria operacional em um determinado período de tempo ou em
+uma determinada área temática.
