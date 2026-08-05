@@ -192,7 +192,7 @@ def main():
         formatted_text = formatted_text.replace(f" {int_to_roman(i)}\n", f" {i}\n")
         formatted_text = formatted_text.replace(f"\n{int_to_roman(i)} ", f"\n{i} ")
         formatted_text = formatted_text.replace(f" {int_to_roman(i)},", f" {i},")
-        #formatted_text = formatted_text.replace(f" {int_to_roman(i)}.", f" {i}.")
+        formatted_text = formatted_text.replace(f" {int_to_roman(i)}.", f" {i}.")
         formatted_text = formatted_text.replace(f" {int_to_roman(i)}-", f" {i} -")
         formatted_text = formatted_text.replace(f" {int_to_roman(i)}‑", f" {i}‑") # Traço diferente
         formatted_text = formatted_text.replace(f"\n{int_to_roman(i)} – ", f"\n{i} – ")
