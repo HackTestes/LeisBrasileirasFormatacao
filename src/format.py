@@ -146,6 +146,7 @@ def main():
     formatted_text = formatted_text.replace("(Regulamento)", "")
     formatted_text = formatted_text.replace("(NR)", "")
     formatted_text = formatted_text.replace("Produção de efeitos\n", "\n")
+    formatted_text = formatted_text.replace("(Vide)", "")
 
     # \( ou \) : são os parêntes literais já que é uma caracter especial
     # [\n\)] : representa uma quebra de linha OU o fechamento de parênteses
@@ -157,7 +158,13 @@ def main():
     formatted_text = re.sub(r'\(Vide [^\)]*[\)]', "", formatted_text, flags=re.IGNORECASE)
     formatted_text = re.sub(r'\(Regulamento Dec. [^\)]*[\)]', "", formatted_text, flags=re.IGNORECASE)
     formatted_text = re.sub(r'\(Alterad[oa] pel[^\)]*[\)]', "", formatted_text, flags=re.IGNORECASE)
-    formatted_text = re.sub(r'\(Revogad[oa] pel[^\)]*[\)]', "Revogado", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Revogad[oa] pel[^\)]*[\)]', "REVOGADO", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Produção de efeito[^\)]*[\)]', "", formatted_text, flags=re.IGNORECASE)
+
+    # TCE MA Regimento Interno
+    formatted_text = re.sub(r'\(Nova Redação dada[^\)]*[\)]', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Incluído dada[ ]*pel[^\)]*[\)]', "", formatted_text, flags=re.IGNORECASE)
+    formatted_text = re.sub(r'\(Revogad[oa][^\)]*[\)]', "REVOGADO", formatted_text, flags=re.IGNORECASE)
 
     # Regras específicas para o Regimento Interno da Câmara dos Deputados
     formatted_text = re.sub(r'\(“Caput” do artigo com redação dada[^\)]*\)', "", formatted_text, flags=re.IGNORECASE)
