@@ -244,7 +244,7 @@ Parágrafo único. Poderão as entidades devedoras, para o cumprimento do dispos
 
 Artigo 34. O sistema tributário nacional entrará em vigor a partir do primeiro dia do quinto mês seguinte ao da promulgação da Constituição, mantido, até então, o da Constituição de 1967, com a redação dada pela Emenda número 1, de 1969, e pelas posteriores.
 
-Parágrafo 1º Entrarão em vigor com a promulgação da Constituição os artigos 148, 149, 150, 154, 1, 156, 3, e 159, 1, "c", revogadas as disposições em contrário da Constituição de 1967 e das Emendas que a modificaram, especialmente de seu artigo 25, III.
+Parágrafo 1º Entrarão em vigor com a promulgação da Constituição os artigos 148, 149, 150, 154, 1, 156, 3, e 159, 1, "c", revogadas as disposições em contrário da Constituição de 1967 e das Emendas que a modificaram, especialmente de seu artigo 25, 3.
 
 Parágrafo 2º O Fundo de Participação dos Estados e do Distrito Federal e o Fundo de Participação dos Municípios obedecerão às seguintes determinações:
 
@@ -320,7 +320,7 @@ Inciso 3 - entre o terceiro e o décimo segundo exercício financeiro subsequent
 
 Artigo 39. Para efeito do cumprimento das disposições constitucionais que impliquem variações de despesas e receitas da União, após a promulgação da Constituição, o Poder Executivo deverá elaborar e o Poder Legislativo apreciar projeto de revisão da lei orçamentária referente ao exercício financeiro de 1989.
 
-Parágrafo único. O Congresso Nacional deverá votar no prazo de doze meses a lei complementar prevista no artigo 161, II.
+Parágrafo único. O Congresso Nacional deverá votar no prazo de doze meses a lei complementar prevista no artigo 161, 2.
 
 Artigo 40. É mantida a Zona Franca de Manaus, com suas características de área livre de comércio, de exportação e importação, e de incentivos fiscais, pelo prazo de vinte e cinco anos, a partir da promulgação da Constituição.     
 
@@ -592,11 +592,11 @@ Parágrafo 3º É a União autorizada a emitir títulos da dívida pública inte
 
 Artigo 76. São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2032, 30% (trinta por cento) da arrecadação da União relativa às contribuições sociais, sem prejuízo do pagamento das despesas do Regime Geral de Previdência Social, às contribuições de intervenção no domínio econômico, às taxas e às receitas patrimoniais, já instituídas ou que vierem a ser criadas até a referida data.  
 
-Parágrafo 1º (Revogado).                     
+Parágrafo 1º REVOGADO.                     
 
 Parágrafo 2º Excetua-se da desvinculação de que trata o caput a arrecadação da contribuição social do salário-educação a que se refere o Parágrafo 5º do artigo 212 da Constituição Federal.               .
 
-Parágrafo 3º (Revogado).                       
+Parágrafo 3º REVOGADO.                       
 
 Parágrafo 4º A desvinculação de que trata o caput não se aplica às receitas das contribuições sociais destinadas ao custeio da seguridade social.      
 
@@ -606,17 +606,17 @@ Parágrafo 6º A desvinculação de que trata ocaputdeste artigo não se aplica 
 
 Artigo 76-A. São desvinculados de órgão, fundo ou despesa, até 31 de dezembro de 2032, 30% (trinta por cento) das receitas dos Estados e do Distrito Federal relativas a impostos, taxas e multas já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes.        
 
-Parágrafo único. Excetuam-se da desvinculação de que trata o caput:               (Incluído dada pela Emenda constitucional número 93, de 2016)       
+Parágrafo único. Excetuam-se da desvinculação de que trata o caput:                      
 
-Inciso 1 - recursos destinados ao financiamento das ações e serviços públicos de saúde e à manutenção e desenvolvimento do ensino de que tratam, respectivamente, os incisos 2 e 3 do Parágrafo 2º do artigo 198 e o artigo 212 da Constituição Federal;                    (Incluído dada pela Emenda constitucional número 93, de 2016)       
+Inciso 1 - recursos destinados ao financiamento das ações e serviços públicos de saúde e à manutenção e desenvolvimento do ensino de que tratam, respectivamente, os incisos 2 e 3 do Parágrafo 2º do artigo 198 e o artigo 212 da Constituição Federal;                           
 
-Inciso 2 - receitas que pertencem aos Municípios decorrentes de transferências previstas na Constituição Federal;              (Incluído dada pela Emenda constitucional número 93, de 2016)       
+Inciso 2 - receitas que pertencem aos Municípios decorrentes de transferências previstas na Constituição Federal;                     
 
-Inciso 3 - receitas de contribuições previdenciárias e de assistência à saúde dos servidores;                 (Incluído dada pela Emenda constitucional número 93, de 2016)       
+Inciso 3 - receitas de contribuições previdenciárias e de assistência à saúde dos servidores;                        
 
-Inciso 4 - demais transferências obrigatórias e voluntárias entre entes da Federação com destinação especificada em lei;                (Incluído dada pela Emenda constitucional número 93, de 2016)       
+Inciso 4 - demais transferências obrigatórias e voluntárias entre entes da Federação com destinação especificada em lei;                       
 
-Inciso 5 - fundos instituídos pelo Poder Judiciário, pelos Tribunais de Contas, pelo Ministério Público, pelas Defensorias Públicas e pelas Procuradorias-Gerais dos Estados e do Distrito Federal.            (Incluído dada pela Emenda constitucional número 93, de 2016)       
+Inciso 5 - fundos instituídos pelo Poder Judiciário, pelos Tribunais de Contas, pelo Ministério Público, pelas Defensorias Públicas e pelas Procuradorias-Gerais dos Estados e do Distrito Federal.                   
 
 Artigo 76-B. São desvinculadas de órgão, fundo ou despesa, até 31 de dezembro de 2032, as receitas dos Municípios relativas a impostos, contribuições, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes, de acordo com os seguintes percentuais:          
 
@@ -628,11 +628,11 @@ Parágrafo 1º Excetuam-se das desvinculações de que trata o caput deste artig
 
 Inciso 1 - recursos destinados ao financiamento das ações e serviços públicos de saúde e à manutenção e desenvolvimento do ensino de que tratam, respectivamente, o inciso 3 do Parágrafo 2º do artigo 198 e o artigo 212 da Constituição Federal;     
 
-Inciso 2 - receitas de contribuições previdenciárias e de assistência à saúde dos servidores;                (Incluído dada pela Emenda constitucional número 93, de 2016)       
+Inciso 2 - receitas de contribuições previdenciárias e de assistência à saúde dos servidores;                       
 
-Inciso 3 - transferências obrigatórias e voluntárias entre entes da Federação com destinação especificada em lei;                (Incluído dada pela Emenda constitucional número 93, de 2016)       
+Inciso 3 - transferências obrigatórias e voluntárias entre entes da Federação com destinação especificada em lei;                       
 
-Inciso 4 - fundos instituídos pelo Tribunal de Contas do Município.             (Incluído dada pela Emenda constitucional número 93, de 2016)       
+Inciso 4 - fundos instituídos pelo Tribunal de Contas do Município.                    
 
 Parágrafo 2º A cada exercício financeiro, até a data de que trata o caput deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os superávits financeiros, verificados no exercício financeiro imediatamente anterior, dos fundos públicos instituídos pelo Poder Executivo municipal.      
 
@@ -717,7 +717,7 @@ Parágrafo 3º A alíquota  da  contribuição  de  que trata este artigo será 
 
 Inciso 1 - trinta e oito centésimos por cento, nos exercícios financeiros de 2002 e 2003;              
 
-Inciso 2 -                  Revogado
+Inciso 2 -                  REVOGADO
 
 Artigo 85. A contribuição a que se refere o artigo 84 deste Ato das Disposições Constitucionais Transitórias não incidirá, a partir do trigésimo dia da data de publicação desta Emenda Constitucional, nos lançamentos:              
 
@@ -769,7 +769,7 @@ Artigo 88. Enquanto  lei  complementar  não  disciplinar  o disposto nos inciso
 
 1 – terá alíquota mínima de dois por cento, exceto para os serviços a que se referem os itens 32, 33 e 34 da Lista de Serviços anexa ao Decreto-Lei número 406, de 31 de dezembro de 1968;              
 
-2 – não  será  objeto  de  concessão  de  isenções, incentivos e benefícios fiscais, que resulte, direta ou indiretamente, na redução da alíquota mínima estabelecida no inciso I.             
+2 – não  será  objeto  de  concessão  de  isenções, incentivos e benefícios fiscais, que resulte, direta ou indiretamente, na redução da alíquota mínima estabelecida no inciso 1.             
 
 Artigo 89. Os integrantes da carreira policial militar e os servidores municipais do ex-Território Federal de Rondônia que, comprovadamente, se encontravam no exercício regular de suas funções prestando serviço àquele ex-Território na data em que foi transformado em Estado, bem como os servidores e os policiais militares alcançados pelo disposto no artigo 36 da Lei Complementar número 41, de 22 de dezembro de 1981, e aqueles admitidos regularmente nos quadros do Estado de Rondônia até a data de posse do primeiro Governador eleito, em 15 de março de 1987, constituirão, mediante opção, quadro em extinção da administração federal, assegurados os direitos e as vantagens a eles inerentes, vedado o pagamento, a qualquer título, de diferenças remuneratórias.                            
 
@@ -783,7 +783,7 @@ Parágrafo 1º Fica prorrogada, até a data referida no caput deste artigo, a vi
 
 Parágrafo 2º Até a data referida no caput deste artigo, a alíquota da contribuição de que trata o artigo 84 deste Ato das Disposições Constitucionais Transitórias será de trinta e oito centésimos por cento.               
 
-Artigo 91.    Revogado
+Artigo 91.    REVOGADO
 
 Artigo 92. São acrescidos dez anos ao prazo fixado no artigo 40 deste Ato das Disposições Constitucionais Transitórias.                 
 
@@ -809,7 +809,7 @@ Parágrafo 6º Lei complementar instituirá Fundo de Desenvolvimento Sustentáve
 
 Parágrafo 7º O Fundo de que trata o Parágrafo 6º será integrado pelos Estados onde estão localizadas as áreas de livre comércio de que trata ocapute observará, no que couber, o disposto no Parágrafo 3º, 1 e 2, sendo, quanto a este inciso, considerados os respectivos Estados, e no Parágrafo 4º.    
 
-Artigo 93. A vigência do disposto no artigo 159, 3, e Parágrafo 4º, iniciará somente após a edição da lei de que trata o referido inciso III.                    
+Artigo 93. A vigência do disposto no artigo 159, 3, e Parágrafo 4º, iniciará somente após a edição da lei de que trata o referido inciso 3.                    
 
 Artigo 94. Os regimes especiais de tributação para microempresas e empresas de pequeno porte próprios da União, dos Estados, do Distrito Federal e dos Municípios cessarão a partir da entrada em vigor do regime previsto no artigo 146, 3, d, da Constituição. 
 
@@ -963,15 +963,15 @@ Inciso 4 - a totalidade dos depósitos em precatórios e requisições diretas d
 
 Parágrafo 3º Os recursos adicionais previstos nos incisos 1, 2 e 4 do Parágrafo 2º deste artigo serão transferidos diretamente pela instituição financeira depositária para a conta especial referida no caput deste artigo, sob única e exclusiva administração do Tribunal de Justiça local, e essa transferência deverá ser realizada em até sessenta dias contados a partir da entrada em vigor deste parágrafo, sob pena de responsabilização pessoal do dirigente da instituição financeira por improbidade.                     
 
-Parágrafo 4º (Revogado).      
+Parágrafo 4º REVOGADO.      
 
-Inciso 1 - (revogado);        
+Inciso 1 - REVOGADO;        
 
-Inciso 2 - (revogado);      
+Inciso 2 - REVOGADO;      
 
-Inciso 3 - (revogado);        
+Inciso 3 - REVOGADO;        
 
-Inciso 4 - (revogado).        
+Inciso 4 - REVOGADO.        
 
 Parágrafo 5º Os empréstimos de que trata o inciso 3 do Parágrafo 2º deste artigo poderão ser destinados, por meio de ato do Poder Executivo, exclusivamente ao pagamento de precatórios por acordo direto com os credores, na forma do disposto no inciso 3 do Parágrafo 8º do artigo 97 deste Ato das Disposições Constitucionais Transitórias.              
 
@@ -1007,9 +1007,9 @@ Parágrafo 2º Os Estados, o Distrito Federal e os Municípios regulamentarão n
 
 Parágrafo 3º Decorrido o prazo estabelecido no Parágrafo 2º deste artigo sem a regulamentação nele prevista, ficam os credores de precatórios autorizados a exercer a faculdade a que se refere o caput deste artigo.                    
 
-Artigo 106.    Revogado
+Artigo 106.    REVOGADO
 
-Artigo 107.    Revogado
+Artigo 107.    REVOGADO
 
 Artigo 107-A. Até o fim de 2026, fica estabelecido, para cada exercício financeiro, limite para alocação na proposta orçamentária das despesas com pagamentos em virtude de sentença judiciária de que trata o artigo 100 da Constituição Federal, equivalente ao valor da despesa paga no exercício de 2016, incluídos os restos a pagar pagos, corrigido, para o exercício de 2017, em 7,2% (sete inteiros e dois décimos por cento) e, para os exercícios posteriores, pela variação do Índice Nacional de Preços ao Consumidor Amplo (IPCA), publicado pela Fundação Instituto Brasileiro de Geografia e Estatística, ou de outro índice que vier a substituí-lo, apurado no exercício anterior a que se refere a lei orçamentária, devendo o espaço fiscal decorrente da diferença entre o valor dos precatórios expedidos e o respectivo limite ser destinado ao programa previsto no parágrafo único do artigo 6º e à seguridade social, nos termos do artigo 194, ambos da Constituição Federal, a ser calculado da seguinte forma:    
 
@@ -1045,21 +1045,21 @@ Inciso 4 - demais precatórios de natureza alimentícia além do valor previsto 
 
 Inciso 5 - demais precatórios.       
 
-Artigo 108. Revogado
+Artigo 108. REVOGADO
 
-Artigo 109.   Revogado 
+Artigo 109.   REVOGADO 
 
-Artigo 110.  Revogado
+Artigo 110.  REVOGADO
 
-Artigo 111.   Revogado
+Artigo 111.   REVOGADO
 
-Artigo 111-A.    Revogado
+Artigo 111-A.    REVOGADO
 
-Artigo 112.    Revogado 
+Artigo 112.    REVOGADO 
 
 Artigo 113. A proposição legislativa que crie ou altere despesa obrigatória ou renúncia de receita deverá ser acompanhada da estimativa do seu impacto orçamentário e financeiro.                  
 
-Artigo 114.   Revogado
+Artigo 114.   REVOGADO
 
 Artigo 115. Fica excepcionalmente autorizado o parcelamento das contribuições previdenciárias e dos demais débitos dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, com os respectivos regimes próprios de previdência social, com vencimento até 31 de agosto de 2025, inclusive os parcelados anteriormente, no prazo máximo de 300 (trezentas) prestações mensais, mediante autorização em lei específica do ente federativo, desde que comprovem, em até 15 (quinze) meses após a data da promulgação da alteração deste caput, ter aderido ao Programa de Regularidade Previdenciária junto ao Ministério da Previdência Social e alterado a respectiva legislação do regime próprio de previdência social para atendimento das seguintes condições, cumulativamente:      
 

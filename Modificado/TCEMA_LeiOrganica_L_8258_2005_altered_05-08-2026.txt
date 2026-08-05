@@ -266,7 +266,7 @@ Inciso 2 - do terceiro que, como contratante ou parte interessada na prática do
 
 Parágrafo 4º A responsabilidade do terceiro de que trata o inciso 2 do parágrafo anterior derivará do cometimento de irregularidade que não se limite ao simples descumprimento de obrigações contratuais ou ao não pagamento de títulos de crédito.
 
-Parágrafo 5º Verificadas as ocorrências previstas nos incisos 3 e 4 do caput, o Tribunal, por ocasião do julgamento, determinará a remessa de cópia da documentação pertinente à Procuradoria Geral de Justiça do Estado, para ajuizamento das ações cabíveis, podendo decidir sobre essa mesma providência também nas hipóteses dos incisos 1 e II.
+Parágrafo 5º Verificadas as ocorrências previstas nos incisos 3 e 4 do caput, o Tribunal, por ocasião do julgamento, determinará a remessa de cópia da documentação pertinente à Procuradoria Geral de Justiça do Estado, para ajuizamento das ações cabíveis, podendo decidir sobre essa mesma providência também nas hipóteses dos incisos 1 e 2.
 
 Artigo 23. Quando julgar as contas irregulares, havendo débito, o Tribunal condenará o responsável ao pagamento da dívida atualizada monetariamente, acrescida dos juros de mora devidos, podendo, ainda, aplicar-lhe a multa prevista no artigo 66.
 
@@ -520,7 +520,7 @@ Inciso 3 - recomendará a adoção de providências quando verificadas oportunid
 
 Inciso 4 - citará o responsável para, no prazo de trinta dias, prorrogável por até trinta dias, a critério do relator, apresentar defesa, quando verificada a ocorrência de irregularidades decorrentes de ato ilegal, ilegítimo ou antieconômico, bem como infração a norma legal ou regulamentar de natureza contábil, financeira, orçamentária ou patrimonial.
 
-Parágrafo 1º Acolhida a defesa, o Tribunal declarará esse fato mediante acórdão e, conforme o caso, adotará uma das providências previstas no inciso I.
+Parágrafo 1º Acolhida a defesa, o Tribunal declarará esse fato mediante acórdão e, conforme o caso, adotará uma das providências previstas no inciso 1.
 
 Parágrafo 2º Não elidido o fundamento da impugnação, o Tribunal aplicará ao responsável, no próprio processo de fiscalização, ressalvado o disposto no artigo 19, a multa prevista no inciso 3 ou 4 do artigo 67 e determinará o apensamento do processo às contas correspondentes.
 
@@ -888,7 +888,7 @@ Inciso 3 - organizar e manter biblioteca e centro de documentação, sobre doutr
 
 Inciso 4 - fomentar a publicação e a divulgação de obras e trabalhos técnicos relacionados ao controle externo da Administração Pública.
 
-Parágrafo único. O Presidente do Instituto de Estudos e Pesquisa será o Conselheiro eleito pelo Plenário, na sessão de eleição do Presidente do Tribunal, para um mandato correspondente a dois anos civil, permitida a reeleição apenas por um período. Revogado
+Parágrafo único. O Presidente do Instituto de Estudos e Pesquisa será o Conselheiro eleito pelo Plenário, na sessão de eleição do Presidente do Tribunal, para um mandato correspondente a dois anos civil, permitida a reeleição apenas por um período. REVOGADO
 
 Artigo 89. A Escola de Contas do Tribunal de Contas do Estado tem por finalidade propor e conduzir políticas e ações de educação corporativa e de gestão do conhecimento organizacional. 
 
@@ -1050,7 +1050,7 @@ Inciso 5 - promover junto à Procuradoria-Geral do Estado, à Procuradoria do Mu
 
 Inciso 6 - acionar o Ministério Público para a adoção das medidas legais no âmbito de sua competência. 
 
-Parágrafo 1º Revogado
+Parágrafo 1º REVOGADO
 
 Parágrafo 2º Na oportunidade em que emitir seu parecer, o Ministério Público, mesmo que suscite questão preliminar, manifestar-se-á também quanto ao mérito, ante a eventualidade daquela não ser acolhida.
 

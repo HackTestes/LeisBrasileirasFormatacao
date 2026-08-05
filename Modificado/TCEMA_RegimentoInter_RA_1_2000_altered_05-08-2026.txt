@@ -278,13 +278,13 @@ COMPETÊNCIA DAS CÂMARAS
 
 Artigo 21. Compete à Primeira e à Segunda Câmaras deliberar sobre:
 
-Inciso 1 - Revogado
+Inciso 1 - REVOGADO
 
-Inciso 2 - Revogado
+Inciso 2 - REVOGADO
 
-Inciso 3 - Revogado
+Inciso 3 - REVOGADO
 
-Inciso 4 - Revogado
+Inciso 4 - REVOGADO
 
 Inciso 5 - atos de admissão de pessoal da Administração Direta e Indireta, incluídas as fundações instituídas e mantidas pelos Poderes Público Estadual ou Municipal;
 
@@ -316,13 +316,13 @@ Parágrafo único. A Comissão de Transformação Digital e Inovação Tecnológ
 
 Artigo 22-B As Comissões temporárias serão compostas de dois ou mais membros, dentre conselheiros e conselheiros-substitutos, indicados no ato de criação pelo Pleno ou pelo presidente do Tribunal de Contas, extinguindo-se no término do prazo fixado para o seu funcionamento ou quando alcançado o objetivo. 
 
-Artigo 23. Revogado
+Artigo 23. REVOGADO
 
-Parágrafo 1º Revogado
+Parágrafo 1º REVOGADO
 
-Parágrafo 2º Revogado
+Parágrafo 2º REVOGADO
 
-Artigo 24. Revogado
+Artigo 24. REVOGADO
 
 Artigo 25. Ato normativo definirá as competências da Comissão de Ética, Gestão de Pessoas e Processo Produtivo Interno e da Comissão de Transformação Digital e Inovação Tecnológica e Jurídica, assim como as atribuições do seu respectivo presidente e secretário-executivo.  
 
@@ -422,7 +422,7 @@ Artigo 36. Se não houver número legal, o Presidente convocará nova sessão.
 
 Artigo 37. Havendo número legal, observar-se-á o disposto no parágrafo único do artigo 31 deste Regimento. 
 
-Artigo 38. Revogado
+Artigo 38. REVOGADO
 
 Artigo 39. Aprovada a Ata, passar-se-á ao expediente, para comunicações, indicações, moções e requerimentos, os quais, quando couber, serão objeto de deliberação do Plenário.
 
@@ -450,7 +450,7 @@ Parágrafo 1º Na apreciação e julgamentos dos processos será respeitada a or
 
 Parágrafo 2º Poderá ser concedida pelo Presidente, ouvido o Plenário, preferência para o julgamento ou apreciação de processo no qual deva ser produzida sustentação oral.
 
-Artigo 43. O Relator limitar-se-á a enunciar a identificação do processo e a pronunciar o seu Voto ou proposta de decisão, com a minuta de Acórdão ou de Decisão quanto à aquele classificado no Grupo I.
+Artigo 43. O Relator limitar-se-á a enunciar a identificação do processo e a pronunciar o seu Voto ou proposta de decisão, com a minuta de Acórdão ou de Decisão quanto à aquele classificado no Grupo 1.
 
 Artigo 44. A discussão dos processos classificados no Grupo 2 será iniciada, em cada caso, com a apresentação, ainda que resumida, do Relatório, cabendo ao Relator prestar os esclarecimentos solicitados no curso dos debates.
 
@@ -648,19 +648,19 @@ Artigo 77. As pautas das Sessões Ordinárias e das Extraordinárias serão orga
 
 Parágrafo 1º Os pedidos de pauta serão elaborados sob a responsabilidade dos Relatores e entregues à Coordenadoria de Sessões e às Secretarias das Câmaras com antecedência mínima de oito dias da Sessão Ordinária e de dois dias da Sessão Extraordinária de caráter reservado. 
 
-Parágrafo 2º Revogado
+Parágrafo 2º REVOGADO
 
 Parágrafo 3º A pauta da Sessão Ordinária do Plenário e da Sessão Ordinária de Câmara será divulgada até quarenta e oito horas antes da Sessão, mediante publicação, em forma sinóptica, no Diário Oficial Eletrônico do Tribunal de Contas do Estado, e a pauta de Sessão Extraordinária de caráter reservado, que tratará exclusivamente de planos de auditoria, de outras ações estratégicas e do disposto no artigo 33 deste Regimento, será distribuída aos Gabinetes dos Conselheiros, dos Conselheiros-Substitutos e dos membros do Ministério Público junto ao Tribunal de Contas no dia útil seguinte à entrega prevista no Parágrafo 1º deste artigo. 
 
-Parágrafo 4º Revogado
+Parágrafo 4º REVOGADO
 
-Parágrafo 5º Revogado
+Parágrafo 5º REVOGADO
 
-Parágrafo 6º Revogado
+Parágrafo 6º REVOGADO
 
-Parágrafo 7º Revogado
+Parágrafo 7º REVOGADO
 
-Parágrafo 8º Revogado
+Parágrafo 8º REVOGADO
 
 Artigo 78. Além do disposto no Parágrafo único do artigo 63 deste Regimento, excluir-se-á processo da pauta mediante requerimento do Relator endereçado ao Presidente, que dará conhecimento ao respectivo Colegiado.
 
@@ -898,7 +898,7 @@ Inciso 38 - conceder vantagens e reconhecer direitos dos membros do Tribunal, na
 
 Inciso 39 - conceder licença para tratamento de saúde, até seis meses, aos Conselheiros, mediante atestado médico, bem assim as férias regulamentares e licença especial na forma da legislação específica.
 
-Parágrafo único. O Presidente poderá delegar as atribuições previstas nos incisos 25, 33 e XXXV. 
+Parágrafo único. O Presidente poderá delegar as atribuições previstas nos incisos 25, 33 e 35. 
 
 Artigo 95. Em caráter excepcional e, havendo urgência, o Presidente poderá decidir sobre matéria da competência do Tribunal, submetendo o ato à homologação do Plenário na primeira Sessão Ordinária que for realizada.
 
@@ -1136,11 +1136,11 @@ Parágrafo 2º Caberá ao Conselheiro-Substituto solicitar, ao Presidente, a inc
 
 Parágrafo 3º É vedado ao Conselheiro-Substituto manifestar, por qualquer meio de comunicação, opinião sobre processo pendente de julgamento, seu ou de outrem, ou juízo depreciativo sobre despachos, votos ou decisões deste Tribunal, ressalvada a crítica em julgamento ou em autos e em obras técnicas ou, ainda, no exercício do magistério. 
 
-Artigo 112. Revogado
+Artigo 112. REVOGADO
 
-Parágrafo 1º Revogado
+Parágrafo 1º REVOGADO
 
-Parágrafo 2º (Revogado dada pela Resolução TCE/MA número 268, de 2017)
+Parágrafo 2º REVOGADO
 
 Artigo 113. O Conselheiro-Substituto, quando em substituição a Conselheiro, terá os mesmos direitos e impedimentos do titular, não podendo, entretanto, votar e ser votado na eleição para Presidente, Vice-presidente, Corregedor e Ouvidor do Tribunal, e, quando no exercício das demais atribuições da Judicatura, os de Juiz de Direito de entrância final. 
 
@@ -1150,7 +1150,7 @@ Parágrafo 2º Os Conselheiros-Substitutos também poderão ser convocados, alte
 
 Parágrafo 3º Em caso de vacância de cargo de Conselheiro, o Presidente poderá convocar Conselheiro-Substituto para exercer as funções inerentes ao cargo vago, até novo provimento, observados os critérios estabelecidos nos Parágrafos  5º, 6º e 7º deste artigo. 
 
-Parágrafo 4º Revogado
+Parágrafo 4º REVOGADO
 
 Parágrafo 5º A convocação do Conselheiro-Substituto será feita observado o critério de rodízio, por um período de até sessenta dias, observada a ordem de antiguidade no cargo, ou a maioridade, no caso de idêntica antiguidade. 
 
@@ -1352,7 +1352,7 @@ Parágrafo 3º Os processos recepcionados neste Tribunal, em original, como resp
 
 Parágrafo 4º No caso específico de aposentadorias, reformas e pensões, os processos serão autuados e, após decisão definitiva, devolvidos para a origem.
 
-Parágrafo 5º Revogado
+Parágrafo 5º REVOGADO
 
 CAPÍTULO 2
 
@@ -1380,13 +1380,13 @@ Parágrafo 3º Para a formação das nove listas relativas aos Municípios, a Co
 
 Parágrafo 4º A relatoria das contas de Município compreende a prestação de contas do Prefeito, a tomada de contas dos gestores da administração direta, dos gestores dos fundos municipais e do presidente da Câmara Municipal e, ainda, se houver, as prestações de contas de entidades da administração indireta. 
 
-Parágrafo 5º Revogado
+Parágrafo 5º REVOGADO
 
-Parágrafo 6º Revogado
+Parágrafo 6º REVOGADO
 
-Parágrafo 7º Revogado
+Parágrafo 7º REVOGADO
 
-Parágrafo 8º Revogado
+Parágrafo 8º REVOGADO
 
 Artigo 141-A. O processo relativo a denúncia recebida pela Ouvidoria, bem como aquele referente a denúncia ou representação que ingresse pela unidade de protocolo será distribuído para o Relator das respectivas contas anuais referentes ao exercício financeiro em que, supostamente, teria ocorrido a irregularidade denunciada ou representada, e encaminhado imediatamente: 
 
@@ -1472,7 +1472,7 @@ Inciso 12 - elaboração de ato normativo;
 
 Inciso 13 - outros processos, em que haja necessidade de decisão colegiada pelo Tribunal de Contas.
 
-Parágrafo 1º Em se tratando de processo de prestação de contas anual, sob a responsabilidade de qualquer Chefe de Poder Executivo, quando ele exercer também atos de gestão, como ordenador de despesas ou como responsável por outros atos de gestão, a classificação da natureza será prevista no inciso 1 do presente artigo, embora mereça também e concomitantemente, análise técnica e apreciação pertinente à natureza de que trata o inciso II. 
+Parágrafo 1º Em se tratando de processo de prestação de contas anual, sob a responsabilidade de qualquer Chefe de Poder Executivo, quando ele exercer também atos de gestão, como ordenador de despesas ou como responsável por outros atos de gestão, a classificação da natureza será prevista no inciso 1 do presente artigo, embora mereça também e concomitantemente, análise técnica e apreciação pertinente à natureza de que trata o inciso 2. 
 
 Parágrafo 2º O processo de apreciação de contas anual, sob a responsabilidade do Presidente de Mesa Diretora dos Poderes Legislativos e órgãos constitucionalmente autônomos, receberá a classificação da natureza prevista no inciso 2 deste artigo. 
 
@@ -1594,7 +1594,7 @@ Artigo 157. Constituem formalidades essenciais para a completa instrução do pr
 
 2 – ciência das partes, inclusive por meio eletrônico, para manifestação ou apresentação de defesa, quando couber, mediante despacho do relator, presentes o artigo 118, Parágrafo 4º, e o artigo 120, Parágrafo 2º, da Lei número 8.258, de 6 de junho de 2005;  
 
-3 – Relatório da instrução do processo ou da realização de procedimento fiscalizatório, na forma do Parágrafo 2º do artigo 153 deste Regimento Interno. (Nova Redação dada pela Resolução TCE/MA número 423, de 2025)
+3 – Relatório da instrução do processo ou da realização de procedimento fiscalizatório, na forma do Parágrafo 2º do artigo 153 deste Regimento Interno. 
 
 Artigo 157-A. As etapas do rito processual, de que trata o caput do artigo 120 da Lei número 8.258, de 6 de junho de 2005, se darão em meio eletrônico, nos termos fixados neste Regimento Interno.
 
@@ -1620,7 +1620,7 @@ Parágrafo 7º As citações, notificações e intimações e demais comunicaç�
 
 Parágrafo 8º Os atos processuais serão digitais de modo a permitir que sejam produzidos, comunicados, armazenados e validados por meio eletrônico, na forma definida em Ato normativo do Tribunal de Contas do Estado. 
 
-Artigo 158. A realização de inspeção ou diligência, determinada durante o curso da instrução técnica, deverá ser finalizada no prazo de até sessenta dias, após o que o processo retornará ao relator no estado em que estiver. (Nova Redação dada pela Resolução TCE/MA número 423, de 2025)
+Artigo 158. A realização de inspeção ou diligência, determinada durante o curso da instrução técnica, deverá ser finalizada no prazo de até sessenta dias, após o que o processo retornará ao relator no estado em que estiver. 
 
 Artigo 159. Nenhum documento ou processo poderá ser juntado, desentranhado, apensado ou desapensado, sem que disto conste termo ou despacho lavrado nos autos.
 
@@ -1848,19 +1848,19 @@ Inciso 2 - ordenará a citação do responsável para no prazo de trinta dias, p
 
 Inciso 3 - adotará outras medidas cabíveis. 
 
-Inciso 4 - Revogado
+Inciso 4 - REVOGADO
 
 Parágrafo 1º Os débitos serão atualizados monetariamente e acrescidos de juros de mora, nos termos da legislação vigente, podendo ainda ser aplicada a multa de mora prevista no artigo 275 deste Regimento. 
 
 Parágrafo 2º O responsável que não atender à citação será considerado revel pelo Relator ou pelo Tribunal, para todos os efeitos, dando-se prosseguimento ao processo. 
 
-Parágrafo 3º Revogado
+Parágrafo 3º REVOGADO
 
-Parágrafo 4º Revogado
+Parágrafo 4º REVOGADO
 
-Parágrafo 5º Revogado
+Parágrafo 5º REVOGADO
 
-Parágrafo 6º Revogado
+Parágrafo 6º REVOGADO
 
 Artigo 193. Quando julgar as contas irregulares, havendo débito, o Tribunal condenará o responsável ao pagamento da dívida atualizada monetariamente, acrescida dos juros de mora devidos, podendo, ainda, aplicar-lhe a multa prevista no artigo 273 deste Regimento, sendo o instrumento da decisão considerado título executivo para fundamentar a respectiva ação de execução.
 
@@ -1874,19 +1874,19 @@ Seção 4
 
 Execução das Decisões
 
-Artigo 196. Revogado
+Artigo 196. REVOGADO
 
-Inciso 1 - Revogado
+Inciso 1 - REVOGADO
 
-Inciso 2 - Revogado
+Inciso 2 - REVOGADO
 
-Revogado
+REVOGADO
 
-Inciso 3 - Revogado
+Inciso 3 - REVOGADO
 
-Parágrafo 1º Revogado
+Parágrafo 1º REVOGADO
 
-Parágrafo 2º Revogado
+Parágrafo 2º REVOGADO
 
 Artigo 197. A decisão definitiva será formalizada mediante Acórdão, nos termos do inciso 5 do artigo 80 deste Regimento, cuja publicação no Diário Oficial Eletrônico do Tribunal de Contas do Estado constituirá: 
 
@@ -2352,7 +2352,7 @@ Seção 2
 
 Representação 
 
-Artigo 268-A. Têm legitimidade para representar ao Tribunal de Contas: (Incluído dada pela Resolução TCE/MA número 268, de 2017)
+Artigo 268-A. Têm legitimidade para representar ao Tribunal de Contas: 
 
 Inciso 1 - o Ministério Público Federal e Estadual;
 
@@ -2384,7 +2384,7 @@ Inciso 4 - Presidente de Comissão da Assembleia Legislativa ou de Câmara Munic
 
 Inciso 5 - Secretário de Estado ou autoridades do Poder Executivo Estadual de nível hierárquico equivalente. 
 
-Inciso 6 - (Revogado dada pela Resolução TCE/MA número 268, de 2017)
+Inciso 6 - REVOGADO
 
 Parágrafo 1º A consulta será apresentada somente por meio do sistema de consulta eletrônica, e-Consulta, devendo conter a indicação precisa do objeto, ser formulada articuladamente, conter indicação precisa da dúvida ou controvérsia suscitada e ser instruída com parecer do órgão de assistência técnica ou jurídica da autoridade consulente. 
 
@@ -2714,13 +2714,13 @@ Parágrafo 7º Para a apresentação de proposta de edição de ato normativo qu
 
 Parágrafo 8º Aplica-se à apresentação de proposta de projeto de lei, o disposto no Parágrafo 6º deste artigo.
 
-Artigo 310. Revogado
+Artigo 310. REVOGADO
 
-Parágrafo único. Revogado
+Parágrafo único. REVOGADO
 
-Artigo 311. Revogado
+Artigo 311. REVOGADO
 
-Parágrafo único. Revogado
+Parágrafo único. REVOGADO
 
 Artigo 312. As propostas de atos normativos poderão ser emendadas pelos Conselheiros dentro do prazo de até sete dias, contados da apresentação em Sessão Plenária pelo Presidente ou por outro legitimado pelo artigo 309 deste Regimento. 
 
@@ -2822,7 +2822,7 @@ Artigo 333. A inamovibilidade, garantia atribuída a Conselheiros e Auditores, r
 
 Artigo 334. Enquanto não for provido os cargos para o Ministério Público junto ao Tribunal, funcionarão perante esta Corte de Contas Procuradores de Justiça do Estado.
 
-Artigo 335. Revogado
+Artigo 335. REVOGADO
 
 Artigo 336 Os processos pendentes de julgamento em razão de pedidos de vista deverão ser devolvidos ao Relator dentre 60 (sessenta) dias, contados da publicação deste Regimento para reinclusão em pauta da sessão imediata.
 

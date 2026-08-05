@@ -36,7 +36,7 @@ Inciso 8 - Sistema de Cadastramento Unificado de Fornecedores - SICAF - ferramen
 
 Inciso 9 - Gestão de Atas - ferramenta informatizada, integrante do Compras.gov.br, disponibilizada pela Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos, para controle e gerenciamento dos quantitativos das atas de registro de preços e de seus saldos, e das solicitações de adesão e de remanejamento das quantidades; e
 
-Inciso 10 - SRP digital - ferramenta informatizada, integrante do Compras.gov.br, disponibilizada pela Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos, para o registro formal de preços relativos a prestação de serviços, obras e aquisição e locação de bens para contratações futuras, de que trata o inciso I.
+Inciso 10 - SRP digital - ferramenta informatizada, integrante do Compras.gov.br, disponibilizada pela Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos, para o registro formal de preços relativos a prestação de serviços, obras e aquisição e locação de bens para contratações futuras, de que trata o inciso 1.
 
 Adoção
 

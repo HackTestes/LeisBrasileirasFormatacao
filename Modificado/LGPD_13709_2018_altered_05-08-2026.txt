@@ -153,8 +153,8 @@ Inciso 9 - quando necessário para atender aos interesses legítimos do controla
 
 Inciso 10 - para a proteção do crédito, inclusive quanto ao disposto na legislação pertinente.
 
-Parágrafo 1º (Revogado).           
-Parágrafo 2º (Revogado).           
+Parágrafo 1º REVOGADO.           
+Parágrafo 2º REVOGADO.           
 Parágrafo 3º O tratamento de dados pessoais cujo acesso é público deve considerar a finalidade, a boa-fé e o interesse público que justificaram sua disponibilização.
 
 Parágrafo 4º É dispensada a exigência do consentimento previsto no caput deste artigo para os dados tornados manifestamente públicos pelo titular, resguardados os direitos do titular e os princípios previstos nesta Lei.
@@ -741,13 +741,13 @@ Artigo 55. (VETADO).
 
 Artigo 55-A. Fica criada a Agência Nacional de Proteção de Dados (ANPD), autarquia de natureza especial vinculada ao Ministério da Justiça e Segurança Pública, dotada de autonomia funcional, técnica, decisória, administrativa e financeira, com patrimônio próprio e com sede e foro no Distrito Federal, nos termos da Lei número 13.848, de 25 de junho de 2019.       
 
-Parágrafo 1º   Revogado
+Parágrafo 1º   REVOGADO
 
-Parágrafo 2º    Revogado
+Parágrafo 2º    REVOGADO
 
-Parágrafo 3º   Revogado
+Parágrafo 3º   REVOGADO
 
-Artigo 55-B. Revogado
+Artigo 55-B. REVOGADO
 
 Artigo 55-C. A ANPD é composta de:             
 
@@ -759,7 +759,7 @@ Inciso 3 - Corregedoria;
 
 Inciso 4 - Ouvidoria;               
 
-Inciso 5 - (revogado);        
+Inciso 5 - REVOGADO;        
 
 Inciso 5 -A - Procuradoria;       
 
